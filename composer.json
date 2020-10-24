@@ -1,0 +1,30 @@
+{
+  "name": "bobbyahines/jeffersonparishcodepdf",
+  "description": "A PDF to Text Extractor",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bobby A. Hines",
+      "email": "bobbyahines@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "BobbyAHines\\JeffersonParishCodePdf\\": "./src"
+    }
+  },
+  "require": {
+    "php": "^7.4.0",
+    "ext-json": "*",
+    "spatie/pdf-to-text": "^1.3"
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "./tests"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9"
+  }
+}
