@@ -7,7 +7,7 @@ use BobbyAHines\JeffersonParishCodePdf\FileHandler;
 require_once __DIR__ . '/vendor/autoload.php';
 
 $dir = scandir(__DIR__ . '/resources/pdf');
-unset($dir[0], $dir[1]);
+unset($dir[0], $dir[1], $dir[2]);
 
 if (count($dir) > 1) {
     echo 'FAILURE! More than one PDF is present in the pdf directory.';
@@ -19,11 +19,11 @@ if (count($dir) < 1) {
     echo PHP_EOL;
 }
 
-$fileName = $dir[2];
+$fileName = $dir[3];
 $filePath = __DIR__ . '/resources/pdf/' . $fileName;
 
-$fileHandler = new FileHandler($filePath);
-$fileContents = $fileHandler->savePdfAsText();
+$fileHandler = new FileHandler();
+$fileContents = $fileHandler->savePdfAsText($filePath);
 unset($fileHandler);
 
 echo PHP_EOL;
