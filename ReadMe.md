@@ -17,6 +17,11 @@ into the `./resources/pdf` directory. The, simply run the `convertPdfToTxt.php`
 
 ----
 
+### Export Converted Text File to Pages
+
+**In Docker:**  
+`docker run -it --rm -v $PWD:/srv bobbyahines/jpcp php exportPages.php`  
+
 ## Text Structure
 
 Document
