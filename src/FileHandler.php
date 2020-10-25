@@ -11,29 +11,24 @@ use Spatie\PdfToText\Pdf;
 
 class FileHandler
 {
-    protected string $pdfFilePath;
     protected string $txtFilePath;
 
-    /**
-     * FileHandler constructor.
-     * @param string $pdfFilePath
-     */
-    public function __construct(string $pdfFilePath)
+    public function __construct()
     {
-        $this->pdfFilePath = $pdfFilePath;
         $this->txtFilePath = dirname(__DIR__, 1) . '/resources/txt/plainTxtConversion.txt';
     }
 
     /**
      * Save the PDF resource as a Text file.
+     * @param string
      * @return bool
      */
-    public function savePdfAsText(): bool
+    public function savePdfAsText(string $pdfFilePath): bool
     {
         $pdfToText = new Pdf();
 
         try {
-            $pdfToText->setPdf($this->pdfFilePath);
+            $pdfToText->setPdf($pdfFilePath);
         } catch (PdfNotFound $exception) {
             echo $exception->getMessage();
         }
@@ -51,15 +46,31 @@ class FileHandler
         return true;
     }
 
-    /**
-     * Delete the PDF resource file.
-     * @return bool
-     */
-    public function deletePdfFile(): bool
+    public function ReadTextFile(): ?string
     {
         try {
-            unlink($this->pdfFilePath);
-            if (file_exists($this->pdfFilePath)) {
+            $fileContents = file_get_contents($this->txtFilePath);
+            if (!$fileContents) {
+                throw new ErrorException('Unable to load the text file. Does it exist?');
+            }
+            return $fileContents;
+        } catch (ErrorException $e) {
+            echo $e->getMessage();
+        }
+
+        return null;
+    }
+
+    /**
+     * Delete the PDF resource file.
+     * @param string
+     * @return bool
+     */
+    public function deletePdfFile(string $pdfFilePath): bool
+    {
+        try {
+            unlink($pdfFilePath);
+            if (file_exists($pdfFilePath)) {
                 throw new ErrorException('Failed to delete file.');
             }
             return true;
@@ -71,12 +82,13 @@ class FileHandler
 
     /**
      * Delete the Text resource file.
+     * @param string
      * @return bool
      */
-    public function deleteTextFile(): bool
+    public function deleteTextFile(string $txtFilePath): bool
     {
         try {
-            unlink($this->txtFilePath);
+            unlink($txtFilePath);
             if (file_exists($this->txtFilePath)) {
                 throw new ErrorException('Failed to delete file.');
             }
