@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Tests;
 
 
-class ExportPages extends \PHPUnit\Framework\TestCase
+class ExportPagesTest extends \PHPUnit\Framework\TestCase
 {
     public function testFileHandlerClassExists(): void
     {
