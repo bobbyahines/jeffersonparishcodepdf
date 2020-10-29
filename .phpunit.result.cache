@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":288:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:4:{s:49:"Tests\ExportPagesTest::testFileHandlerClassExists";d:0;s:54:"Tests\ExportStructuredTest::testFileHandlerClassExists";d:0;s:44:"Tests\ExportTest::testFileHandlerClassExists";d:0;s:49:"Tests\FileHandlerTest::testFileHandlerClassExists";d:0;}}}

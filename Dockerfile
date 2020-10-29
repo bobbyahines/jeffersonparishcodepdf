@@ -25,6 +25,10 @@ RUN apt-get install -y poppler-utils
 # Install composer and put binary into $PATH
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
 
+# Install phpunit, the tool that we will use for testing
+RUN curl --location --output /usr/local/bin/phpunit https://phar.phpunit.de/phpunit.phar && \
+    chmod +x /usr/local/bin/phpunit
+
 #############################################################
 ## PHP EXTENSIONS / LIBRARIES  ##############################
 #############################################################

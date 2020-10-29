@@ -7,7 +7,7 @@ namespace Tests;
 
 use Spatie\PdfToText\Pdf;
 
-class FileHandler extends \PHPUnit\Framework\TestCase
+class FileHandlerTest extends \PHPUnit\Framework\TestCase
 {
     public function testFileHandlerClassExists(): void
     {
