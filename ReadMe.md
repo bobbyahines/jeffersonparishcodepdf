@@ -1,31 +1,6 @@
-# Jefferson Parish Code PDF Extractor
-A small library for extracting PDF versions of the Jefferson Parish
-Code of Ordinances into structured and searchable strings.
-
-## Getting Started
-
-1. Load the PDF:  
-  Place your PDF version of the Jefferson Parish, LA Code of Ordinances into the 
-  `./resources/pdf` directory.
-   
-2. Build the Docker image:  
-  `docker build -f Dockerfile -t bobbyahines/jpcp` .  
-
-3. Covert the PDF to a TXT Resource:  
-  `docker run -it --rm -v $PWD:/srv bobbyahines/jpcp php convertPdfToTxt.php`  
-
-With the pdf converted to text, regular expressions become available for parsing.
-Several options are currently included:
-
-### exportPages.php
-Export Converted Text File to Pages: `php exportPages.php`
-
-**In Docker:**  
-`docker run -it --rm -v $PWD:/srv bobbyahines/jpcp php exportPages.php`  
-
-### exportCharterToMD.php  
+# Jefferson Parish Code PDF to Markdown Site
 Takes in the PDF Resource, and exports the Charter in Markdown, currently divided by Chapter. The intention is for use
- in a static site generator. The Markdown is informed by the document's natural structure:
+in a static site generator. The Markdown is informed by the document's natural structure:
 
 * The Charter                   (#)
   * Preamble                    (##)
@@ -37,6 +12,25 @@ Takes in the PDF Resource, and exports the Charter in Markdown, currently divide
       * Division (optional)                  (####)
         * Sec.                               (#####)
 
+## Getting Started
+
+1. Download this repository to your local development computer.
+
+2. Run composer install:
+  `docker run -it --rm -v $PWD:/app library/composer:latest install`
+
+3. Load the PDF:  
+  Place your PDF version of the Jefferson Parish, LA Code of Ordinances into the 
+  `./resources/pdf` directory.
+   
+4. Build the Docker image:  
+  `docker build -f Dockerfile -t bobbyahines/jpcp` .  
+
+5. Covert the PDF to a Markdown Resource:  
+  `docker run -it --rm -v $PWD:/srv bobbyahines/jpcp php run.php`  
+
+6. Host the static site:
+  `docker run -it --rm -v $PWD/docs:/docs -p "80:8000" squidfunk/mkdocs-material`
 
 ## Document Structure
 * Volume
@@ -60,9 +54,6 @@ Takes in the PDF Resource, and exports the Charter in Markdown, currently divide
     * Article [roman numerals] (optional)    (###)
       * Division (optional)                  (####)
         * Sec.                               (#####)
-
-**In Docker:**  
-`docker run -it --rm -v $PWD:/srv bobbyahines/jpcp php exportStructured.php`  
 
 ## Run Unit Tests
 
