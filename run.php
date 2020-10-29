@@ -70,14 +70,14 @@ $savePreambleAsIndexFile = file_put_contents($markdownDir . '/index.md', $charte
 $count = 0;
 foreach ($charter->chapters as $chapter) {
     ++$count;
-    $fileNumber = $count <= 10 ? '0' . $count : $count;
+    $fileNumber = $count < 10 ? '0' . $count : $count;
     $saveChapter = file_put_contents($markdownDir . '/chapter_' . $fileNumber . '.md', $chapter);
 }
 
 echo PHP_EOL;
 echo '===================================================================================' . PHP_EOL;
 echo ' PDF file\'s Charter section has been exported to basic markdown pages.' . PHP_EOL;
-echo ' These can now found @ ' . __DIR__ . '/exports/markdown/*.md' . PHP_EOL;
+echo ' These can now found @ ' . __DIR__ . '/docs/docs/*.md' . PHP_EOL;
 echo ' Completed: ' . date(DATE_ATOM) . PHP_EOL;
 echo '===================================================================================' . PHP_EOL;
 echo PHP_EOL;
