@@ -58,7 +58,7 @@ unset($fileHandler);
  * BUILD CHARTER DOCUMENT
  */
 
-$charter = new \BobbyAHines\JeffersonParishCodePdf\Structured\Charter($txtFileContents);
+$charter = new \BobbyAHines\JeffersonParishCodePdf\Charter($txtFileContents);
 unset($txtFileContents);
 
 /**
@@ -70,7 +70,7 @@ $savePreambleAsIndexFile = file_put_contents($markdownDir . '/index.md', $charte
 $count = 0;
 foreach ($charter->chapters as $chapter) {
     ++$count;
-    $fileNumber = $count >= 10 ? '0' . $count : $count;
+    $fileNumber = $count <= 10 ? '0' . $count : $count;
     $saveChapter = file_put_contents($markdownDir . '/chapter_' . $fileNumber . '.md', $chapter);
 }
 
