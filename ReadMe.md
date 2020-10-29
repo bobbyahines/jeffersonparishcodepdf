@@ -23,9 +23,22 @@ Export Converted Text File to Pages: `php exportPages.php`
 **In Docker:**  
 `docker run -it --rm -v $PWD:/srv bobbyahines/jpcp php exportPages.php`  
 
-### exportStructured.php  
-Export a structured group of text files informed by the document's natural structure:
+### exportCharterToMD.php  
+Takes in the PDF Resource, and exports the Charter in Markdown, currently divided by Chapter. The intention is for use
+ in a static site generator. The Markdown is informed by the document's natural structure:
 
+* The Charter                   (#)
+  * Preamble                    (##)
+    * Article [arabic numerals] (###)
+      * Division                (####)
+        * Section               (#####) 
+  * Chapter                                  (##)
+    * Article [roman numerals] (optional)    (###)
+      * Division (optional)                  (####)
+        * Sec.                               (#####)
+
+
+## Document Structure
 * Volume
 * Current Officials
 * Preface
