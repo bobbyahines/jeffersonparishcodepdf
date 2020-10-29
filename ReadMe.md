@@ -16,7 +16,7 @@ in a static site generator. The Markdown is informed by the document's natural s
 
 1. Download this repository to your local development computer.
 
-2. Run composer install:
+2. Run composer install:  
   `docker run -it --rm -v $PWD:/app library/composer:latest install`
 
 3. Load the PDF:  
@@ -29,7 +29,7 @@ in a static site generator. The Markdown is informed by the document's natural s
 5. Covert the PDF to a Markdown Resource:  
   `docker run -it --rm -v $PWD:/srv bobbyahines/jpcp php run.php`  
 
-6. Host the static site:
+6. Host the static site:  
   `docker run -it --rm -v $PWD/docs:/docs -p "80:8000" squidfunk/mkdocs-material`
 
 ## Document Structure
@@ -57,7 +57,6 @@ in a static site generator. The Markdown is informed by the document's natural s
 
 ## Run Unit Tests
 
-Unit tests are present in the `tests/` folder. Currently they are just scaffolding.
+Unit tests are present in the `tests/` folder. Currently they are just scaffolding:  
 
-**In Docker:**
 `docker run -it --rm -v $PWD:/srv bobbyahines/jpcp phpunit`
