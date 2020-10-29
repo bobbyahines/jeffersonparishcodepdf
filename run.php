@@ -64,7 +64,7 @@ unset($txtFileContents);
 /**
  * WRITE MARKDOWN FILES
  */
-$markdownDir = __DIR__ . '/exports/markdown';
+$markdownDir = __DIR__ . '/docs/docs';
 $savePreambleAsIndexFile = file_put_contents($markdownDir . '/index.md', $charter->preamble);
 
 $count = 0;
