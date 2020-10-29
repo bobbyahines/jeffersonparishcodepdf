@@ -13,6 +13,9 @@ class FileHandler
 {
     protected string $txtFilePath;
 
+    /**
+     * FileHandler constructor.
+     */
     public function __construct()
     {
         $this->txtFilePath = dirname(__DIR__, 1) . '/resources/txt/plainTxtConversion.txt';
@@ -46,6 +49,31 @@ class FileHandler
         return true;
     }
 
+    /**
+     * @param string $text
+     * @return string
+     */
+    private function removeHeaders(string $text): string
+    {
+        $regExPattern = '/(([0-9]{1,2}\/){1,2}[0-9]{4})\s*(Jefferson Parish, LA Code of Ordinances)\s/';
+
+        return preg_replace($regExPattern, '', $text);
+    }
+
+    /**
+     * @param string $text
+     * @return string
+     */
+    private function removeFooters(string $text): string
+    {
+        $regExPattern = '/(\d{1,4}\/\d{1,4}){1}\s*(___ENDOFPAGE___)\s*/';
+
+        return preg_replace($regExPattern, '', $text);
+    }
+
+    /**
+     * @return string|null
+     */
     public function ReadTextFile(): ?string
     {
         try {
@@ -53,7 +81,13 @@ class FileHandler
             if (!$fileContents) {
                 throw new ErrorException('Unable to load the text file. Does it exist?');
             }
-            return $fileContents;
+
+            $noHeaders = $this->removeHeaders($fileContents);
+            $asciiEndOfFile = "\x0C";
+            $changeFormFeedToString = str_replace($asciiEndOfFile, '___ENDOFPAGE___', $noHeaders);
+            unset($noHeaders);
+
+            return $this->removeFooters($changeFormFeedToString);
         } catch (ErrorException $e) {
             echo $e->getMessage();
         }
