@@ -108,9 +108,12 @@ class Charter
         foreach ($explodeOnChapterTitles as $chapter) {
             $chNmbrRegEx = '/((\d*)(\.\d*)?)\s-\s/';
             $chNumberSearch = preg_match($chNmbrRegEx, $chapter, $matches);
+            $chNumberContainsDot = strpos($matches[1], '.');
+            $match = $chNumberContainsDot !== false ? $matches[1] : $matches[1] . '.0';
             $chapters[] = [
 //                'number' => str_replace(".", '_', $matches[1]),
-                'number' => $matches[1],
+//                'number' => str_replace(".", '-', $matches[1]),
+                'number' => $match,
                 'text' => '## Chapter ' . $chapter,
             ];
             unset($chNumberSearch, $matches);
