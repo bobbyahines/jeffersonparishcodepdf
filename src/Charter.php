@@ -109,7 +109,8 @@ class Charter
             $chNmbrRegEx = '/((\d*)(\.\d*)?)\s-\s/';
             $chNumberSearch = preg_match($chNmbrRegEx, $chapter, $matches);
             $chapters[] = [
-                'number' => str_replace(".", '_', $matches[1]),
+//                'number' => str_replace(".", '_', $matches[1]),
+                'number' => $matches[1],
                 'text' => '## Chapter ' . $chapter,
             ];
             unset($chNumberSearch, $matches);
