@@ -1,3 +1,7 @@
 site_name: Jefferson Parish Code Search
+repo_url: https://github.com/bobbyahines/jeffersonparishcodepdf
+repo_name: jeffersonparishcodepdf
+site_description: Markdown version of Jefferson Parish LA Code of Ordinances
+site_author: Bobby Hines
 theme:
   name: material

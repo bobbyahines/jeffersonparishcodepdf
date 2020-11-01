@@ -74,12 +74,18 @@ class Charter
         $charterText = '# THE CHARTER  ' . PHP_EOL . PHP_EOL . '## PREAMBLE  ' . PHP_EOL . PHP_EOL . $charterTextWithNoTitle;
         unset($regExPattern, $searchPattern, $explodeOnFind, $charterTextWithNoTitle);
 
-        $addPreambleArticleTitles = $this->titleAllPreambleArticles($charterText); unset($charterText);
-        $addPreambleSectionTitles = $this->titleAllPreambleSections($addPreambleArticleTitles); unset($addPreambleArticleTitles);
-        $addChapterTitles = $this->titleAllChapters($addPreambleSectionTitles); unset($addPreambleSectionTitles);
-        $addChapterArticleTitles = $this->titleAllChapterArticles($addChapterTitles); unset($addChapterTitles);
-        $addChapterDivisionTitles = $this->titleAllChapterDivisions($addChapterArticleTitles); unset($addChapterArticleTitles);
-        $addChapterSectionTitles = $this->titleAllChapterSections($addChapterDivisionTitles); unset($addChapterDivisionTitles);
+        $addPreambleArticleTitles = $this->titleAllPreambleArticles($charterText);
+        unset($charterText);
+        $addPreambleSectionTitles = $this->titleAllPreambleSections($addPreambleArticleTitles);
+        unset($addPreambleArticleTitles);
+        $addChapterTitles = $this->titleAllChapters($addPreambleSectionTitles);
+        unset($addPreambleSectionTitles);
+        $addChapterArticleTitles = $this->titleAllChapterArticles($addChapterTitles);
+        unset($addChapterTitles);
+        $addChapterDivisionTitles = $this->titleAllChapterDivisions($addChapterArticleTitles);
+        unset($addChapterArticleTitles);
+        $addChapterSectionTitles = $this->titleAllChapterSections($addChapterDivisionTitles);
+        unset($addChapterDivisionTitles);
 
         return $addChapterSectionTitles;
     }
@@ -100,7 +106,13 @@ class Charter
 
         $chapters = [];
         foreach ($explodeOnChapterTitles as $chapter) {
-            $chapters[] = '## Chapter ' . $chapter;
+            $chNmbrRegEx = '/((\d*)(\.\d*)?)\s-\s/';
+            $chNumberSearch = preg_match($chNmbrRegEx, $chapter, $matches);
+            $chapters[] = [
+                'number' => str_replace(".", '_', $matches[1]),
+                'text' => '## Chapter ' . $chapter,
+            ];
+            unset($chNumberSearch, $matches);
         }
         unset($explodeOnChapterTitles);
 

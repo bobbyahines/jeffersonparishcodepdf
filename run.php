@@ -67,11 +67,8 @@ unset($txtFileContents);
 $markdownDir = __DIR__ . '/docs/docs';
 $savePreambleAsIndexFile = file_put_contents($markdownDir . '/index.md', $charter->preamble);
 
-$count = 0;
 foreach ($charter->chapters as $chapter) {
-    ++$count;
-    $fileNumber = $count < 10 ? '0' . $count : $count;
-    $saveChapter = file_put_contents($markdownDir . '/chapter_' . $fileNumber . '.md', $chapter);
+    $saveChapter = file_put_contents($markdownDir . '/chapter_' . $chapter['number'] . '.md', $chapter['text']);
 }
 
 echo PHP_EOL;
