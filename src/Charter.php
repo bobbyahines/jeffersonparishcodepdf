@@ -112,8 +112,8 @@ class Charter
             $match = $chNumberContainsDot !== false ? $matches[1] : $matches[1] . '.0';
             $chapters[] = [
 //                'number' => str_replace(".", '_', $matches[1]),
-//                'number' => str_replace(".", '-', $matches[1]),
-                'number' => $match,
+                'number' => str_replace(".", '-', $match),
+//                'number' => $match,
                 'text' => '## Chapter ' . $chapter,
             ];
             unset($chNumberSearch, $matches);
