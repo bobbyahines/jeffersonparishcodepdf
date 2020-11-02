@@ -60,12 +60,14 @@ class Charter
     private function titleAllChapterSections(string $text): string
     {
         $levelFiveHeader = '##### ';
-        $regExPattern = '/((Sec\.\s\d+\.\d*-\d*\.)(\s-\s)(.+?\.))|((Sec\.\s\d+-\d*\.)(\s-\s)(.+?\.))/';
+        $regExPattern = '/((Sec\.\s\d+\.\d*-\d*\.)(\s-\s)(.+?\.))/';
         $replacementOne = preg_replace($regExPattern, $levelFiveHeader . '${1}' . '  ' . PHP_EOL, $text);;
 
-        $regExPatternTwo = '/((Sec\.\s\d+-\d+\.\d+\.)(\s-\s)(.+?\.))/';
+        $regExPatternTwo = '/((Sec\.\s\d+-\d*\.)(\s-\s)(.+?\.))/';
+        $replacementTwo =  preg_replace($regExPatternTwo, $levelFiveHeader . '${1}' . '  ' . PHP_EOL, $replacementOne);
 
-        return preg_replace($regExPatternTwo, $levelFiveHeader . '${1}' . '  ' . PHP_EOL, $replacementOne);
+        $regExPatternThree = '/((Sec\.\s\d+-\d+\.\d+\.)(\s-\s)(.+?\.))/';
+        return preg_replace($regExPatternThree, $levelFiveHeader . '${1}' . '  ' . PHP_EOL, $replacementTwo);
     }
 
     private function charterTextOnly(string $documentText): string

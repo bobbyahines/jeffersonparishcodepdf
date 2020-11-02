@@ -57,7 +57,7 @@ contractor, after which another inspection of the repaired work is required.
 Cost of inspection. The cost of all inspections provided in this section shall be borne by the contractor and/or
 owner prior to the line being accepted by the parish.
 (Code 1961, § 17-18.1)
-#####   
+##### Sec. 27-17. - Reserved.  
 
 Editor's note— Ord. No. 18421, § 1, adopted December 4, 1991, and Ord. No. 18457, § 1, adopted February 5,
 1992, both repealed § 27-17. Former § 27-17, concerning the cost of new house connection installations, derived
@@ -71,7 +71,7 @@ concerning sewerage districts. Former Div.2 derived from Ch. 17 of the Code of 1
 adopted October 19, 1983.
 Cross reference— Governing body and domicile of special districts, § 2-19; taxation, Ch. 35.
 State Law reference— Sewerage districts, R.S. 33:3881 et seq.
-#####   
+##### Sec. 27-29. - Consolidated Sewerage District No.  
  1.
 (a)
 Created. A consolidated sewerage district is hereby created within the Parish of Jefferson, Louisiana, to be
@@ -117,7 +117,7 @@ Louisiana.
 Editor's note— Ord. No. 18420, §§ 1—5, adopted December 4, 1991, did not specifically amend the Code;
 therefore, inclusion as § 27-29 was at the discretion of the editor. See editor's note to Div. 2 concerning former
 provisions.
-#####   
+##### Sec. 27-30. - Lafitte Area Wide Sewerage Service Area.  
 
 (a)
 The Jefferson Parish Council herein defines the Lafitte Area Wide Sewerage Service Area within Consolidated
@@ -216,7 +216,7 @@ ordinance if the fee would have been subject to waiver had this ordinance been e
 investment fee was assessed; said refund shall be processed automatically by the department to the payer of the
 fee by U.S. mail, properly addressed with postage prepaid, within sixty (60) days of the effective date of this
 ordinance."
-#####   
+##### Sec. 27-47. - Established.  
 
 There is hereby established a sewer availability (plant investment) fee, a user service charge, and a sewer usage
 (volume) charge for the use of the sanitary sewerage system by all residences, apartment houses, multiple-family
@@ -227,7 +227,7 @@ change in the Consumer Price Index. Usage and service rates are published in the
 Parish and in the Progressive Jefferson, the publication ordinarily accompanying the water bills themselves.
 (Code 1961, § 17-45.15.1(a); Ord. No. 15322, § 1(a), 10-20-82; Ord. No. 19235, 11-16-94; Ord. No. 21029, § 2,
 7-26-00; Ord. No. 21297, § 3, 6-6-01)
-#####   
+##### Sec. 27-48. - Calculated.  
 
 (a)
 Plant investment fees. For new sewerage customer accounts as defined in section 27-47, applied for after June
@@ -301,7 +301,7 @@ derived from Section 27-48(b) of the Code of Ordinances, volume rate charge, is 
 every 1,000 gallons of water consumption which exceeds the prescribed minimum usage charge, with $0.30
 increases taking effect on December 31, 2010 and on December 31, 2011. Under this measure, the minimum
 usage charges will not change."
-#####   
+##### Sec. 27-49. - Due and payable.  
 
 (a)
 The fees in section 27-48(b) and (c) are due and payable on a bimonthly basis and shall appear as separate items
@@ -313,13 +313,13 @@ Guidelines for the collection and administration of the fees in section 27-48(a)
 department of sewerage.
 (Code 1961, § 17-45.15.1(c); Ord. No. 15322, § 1(e), 10-20-82; Ord. No. 19235, 11-16-94; Ord. No. 21029, § 4,
 7-26-00)
-#####   
+##### Sec. 27-50. - Use.  
 
 Fees under this division shall be used for operation, maintenance and capital improvement of sewerage facilities
 in the Jefferson Parish Consolidated Sewerage District No. 1.
 (Code 1961, § 17-45.1(d); Ord. No. 15322, § 1(f), 10-20-82; Ord. No. 18421, § 2, 12-4-91; Ord. No. 18457, § 2,
 2-5-92)
-#####   
+##### Sec. 27-51. - Adjustment of charges.  
 
 (a)
 A parish utility consumer is entitled to have the water and sewer charges adjusted no more than once in a twelvemonth period as outlined in the following:
@@ -366,7 +366,7 @@ decision directly to the Jefferson Parish Council. In such cases, the decision o
 adjustment of the utility bill shall be final.
 (Code 1961, § 17-45.15.1(e)—(h); Ord. No. 15322, § 1(g)—(i), 10-20-82; Ord. No. 17271, §§ 2—5, 6-10-87;
 Ord. No. 18421, § 2, 12-4-91; Ord. No. 18457, § 2, 2-5-92; Ord. No. 22749, § 1, 5-3-06)
-#####   
+##### Sec. 27-52. - Power of enforcement and other authority and requirements.  
 
 The directors of the parish department of water and sewerage are hereby empowered, authorized and directed to
 implement the aforesaid policy effective the date this division is adopted in accordance with the method herein
@@ -431,7 +431,7 @@ which may be hereafter adopted concerning the connection of premises to the sewe
 Editor's note— In amending §§ 1 and 2 of Ord. No. 13374, codified as § 17-45.15.1 of the 1961 Code, § 1 of
 Ord. No. 15322 did not reenact subsection (i) of 17-45.15.1 as it pertained to the power of the director to enforce
 the division. However, § 6 of Ord. No. 17271, adopted June 10, 1987, reinstated the provisions.
-#####   
+##### Sec. 27-53. - Sewer lines and lift stations.  
 
 (a)
 In the event there is no sewer line fronting the property, it will be the responsibility of the owner/developer to
@@ -450,7 +450,7 @@ other applicable sewer fees.
 (c)
 Any sewer line inside the private property line will be maintained by the property owner.
 (Ord. No. 21029, § 5, 7-26-00)
-#####   
+##### Sec. 27-54. - Fees associated with low pressure sewerage systems.  
 
 It is hereby established that lots located in Jefferson Parish may be operated on low pressure sewer systems if
 built to parish standards, provided all minimum criteria for these systems are met and approval of the director of
@@ -468,19 +468,19 @@ Footnotes:
 --- (5) --Cross reference— Department of drainage, § 2-256 et seq.; citizens' drainage advisory board, § 2-571 et seq.
 State Law reference— Drains and drainage generally, R.S. 38:111—38:225.
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 27-69. - Approval required for drainage sites and work.  
 
 Before beginning any type of activity within a drainage canal/ditch, on the bank of a drainage canal/ditch, or
 within a drainage servitude, a person, organization, contractor or other entity must obtain a permit from the
 drainage department.
 (Code 1961, § 17-1; Ord. No. 21210, 2-14-01)
-#####   
+##### Sec. 27-70. - Approval required for culvert sizes and work.  
 
 Culvert sizes under driveways must be approved by the director of the department of drainage. All grade stakes
 and location for the installation of the culverts are to be established by the department of drainage and the work
 subject to the approval of the director.
 (Code 1961, § 17-2)
-#####   
+##### Sec. 27-71. - Obstructions to drainage (canals) prohibited.  
 
 (a)
 It shall be unlawful to dump or place material of any type into parish catch basins, in a canal/ditch, on the banks
@@ -491,7 +491,7 @@ drainage canal/ditch or in a drainage servitude without a permit.
 (Code 1961, § 17-3; Ord. No. 21210, 2-14-01)
 State Law reference— Prohibiting interference with drainage, R.S. 38:214; obstruction of drainage, R.S.
 38:215; obstruction of drainage channels, R.S. 38:219.
-#####   
+##### Sec. 27-72. - Approval required for potential obstructions to drainage.  
 
 Any person, organization, contractor or other entity may submit a written application to the director of the
 drainage department requesting permission to place material, or construct/place improvements, in a drainage
@@ -500,7 +500,7 @@ drainage can deny the application. If the director of the drainage department ap
 director of the department of engineering must concur with the approval.
 (Code 1961, § 17-4; Ord. No. 21210, 2-14-01)
 State Law reference— Division of natural drain prohibited, R.S. 38:218.
-#####   
+##### Sec. 27-73. - Distance of canals and ditches from property line; distance from structures.  
 
 (a)
 Definitions. The following words and phrases, when used in this section, shall have the meanings respectively
@@ -548,7 +548,7 @@ Footnotes:
 --- (6) --Charter reference— Authority to establish drainage districts, § 2.01(A)(7).
 Cross reference— Governing body and domicile of special districts, § 2-19; taxation, Ch. 35.
 State Law reference— Drainage districts, R.S. 38:1481 et seq.
-#####   
+##### Sec. 27-85. - Consolidated Drainage District No.  
  2.
 (a)
 Creation There is hereby created the Consolidated Drainage District No. 2 of the Parish of Jefferson, State of
@@ -615,7 +615,7 @@ Secs. 27-93—27-103. - Reserved.
 #### DIVISION 3. - MOSQUITO CONTROL
 Footnotes:
 --- (7) --State Law reference— Mosquito abatement districts, R.S. 33:7721 et seq.
-#####   
+##### Sec. 27-104. - Service charges—Amount; adjustment; collection.  
 
 (a)
 There is hereby established a system of charges for the operation of mosquito control program by the parish. The
@@ -641,7 +641,7 @@ chairman of the council, or in his absence, the vice-chairman, is authorized to 
 municipalities for the collection of the service charge on their regular water bills.
 (Code 1961, § 17-93; Ord. No. 17684, 2-15-89; Ord. No. 21029, § 6, 7-26-00; Ord. No. 23183, § 4, 11-14-07;
 Ord. No. 21297, § 5, 6-6-01; Ord. No. 23465, § 1, 1-14-09)
-#####   
+##### Sec. 27-105. - Same—Delinquent charges; suit after thirty-one days.  
 
 
 All service charges under this division shall be delinquent if not paid thirty-one (31) days after receipt of the
@@ -657,7 +657,7 @@ Footnotes:
 --- (8) --Editor's note— Ord. No. 21727, § 1, adopted Dec. 11, 2002, amended §§ 27-106—27-114 by designating said
 sections as div. 3.5, and amending text of the sections as well. Prior to inclusion of Ord. No. 21727, §§ 27-106—
 27-114, were included in div. 3, Mosquito Control. See the Code Comparative Table.
-#####   
+##### Sec. 27-106. - Definitions.  
 
 For the purposes of this division, the following terms shall have the following meanings:
 Abate means to take measures to control mosquito breeding.
@@ -676,7 +676,7 @@ Tire means a continuous covering for the wheel of a vehicle usually made of rubb
 nylon, fiberglass or other material.
 Vegetative plant means any growing plant.
 (Ord. No. 21727, § 1, 12-11-02)
-#####   
+##### Sec. 27-107. - Prohibition of nuisance, investigation and abatement procedures.  
 
 (a)
 
@@ -703,7 +703,7 @@ proprietary party, his representative or any person acting in concert with him o
 abate an artificially induced mosquito breeding area may be enjoined as provided by law, including but not
 limited to, the injunctive relief or order of abatement provided for in this division.
 (Ord. No. 21727, § 1, 12-11-02)
-#####   
+##### Sec. 27-108. - Order of abatement.  
 
 The issuance of an injunction or order of abatement pursuant to this division may be petitioned by the following:
 (1)
@@ -711,7 +711,7 @@ The Parish of Jefferson, or any proper officer thereof or, the duly authorized r
 (2)
 Any owner of adjacent or neighboring property who is especially damaged by such a violation.
 (Ord. No. 21727, § 1, 12-11-02)
-#####   
+##### Sec. 27-109. - Injunctive relief; judicial order.  
 
 (a)
 Application for injunctive relief or judicial order of abatement afforded by this division shall be by petition to a
@@ -724,7 +724,7 @@ or by imprisonment in the parish prison for a period of not less than twenty-fou
 (30) days or both fine and imprisonment. On conviction for a second or subsequent contempt the offender shall
 be punished by both fine and imprisonment, without benefit of probation or suspension of sentence.
 (Ord. No. 21727, § 1, 12-11-02)
-#####   
+##### Sec. 27-110. - Enforcement procedures.  
 
 Whenever an enforcement officer determines that a site is an artificially induced mosquito breeding area, the
 enforcement officer is authorized to give, or cause to be given, to the responsible party notice by personal
@@ -779,24 +779,24 @@ with section 21 [section 27-114] of the Jefferson Parish Code of Ordinances, and
 Jefferson Parish Department of Environmental Affairs the cost of abating the artificially induced mosquito
 breeding as performed and defined herein.
 (Ord. No. 21727, § 1, 12-11-02)
-#####   
+##### Sec. 27-111. - Exemption for wetlands.  
 
 The provisions of this division are not applicable to wetlands designated as such by the U.S. Environmental
 Protection Agency with the exception that the provisions of this division shall be applicable to any artificially
 induced mosquito breeding area or artificial container which may be found on or which may be located on such
 wetlands.
 (Ord. No. 21727, § 1, 12-11-02)
-#####   
+##### Sec. 27-112. - Tire storage.  
 
 All persons who engage in the manufacture, distribution, sale or storage of new, used or waste tires, including,
 but not limited to, automobile, truck, tractor, trailer, motorcycle or airplane tires, shall store or treat all tires in a
 manner which will prevent an artificially induced mosquito breeding area.
 (Ord. No. 21727, § 1, 12-11-02)
-#####   
+##### Sec. 27-113. - Records.  
 
 The parish shall keep complete records relating to the amount payable for liens as described in this division.
 (Ord. No. 21727, § 1, 12-11-02)
-#####   
+##### Sec. 27-114. - Penalty for violation.  
 
 If any person shall fail or refuse to obey or comply with, or violate any of the provisions of this division, or any
 lawful order of the enforcement officer, issued or rendered under [or] pursuant to the provisions of this section,
@@ -813,7 +813,7 @@ Footnotes:
 enforcement of Code § 19-19.
 State Law reference— Authority to compel property owners in improved areas to raise properties to curb
 grade, R.S. 33:1236(50).
-#####   
+##### Sec. 27-117. - Definition.  
 
 For the purposes of this division, "improved area" shall be any area surrounded by streets, boundaries, dedicated
 streets, natural boundaries and/or subdivision boundaries, or any lot or lots which side on or are adjacent to such
@@ -829,12 +829,12 @@ result thereof, is considered by the department of drainage and sewerage to be a
 property owners, the public in general, or is an attractive nuisance to children upon the property.
 (Code 1961, § 9-8; Ord. No. 15229, § 1, 7-28-82)
 Cross reference— Definition and rules of construction generally, § 1-2.
-#####   
+##### Sec. 27-118. - Authority.  
 
 The parish or its duly authorized representative shall have the authority to compel property owners to fill their
 property to curb grade in improved areas upon adoption of a resolution by the parish council.
 (Code 1961, § 9-8; Ord. No. 15229, § 1, 7-28-82)
-#####   
+##### Sec. 27-119. - Notice.  
 
 The parish shall give the property owners or their agents due notice by registered or certified mail or personal
 service that their property has been inspected and it has been found to be below grade. Such notice shall also
@@ -842,7 +842,7 @@ include the estimated cost of the work which must be done to bring the property 
 notify the property owners are not successful, the parish shall place said notice in the official parish journal, the
 placing of which shall be deemed sufficient notice to the owner.
 (Code 1961, § 9-8)
-#####   
+##### Sec. 27-120. - Hearing.  
 
 The notice shall inform the property owner that he must show cause at a meeting of the parish council why the
 property in question should not be raised to curb grade. The date of the meeting shall be specified in the notice
@@ -852,7 +852,7 @@ owner that if no objection is raised at the meeting, or if, after a hearing of t
 the property should be raised, the property owner shall be given fourteen (14) days to perform the necessary
 work at his own expense.
 (Code 1961, § 9-8; Ord. No. 15542, § 1, 5-4-83)
-#####   
+##### Sec. 27-121. - Procedure on noncompliance.  
 
 (a)
 lf the required work is not completed within fourteen (14) days of the hearing, the parish may proceed to have
@@ -867,14 +867,14 @@ enforcement of this section, evidence of the presence of a situation causing imm
 property owners, the public in general, or creating an attractive nuisance to children upon the property. All other
 provisions contained in the section not contrary to this subsection shall be applicable.
 (Code 1961, § 9-8; Ord. No. 15542, § 1, 5-4-83; Ord. No. 15586, § 1, 6-15-83)
-#####   
+##### Sec. 27-122. - Liens.  
 
 The parish shall assess liens against the property where the property owners have refused after due notice, to fill
 their property and the parish has filled the property, such liens to be in an amount equal to the amount necessary
 to defray the cost of filling the property plus legal interest and fifteen (15) percent attorney fees for the cost of
 collection thereof.
 (Code 1961, § 9-8)
-#####   
+##### Sec. 27-123. - Record of assessment.  
 
 A certified copy of the assessment shall be filed with the clerk of court of the parish who shall forthwith record
 the same in the mortgage records of the parish. Such assessment so filed and recorded shall operate as a lien and
@@ -882,7 +882,7 @@ privilege against the property therein assessed, which lien and privilege shall 
 ordinance in the mortgage records of said parish and shall prime all other claims, mortgages and liens, except
 taxes and prior recorded assessment liens.
 (Code 1961, § 9-8)
-#####   
+##### Sec. 27-124. - Proceedings to enforce assessment ordinance.  
 
 If the owner of the property fails to pay the amount due under the local or special assessment ordinance within
 thirty (30) days from the date of publication of such ordinance after its final adoption, the council may authorize
@@ -890,7 +890,7 @@ an action either in rem against the property or in personam against the owner or
 total amount due, including interest, plus an additional sum equivalent to fifteen (15) percent of the principal and
 interest due as attorney's fees.
 (Code 1961, § 9-8)
-#####   
+##### Sec. 27-125. - Limitation on actions protesting validity.  
 
 No contest, action or proceeding to question the validity or legality of any resolution, ordinance, notice or other
 proceeding adopted or published in accordance with the foregoing shall be begun in any court by any person for
@@ -899,7 +899,7 @@ or proceeding was adopted or published and thereafter, the legality and validity
 notice or proceeding shall be inclusively presumed and no court shall thereafter have authority to inquire into
 such matter.
 (Code 1961, § 9-8)
-#####   
+##### Sec. 27-126. - Adding charges to ad valorem tax bill; collection charge.  
 
 (a)
 In addition to any other provisions regarding collection of costs for work performed pursuant to this chapter
@@ -919,12 +919,12 @@ which former §§ 27-142—27-151 derived; and §§ 1—10 of Ord. No. 18587 hav
 Cross reference— Department of drainage, § 2-256 et seq.; department of sewerage, 2-271 et seq.; citizens'
 drainage advisory board, § 2-571 et seq.
 #### DIVISION 1. - SEWAGE DISPOSAL
-#####   
+##### Sec. 27-142. - Short title.  
 
 This division may be cited as the Jefferson Parish Sewerage Disposal Law.
 (Ord. No. 18587, § 1, 9-2-92)
 #### DIVISION 1.1. - INDUSTRIAL PRETREATMENT REGULATIONS
-#####   
+##### Sec. 27-143. - Definitions.  
 
 The definitions in this subdivision are applicable to the entire division. Unless the context specifically indicates
 otherwise, the following terms shall be defined as follows:
@@ -1131,7 +1131,7 @@ Other terms. Terms not otherwise defined herein shall be as adopted in the lates
 for the Examination of Water and Wastewater," published by the American Public Health Association, the
 American Water Works Association and the Water Pollution Control Federation.
 (Ord. No. 18587, § 2, 9-2-92; Ord. No. 19235, 11-16-94; Ord. No. 21559, 4-24-02; Ord. No. 24196, § 1, 1-2511)
-#####   
+##### Sec. 27-144. - Basic requirements.  
 
 (a)
 Unlawful discharge. Except as in compliance with this division, the discharge of any wastewater into the
@@ -1185,7 +1185,7 @@ Report of discharge violations. The director shall report to appropriate parish,
 detected violations regarding disposal of harmful and dangerous waste materials into the sanitary sewerage
 system.
 (Ord. No. 18587, § 3, 9-2-92; Ord. No. 24196, § 2, 1-25-11)
-#####   
+##### Sec. 27-145. - Building sewers and connections.  
 
 (a)
 Scope of permit requirements. No unauthorized person shall uncover, make any connections with or opening
@@ -1236,7 +1236,7 @@ adequately guarded with barricades and lights to protect the public from hazards
 and other public property disturbed in the course of the work shall be restored in a manner satisfactory to the
 parish. The applicant shall indemnify the parish and defend all claims in connection therewith.
 (Ord. No. 18587, § 4, 9-2-92)
-#####   
+##### Sec. 27-146. - Prohibitions and limitations on discharges into the sanitary sewerage system.  
 
 (a)
 Policy statement.
@@ -1425,7 +1425,7 @@ the permit issued to the discharger pursuant to section 27-148.
 (e), (f) [Reserved.]
 (Ord. No. 18587, § 5, 9-2-92; Ord. No. 19235, 11-16-94; Ord. No. 21559, 4-24-02; Ord. No. 22046, 11-5-03;
 Ord. No. 24196, § 3, 1-25-11)
-#####   
+##### Sec. 27-147. - Pretreatment.  
 
 (a)
 Pretreatment of waste prior to discharge may be required by the director pursuant to section 27-150(a)(3), or by
@@ -1461,7 +1461,7 @@ Reports and records of operation and maintenance pretreatment certification and 
 by the person responsible for the quantity and quality of the discharge to the POTW. All reports and records
 must be retained for a minimum of three (3) years.
 (Ord. No. 18587, § 6, 9-2-92; Ord. No. 21559, 4-24-02; Ord. No. 24196, § 4, 1-25-11)
-#####   
+##### Sec. 27-148. - Permits for industrial waste discharge.  
 
 (a)
 Permits required.
@@ -1550,7 +1550,7 @@ Violation of conditions of the permit.
 Violation of permit. Violation of a permit issued pursuant to this section shall be deemed a violation of this
 division.
 (Ord. No. 18587, § 7, 9-2-92; Ord. No. 24196, § 5, 1-25-11)
-#####   
+##### Sec. 27-149. - Monitoring and reporting.  
 
 (a)
 Reports. The following types of reports may be required to be submitted depending on the type of industrial user
@@ -1725,7 +1725,7 @@ activities are required by this section) and shall make such records available f
 director. This period of retention shall be extended during the course of an unresolved litigation regarding the
 industrial user or POTW or when requested by the director.
 (Ord. No. 18587, § 8, 9-2-92; Ord. No. 19235, 11-16-94; Ord. No. 24196, § 6, 1-25-11)
-#####   
+##### Sec. 27-150. - Control of prohibited wastes; powers and duties of director.  
 
 (a)
 Regulatory actions: If wastewater is discharged or proposed to be discharged in violation of this division, the
@@ -1828,7 +1828,7 @@ regulations.
 The parish may require the submission of a slug or spill control and countermeasure plan for those industrial
 users who may cause or have caused problems to the POTW with slug discharges or spills.
 (Ord. No. 18587, § 9, 9-2-92; Ord. No. 20921, § 8, 3-15-00; Ord. No. 24196, § 7, 1-25-11)
-#####   
+##### Sec. 27-151. - Enforcement.  
 
 (a)
 Public participation requirements of 40 CFR Part 25 in CFR in the enforcement of pretreatment standards. In
@@ -1955,7 +1955,7 @@ These penalties are in addition to the other penalties provided by this division
 or supersede the penalties provided by state and federal law.
 (Ord. No. 18587, § 10, 9-2-92; Ord. No. 24196, § 8, 1-25-11)
 #### DIVISION 1.2. - THE JEFFERSON PARISH INDUSTRIAL SEWER USER FEE LAW
-#####   
+##### Sec. 27-152. - Pretreatment provisions for food service operations.  
 
 All food service operations shall install, at their own expense, a grease control device of the size and type
 specified by the director of code enforcement as required. Compliance with this section will be required by the
@@ -2049,7 +2049,7 @@ c.
 None of the penalties listed in section 27-152 exclude or supersede the penalties provided by state and federal
 law.
 (Ord. No. 21559, 4-24-02)
-#####   
+##### Sec. 27-153. - Established.  
 
 There is hereby established the following charges for the use of the sanitary sewerage system by industrial users
 as defined in section 27-143. These charges are defined and assessed according to the schedules contained
@@ -2265,7 +2265,7 @@ the costs incurred in clearing blockages caused by fats, oil or grease in the se
 last twelve-month period.
 (Ord. No. 18867, §§ 1, 2, 9-15-93; Ord. No. 19235, 11-16-94; Ord. No. 21439, § 10, 11-14-01; Ord. No. 21559,
 4-24-02)
-#####   
+##### Sec. 27-154. - Sampling and analysis.  
 
 (a)
 Assessment of ESC may be made on the basis of either instantaneous grab samples or composite samples of
@@ -2298,7 +2298,7 @@ results may be used to modify the ESC in order to reflect prevailing conditions.
 exceedance of any local limit, the director may require the facility to take whatever action is deemed necessary
 to bring the facility into compliance.
 (Ord. No. 19235, 11-16-94; Ord. No. 20921, § 10, 3-15-00; Ord. No. 21559, 4-24-02)
-#####   
+##### Sec. 27-155. - Claims for credit; assessed fees.  
 
 (a)
 Claims for credit or charges for any verified product usage shall be made within one (1) year from the date the
@@ -2316,7 +2316,7 @@ other charge.
 The fees established herein shall become effective, assessed and collected on the first billing cycle of the parish
 department of water, ten (10) days after final adoption.
 (Ord. No. 19235, 11-16-94; Ord. No. 21559, 4-24-02)
-#####   
+##### Sec. 27-156. - Mobile waste hauler sewer user fee regulations.  
 
 (a)
 Title. This section may be cited as the "Jefferson Parish Mobile Waste Hauler Sewer User Fee Law."
@@ -2803,11 +2803,11 @@ supersede the penalties provided by state and federal law.
 (Ord. No. 18945, §§ 1—10, 12-15-93; Ord. No. 20921, §§ 11—13, 3-15-00; Ord. No. 21559, 4-24-02; Ord. No.
 22659, § 1, 12-14-05)
 #### DIVISION 2. - DRAINAGE DISPOSAL
-#####   
+##### Sec. 27-157. - Short title.  
 
 This division may be cited as the Jefferson Parish Drainage Disposal Law.
 (Ord. No. 17098, § 1, 12-3-86)
-#####   
+##### Sec. 27-158. - Definitions.  
 
 As used in this division, unless the context specifically indicates otherwise, the following terms are defined as
 follows:
@@ -2895,7 +2895,7 @@ Other terms: Terms not otherwise defined herein shall be as adopted in the lates
 the Examination of Water and Wastewater, published by the American Public Health Association, the American
 Water Works Association and the Water Pollution Control Federation.
 (Ord. No. 17098, § 2, 12-3-86)
-#####   
+##### Sec. 27-159. - Basic requirements.  
 
 (a)
 Unlawful discharge: Except as in compliance with this division, the discharge of any wastewater into the storm
@@ -2960,7 +2960,7 @@ Report of discharge violations: The director shall report to appropriate parish,
 violations detected regarding disposal of harmful and dangerous wastes into the parish sewerage and drainage
 system.
 (Ord. No. 17098, § 3, 12-3-86)
-#####   
+##### Sec. 27-160. - Private disposal systems.  
 
 (a)
 Regulated: Where a sewer line is available within three hundred (300) feet of the property line, private disposal
@@ -3008,7 +3008,7 @@ prohibitions of limitations listed in section 27-161(c).
 The owner and operator of any private disposal system shall be responsible for the final disposition and disposal
 of the waste or other product of the system.
 (Ord. No. 17098, § 4, 12-3-86)
-#####   
+##### Sec. 27-161. - Prohibitions and limitations of discharges into the storm drainage system.  
 
 (a)
 Policy statement:
@@ -3174,7 +3174,7 @@ Any permit which allows a provisional discharge within the meaning of this subse
 a period of four (4) years. Upon recommendation by the director and subject to ratification by the parish council,
 extensions of time may be granted upon the same terms and conditions.
 (Ord. No. 17098, § 5, 12-3-86)
-#####   
+##### Sec. 27-162. - Permits for industrial waste discharge.  
 
 (a)
 Permits required:
@@ -3277,7 +3277,7 @@ Violation of conditions of the permit.
 Violation of permit: Violation of a permit issued pursuant to this section shall be deemed a violation of this
 division.
 (Ord. No. 17098, § 6, 12-3-86)
-#####   
+##### Sec. 27-163. - Monitoring and reporting.  
 
 (a)
 Discharge reports:
@@ -3338,7 +3338,7 @@ taken to protect the storm drainage system. In addition, a written report addres
 date, time and cause of the accidental discharge, the quantity and characteristics of the discharge, and corrective
 action shall be filed by the discharger within five (5) days of the occurrence of the noncompliance.
 (Ord. No. 17098, § 7, 12-3-86)
-#####   
+##### Sec. 27-164. - Control of prohibited wastes; powers and duties of director.  
 
 (a)
 Regulatory actions: If wastewater is discharged or proposed to be discharged in violation of this division, the
@@ -3383,7 +3383,7 @@ Confidential trade secrets: No person acting under authority of this subsection 
 trade secret processes including metallurgical, chemical, oil refining, ceramic, paper, or other industries, beyond
 that point having a direct bearing on the kind and source of discharge to the public sewers.
 (Ord. No. 17098, § 8, 12-3-86)
-#####   
+##### Sec. 27-165. - Enforcement.  
 
 (a)
 Compliance order:
@@ -3486,7 +3486,7 @@ Footnotes:
 --- (11) --Cross reference— Department of water, § 2-286 et seq.
 State Law reference— Water and waterworks generally, R.S. 33:3811 et seq.
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 27-175. - Fluoridation authorized.  
 
 (a)
 The department of water is hereby authorized and directed to institute a procedure for controlled fluoridation of
@@ -3498,7 +3498,7 @@ This procedure shall conform in all respects to the regulations, rules and stand
 are, or may be hereinafter promulgated by the Office of Health Services and Environmental Quality, Department
 of Health and Human Resources, State of Louisiana and the United States Public Health Service.
 (Code 1961, § 17-53.2; Ord. No. 21029, § 7, 7-26-00)
-#####   
+##### Sec. 27-176. - Fire hydrants—Unauthorized tampering with; introduction of foreign matter.  
 
 (a)
 No person other than an employee of the department of water, or an employee of a duly constituted fire
@@ -3511,17 +3511,17 @@ thereof, or cause same to be done.
 (Code 1961, § 17-54)
 Cross reference— Fire prevention and protection; emergency services and communication and hazardous
 material, Ch. 13.
-#####   
+##### Sec. 27-177. - Same—Special wrench required to open or close.  
 
 No person shall open, close or tamper with any fire hydrant with any other tool or appliance than a special five
 (5) sided wrench which fits the operating nut of such hydrant, or cause same to be done.
 (Code 1961, § 17-55)
-#####   
+##### Sec. 27-178. - Same—Wasting water.  
 
 No person shall leave any fire hydrant open, or partly open, wasting water, or cause same to be done, unless he
 be an employee of the department of water, acting under instructions of a duly authorized official.
 (Code 1961, § 17-56)
-#####   
+##### Sec. 27-179. - Unauthorized tampering with valves, lines, etc.  
 
 No person other than an employee of the department of water, acting under instructions of a duly authorized
 official, shall open, close or tamper with any valve whatever, or any main street or pipe line, or corporation
@@ -3542,7 +3542,7 @@ Exception. If the reason for nonpayment of the full utility bill is caused by fi
 are minor children living on the premises or if there is a sick person living on the premises the water director
 may grant an extension for payment before discontinuing water service
 (Code 1961, § 17-53.1; Ord. No. 21029, § 8, 7-26-00)
-#####   
+##### Sec. 27-181. - Threat to health and safety; contempt.  
 
 (a)
 [Authorized representative.] For purposes of this section, an "authorized representative" shall include the
@@ -3599,7 +3599,7 @@ Secs. 27-182—27-191. - Reserved.
 #### DIVISION 2. - WATERWORKS DISTRICTS
 Footnotes:
 --- (12) --Cross reference— Governing body and domicile of special districts, § 2-19; taxation, Ch. 35.
-#####   
+##### Sec. 27-192. - Consolidated Waterworks District No.  
  1.
 (a)
 Created. A consolidated waterworks district is hereby created within the Parish of Jefferson, State of Louisiana,
@@ -3641,7 +3641,7 @@ water districts. Former §§ 27-192—27-194 derived from the Code of 1961, §§
 respectively. Sections 1—5 of Ord. No. 18418 did not specifically amend the Code; therefore, inclusion as § 27192 was at the discretion of the editor.
 Secs. 27-193, 27-194. - Reserved.
 Note— See editor's note to § 27-192.
-#####   
+##### Sec. 27-195. - Delinquent fees for Consolidated Waterworks District No.  
  1.
 (a)
 A delinquent fee of ten (10) percent of the net bill shall be charged on all bimonthly utility bills after thirty-one
@@ -3652,7 +3652,7 @@ A delinquent fee of ten (10) percent of the net bill shall be charged on all mon
 days from date of bill as per rates and service charges on water, water service, garbage, mosquito, sewerage and
 recreation bills in Consolidated Waterworks District No. 1 of the Parish of Jefferson.
 (Code 1961, § 17-59.2; Ord. No. 18456, § 1, 2-5-92)
-#####   
+##### Sec. 27-196. - Service for Consolidated Waterworks District No.  
  1.
 (a)
 Consumption charges and service charges. There is hereby established a water consumption charge and a water
@@ -4003,7 +4003,7 @@ December 31, 2010 and on December 31, 2011. Under this measure, the minimum usag
 change."
 Secs. 27-197—27-207. - Reserved.
 #### DIVISION 3. - CONTROL OF BACKFLOW AND CROSS-CONNECTIONS
-#####   
+##### Sec. 27-208. - Definitions.  
 
 The following words and phrases, when used in this division, shall have the meanings respectively ascribed to
 them:
@@ -4066,7 +4066,7 @@ Water potable means any water which, according to recognized standards, is safe 
 Water nonpotable means water which is not safe for human consumption or which is of questionable potability.
 (Code 1961, § 17-112; Ord. No. 17175, § 2, 2-18-87)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-#####   
+##### Sec. 27-209. - Authority.  
 
 (a)
 Responsibility of the director. The director of the department of inspection and code enforcement, and/or his
@@ -4083,7 +4083,7 @@ reasonable hours, for the purpose of making inspection of the plumbing systems i
 premises provided that with respect to the inspection of any single-family dwelling, consent to such inspection
 shall first be obtained from a person of suitable age and discretion therein or in control thereof.
 (Code 1961, § 17-111; Ord. No. 17175, § 1, 2-18-87)
-#####   
+##### Sec. 27-210. - General (technical) requirements.  
 
 (a)
 General. A potable water supply system shall be designed, installed and maintained in such manner as to prevent
@@ -4402,7 +4402,7 @@ Footnotes:
 --- (14) --Critical Level (C-L) is defined as the level to which the backflow preventer (vacuum breaker) may be
 submerged before backflow will occur. Where the C-L is not shown on the preventer, the bottom device shall be
 taken as the C-L.
-#####   
+##### Sec. 27-211. - Maintenance requirements.  
 
 (a)
 General requirements. It shall be the responsibility of building and premises owners to maintain all backflow
@@ -4418,7 +4418,7 @@ they have been installed properly and that debris resulting from the installatio
 functioning of the device. The testing procedures shall be in accordance with the manufacturer's instructions
 when approved by the director.
 (Code 1961, § 17-114; Ord. No. 17175, § 4, 2-18-87)
-#####   
+##### Sec. 27-212. - Cross-connections and storage tanks.  
 
 (a)
 The definition of a cross-connection, as based upon the U.S. Department of Health, Education and Public
@@ -4463,7 +4463,7 @@ the duty of the department of water to completely disconnect all service lines s
 section is properly complied with. Any cost of such disconnection and the estimated cost of reconnection must
 be paid by the consumer before service shall be restored.
 (Code 1961, § 17-115; Ord. No. 17175, § 5, 2-18-87)
-#####   
+##### Sec. 27-213. - Cross-connection control program.  
 
 The following cross-connection control program is hereby adopted to implement this division:
 (1)
@@ -4707,7 +4707,7 @@ the duty of the department of water to completely disconnect all service lines s
 section is properly complied with. Any cost of such disconnection and the estimated cost of reconnection must
 be paid by the consumer before service shall be restored.
 (Code 1961, § 17-117; Ord. No. 17175, § 7, 2-18-87)
-#####   
+##### Sec. 27-214. - Violations and penalties.  
 
 (a)
 Notification of violation. The director or his authorized agent shall notify the owner, or authorized agent of the
@@ -4724,7 +4724,7 @@ the article, after the specified time provided under section 27-212(a), shall co
 (Code 1961, § 17-116; Ord. No. 17175, § 6, 2-18-87)
 Secs. 27-215—27-219. - Reserved.
 ### ARTICLE VI. - PAYMENTS AND SERVICE CHARGES
-#####   
+##### Sec. 27-220. - Payment of fees.  
 
 (a)
 Payments of all fees for services and installations shall be subject to and made in accordance with the provisions
@@ -4733,7 +4733,7 @@ of this chapter.
 In the event a check is used to make payment of any fee due under this chapter, such payment shall be subject to
 the provisions of section 2-881.
 (Ord. No. 17398, § I, 12-2-87)
-#####   
+##### Sec. 27-221. - Fees for service after business hours.  
 
 The fees for installation of service provided in this chapter shall be for services rendered during normal business
 hours of the department. Same day installation of service will be provided when payment is received by 2:00
@@ -4748,7 +4748,7 @@ Secs. 27-222—27-229. - Reserved.
 Footnotes:
 --- (15) --Cross reference— Jefferson Parish mental health, mental retardation and substance abuse authority, § 17-50 et
 seq.
-#####   
+##### Sec. 27-230. - Program establishment; purpose.  
 
 Effective January 1, 1990, a round up for drug enforcement (RUDE) program is established for funding the drug
 enforcement efforts of the sheriff of the parish. This program is to be funded by voluntary contributions of parish
@@ -4756,7 +4756,7 @@ water customers. Water bill customers, may, at their own discretion round up any
 them to the next highest dollar amount and this rounded up amount shall be collected by the water department
 (or its agents) and forwarded regularly to the sheriff.
 (Ord. No. 17861, § 1, 11-8-89)
-#####   
+##### Sec. 27-231. - Guidelines.  
 
 The RUDE program shall be conducted as follows:
 (1)
@@ -4777,7 +4777,7 @@ All funds received/disbursed will be audited by the independent auditors of the 
 Each water customer's first bill after the beginning of a calendar year will indicate the amount of RUDE
 contributions made by such customer during the prior calendar year.
 (Ord. No. 17861, § 1, 11-8-89; Ord. No. 17914, § 1, 1-10-90)
-#####   
+##### Sec. 27-232. - Water lines and transmission lines.  
 
 (a)
 In the event there is no water line fronting the property, it will be the responsibility of the owner/developer to

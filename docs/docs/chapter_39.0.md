@@ -3,7 +3,7 @@ Footnotes:
 --- (1) --Cross reference— Pipelines and canals, Ch. 24; operation of boats on flooded streets, § 36-188.
 State Law reference— Canals and other watercourses, R.S. 34:341 et seq.; local waterway speed regulations,
 R.S. 34:851.27.B; Jefferson Parish authority to regulate operation of air boats, R.S. 34:851.27.B(9).
-#####   
+##### Sec. 39-1. - Parish line canal declared public navigable waterway.  
 
 The waterway or canal known as the parish line canal, lying west of and continuous to the upper protection levee
 of the parish and running parallel to the boundary line between the parishes of Jefferson and St. Charles, is
@@ -11,7 +11,7 @@ hereby declared to be a public navigable waterway subject to the free and unrest
 beginning at a point on the canal two hundred (200) feet north of the right-of-way of the Illinois Central
 Railroad; thence in a northerly direction the entire length of the canal to where it enters Lake Pontchartrain.
 (Code 1961, § 2-39)
-#####   
+##### Sec. 39-2. - Anchorage and mooring zone on Mississippi River.  
 
 (a)
 Those areas along the Mississippi River banks on the river side of the levees which are directly across from
@@ -26,14 +26,14 @@ as mooring and anchorage areas.
 Upon written request, the parish council may waive these restrictions for good cause shown and only after a
 public hearing has been held by the parish council giving due notice to all parties concerned.
 (Code 1961, § 20-2)
-#####   
+##### Sec. 39-3. - Docking at public wharf on Bayou Segnette regulated.  
 
 A time limit is hereby imposed for any vessel docking at the public wharf on Bayou Segnette, such time to be
 one (1) hour in duration, and the hour shall be interrupted by not less than a four-hour period in order that
 commercial vessels shall not untie from the facility, drifting into midstream and retieing, thus constituting
 another hour of docking time.
 (Code 1961, § 12-46)
-#####   
+##### Sec. 39-4. - Mooring at piers by Grand Isle vehicle bridge prohibited.  
 
 (a)
 The mooring of boats to either of the two (2) public fishing piers located adjacent to the Grand Isle vehicular
@@ -41,7 +41,7 @@ bridge, be and is hereby prohibited. except for emergency reasons.
 (b)
 Signs shall be posted indicating this prohibition.
 (Code 1961, § 12-46.1)
-#####   
+##### Sec. 39-5. - Boat speed limit on drainage canals.  
 
 Any boat using any and all drainage canals shall not exceed the speed limit of five (5) miles per hour.
 (Code 1961, § 17-05)
@@ -56,7 +56,7 @@ Signs shall be posed indicating this prohibition.
 Any person violating the provisions of this section shall be deemed guilty of a misdemeanor and upon
 conviction thereof shall be punished as provided in section 1-10.1.
 (Ord. No. 15672, § 1, 8-10-83)
-#####   
+##### Sec. 39-6. - Sand removal—Prohibited from, beaches; exceptions.  
 
 (a)
 The sale or removal of any sand or other soil from any beach located in the parish is hereby prohibited and made
@@ -66,13 +66,13 @@ This section shall not apply to the state or to any person having validly existi
 to remove or sell sand or other soil from any beach located in the parish; further this section shall not apply to
 any person who has valid title to the land from which the sand or other soil is removed or sold.
 (Code 1961, § 12-29)
-#####   
+##### Sec. 39-7. - Same—Prohibited from batture of Mississippi River without permit.  
 
 It shall be unlawful for any person to remove and haul river sand from the batture of the Mississippi River in the
 parish without first obtaining a permit for each location from the department of-inspection and code
 enforcement. There shall be no charge for the permit.
 (Code 1961, § 12-29.1)
-#####   
+##### Sec. 39-8. - Wake action on designated waterways restricted.  
 
 (a)
 No person shall operate a vessel, in a "No Wake" zone on any designated waterway within the parish, at a speed
@@ -116,7 +116,7 @@ Third and all subsequent offenses—Five hundred dollar ($500.00) fine.
 1, 4-15-98)
 Editor's note— Section 1 of Ord. No. 16554, adopted Aug. 21, 1985, suspended the action of Ord. No. 16164,
 included in this section.
-#####   
+##### Sec. 39-9. - Docking of watercraft at Bonnabel Boat Launch Facility.  
 
 (a)
 Regulated.
@@ -153,7 +153,7 @@ should such signs be placed around the pier by the parish or any other authorize
 (2)
 Each violation of this provision shall constitute a separate offense punishable as per the provisions of section 110 of the Jefferson Parish Code of Ordinances.
 (Ord. No. 17252, §§ 1—3, 4-29-87; Ord. No. 20096, § 1, 8-6-97)
-#####   
+##### Sec. 39-10. - Parish infrastructure and environmental review (PIER) certificate required.  
 
 (a)
 Jefferson Parish is committed to providing aggressive leadership, direction and consonance in the development
@@ -358,7 +358,7 @@ owner who would be damaged by such violation from instituting proceedings for in
 damages or other appropriate action to prevent, or to correct, or abate the violation. All monetary proceeds from
 fines imposed under this article, excluding court costs, shall be dedicated to a special fund for coastal protection.
 (Ord. No. 23102, § 1, 7-18-07)
-#####   
+##### Sec. 39-11. - "Idle only" zones created.  
 
 (a)
 It is hereby prohibited in the Parish of Jefferson, State of Louisiana, for any person to operate a vessel at greater
@@ -387,7 +387,7 @@ zones in Jefferson Parish.
 Penalties for the violation of this section shall be as provided in section 1-10 of the Jefferson Parish Code of
 Ordinances.
 (Ord. No. 20007, § 1, 4-23-97)
-#####   
+##### Sec. 39-12. - Permit required for certain activities in coastal areas.  
 
 (a)
 Definitions. Unless the context otherwise requires, the words defined in this section have the following
@@ -688,7 +688,7 @@ unconstitutional for any reason, such invalidity shall not affect the remaining 
 of the above criteria, standards, or regulations are in conflict with each other or with federal, state, or local
 regulations, the more restrictive shall govern.
 (Ord. No. 20067, § 7-9-97; Ord. No. 20921, §§ 16—18, 3-15-00)
-#####   
+##### Sec. 39-13. - Raw water intake regulations.  
 
 (a)
 

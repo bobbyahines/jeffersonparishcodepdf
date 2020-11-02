@@ -2,7 +2,7 @@
 Footnotes:
 --- (1) --Cross reference— Administration, Ch. 2; department of library, § 2-391 et seq.; library board, § 2-631 et seq.
 State Law reference— Parish libraries, R.S. 25:211 et seq.
-#####   
+##### Sec. 18-1. - Public library supported by taxation.  
 
 The parish public library shall be equipped, maintained, operated and supported at the expense of the entire
 parish, including the incorporated towns therein, and all taxes levied and assessed, whether general or special,
@@ -12,7 +12,7 @@ the parish, including that within incorporated municipalities.
 Cross reference— Taxation, Ch. 35.
 State Law reference— Costs, R.S. 25:218—25:220; maintenance and support, 25:217; taxation, 25:213; special
 tax for maintenance and support, 25:217.
-#####   
+##### Sec. 18-2. - Civil fees.  
 
 The parish library director shall, with notice to the library board, prepare a plan of civil fees to be charged by the
 public library system of this parish. Such plans shall be submitted by the library director to the clerk of the
@@ -27,7 +27,7 @@ the parish council, or such later date as specified in the proposed plan. If ger
 final plan shall be submitted to the clerk of the council prior to its effect. Upon adoption, copies of the current
 fees in effect shall be available for inspection upon request at reasonable library locations.
 (Ord. No. 15908, § 1, 2-29-84; Ord. No. 17162, § 1, 2-4-87)
-#####   
+##### Sec. 18-3. - Disposal of surplus library books.  
 
 Upon the authorization of the department of general services and procurement, property controller's office, the
 library director may authorize the sale, exchange or other public disposition of surplus library books either at
@@ -35,7 +35,7 @@ auction or pursuant to a sale or exchange with the public at large in the form o
 provided the proceeds of such sale, exchange or disposition be dedicated to use by the parish public library
 system.
 (Ord. No. 17025, § I, 9-10-86)
-#####   
+##### Sec. 18-4. - Naming of library facilities.  
 
 (a)
 No library facilities within the Jefferson Parish Library System shall be named or renamed for any individual(s),

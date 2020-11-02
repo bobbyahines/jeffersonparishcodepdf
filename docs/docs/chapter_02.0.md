@@ -9,12 +9,12 @@ et seq.; public utilities, Ch. 27; sheriff and law enforcement, Ch. 31; taxation
 pubic buildings, § 36-99.
 State Law reference— Powers of parish governing body, R.S. 33:1236.
 ### ARTICLE I. - IN GENERAL
-#####   
+##### Sec. 2-1. - Official parish flag designated.  
 
 The blue, gold and green flag depicting the geographical outline of Jefferson Parish is hereby named as the
 official flag and shall be so recognized.
 (Code 1961, § 2-45.6.1)
-#####   
+##### Sec. 2-2. - Official publisher.  
 
 (a)
 The council shall annually select a publisher to perform the professional services of publishing all minutes,
@@ -23,7 +23,7 @@ ordinances, resolutions, budgets and other official proceedings of the parish.
 The publisher selected shall be a person who owns, publishes or edits a newspaper or other publication which
 may serve as the official newspaper or official journal for the parish.
 (Ord. No. 15703, § 1, 8-24-83; Ord. No. 16763, § I, 1-22-86)
-#####   
+##### Sec. 2-3. - Official newspaper/journal.  
 
 (a)
 The newspaper or other publication owned, published or edited by the publisher, as provided in section 2-2, shall
@@ -43,9 +43,9 @@ The parish, by resolution or contract, may adopt additional standards or qualifi
 other publication must adhere to in publishing the minutes, ordinances, resolutions, budgets and other official
 proceedings of the parish.
 (Ord. No. 15703, § 1, 8-24-83; Ord. No. 16763, § I, 1-22-86)
-#####   
+##### Sec. 2-4. - Reserved.  
 
-#####   
+##### Sec. 2-5. - Official parish seal designated.  
 
 (a)
 The official seal for the Parish of Jefferson shall be a circular escutcheon with the coat of arms of the State of
@@ -65,7 +65,7 @@ The parish seal or a facsimile thereof may appear on the letterhead of parish st
 either published or sanctioned by the parish, and such use on all public and official documents is hereby
 authorized.
 (Ord. No. 19817, § 1, 9-11-96)
-#####   
+##### Sec. 2-6. - Parish emblem designated.  
 
 (a)
 The emblem for the Parish of Jefferson shall be a circular escutcheon with a light green field surrounded by two
@@ -81,7 +81,7 @@ authorized.
 The parish emblem may be affixed to all parish vehicles or other equipment required by law to have an insignia
 affixed thereto.
 (Ord. No. 19817, § 1, 9-11-96)
-#####   
+##### Sec. 2-7. - Emblem, seal; prohibition.  
 
 It shall be unlawful for any person to affix or use a facsimile of the parish seal or parish emblem on any
 document, sign, advertisement or equipment for personal or commercial use or in such a manner as to give the
@@ -90,7 +90,7 @@ such person is [in] any way affiliated with the Parish of Jefferson, its agencie
 of the parish seal and parish emblem shall also include any facsimile so similar in appearance as to confuse, tend
 to confuse, or not be clearly distinguishable from the official parish seal or parish emblem.
 (Ord. No. 19817, § 1, 9-11-96)
-#####   
+##### Sec. 2-8. - Official Flag of Metairie and Metairie Ridge.  
 
 (a)
 Banner recognition. The flag described in this section is hereby named as the official flag of Metairie and
@@ -176,7 +176,7 @@ Footnotes:
 State Law reference— Local government, R.S. 33:321 et seq.; powers of parish governing bodies, R.S.
 33:1236.
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 2-16. - Salary of council members.  
 
 The council members elected at-large parishwide shall receive an annual salary of seventy-five (75) percent of
 the annual salary of district judges of the Parish of Jefferson, and all other council members shall receive an
@@ -231,7 +231,7 @@ classified employee; and
 Shall comply with the Parish Charter and all governing classified pay plan, executive pay plan, and personnel
 rules.
 (Ord. No. 25842 , § 1, 8-21-19)
-#####   
+##### Sec. 2-17. - Office of chief of staff to parish.  
 
 (a)
 Office created. The office of chief of staff of the parish council is hereby created and shall be vested with
@@ -404,7 +404,7 @@ by the council within pay grade 18 of the executive pay plan.
 
 Editor's note— Ord. No. 19610, § 2, adopted Feb. 7, 1996, repealed § 2-18.5, which pertained to office of
 administrative assistants to each district. See the Code Comparative Table.
-#####   
+##### Sec. 2-19. - Council to be governing body of special districts; domicile.  
 
 (a)
 In accordance with the provisions of Sections 2.01(A)(7) and 6.01(B) of the Charter, the parish council is hereby
@@ -443,7 +443,7 @@ communications district, § 13-61 et seq.; garbage districts, § 16-26 et seq.; 
 seq.; community center and playground districts, § 21-20 et seq.; civic and cultural center districts, § 21-39 et
 seq.; economic development districts, § 25-61 et seq.; sewerage districts, § 27-29 et seq.; drainage districts, § 2785 et seq.; waterworks districts, § 27-192 et seq.; road light districts, § 29-34 et seq.; road districts, § 29-86 et
 seq.
-#####   
+##### Sec. 2-20. - Protocol for the filling of a vacancy in the office of a member of the parish council.  
 
 (a)
 Pursuant to Section 2.04(A) of the Charter, upon the occurrence of a vacancy in the office of the Jefferson Parish
@@ -537,7 +537,7 @@ Footnotes:
 Cross reference— Certain legislation to contain statement of funding source, § 2-880.
 State Law reference— Power of parish governing bodies to make regulations for own government, R.S.
 33:1236(1).
-#####   
+##### Sec. 2-30. - Legislative calendar.  
 
 The time, date and location of regular meetings of the parish council shall be in accordance with a legislative
 calendar to be adopted each year by resolution of the council; the council may amend the legislative calendar,
@@ -553,7 +553,7 @@ The vice-chairman shall serve in such capacity until his successor is chosen by 
 council may also appoint from amongst its members an ad hoc vice-chairman of the council to serve in said
 capacity at any council meeting for which the vice-chairman is absent.
 (Ord. No. 17858, § 2, 11-8-89; Ord. No. 18441, § 1, 1-8-92)
-#####   
+##### Sec. 2-31. - Duties of chairman and vice-chairman of the council.  
 
 (a)
 The chairman of the council shall be authorized and empowered to sign any and all contractual agreements
@@ -589,7 +589,7 @@ agreements, and other documents for the effective operations of his office.
 Ord. No. 24569, § 1, 8-28-13; Ord. No. 24585, § 1, 9-18-13; Ord. No. 24678, § 1, 2-5-14)
 Charter reference— Vice-chairman to preside at meetings of the council in the absence of the chairman, §
 2.06(A).
-#####   
+##### Sec. 2-32. - Duties of assistant parish attorney at council meetings.  
 
 The parish attorney shall designate one (1) assistant parish attorney to serve the council in all matters requiring
 legal judgment and interpretation. The assistant parish attorney assigned to the parish council shall:
@@ -601,7 +601,7 @@ Attend all council meetings and serve as a liaison between the council and the p
 Act as the parliamentarian during meetings of the parish council to settle disputes concerning points of order
 according to Robert's Rules of Order.
 (Code 1961, § 2-2.6)
-#####   
+##### Sec. 2-33. - Robert's Rules of Order to apply when council meeting procedure inapplicable.  
 
 (a)
 The substance of Robert's Rules of Order shall govern the conduct of parish council meetings where established
@@ -611,7 +611,7 @@ Section 2-36 which section deals with classifications of agenda for council meet
 before the parish council, shall also be considered as part of the council meeting procedure.
 (Code 1961, § 2-2.5)
 Charter reference— Authority of council to determine its own rules and order of business, 2.06(I).
-#####   
+##### Sec. 2-34. - Format for ordinances and resolutions.  
 
 The following procedures for preparing all typewritten resolutions, ordinances, motions, etc., to be submitted for
 council action are established:
@@ -734,7 +734,7 @@ All resolutions approving change orders to contracts with the parish shall be pr
 shall disclose the percentage by which the change order, together with any previously approved change orders
 for the same contract, cumulatively increases or decreases the original contract amount.
 (Ord. No. 18506, § 2, 4-22-92)
-#####   
+##### Sec. 2-35. - Council agenda and supplemental agenda.  
 
 (a)
 All items for inclusion on the agenda shall be submitted to the parish clerk no later than 3:00 p.m. on the
@@ -777,7 +777,7 @@ the amendment is not to be considered unless it receives unanimous support for c
 members present for the vote on the consideration of the amendment.
 (Ord. No. 23765, § 3, 3-3-10; Ord. No. 24245, § 1, 3-28-12; Ord. No. 24531, § 1, 7-24-13; Ord. No. 25548 , § 2,
 4-4-18)
-#####   
+##### Sec. 2-36. - Council agenda and order of business.  
 
 (a)
 Definitions. For the purpose of this section, the following words are defined as follows:
@@ -975,7 +975,7 @@ Ord. No. 18993, § 3, 2-23-94; Ord. No. 19099, § 2, 6-8-94; Ord. No. 19241, §�
 §§ 1, 2, 6-22-05; Ord. No. 23765, § 4, 3-3-10; Ord. No. 23894, § 3, 9-22-10; Ord. No. 24531, § 1, 7-24-13; Ord.
 No. 25976 , § 1, 4-8-20; Ord. No. 26001 , § 1, 5-13-20)
 Cross reference— Parish council sitting as communications district board, § 13-63.
-#####   
+##### Sec. 2-37. - Drinking during council meetings.  
 
 (a)
 Prohibited. It shall be unlawful for any person, including councilmen, directors, employees of the parish, or any
@@ -987,7 +987,7 @@ a fine of not more than one hundred dollars ($100.00).
 Recess authorized. The council may take a recess every two (2) hours from the time the meeting begins.
 (Code 1961, § 2-2.3; Ord. No. 19767, § 1, 7-17-96)
 Cross reference— Alcoholic beverages generally. Ch. 4.
-#####   
+##### Sec. 2-38. - Use of profanity in council meeting.  
 
 (a)
 Prohibited. It shall be unlawful for any person, including councilmen, directors, employees of the parish, or any
@@ -1003,12 +1003,12 @@ Violation and penalty. Any person convicted of a violation of any provision of t
 fine of not more than one hundred dollars ($100.00).
 (Code 1961, § 2-2.4)
 Cross reference— Offenses against public morals, § 20-61 et seq.
-#####   
+##### Sec. 2-39. - Parish clerk authorized to make non-substantive changes to resolutions.  
 
 The parish clerk is authorized to make non-substantive corrections and changes to any resolution adopted by the
 council which are necessary to preserve the original meaning of the resolution.
 (Ord. No. 19737, § 2, 6-19-96)
-#####   
+##### Sec. 2-40. - Recording and broadcast of meetings of the parish council.  
 
 All meetings of the Jefferson Parish council, including special meetings, shall be video- and audio-recorded in a
 format which is suitable for broadcasting on the Jefferson Parish web site and on the local government television
@@ -1020,7 +1020,7 @@ be broadcast on the parish's web site and/or on the government television channe
 following the day on which the meeting is held.
 (Ord. No. 25860 , § 1, 9-18-19)
 Secs. 2-41. - Reserved.
-#####   
+##### Sec. 2-42. - Campaign contributor disclosure for land use action.  
 
 (a)
 Disclosure of campaign contributions required. When a property owner or his authorized agent files an
@@ -1054,32 +1054,32 @@ department within three (3) business days of making each monetary or in-kind con
 (Ord. No. 24003, § I, 5-11-11)
 Secs. 2-43—2-50. - Reserved.
 #### DIVISION 3. - INVESTIGATIONS AND INQUIRIES
-#####   
+##### Sec. 2-51. - Petition for hearing.  
 
 The head of any department, office, agency or special district under investigation and inquiry shall be presented
 with a petition calling for a hearing and enumerating specifically the matters to be investigated, which petition
 shall be served upon such person at least five (5) days prior to the hearing.
 (Code 1961, § 2-40)
-#####   
+##### Sec. 2-52. - Rules of evidence observed.  
 
 The hearing under this division shall be conducted in accordance with the rules of evidence of the courts of the
 state.
 (Code 1961, § 2-41)
-#####   
+##### Sec. 2-53. - Judiciary admissible personal pleas and personal defenses recognized.  
 
 In the conduct of the hearing under this division, the parish council shall recognize all personal pleas and
 personal defenses which are admitted in the courts of the state.
 (Code 1961, § 2-42)
-#####   
+##### Sec. 2-54. - Failing or refusing to obey lawful orders of parish council.  
 
 Any person who fails or refuses to obey a lawful order of the parish council shall be guilty of a misdemeanor.
 (Code 1961, § 2-43)
-#####   
+##### Sec. 2-55. - Appeals from decrees, rulings or judgments of parish council.  
 
 Appeals from any decree, ruling or judgment rendered by the parish council shall be taken to the Twenty-fourth
 Judicial District Court within ten (10) days after date of rendition.
 (Code 1961, § 2-44)
-#####   
+##### Sec. 2-56. - Performance management studies, operational audits, management reviews.  
 
 Criteria is established as follows:
 (1)
@@ -1129,13 +1129,13 @@ Ord. No. 24232, § 6, adopted March 7, 2012, amended the title of Division 4 to 
 inclusion of said ordinance, Division 4 was entitled, "Research, Budget and Legal Analysis Staff." See also the
 Code Comparative Table.
 Cross reference— Finances, contracts, purchases and sales, § 2-876 et seq.
-#####   
+##### Sec. 2-66. - Established; composition.  
 
 There is hereby established a research and budget analysis staff of the parish council to be composed of a
 research director, two (2) directors of legal analysis and such other personnel as the council may from time to
 time authorize.
 (Ord. No. 24073, § 1, 8-10-11; Ord. No. 25078 , § 1, 1-27-16)
-#####   
+##### Sec. 2-67. - Duties.  
 
 The duties of the parish council's research and budget analysis staff shall be defined as follows:
 (1)
@@ -1156,20 +1156,20 @@ The research director shall be qualified by special training and experience in t
 management research. The research director shall be appointed and may be removed by a majority vote of the
 whole council. The salary of the research director shall be fixed by a majority vote of the whole council.
 (Ord. No. 24073, § 1, 8-10-11; Ord. No. 25078 , § 1, 1-27-16)
-#####   
+##### Sec. 2-69. - Legal director qualifications, appointment, and compensation.  
 
 Each director of legal analysis shall have and maintain a license to practice law in the State of Louisiana and
 shall be qualified by special training and experience in the fields of public law and legal research. The legal
 directors shall be appointed and may be removed by a majority vote of the whole council. The salary of the legal
 directors shall be fixed by a majority vote of the whole council.
 (Ord. No. 24073, § 1, 8-10-11; Ord. No. 25078 , § 1, 1-27-16)
-#####   
+##### Sec. 2-70. - Research director's and legal director's responsibilities.  
 
 The research director and the directors of legal analysis shall serve jointly as chiefs of the research and budget
 analysis staff and shall be responsible solely to the parish council. They shall have the authority to hire or
 dismiss personnel for the positions authorized by the council under this division.
 (Ord. No. 24073, § 1, 8-10-11; Ord. No. 25078 , § 1, 1-27-16)
-#####   
+##### Sec. 2-71. - Funds and additional personnel.  
 
 The council shall, by ordinance, appropriate funds for the operation of the research and budget analysis staff and
 authorize employment of additional personnel for the staff as may be required.
@@ -1179,7 +1179,7 @@ Secs. 2-72—2-85. - Reserved.
 Footnotes:
 --- (5) --Charter reference— Parish president, Art. 3.
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 2-86. - Salary of parish president.  
 
 The annual salary of the parish president shall equal the annual salary of district judges of the Parish of
 Jefferson.
@@ -1203,7 +1203,7 @@ president.
 When a matter pertains to the business or functions of a special district, it shall be presumed that the president is
 acting as the chief administrative officer of such special district.
 (Ord. No. 23894, § 2, 9-22-10)
-#####   
+##### Sec. 2-87. - Chief operating officer, deputy chief operating officer, assistant, staff members.  
 
 (a)
 Offices created. The following principal offices are hereby created:
@@ -1240,7 +1240,7 @@ No. 25072 , § 1, 1-27-16; Ord. No. 25736 , § 1, 2-6-19)
 Editor's note— Ord. No. 25736 , § 1, adopted Feb. 6, 2019, amended § 2-87 and in so doing changed the title
 from "Chief administrative officer, deputy chief administrative officer, assistant, staff members" to "Chief
 operating officer, deputy chief operating officer, assistant, staff members," as set out herein.
-#####   
+##### Sec. 2-88. - Technical advisor to parish president.  
 
 (a)
 Office created. The following office is hereby created: Technical advisor to the parish president, provided it
@@ -1255,21 +1255,21 @@ Salary. The salary of the technical advisor to the parish president, provided it
 personnel board if legally required, shall be established by the parish president within group II of the executive
 pay plan.
 (Code 1961, § 2-11.2)
-#####   
+##### Sec. 2-89. - Reserved.  
 
 Editor's note— Ord. No. 19649, § 1, adopted Feb. 28, 1996, repealed § 2-89, which pertained to the data
 processing coordinator. See the Code Comparative Table.
-#####   
+##### Sec. 2-90. - Reserved.  
 
 Editor's note— Former § 2-90, which pertained to the office of contract monitor, was repealed by § 3 of Ord.
 No. 18078, adopted Aug. 29, 1990. The repealed provisions derived from Ord. No. 16812, § 1, adopted March 5,
 1986 as amended by Ord. No. 17441, § 2, adopted Feb. 10, 1988.
-#####   
+##### Sec. 2-91. - Reserved.  
 
 Editor's note— Ord. No. 18471, § 9, adopted Feb. 19, 1992, repealed § 2-91 in its entirety. Former § 2-91 was
 concerned with the animal shelter division, and derived from Ord. No. 17440, § 2, adopted Feb. 10, 1988.
 Similar provisions are now set out in § 2-406 et seq.
-#####   
+##### Sec. 2-92. - Public information officer.  
 
 (a)
 Appointment. The public information officer shall be appointed by the parish president with the approval of the
@@ -1296,7 +1296,7 @@ Prepare policy statements and plans for public information.
 Salary. The salary of the public information officer shall be established by the parish president within the pay
 grade for the position as defined in the executive pay plan.
 (Ord. No. 17468, § 1, 3-9-88; Ord. No. 25736 , § 1, 2-6-19)
-#####   
+##### Sec. 2-93. - Department and position of director created.  
 
 There is hereby created the department of risk management and the position of director of risk management
 which office and position shall endeavor to identify all potential sources of loss and to establish a method to
@@ -1365,7 +1365,7 @@ parish government;
 All other such duties or responsibilities that are related to risk management.
 (Ord. No. 18406, § 1, 11-20-91; Ord. No. 19980, § 1, 3-26-97; Ord. No. 21410, § 1, 10-10-01; Ord. No. 21526, §
 1, 2-27-02)
-#####   
+##### Sec. 2-94. - Director of public health services.  
 
 (a)
 Position created; purpose. The position of the director of public health services is hereby created to serve the
@@ -1407,7 +1407,7 @@ approval of the parish council.
 Salary. The salary of the director of public health shall be established by the parish president within group III of
 the executive pay plan.
 (Ord. No. 17874, § 1, 11-29-89)
-#####   
+##### Sec. 2-95. - Correctional system liaison officer.  
 
 (a)
 Position created; purpose. The position of correctional system liaison officer is hereby created to serve the Parish
@@ -1439,7 +1439,7 @@ approval of the parish council.
 Salary. The salary of the correctional system liaison officer shall be established by the parish president within
 Group III of the executive pay plan.
 (Ord. No. 19275, § 1, 12-7-94)
-#####   
+##### Sec. 2-96. - John A.  
  Alario, Sr., Events Center General Manager.
 (a)
 Position created; purpose. The position of John A. Alario, Sr. Events Center General Manager is hereby created
@@ -1508,7 +1508,7 @@ Salary. The salary of the John A. Alario, Sr., Event Center General Manager shal
 president, within the pay grade for the position as defined in the executive pay plan.
 (Ord. No. 19639, § 1, 2-25-96; Ord. No. 20101, § 1, 8-6-97; Ord. No. 22690, § 1, 2-8-06; Ord. No. 25736 , § 1,
 2-6-19)
-#####   
+##### Sec. 2-97. - Appointing authority of the parish president.  
 
 (a)
 The parish president is the appointing authority for various staff members as otherwise provided for in the Code
@@ -1542,7 +1542,7 @@ rules.
 (Ord. No. 25843 , § 1, 8-21-19)
 Secs. 2-98—2-100. - Reserved.
 #### DIVISION 2. - PROTOCOL FOR FILLING OF VACANCY IN OFFICE
-#####   
+##### Sec. 2-101. - Protocol for the filling of a vacancy in the office of parish president.  
 
 Pursuant to Section 3.01(C) of the Charter, upon the occurrence of a vacancy in the office of the parish
 president, the council members shall have thirty (30) days within which to fill the vacancy. The procedure and
@@ -1623,13 +1623,13 @@ Cross reference— Personnel, Ch. 23.
 State Law reference— Powers of parish governing authority to enact ordinances defining parish employees and
 delineating duties and privileges thereof, R.S. 33:1236(51).
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 2-111. - Employment information forwarded to state child-support registry.  
 
 The finance department is authorized to forward copies of W-4 forms on new employees and rehires, or such
 other documentation as may be agreed upon between the parish and the state, to the appropriate state agency
 charged with the operation of the Louisiana Child-Support Registry within thirty (30) days of employment.
 (Ord. No. 19017, § 1, 3-23-94)
-#####   
+##### Sec. 2-112. - Time limits on certain temporary appointments.  
 
 To fill a vacancy in the position of any officer, director or other employee of Jefferson Parish or any of its
 subsidiaries who would otherwise, under applicable statutes, ordinances, resolutions or provisions of the
@@ -1659,7 +1659,7 @@ Footnotes:
 --- (7) --State Law reference— Employer to have no right of indemnification from employee after conventional
 discharge of obligations for damage by employee, R.S. 9:3921; indemnification of officers and employees of the
 state, civil rights, representation by attorney general, R.S. 13:5108.1.
-#####   
+##### Sec. 2-116. - Applicability.  
 
 (a)
 Subject to the availability of unencumbered appropriated funds, the parish will indemnify and save harmless any
@@ -1680,7 +1680,7 @@ counsel, the law department will relinquish its defense obligations in favor of 
 parish's expense, for reasonable and customary fees approved by the parish attorney, with said parish attorney
 having the option to be co-counsel of record.
 (Ord. No. 17621, § 1, 10-26-88)
-#####   
+##### Sec. 2-117. - Procedures in civil matters.  
 
 (a)
 A parish officer or employee may request the use of private counsel for the defense of a lawsuit when he/she is
@@ -1717,7 +1717,7 @@ To the extent that the law permits and with due regard for the fundamental right
 of the parish, each officer or employee involved in civil litigation shall be obliged to cooperate as much as is
 reasonably possible with the parish and its attorneys in the defense of civil litigation.
 (Ord. No. 17621, § 2, 10-26-88)
-#####   
+##### Sec. 2-118. - Procedures in criminal matters.  
 
 (a)
 Parish officers and employees will be indemnified for reasonable attorney's fees and costs reasonably incurred in
@@ -1743,7 +1743,7 @@ involved in a criminal proceeding as a witness merely, is not a suspect, potenti
 The reasonableness of attorney's fees and costs and whether and to what extent they were reasonably incurred
 shall be determined by the parish attorney, after consultation with the chief administrative officer.
 (Ord. No. 17621, § 3, 10-26-88)
-#####   
+##### Sec. 2-119. - Applicability to economic development office.  
 
 The provisions of sections 2-116, 2-117, and 2-118 applicable to parish officers and employees shall also be
 applicable to the executive director of the parish economic development and port district as well as to the board
@@ -1801,7 +1801,7 @@ Office of Transit Administration
 Footnotes:
 --- (8) --Charter reference— Departments and offices, § 4.01.
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 2-131. - Reports to council.  
 
 (a)
 Reports requested by the parish council regarding policy, funding of projects and other information necessary for
@@ -1853,7 +1853,7 @@ this section.
 (Code 1961, § 2-423; Ord. No. 24266, § 1, 5-9-12)
 Editor's note— It should be noted that § 2 of Ord. No. 24266 provides, "That the start date for the preparation
 and submittal of the reports required by this ordinance shall be August 1, 2012."
-#####   
+##### Sec. 2-132. - Proposed changes for parish employees' offices.  
 
 The parish president shall inform the council of any substantial changes proposed for offices of parish
 employees, including but not limited to renovation of office space or removal of parish employees from one (1)
@@ -1869,7 +1869,7 @@ Footnotes:
 --- (10) --Editor's note— The provisions of former Div. 2 have been designated as Div. 2, Subdiv. I in order to
 accommodate inclusion of Ord. No. 22116, § 1, as Div. 2, Subdiv. II at the discretion of the editor. See also the
 Code Comparative Table.
-#####   
+##### Sec. 2-141. - Authority granted to institute proceedings in behalf of the parish, its officials, departments, etc.  
 
 (a)
 The department of law is hereby given the authority to institute any and all proceedings in law and/or in equity,
@@ -1881,34 +1881,34 @@ name of and on behalf of the parish, its departments, agencies, districts and/or
 or corporation, or officer, agent or employee thereof, to enjoin, abate or halt any acts or practices which may
 violate the provisions of this Code.
 (Code 1961, § 2-45; Ord. No. 16779, § 2, 2-5-86)
-#####   
+##### Sec. 2-142. - Authority granted to defend suits against the parish, its officials, departments, etc.  
 
 The department of law shall defend any and all suits instituted against the parish council, the parish, its
 departments, agencies, districts and/or officers.
 (Code 1961, § 2-45.1)
-#####   
+##### Sec. 2-143. - Authority granted to perfect appeals.  
 
 The department of law shall have the authority to perfect an appeal from any judgment and to take any and all
 appropriate action in connection with any proceedings.
 (Code 1961, § 2-45.2)
-#####   
+##### Sec. 2-144. - No modification of authority conferred on the parish, its council, etc.  
 , by existing law.
 The provisions of this division shall not be construed as limiting any and all authority that the parish council, the
 parish, its departments, agencies, districts and/or officers may have, either expressly or implicitly, by existing
 law.
 (Code 1961, § 2-45.3)
-#####   
+##### Sec. 2-145. - No impairment of immunity from suits conferred on the parish, its council, etc.  
 
 The enactment of this division shall not be construed as a waiver or abandonment of any right or defense that the
 parish council, the parish, its departments, agencies, districts and/or officers may have in connection with any
 immunity from suits established or provided for by the constitution or laws, past, present and future.
 (Code 1961, § 2-45.4)
-#####   
+##### Sec. 2-146. - Suits to collect attorneys' fees in certain cases authorized.  
 
 The department of law is hereby authorized and empowered to institute any and all appropriate legal
 proceedings for the purpose of collecting attorneys' fees as contemplated by R.S. 42:261.
 (Code 1961, § 2-45.5)
-#####   
+##### Sec. 2-147. - Agent for service of process.  
 
 (a)
 Unless otherwise specifically provided, the parish attorney shall serve as agent for service of process in all suits
@@ -1918,7 +1918,7 @@ Hereafter, a copy of the council resolution approving the appointment of the par
 appropriate designation as agent for service of process in accordance with this section, and a copy of said
 resolution shall be filed with the secretary of state.
 (Ord. No. 15942, § 1, 3-14-84)
-#####   
+##### Sec. 2-148. - Conditions and restrictions for attorneys employed by the department of law.  
 
 (a)
 No attorney who is employed full-time by the Jefferson Parish Department of Law shall during the time of such
@@ -1935,7 +1935,7 @@ contractual relationship with Jefferson Parish or with any of its agencies, divi
 such contractual relationship is solely within the course and scope of the attorney's duties and responsibilities as
 an employee of the department of law.
 (Ord. No. 23749, § 1, 2-10-10)
-#####   
+##### Sec. 2-149. - Parish attorney to dedicate full time to service of the parish.  
 
 (a)
 The parish attorney shall devote his full time to the service of the parish and shall perform no legal services
@@ -1951,10 +1951,10 @@ Any person who is found by the council after due process and an opportunity is g
 defense to be in violation of the provisions of this section shall be terminated from his position as parish
 attorney.
 (Ord. No. 23796, § 1, 4-14-10)
-#####   
+##### Sec. 2-150. - Reserved.  
 
 Subdivision II. - Public Records Requests
-#####   
+##### Sec. 2-151. - Department of law to administer all requests for public records.  
 
 (a)
 The department of law shall administer and be responsible for fulfilling all requests for public records in
@@ -1976,7 +1976,7 @@ regulations.
 All requests for public records shall be administered by the custodian of records for the entity as defined by La.
 R.S. 44:1(a)(3).
 (Ord. No. 24097, § 1, 8-31-11; Ord. No. 24306, § 1, 7-25-12; Ord. No. 25018 , § 5, 9-23-15)
-#####   
+##### Sec. 2-152. - Publication of information regarding requests for public records.  
 
 The department of law shall publish monthly on the parish's website the following information regarding all
 requests for public records:
@@ -1991,7 +1991,7 @@ The status of the fulfillment of the request for public records.
 (Ord. No. 24097, § 1, 8-31-11)
 Secs. 2-153, 2-154. - Reserved.
 #### DIVISION 2.5. - DEPARTMENT OF GOVERNMENTAL AND ETHICS COMPLIANCE
-#####   
+##### Sec. 2-155. - Department and position of director created.  
 
 The department of governmental and ethics compliance and the position of the compliance and ethics officer are
 hereby created, which department and position shall have direct administrative supervision over the review and
@@ -2501,7 +2501,7 @@ knowledge that it was false or with willful disregard for its truth or falsity.
 #### DIVISION 3. - DEPARTMENT OF FINANCE
 Footnotes:
 --- (11) --Cross reference— Finances, contracts, purchases and sales, § 2-876 et seq.; taxation, Ch. 35.
-#####   
+##### Sec. 2-156. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of finance shall possess a thorough knowledge of public budgeting systems and how
@@ -2528,7 +2528,7 @@ the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 3, adopted Feb. 6, 2019, amended § 2-156 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-157. - Duties and responsibilities.  
 
 The director of the department of finance is hereby assigned duties and responsibilities in addition to those
 enumerated in Section 4.02 of the Charter:
@@ -2553,7 +2553,7 @@ affairs which are not required by law to be kept by some other person.
 (Code 1961, § 2-260; Ord. No. 18471, § 1, 2-19-92; Ord. No. 21171, § 5, 1-10-01; Ord. No. 23103, § 1, 7-18-07)
 Secs. 2-158, 2-159. - Reserved.
 #### DIVISION 3.5. - DEPARTMENT OF ACCOUNTING
-#####   
+##### Sec. 2-160. - Created.  
 
 
 The department of accounting and the position of director of accounting within the finance department are
@@ -2607,7 +2607,7 @@ Jefferson Parish accounts, books, vouchers, and documents of all public money re
 to its revenue, debt and fiscal affairs which are not required by law to be kept by some other person.
 (Ord. No. 18471, § 2, 2-19-92; Ord. No. 21171, § 10, 1-10-01; Ord. No. 23103, § 2, 7-18-07)
 #### DIVISION 3.6. - DEPARTMENT OF BUDGETING
-#####   
+##### Sec. 2-161. - Department and position of director created.  
 
 The department of budgeting and the position of director of budgeting within the finance department are hereby
 created.
@@ -2644,7 +2644,7 @@ Footnotes:
 repealing and reenacting said division as §§ 2-162—2-162.5, set out herein. Former Div. 3.7 pertained to similar
 subject matter and derived from Ord. No. 22106, § 1, adopted Feb. 4, 2004; Ord. No. 23787, § 1, adopted March
 24, 2010; Ord. No. 24092, § 1, 8-31-11; and Ord. No. 25302 , § 1, 2-1-17.
-#####   
+##### Sec. 2-162. - Department and position of director created.  
 
 (a)
 The department of internal audit and the position of director of internal audit are hereby created, which
@@ -2803,7 +2803,7 @@ normally accountable for them and consistent with appropriate policies and regul
 cited in the Government Auditing Standards as produced by the Government Accountability Office.
 (Ord. No. 25549 , § 1, 4-4-18)
 #### DIVISION 3.8. - DEPARTMENT OF PURCHASING
-#####   
+##### Sec. 2-163. - Created.  
 
 The department of purchasing and the position of director of purchasing within the finance department are
 hereby created.
@@ -2842,11 +2842,11 @@ Footnotes:
 Prior to inclusion of said ordinance, Div. 4 was entitled department of general services and procurement. See the
 Code Comparative Table.
 Cross reference— Finances, contracts, purchases and sales, § 2-876 et seq.
-#####   
+##### Sec. 2-166. - Department and position of director created.  
 
 The department of general services and the position of general services director are hereby created.
 (Code 1961, § 2-270; Ord. No. 21171, § 7, 1-10-01)
-#####   
+##### Sec. 2-167. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The general services director shall be qualified by education, training and at least five (5) years
@@ -2862,7 +2862,7 @@ grade for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 8, adopted Feb. 6, 2019, amended § 2-167 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-168. - Duties of director.  
 
 The director of general services shall be responsible for:
 (1)
@@ -2880,12 +2880,12 @@ Secs. 2-169—2-180. - Reserved.
 Footnotes:
 --- (14) --Cross reference— One stop development services office, § 2-875.25 et seq.; planning and development, Ch. 25;
 subdivisions, Ch. 33; zoning, Ch. 40.
-#####   
+##### Sec. 2-181. - Duties of department.  
 
 The department of planning is hereby assigned duties and responsibilities in accordance with those enumerated
 in Section 4.05 of the Charter.
 (Code 1961, § 2-360; Ord. No. 18471, § 8, 2-19-92)
-#####   
+##### Sec. 2-182. - Qualifications, appointment and salary of director.  
 
 (a)
 The director of planning shall possess the following qualifications:
@@ -2902,7 +2902,7 @@ the position as defined in the executive pay plan.
 (Code 1961, § 2-362; Ord. No. 24757 , § 1, 6-11-14; Ord. No. 25736 , § 9, 2-6-19)
 Editor's note— Ord. No. 25736 , § 9, adopted Feb. 6, 2019, amended § 2-182 and in so doing changed the title
 from "Qualifications of director" to "Qualifications, appointment and salary of director," as set out herein.
-#####   
+##### Sec. 2-183. - Duties of director.  
 
 The director of planning shall:
 (1)
@@ -2925,13 +2925,13 @@ Footnotes:
 --- (15) --Cross reference— Buildings and building regulations, Ch. 8; fire prevention and protection; emergency services
 and communication and hazardous material, Ch. 13; flood prevention and protection, Ch. 14; signs, Ch. 32;
 swimming pools, Ch. 34.
-#####   
+##### Sec. 2-196. - Department and position of director created.  
 
 The department of inspection and code enforcement and the position of director of inspection and code
 enforcement is hereby created which department and position shall have direct administrative supervision on
 inspection and code enforcement functions of the parish.
 (Code 1961, § 2-380; Ord. No. 18471, § 8, 2-19-92)
-#####   
+##### Sec. 2-197. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of inspection and code enforcement shall be qualified by:
@@ -2952,7 +2952,7 @@ within the pay grade for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 10, adopted Feb. 6, 2019, amended § 2-197 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-198. - Duties of the director of the department of inspection and code enforcement—Generally.  
 
 The director of the department of inspection and code enforcement shall direct, control and supervise the
 functions of:
@@ -3014,14 +3014,14 @@ which pertained to the office of senior citizens' services and derived from Ord.
 2006.
 Secs. 2-199.10—2-199.12. - Reserved.
 #### DIVISION 6.5. - DEPARTMENT OF PROPERTY MAINTENANCE ZONING/QUALITY OF LIFE
-#####   
+##### Sec. 2-200. - Office and position of director of property maintenance zoning/quality of life.  
 
 There is hereby created the department of property maintenance zoning/quality of life to serve the Parish of
 Jefferson and to oversee all inspection and enforcement responsibilities related to Jefferson Parish zoning and
 code ordinances regarding the use and maintenance of privately owned property and structures, overseeing the
 weed control division, and taxicab regulations.
 (Ord. No. 24726, § 2, 4-9-14)
-#####   
+##### Sec. 2-201. - Qualifications, appointment and salary for the director.  
 
 (a)
 Qualifications. The director of property maintenance zoning/quality of life shall be qualified by a bachelor's
@@ -3038,7 +3038,7 @@ parish president within the pay grade for the position as defined in the executi
 Editor's note— Ord. No. 25736 , § 11, adopted Feb. 6, 2019, amended § 2-201 and in so doing changed the title
 from "Qualifications, appointment and salary for the director of property maintenance zoning/quality of life
 director" to "Qualifications, appointment and salary of director," as set out herein.
-#####   
+##### Sec. 2-202. - Duties of the director of property maintenance zoning/quality of life; generally.  
 
 The director of property maintenance zoning/quality of life's duties shall include but are not limited to the
 following:
@@ -3091,7 +3091,7 @@ fire services." Ord. No. 22692, § 1, adopted February 8, 2006, amended Div. 7 b
 "superintendent of fire" to "director of fire." See also the Code Comparative Table.
 Cross reference— Ambulances, Ch. 5; homeland security, emergency management and disasters, Ch. 9; fire
 prevention and protection; emergency services and communication and hazardous material, Ch. 13.
-#####   
+##### Sec. 2-211. - Position of director of fire created.  
 
 
 The position of director of fire is hereby created, which position shall have oversight of the Jefferson Parish
@@ -3099,7 +3099,7 @@ volunteer fire departments and coordinate parish-wide hazard preparedness and em
 other such activities and/or responsibilities as the parish president may direct.
 (Ord. No. 16884, § 1, 4-30-86; Ord. No. 21966, § 1, 8-6-03; Ord. No. 22692, § 1, 2-8-07; Ord. No. 25287 , § 1,
 1-11-17; Ord. No. 25736 , § 12, 2-6-19)
-#####   
+##### Sec. 2-212. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of fire shall possess a knowledge of the daily operations of fire functions, budgeting
@@ -3118,7 +3118,7 @@ position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 12, adopted Feb. 6, 2019, amended § 2-212 and in so doing changed the title
 from "Qualifications and appointment of director of fire" to "Qualifications, appointment and salary of director,"
 as set out herein.
-#####   
+##### Sec. 2-213. - Duties of director of fire.  
 
 The director of fire shall:
 (1)
@@ -3153,13 +3153,13 @@ Coordinate fire activities with volunteer departments and serve as a liaison bet
 departments, fire stations, first responders, and the administration.
 (Ord. No. 16884, § 1, 4-30-86; Ord. No. 21966, § 3, 8-6-03; Ord. No. 22477, § 1, 4-13-05; Ord. No. 22692, § 3,
 2-8-07; Ord. No. 24036, § 1, 6-15-11; Ord. No. 25287 , § 2, 1-11-17; Ord. No. 25736 , § 12, 2-6-19)
-#####   
+##### Sec. 2-214. - Reserved.  
 
 Editor's note— Ord. No. 25398 , § 3, adopted July 12, 2017, repealed § 2-214, which pertained to office of
 telecommunications; director of telecommunications and derived from Code of 1961, § 2-284; Ord. No 16887, §
 I, adopted April 30, 1986; Ord. No. 16996, § 1, adopted August 20, 1986; and Ord. No. 24036, § 2, adopted June
 15, 2011.
-#####   
+##### Sec. 2-215. - Reserved.  
 
 Editor's note— Ord. No. 25398 , § 3, adopted July 12, 2017, repealed § 2-215, which pertained to maintenance
 of gate access code information for gated communities and derived from Ord. No. 24039, § 2, adopted June 29,
@@ -3174,7 +3174,7 @@ Editor's note— In order to more accurately reflect the changes effected by § 
 Emergency Management."
 Cross reference— Homeland security, emergency management and disasters, Ch. 9.
 State Law reference— Local organizations for civil defense. R.S. 29:608.
-#####   
+##### Sec. 2-226. - Department and position of director created.  
 
 The department of emergency management is hereby created under the general direction of the director of
 homeland security, and position of director, which department and position shall have direct administrative
@@ -3182,7 +3182,7 @@ supervision over emergency management department activities, resources, and pers
 for planning and implementing resources and staff to respond to disasters and other emergencies within Jefferson
 Parish in conformance and coordination with department of homeland security.
 (Code 1961, § 2-290; Ord. No. 16885, § 1, 4-30-86; Ord. No. 22630, § 3, 11-16-05)
-#####   
+##### Sec. 2-227. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of the department of emergency management shall possess any combination of
@@ -3198,7 +3198,7 @@ the pay grade for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 13, adopted Feb. 6, 2019, amended § 2-227 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-228. - Duties of director.  
 
 The director of emergency management shall:
 (1)
@@ -3240,7 +3240,7 @@ Conduct investigations relative to department operations, employee conduct, or o
 Perform all other duties as required or directed.
 (Code 1961, § 2-291; Ord. No. 16885, § 1, 4-30-86; Ord. No. 22630, § 3, 11-16-05; Ord. No. 24660, § 1, 1-1514)
 #### DIVISION 8.5. - DEPARTMENT OF ELECTRONIC INFORMATION SYSTEMS MANAGEMENT
-#####   
+##### Sec. 2-229. - Department and position of director created.  
 
 The department of electronic information systems management and the position of director of electronic
 information systems management is hereby created. Which department and position shall have direct
@@ -3249,7 +3249,7 @@ information systems, and coordination of all other parish computer operations in
 equipment hardware and software, functional department and service operations and future modifications and/or
 expansion of existing and new systems.
 (Ord. No. 19649, § 2, 2-28-96)
-#####   
+##### Sec. 2-230. - Qualifications, appointment and salary of director.  
 
 (a)
 [Qualifications generally.] The director of the department of electronic information systems management shall
@@ -3273,7 +3273,7 @@ parish president within the pay grade for the position as defined in the executi
 (Ord. No. 19649, § 2, 2-28-96; Ord. No. 25736 , § 14, 2-6-19)
 Editor's note— Ord. No. 25736 , § 14, adopted Feb. 6, 2019, amended § 2-230 and in so doing changed the title
 from "Qualifications" to "Qualifications, appointment and salary of director," as set out herein.
-#####   
+##### Sec. 2-231. - Duties of the director.  
 
 The director of electronic information systems management shall:
 (1)
@@ -3318,12 +3318,12 @@ Direct the operations of the telecommunications systems.
 Footnotes:
 --- (22) --Cross reference— Ambulance services answering 911 calls, § 5-5; communications district, § 13-61 et seq.; 911
 service providers board, § 2-867 et seq.
-#####   
+##### Sec. 2-232. - Office of telecommunications and director of telecommunications created.  
 
 The office of telecommunications and position of director of telecommunications is hereby created and are under
 the supervision of the director of electronic information systems.
 (Ord. No. 25398 , § 4, 7-12-17)
-#####   
+##### Sec. 2-233. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of telecommunications must have five (5) years of highly responsible, professional
@@ -3350,7 +3350,7 @@ pay grade for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 15, adopted Feb. 6, 2019, amended § 2-233 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-234. - Duties of director.  
 
 The director of telecommunications will be responsible for:
 (1)
@@ -3388,7 +3388,7 @@ telecommunications through study and peer group activities; and
 (11)
 Develops policies and procedures to be adhered to by all parish departments.
 (Ord. No. 25398 , § 4, 7-12-17)
-#####   
+##### Sec. 2-235. - Maintenance of gate access code information for gated communities.  
 
 In addition to the duties and responsibilities listed in section 2-234 herein, the office of telecommunications shall
 compile and maintain a list of all gate access codes for all gated communities. The office of telecommunications
@@ -3405,12 +3405,12 @@ Footnotes:
 --- (23) --Editor's note— Ord. No. 17553, § 1, adopted July 13, 1988, repealed §§ 2-241—2-243, pertaining to the
 department of public utilities, replacing them with new sections concerning the department of engineering.
 Former §§ 2-241—2-243 derived from Code 1961, §§ 2-420—2-422.
-#####   
+##### Sec. 2-241. - Department and position of director created.  
 
 The department of engineering and position of director of engineering are hereby created to assist the
 department of public works in its duties and responsibilities.
 (Ord. No. 17553, § 2, 7-13-88)
-#####   
+##### Sec. 2-242. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of engineering shall possess the following qualifications:
@@ -3430,7 +3430,7 @@ for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 16, adopted Feb. 6, 2019, amended § 2-242 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-243. - Duties of the director.  
 
 The director of engineering shall assist the public works director in directing, controlling and supervising the
 following functions:
@@ -3465,12 +3465,12 @@ Secs. 2-244—2-255. - Reserved.
 #### DIVISION 10. - DEPARTMENT OF DRAINAGE
 Footnotes:
 --- (25) --Cross reference— Drainage, § 27-69 et seq.; drainage and sewerage disposal, § 27-142 et seq.
-#####   
+##### Sec. 2-256. - Department and position of director created.  
 
 The department of drainage and the position of director of drainage are hereby created to assist the public works
 department.
 (Code 1961, § 2-430; Ord. No. 17555, § 1, 7-13-88)
-#####   
+##### Sec. 2-257. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of drainage shall be qualified by a four-year degree from an accredited college or
@@ -3488,7 +3488,7 @@ the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 17, adopted Feb. 6, 2019, amended § 2-257 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-258. - Duties of the director generally.  
 
 The director of drainage shall:
 (1)
@@ -3529,13 +3529,13 @@ Serve as department appointing authority and fulfill all duties and responsibili
 authority.
 (Code 1961, § 2-431; Ord. No. 17555, § 2, 7-13-88; Ord. No. 22460, § 1, 3-23-05)
 #### DIVISION 10.5. - DEPARTMENT OF CAPITAL PROJECTS
-#####   
+##### Sec. 2-259. - Department and positions of director created.  
 
 The department of capital projects and public works coordination and position of director of capital projects and
 public works coordination is hereby created to assist the department of public works in its duties and
 responsibilities.
 (Ord. No. 19877, § 1, 11-20-96; Ord. No. 23051, § 1, 5-9-07)
-#####   
+##### Sec. 2-260. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of capital projects shall possess the following qualifications:
@@ -3558,7 +3558,7 @@ grade for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 18, adopted Feb. 6, 2019, amended § 2-260 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-261. - Duties of director.  
 
 The director of capital projects shall assist all parish departments in the following functions:
 (1)
@@ -3624,12 +3624,12 @@ Secs. 2-262—2-270. - Reserved.
 #### DIVISION 11. - DEPARTMENT OF SEWERAGE
 Footnotes:
 --- (26) --Cross reference— Sewerage, § 27-16 et seq.; drainage and sewage disposal, § 27-142 et seq.
-#####   
+##### Sec. 2-271. - Department and position of director created.  
 
 The department of sewerage and the position of director of sewerage is hereby created to assist the public works
 department.
 (Code 1961, § 2-440; Ord. No. 17556, § 1, 7-13-88)
-#####   
+##### Sec. 2-272. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of sewerage shall have a four-year degree in civil or sanitary engineering with five
@@ -3645,7 +3645,7 @@ for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 19, adopted Feb. 6, 2019, amended § 2-272 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-273. - Duties of director.  
 
 The director of sewerage shall assist the public director in directing, controlling and supervising functions of the
 control of sanitary waste within the public sewer system to include its collection, treatment and disposal.
@@ -3654,14 +3654,14 @@ Secs. 2-274—2-285. - Reserved.
 #### DIVISION 12. - DEPARTMENT OF WATER
 Footnotes:
 --- (27) --Cross reference— Water, § 27-175 et seq.
-#####   
+##### Sec. 2-286. - Department and position of director created.  
 
 The department of water and the position of director of water are hereby created, which department and position
 shall have direct administrative supervision over water functions of the parish; shall direct, control and supervise
 the functions of providing a safe and potable water supply to all parts of the parish; and shall coordinate all
 activities pertaining thereto.
 (Code 1961, § 2-490)
-#####   
+##### Sec. 2-287. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of water shall have a four-year degree in civil, sanitary, chemical engineering, or
@@ -3677,7 +3677,7 @@ the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 20, adopted Feb. 6, 2019, amended § 2-287 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-288. - Duties of director.  
 
 The director of water shall:
 (1)
@@ -3705,13 +3705,13 @@ Secs. 2-289—2-300. - Reserved.
 Footnotes:
 --- (28) --Cross reference— One stop development services office, § 2-875.25 et seq.; roads and bridges, Ch. 29; traffic
 and motor vehicles, Ch. 36.
-#####   
+##### Sec. 2-301. - Department and position of director created.  
 
 The department of public works and the position of director of public works are hereby created which
 department and position shall have direct administrative supervision over the sewerage, water, drainage, streets,
 engineering and parkway functions of the parish.
 (Code 1961, § 2-450; Ord. No. 17552, § 2, 7-13-88)
-#####   
+##### Sec. 2-302. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of public works shall possess the following qualifications:
@@ -3733,7 +3733,7 @@ grade for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 21, adopted Feb. 6, 2019, amended § 2-302 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-303. - Duties of director.  
 
 The director of public works shall:
 (1)
@@ -3819,7 +3819,7 @@ Assist the parish attorney's office with technical related issues pertaining to 
 Serve as an advisor on the technical evaluation committee.
 ( Ord. No. 25928 , § 1, 12-18-19)
 #### DIVISION 13.5. - DEPARTMENT OF ECOSYSTEM AND COASTAL MANAGEMENT
-#####   
+##### Sec. 2-304. - Department of ecosystem and coastal management created.  
 
 
 There is hereby created the department of ecosystem and coastal management and the position of director of
@@ -3827,7 +3827,7 @@ ecosystem and coastal management to serve the parish, oversee ecosystem and coas
 management responsibilities in Jefferson Parish, and provide an integrated, holistic approach to the restoration
 and management of the coastal and floodplain ecosystems and environments that comprise Jefferson Parish.
 ( Ord. No. 25964 , § 1, 3-11-20)
-#####   
+##### Sec. 2-305. - Qualifications, appointment, and salary for director of ecosystem and coastal management.  
 
 (a)
 Qualification. The Director of Ecosystem and Coastal Management shall be qualified by education with a
@@ -3841,7 +3841,7 @@ the approval of the council.
 Salary. The salary of the director of ecosystem and coastal management shall be established by the parish
 president within the pay grade for the position as defined in the executive pay plan.
 ( Ord. No. 25964 , § 1, 3-11-20)
-#####   
+##### Sec. 2-306. - Duties of the director of ecosystem and coastal management—Generally.  
 
 The director of ecosystem and coastal management's duties shall include but are not limited to the following:
 (a)
@@ -3894,12 +3894,12 @@ department of coastal management and derived from Ord. No. 25185 , § 1, adopted
 25736 , § 22, adopted Feb. 6, 2019; and Ord. No. 25846 , §§ 1, 2, adopted Aug. 21, 2019.
 Secs. 2-316—2-330. - Reserved.
 #### DIVISION 15. - DEPARTMENT OF CENTRAL GARAGE
-#####   
+##### Sec. 2-331. - Department and position of director created.  
 
 The department of central garage and the position of director of central garage is hereby created, which
 department and position shall have direct administrative supervision over repair and maintenance of all parishowned vehicles and heavy equipment.
 (Code 1961, § 2-470)
-#####   
+##### Sec. 2-332. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of central garage shall be qualified by professional training and at least four (4)
@@ -3916,7 +3916,7 @@ grade for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 23, adopted Feb. 6, 2019, amended § 2-332 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-333. - Duties of director.  
 
 The director of central garage shall:
 (1)
@@ -3941,12 +3941,12 @@ Secs. 2-334—2-345. - Reserved.
 #### DIVISION 16. - DEPARTMENT OF STREETS
 Footnotes:
 --- (31) --Cross reference— Roads and bridges, Ch. 29.
-#####   
+##### Sec. 2-346. - Department and position of director created.  
 
 The department of streets and the position of director of streets is hereby created to assist the department of
 public works in his duties and responsibilities.
 (Code 1961, § 2-480)
-#####   
+##### Sec. 2-347. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of streets shall be qualified by education and at least five (5) years of related
@@ -3961,7 +3961,7 @@ the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 24, adopted Feb. 6, 2019, amended § 2-347 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-348. - Duties of director.  
 
 
 The director of streets shall assist the public works director in directing, controlling and supervising the
@@ -3980,12 +3980,12 @@ Footnotes:
 --- (32) --Editor's note— Ord. No. 23957, § 5, adopted February 2, 2011, amended the title of Div. 16.5 to read as herein
 set out. Prior to inclusion of said ordinance, Div. 16.5 pertained to similar subject matter. See also the Code
 Comparative Table.
-#####   
+##### Sec. 2-349. - Department and position of director created.  
 
 The department of parkways and position of director of parkways are hereby created to assist the department of
 public works in its duties and responsibilities.
 (Ord. No. 17550, § 1, 7-13-88; Ord. No. 23957, § 6, 2-2-11)
-#####   
+##### Sec. 2-350. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of parkways shall be qualified by education, training and at least five (5) years of
@@ -4001,7 +4001,7 @@ for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 25, adopted Feb. 6, 2019, amended § 2-350 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-351. - Duties of director.  
 
 The director of parkways shall:
 (1)
@@ -4033,13 +4033,13 @@ Secs. 2-361—2-375. - Reserved.
 #### DIVISION 18. - DEPARTMENT OF PARKS AND RECREATION
 Footnotes:
 --- (34) --Cross reference— Parks and recreation, Ch. 21.
-#####   
+##### Sec. 2-376. - Department and position of director created.  
 
 The department of parks and recreation and the position of director of parks and recreation are hereby created,
 which department and position shall have direct administrative supervision over parks and recreation functions
 of the parish.
 (Code 1961, § 2-385; Ord. No. 22510, § 4, 5-25-05; Ord. No. 23957, § 3, 2-2-11)
-#####   
+##### Sec. 2-377. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of parks and recreation shall be qualified by education, training and at least five (5)
@@ -4055,7 +4055,7 @@ pay grade for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 26, adopted Feb. 6, 2019, amended § 2-377 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-378. - Duties of director—Generally.  
 
 The director of parks and recreation shall:
 (1)
@@ -4085,13 +4085,13 @@ Coordinate budget formulation and management activities in the parks and recreat
 (Code 1961, § 2-386; Ord. No. 17438, § I, 2-10-88; Ord. No. 22510, § 4, 5-25-05; Ord. No. 23957, § 4, 2-2-11;
 Ord. No. 25861 , § 6, 9-18-19)
 #### DIVISION 18.5 - DEPARTMENT OF LAFRENIERE PARK
-#####   
+##### Sec. 2-379. - Department and position of director created.  
 
 The Department of Lafreniere Park and the position of Director of Lafreniere Park are hereby created to assist
 the department of parks and recreation, which this department and position shall have direct administrative
 supervision over Lafreniere Park.
 (Ord. No. 25861 , § 2, 9-18-19)
-#####   
+##### Sec. 2-380. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The Director of Lafreniere Park shall be qualified by:
@@ -4108,7 +4108,7 @@ the council.
 Salary. The salary of the director of parks and recreation shall be established by the parish president within the
 pay grade for the position as defined in the executive pay plan.
 (Ord. No. 25861 , § 3, 9-18-19)
-#####   
+##### Sec. 2-381. - Duties of the director—Generally.  
 
 The Director of Lafreniere Park shall:
 (1)
@@ -4142,12 +4142,12 @@ Secs. 2-382—2-390. - Reserved.
 #### DIVISION 19. - DEPARTMENT OF LIBRARY
 Footnotes:
 --- (35) --Cross reference— Library board, § 2-631 et seq.; library, Ch. 18.
-#####   
+##### Sec. 2-391. - Department and position of director created.  
 
 The department of library and the position of director of library are hereby created, which department and
 position shall have direct administrative supervision over the parish public library and its branches.
 (Code 1961, § 2-500)
-#####   
+##### Sec. 2-392. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of library shall be qualified by education, training and prior administrative and/or
@@ -4162,7 +4162,7 @@ the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 27, adopted Feb. 6, 2019, amended § 2-392 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-393. - Duties of director.  
 
 The director of library shall:
 (1)
@@ -4193,14 +4193,14 @@ substantive provisions of this division, relating to the department of animal an
 references to "department of animal welfare and control" and "department of animal and pest control" to "animal
 shelter department." See the Code Comparative Table.
 Cross reference— Animal and fowl, Ch. 7.
-#####   
+##### Sec. 2-406. - Department and position of director created.  
 
 The animal shelter department and the position of director of the animal shelter department are hereby created,
 which department and position shall have direct administrative supervision over the animal shelter and animal
 welfare and control functions of the parish, including but not limited to the enforcement of animal welfare
 ordinances and for the collection, impounding, seizing or holding, care and disposal of animals in the parish.
 (Ord. No. 18471, § 4, 2-19-92; Ord. No. 20257, § 1, 1-14-98)
-#####   
+##### Sec. 2-407. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of the animal shelter department shall be qualified by education, training, and
@@ -4225,7 +4225,7 @@ grade for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 28, adopted Feb. 6, 2019, amended § 2-407 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-408. - Duties of the director.  
 
 The director of the animal shelter department shall:
 (1)
@@ -4252,13 +4252,13 @@ Footnotes:
 pertained to the Department of Parc Des Familles. See also the Code Comparative Table.
 Sec. 2-415—2-420. - Reserved.
 #### DIVISION 21. - DEPARTMENT OF JEFFERSON COMMUNITY ACTIONS PROGRAMS
-#####   
+##### Sec. 2-421. - Department and position of director created.  
 
 The department of Jefferson Community Actions Programs (Jeffcap) and the position of director of Jefferson
 Community Actions Programs are hereby created, which department and position shall have direct
 administrative supervision over Jefferson Community Actions Programs functions of the parish.
 (Code 1961, § 2-310)
-#####   
+##### Sec. 2-422. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The Director of Jefferson Community Actions Programs (Jeffcap) shall be qualified by
@@ -4274,7 +4274,7 @@ president within the pay grade for the position as defined in the executive pay 
 Editor's note— Ord. No. 25736 , § 29, adopted Feb. 6, 2019, amended § 2-422 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-423. - Duties of director.  
 
 The Director of Jefferson Community Actions Programs shall:
 (1)
@@ -4296,13 +4296,13 @@ Other such activities and/or responsibilities as the parish president may direct
 (Code 1961, § 2-311; Ord. No. 24676, § 1, 2-5-14)
 Secs. 2-424—2-430. - Reserved.
 #### DIVISION 22. - DEPARTMENT OF COMMUNITY DEVELOPMENT PROGRAMS
-#####   
+##### Sec. 2-431. - Department and position of director created.  
 
 The department of community development programs and the position of director of community development
 programs are hereby created, which department and position shall have direct administrative supervision over
 community development program functions of the parish.
 (Code 1961, § 2-320)
-#####   
+##### Sec. 2-432. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of community development programs shall be qualified by education, training and
@@ -4318,7 +4318,7 @@ president within the pay grade for the position as defined in the executive pay 
 Editor's note— Ord. No. 25736 , § 30, adopted Feb. 6, 2019, amended § 2-432 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-433. - Duties of director.  
 
 The director of community development programs shall:
 (1)
@@ -4340,13 +4340,13 @@ Secs. 2-434—2-440. - Reserved.
 Footnotes:
 --- (38) --Editor's note— Ord. No. 21964, § 1, adopted Aug. 6, 2003, amended the title of Div. 23 from "department of
 employment and training" to "department of workforce connection." See also the Code Comparative Table.
-#####   
+##### Sec. 2-441. - Department and position of director created.  
 
 The department of workforce connection and the position of director of workforce connection are hereby
 created, which department and position shall have direct administrative supervision over workforce connection
 functions of the parish.
 (Code 1961, § 2-330; Ord. No. 18380, § 1, 10-2-91; Ord. No. 21964, § 1, 8-6-03)
-#####   
+##### Sec. 2-442. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of workforce connection shall be qualified by education, training and administrative
@@ -4362,7 +4362,7 @@ pay grade for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 31, adopted Feb. 6, 2019, amended § 2-442 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-443. - Duties of director.  
 
 The director of workforce connection shall:
 (1)
@@ -4384,7 +4384,7 @@ Secs. 2-444—2-455. - Reserved.
 #### DIVISION 24. - DEPARTMENT OF HUMAN RESOURCE MANAGEMENT
 Footnotes:
 --- (39) --Cross reference— Personnel, Ch. 23.
-#####   
+##### Sec. 2-456. - Department and position of director created.  
 
 The department of human resource management and the position of director of human resource management are
 hereby created, which department and position shall have direct administrative supervision over human resource
@@ -4393,7 +4393,7 @@ claims, EEOC response, unemployment compensation claims functions of the parish,
 law, substance testing, labor relations, judicial and executive pay plan administration, and the administration and
 management of parish-wide safety programs and initiatives.
 (Code 1961, § 2-340; Ord. No. 17050, § I, 10-8-86; Ord. No. 18381, § 1, 10-2-91; Ord. No. 21410, § 2, 10-1001; Ord. No. 21526, § 2, 2-27-02; Ord. No. 24600, § 1, 10-16-13)
-#####   
+##### Sec. 2-457. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of human resource management shall be qualified by education, training and prior
@@ -4406,7 +4406,7 @@ approval of the council.
 Salary. The salary of the director of the department of human resource management shall be established by the
 parish president within the pay grade for the position as defined in the executive pay plan.
 (Code 1961, § 2-342; Ord. No. 17731, § 1, 4-19-89; Ord. No. 18381, § 1, 10-2-91; Ord. No. 21410, § 2, 10-1001; Ord. No. 21526, § 2, 2-27-02; Ord. No. 25736 , § 32, 2-6-19)
-#####   
+##### Sec. 2-458. - Duties of director.  
 
 The director of human resource management shall:
 (1)
@@ -4463,14 +4463,14 @@ Footnotes:
 department of training and development, derived from Ord. No. 17050, § II, adopted Oct. 8, 1986. See now § 2458.
 Secs. 2-465—2-470. - Reserved.
 #### DIVISION 25. - DEPARTMENT OF ENVIRONMENTAL AFFAIRS
-#####   
+##### Sec. 2-471. - Department and position of director created.  
 
 The department of environmental affairs and the position of director of environmental affairs are hereby created,
 which department and position shall have direct administrative supervision over environmental services
 functions of the parish and all aspects of solid waste management, mosquito control, and public works
 environmental permitting.
 (Ord. No. 20898, § 2, 2-23-00)
-#####   
+##### Sec. 2-472. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of the department of environmental affairs shall be qualified by education, training
@@ -4488,7 +4488,7 @@ president within the pay grade for the position as defined in the executive pay 
 Editor's note— Ord. No. 25736 , § 33, adopted Feb. 6, 2019, amended § 2-472 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-473. - Duties of director.  
 
 The
 director of environmental affairs shall:
@@ -4524,7 +4524,7 @@ Formulate and evaluate operating policies, programs and procedures relating to t
 (Ord. No. 20898, § 2, 2-23-00)
 Secs. 2-474—2-485. - Reserved.
 #### DIVISION 26. - DEPARTMENT OF CITIZENS' AFFAIRS
-#####   
+##### Sec. 2-486. - Department and position of director created.  
 
 The department of citizens' affairs and the position of director of citizens' affairs are hereby created, which
 department and position shall have direct administrative supervision over all requests and complaints received
@@ -4536,7 +4536,7 @@ events requiring permits in Jefferson Parish and the formulation and coordinatio
 awareness campaigns in Jefferson Parish. Additionally, the department and position shall exercise administrative
 supervision and coordination of all duties, responsibilities and activities related to citizens' with disabilities.
 (Ord. No. 24724, § 4, 4-9-14; Ord. No. 25927 , § 1, 12-18-19)
-#####   
+##### Sec. 2-487. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of citizens' affairs shall be qualified by education, training and commensurate
@@ -4552,7 +4552,7 @@ grade for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 34, adopted Feb. 6, 2019, amended § 2-487 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-488. - Duties of the director; generally.  
 
 The director of citizens' affairs shall:
 (1)
@@ -4601,14 +4601,14 @@ community outreach.
 (Ord. No. 24724, § 4, 4-9-14; Ord. No. 25927 , § 1, 12-18-19)
 Secs. 2-489—2-492. - Reserved.
 #### DIVISION 26.2. - OFFICES OF SENIOR CITIZENS' SERVICES
-#####   
+##### Sec. 2-493. - Office of senior citizens' services and position of coordinator created.  
 
 The office of senior citizens' services and the position of the coordinator of the office of senior citizens' services
 are hereby created, which office and position shall have direct administrative supervision over senior citizens'
 services functions of the parish, and direct administrative supervision for all duties, responsibilities and activities
 related to the office of senior citizens' services.
 (Ord. No. 24724, § 5, 4-9-14; Ord. No. 25927 , § 2, 12-18-19)
-#####   
+##### Sec. 2-494. - Coordinator—Qualifications, appointment, and salary of coordinator.  
 
 (a)
 Qualifications. The coordinator of the office of senior citizens' services shall be qualified by education, training,
@@ -4621,7 +4621,7 @@ with the approval of the council.
 Salary. The salary of the coordinator of the office of senior citizens' services shall be established by the parish
 president within the pay grade for the position as defined in the executive pay plan.
 (Ord. No. 24724, § 5, 4-9-14; Ord. No. 25736 , § 35, 2-6-19)
-#####   
+##### Sec. 2-495. - Same—Duties.  
 
 The coordinator of the office of senior citizens services shall:
 (1)
@@ -4634,13 +4634,13 @@ Serve as liaison between the parish president, the advisory board for the elderl
 Aging, Inc.
 (Ord. No. 24724, § 5, 4-9-14; Ord. No. 25927 , § 2, 12-18-19)
 #### DIVISION 26.3 - OFFICE OF FILM JEFFERSON
-#####   
+##### Sec. 2-496. - Office of Film Jefferson and position of film coordinator created.  
 
 There is hereby created the division of film to serve the Parish of Jefferson and to oversee all filming and
 production responsibilities in Jefferson Parish and assist the director of citizens' affairs in coordinating special
 events and marketing strategies for Jefferson Parish under the department of citizens' affairs.
 (Ord. No. 24902 , § 1, 2-11-15; Ord. No. 25206 , § 1, 8-24-16)
-#####   
+##### Sec. 2-497. - Qualifications, appointment and salary for the coordinator.  
 
 (a)
 Qualifications. The film coordinator shall be qualified by education, training, and administrative and/or
@@ -4654,7 +4654,7 @@ position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 36, adopted Feb. 6, 2019, amended § 2-497 and in so doing changed the title
 from "Qualifications, appointment and salary of the film coordinator" to "Qualifications, appointment and salary
 of coordinator," as set out herein.
-#####   
+##### Sec. 2-498. - Duties of the film coordinator—Generally.  
 
 The film coordinator's duties shall include but are not limited to the following:
 (1)
@@ -4691,13 +4691,13 @@ Appears on radio and television to share information as directed and approved.
 Meets with business people in the community as directed and/or required.
 (Ord. No. 24902 , § 1, 2-11-15; Ord. No. 25206 , § 2, 8-24-16)
 #### DIVISION 26.4. - OFFICE OF CROSS-CULTURAL COMMUNITY OUTREACH
-#####   
+##### Sec. 2-499. - Office of cross-cultural community outreach created.  
 
 There is hereby created the office of cross-cultural community outreach to serve the Parish of Jefferson by
 strengthening diverse cultural relationships through building capacity, professional partnership development, and
 managing community outreach and external communication for diverse communities.
 (Ord. No. 25221 , § 1, 9-21-16; Ord. No. 25927 , § 3, 12-18-19)
-#####   
+##### Sec. 2-500. - Qualifications, appointment and salary for the coordinator.  
 
 (a)
 Qualifications. The cross-cultural community outreach coordinator shall be qualified by education, training, and
@@ -4741,7 +4741,7 @@ Footnotes:
 --- (42) --Editor's note— Ord. No. 21662, § 1, adopted Sept. 11, 2002, renumbered Ch. 2, Art. VI, Div. 19.5, §§ 2-780—
 2-780.2 as Ch. 2. Art. V, Div. 28, §§ 2-509—2-509.2, as set out herein. See the Code Comparative Table for a
 detailed analysis of inclusion of Ord. No. 21662.
-#####   
+##### Sec. 2-509. - Agency and position of director created.  
 
 A department to be known as the community justice agency and the position of director of the community
 justice agency are hereby created, which department and position shall have direct administrative supervision
@@ -4812,7 +4812,7 @@ functions.
 Footnotes:
 --- (43) --Editor's note— Ord. No. 21662, § 2, adopted Sept. 11, 2002, renumbered Ch. 2, Art. V, Div. 28, §§ 2-510—2512, as Ch. 2. Art. V, Div. 28.1, §§ 2-510—2-510.2, as set out herein. See the Code Comparative Table for a
 detailed analysis of inclusion of Ord. No. 21662.
-#####   
+##### Sec. 2-510. - Agency and position of director created.  
 
 A department to be known as juvenile services and the position of director of juvenile services are hereby
 created which department and position shall be responsible for operating both residential and community
@@ -4857,7 +4857,7 @@ Footnotes:
 --- (44) --Editor's note— Ord. No. 21662, § 3, adopted Sept. 11, 2002, renumbered Ch. 2, Art. VI, Div. 19.6, §§ 2-780.3
 —2-780.5, as Ch. 2. Art. V, Div. 28.2, §§ 2-511—2-511.2, as set out herein. See the Code Comparative Table for
 a detailed analysis of inclusion of Ord. No. 21662.
-#####   
+##### Sec. 2-511. - Agency and position of director created.  
 
 A department to be known as adult supervision and corrections and the position of director of adult supervision
 and corrections are hereby created, which department and position shall have responsibility for operating all
@@ -4905,16 +4905,16 @@ Footnotes:
 --- (45) --Editor's note— Ord. No. 24691, § 1, adopted March 19, 2014, repealed Division 28.3, §§ 2-512—2-512.2,
 which pertained to administrative and planning services and derived from Ord. No. 21662, § 4, adopted Sept. 11,
 2002.
-#####   
+##### Sec. 2-512. - Reserved.  
 
 #### DIVISION 29. - DEPARTMENT OF TRANSIT ADMINISTRATION
-#####   
+##### Sec. 2-513. - Department and position of director created.  
 
 The department of transit administration and the position of director of transit administration are hereby created,
 which department and position shall have a direct administrative supervision over public transit functions of the
 parish.
 (Ord. No. 24725, § 2—4, 4-9-14)
-#####   
+##### Sec. 2-514. - Qualifications, appointment and salary of director.  
 
 (a)
 Qualifications. The director of transit administration will be qualified by education, training and prior
@@ -4929,7 +4929,7 @@ the pay grade for the position as defined in the executive pay plan.
 Editor's note— Ord. No. 25736 , § 40, adopted Feb. 6, 2019, amended § 2-514 and in so doing changed the title
 from "Qualifications and appointment of director" to "Qualifications, appointment and salary of director," as set
 out herein.
-#####   
+##### Sec. 2-515. - Duties of director.  
 
 The director of transit administration shall:
 (1)
@@ -5493,7 +5493,7 @@ Ord. No. 17466, § 1, 3-9-88; Ord. No. 17488, § 1, 4-13-88; Ord. No. 17549, § 
 1-8-92; Ord. No. 18462, §§ 8—10, 2-5-92; Ord. No. 19171, § 5, 9-7-94; Ord. No. 20166, §§ 1—3, 10-22-97;
 Ord. No. 21328, § 1, 7-18-01; Ord. No. 21538, § 4, 3-20-02; Ord. No. 21734, § 2, 12-11-02; Ord. No. 24291, §
 1, 6-13-12; Ord. No. 24816 , §§ 1, 2, 8-27-14; Ord. No. 25018 , § 6, 9-23-15; Ord. No. 24050 , §§ 1, 4, 6, 7-2711; Ord. No. 25897 , §§ 2, 3, 5, 11-6-19; Ord. No. 25898 , §§ 2—8, 11-6-19; Ord. No. 25959 , §§ 3, 6, 2-12-20)
-#####   
+##### Sec. 2-517. - Per diem and expense limitations for boards, committees, commissions and other authorities.  
 
 (a)
 Except as otherwise provided in subsection (b), each member of any Jefferson Parish board, committee,
@@ -5515,7 +5515,7 @@ Editor's note— It should be noted that § 6 of Ord. No. 23316, adopted May 21,
 23211, adopted December 12, 2007, will not be applied retroactively unless any board member received the
 maximum per diem established in Ordinance No. 23211, adopted December 12, 2007, without the correlating
 Section of the Code of Ordinances being amended."
-#####   
+##### Sec. 2-518. - Adherence to Louisiana Public Meetings Law.  
 
 (a)
 All boards, committees and commissions operating under the governing authority of Jefferson Parish shall
@@ -5542,7 +5542,7 @@ committees and commissions. However, such boards, committees and commissions sha
 summaries of their meetings and actions taken by them to the parish council clerk within ten (10) working days
 of each meeting. The clerk shall distribute copies of the summaries to each councilman.
 (Ord. No. 21328, § 2, 7-18-01)
-#####   
+##### Sec. 2-519. - Criteria for membership of certain boards, committees and authorities.  
 
 (a)
 No person shall serve simultaneously as a member on any two (2) or more of the following boards, committees
@@ -5588,7 +5588,7 @@ duration of the member's term of service on the board, committee or authority fo
 submitted.
 (Ord. No. 23748, § 1, 2-10-10; Ord. No. 24697, § 1, 3-19-14; Ord. No. 25018 , § 7, 9-23-15; Ord. No. 25088 , §
 1, 2-17-16)
-#####   
+##### Sec. 2-520. - Staff serving boards, committees, commissions, and other agencies.  
 
 The parish council shall serve as the appointing authority of staff serving the planning advisory board and the
 board of zoning adjustments.
@@ -5607,7 +5607,7 @@ request of the city the pension ordinances in their entirety have been included 
 directed to Ch. 23, Art. VII, Div. 3 for up-to-date pensions ordinances in their entirety. Subsequently, Ord. No.
 Ord. No. 24011, § 2, adopted May 11, 2011, enacted provisions designated as a new Div. 2.3 to read as herein set
 out. See also the Code Comparative Table.
-#####   
+##### Sec. 2-536. - Ethics and compliance commission.  
 
 Pursuant to Section 4.10 of the Jefferson Parish Charter, an ethics and compliance commission is hereby
 established to be administrative, advisory, and quasi-judicial in nature and authorized to review, interpret, render
@@ -5615,7 +5615,7 @@ advisory opinions on all matters that are the subject of its jurisdiction and au
 commission shall perform such other administrative, advisory or quasi-judicial duties as may be assigned to it by
 law, ordinance or resolution.
 (Ord. No. 24011, § 2, 5-11-11)
-#####   
+##### Sec. 2-537. - Composition.  
 
 (1)
 Membership. The commission shall consist of five (5) members, all of whom shall be domiciled in and electors
@@ -5678,7 +5678,7 @@ Investigations. For purposes of an investigation or a hearing, the ethics and co
 administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the
 production of any records which the commission deems relevant or material to an investigation or hearing.
 (Ord. No. 24011, § 2, 5-11-11; Ord. No. 24513, § 1, 6-26-13)
-#####   
+##### Sec. 2-538. - Jurisdiction, powers and authority.  
 
 (a)
 Jurisdiction. The ethics and compliance commission shall be the ethics board or ethics body of Jefferson Parish
@@ -5697,7 +5697,7 @@ promulgate rules regarding the interpretation and enforcement of the parish's or
 pertaining to ethics and standards of conduct, refer cases for investigation on referral or complaint, retain
 counsel, and impose fines.
 (Ord. No. 24011, § 2, 5-11-11)
-#####   
+##### Sec. 2-539. - Advisory opinions.  
 
 The ethics and compliance commission shall prepare and promulgate procedures for requesting official advisory
 opinions pertaining to parish ordinances rules and regulations governing ethics and standards of conduct for
@@ -5711,11 +5711,11 @@ Secs. 2-540—2-544. - Reserved.
 #### DIVISION 3. - COASTAL ZONE MANAGEMENT COMMITTEE
 Footnotes:
 --- (54) --Cross reference— Planning and development, Ch. 25.
-#####   
+##### Sec. 2-545. - Created.  
 
 There is hereby created a coastal zone management committee.
 (Code 1961, § 2-45.12(a))
-#####   
+##### Sec. 2-546. - Composition.  
 
 The coastal zone management committee shall be composed of twenty-one (21) members and representing as
 many of the following interests as possible, such as: The oil-gas industry, agriculture and forestry, commercial
@@ -5725,7 +5725,7 @@ member(s), parish planning department, wildlife and fisheries, tourism commissio
 and the parish coastal zone management agency. The membership shall be named by and serve at the pleasure of
 the council.
 (Code 1961, § 2-45.12(a), (b))
-#####   
+##### Sec. 2-547. - Purpose.  
 
 The coastal zone management committee is established for the purpose of verifying additional information that
 must be added to the coastal zone management maps, acting as a communication center for public opinion, for
@@ -5753,14 +5753,14 @@ Footnotes:
 West Bank Sewerage Facilities Advisory Committee. Former § 2-586 derived from Res. No. 34440, adopted
 September 27, 1978. Subsequently, Ord. No. 24291, § 2, adopted June 13, 2012, enacted provisions designated
 as a new Div. 6 to read as herein set out. See also the Code Comparative Table.
-#####   
+##### Sec. 2-586. - Created.  
 
 There is hereby created a public works change order review committee for the purpose of providing input to the
 parish council on certain change orders as specified in section 2-590 herein proposed for publicly-bid contracts
 between Jefferson Parish and any other person, firm or business; and on any matters related to public contracts
 on which the Jefferson Parish Council may from time to time request input from the committee.
 (Ord. No. 24291, § 2, 6-13-12)
-#####   
+##### Sec. 2-587. - Composition; terms.  
 
 (a)
 The public works change order review committee shall be composed of six (6) members.
@@ -5785,12 +5785,12 @@ appointed by the council may be removed by the council at any time during the co
 without cause. Each committee member shall continue to serve beyond the term of his appointment until his
 successor is appointed.
 (Ord. No. 24291, § 2, 6-13-12)
-#####   
+##### Sec. 2-588. - Bylaws.  
 
 The public works change order review committee shall be authorized to adopt procedural rules and regulations
 not inconsistent with the laws of the State of Louisiana and ordinances of the Parish of Jefferson.
 (Ord. No. 24291, § 2, 6-13-12)
-#####   
+##### Sec. 2-589. - Meetings.  
 
 (a)
 The committee shall meet on the Monday prior to every council meeting which has a change order of the type
@@ -5810,7 +5810,7 @@ change order which is the subject of the recommendation on its agenda.
 The committee shall also provide to the council written reasons for each recommendation of denial that the
 committee makes.
 (Ord. No. 24291, § 2, 6-13-12)
-#####   
+##### Sec. 2-590. - Review authorized.  
 
 The public works change order review committee shall review all public works-related change orders which
 increase or decrease the contract amount by either twenty-five (25) percent or more of the original contract
@@ -5819,13 +5819,13 @@ change orders previously approved for the contract, cumulatively increase or dec
 either twenty-five (25) percent or more of the original contract amount or by one hundred fifty thousand dollars
 ($150,000.00) or more.
 (Ord. No. 24291, § 2, 6-13-12)
-#####   
+##### Sec. 2-591. - Voting.  
 
 Each member of the public works change order committee, other than the parish attorney's designee, shall have
 one (1) vote per change order under review with regard to the recommendation that the committee makes to the
 council with regard to the change order.
 (Ord. No. 24291, § 2, 6-13-12)
-#####   
+##### Sec. 2-592. - Other restrictions.  
 
 (a)
 All members of the committee shall serve without compensation.
@@ -5852,7 +5852,7 @@ Footnotes:
 --- (59) --Editor's note— Ord. No. 18993, § 1, adopted Feb. 23, 1994, amended Div. 8, in its entirety, to read as herein set
 out. Former Div. 8 pertained to the consultants selection committee. See the Code Comparative Table.
 Cross reference— Finances, contracts, purchases and sales, § 2-876 et seq.
-#####   
+##### Sec. 2-611. - Created; composition.  
 
 The technical evaluation committee is hereby established for the purpose of evaluating proposals for
 architectural, engineering, surveying, and laboratory and field testing services for parish projects and shall be
@@ -5886,18 +5886,18 @@ two (2) of the following: (i) the director of public works; (ii) the director of
 quorum shall be established by a minimum of five (5) of the foregoing members.
 (Ord. No. 18993, § 1, 2-23-94; Ord. No. 19171, § 1, 9-7-94; Ord. No. 19801, § 1, 8-28-96; Ord. No. 24219, § 1,
 2-15-12; Ord. No. 24268, § 1, 5-9-12; Ord. No. 24651, § 1, 1-15-14; Ord. No. 25018 , § 8, 9-23-15)
-#####   
+##### Sec. 2-612. - Voting.  
 
 Each member of the technical evaluation committee shall have one (1) vote for each selection under
 consideration.
 (Ord. No. 18993, § 1, 2-23-94)
-#####   
+##### Sec. 2-613. - Meetings; bylaws.  
 
 The evaluation committee shall meet as needed, but not less than once a month. The committee shall establish its
 own meeting procedures and bylaws. Written minutes of the meetings shall be taken by a parish employee to be
 designated by the administration.
 (Ord. No. 18993, § 1, 2-23-94)
-#####   
+##### Sec. 2-614. - Terms.  
 
 (a)
 Initial terms of the members of the evaluation committee appointed by professional societies shall be staggered
@@ -5914,7 +5914,7 @@ Any vacancies on the committee shall be filled for the remainder of the unexpire
 manner of appointment specified for the vacant position.
 (Ord. No. 18993, § 1, 2-23-94; Ord. No. 19171, § 2, 9-7-94; Ord. No. 19801, § 2, 8-28-96; Ord. No. 25576 , § 1,
 5-16-18)
-#####   
+##### Sec. 2-615. - Other restrictions.  
 
 (a)
 All members of the committee shall serve without compensation and shall not be employees of the parish except
@@ -5945,7 +5945,7 @@ Secs. 2-616—2-620. - Reserved.
 Footnotes:
 --- (60) --Editor's note— Ord. No. 19171, § 3, adopted Sept. 7, 1994, amended Div. 9 to read as herein set out in §§ 2621—2-623.2. Prior to inclusion of said ordinance, Div. 9, §§ 2-261—2-623, pertained to community
 development projects consultants selection committee. See the Code Comparative Table.
-#####   
+##### Sec. 2-621. - Created; composition.  
 
 The financial evaluation committee is hereby established for the purpose of evaluating proposals for accounting,
 auditing and other financial services for parish projects other than services as bond counsel, and shall be
@@ -5962,17 +5962,17 @@ A representative appointed by the Louisiana Bar Association; and
 The research director or legal analysis director of the research and budget analysis staff of the parish council, or
 their designee.
 (Ord. No. 19171, § 3, 9-7-94; Ord. No. 24460, § 6, 4-17-13; Ord. No. 24652, § 1, 1-15-14)
-#####   
+##### Sec. 2-622. - Voting.  
 
 Each member of the financial evaluation committee shall have one (1) vote for each selection under
 consideration, with the exception of the parish attorney who shall serve as a nonvoting member.
 (Ord. No. 19171, § 3, 9-7-94; Ord. No. 24652, § 2, 1-15-14)
-#####   
+##### Sec. 2-623. - Meetings; bylaws.  
 
 The financial evaluation committee shall meet as needed. The committee shall establish its own by-laws. Written
 minutes of the meeting shall be taken by a parish employee to be designated by the administration.
 (Ord. No. 19171, § 3, 9-7-94)
-#####   
+##### Sec. 2-624. - Terms.  
 
 The member of the financial evaluation committee appointed by the Louisiana Bar Association shall be
 appointed for an initial term of one (1) year. The member of the committee appointed by the Louisiana Society
@@ -5980,7 +5980,7 @@ of Certified Public Accountants shall be appointed for an initial term of two (2
 these members shall be two (2) years. Any vacancy shall be filled for the remainder of the unexpired term, if
 applicable, in the manner of appointment specified for the vacant position.
 (Ord. No. 19171, § 3, 9-7-94; Ord. No. 24652, § 3, 1-15-14)
-#####   
+##### Sec. 2-625. - Other restrictions.  
 
 The restrictions listed in section 2-615 for the technical evaluation committee shall be also applicable to the
 financial evaluation committee and to the members thereof.
@@ -5989,7 +5989,7 @@ financial evaluation committee and to the members thereof.
 Footnotes:
 --- (61) --Editor's note— Ord. No. 25897 , § 8, adopted Nov. 6, 2019, amended the title of Div. 9.5 from "Specialized
 Review Committee" to "Specialized Review Committee for Design-Build Projects," as set out herein.
-#####   
+##### Sec. 2-626. - Created; composition.  
 
 The specialized review committee is hereby established for the purpose of evaluating technical proposals for all
 design-build projects or contracts under consideration by Jefferson Parish and shall be composed of: the public
@@ -6003,24 +6003,24 @@ Secs. 2-627—2-630. - Reserved.
 Footnotes:
 --- (62) --Cross reference— Department of library, § 2-391 et seq.; library, Ch. 18.
 State Law reference— Board of control for public libraries, R.S. 25:214.
-#####   
+##### Sec. 2-631. - Created.  
 
 There is hereby created a library board to be known as the Jefferson Parish Library Board.
 (Code 1961, § 2-33(a))
-#####   
+##### Sec. 2-632. - Composition; terms; appointment.  
 
 The library board shall be composed of seven (7) members, all of whom must be citizens of the parish, one (1)
 member to be appointed by each parish councilman and the member so appointed shall serve at the will of the
 councilman occupying the position of the councilmen making the appointment.
 (Code 1961, § 2-33(b))
-#####   
+##### Sec. 2-633. - Authority.  
 
 The library board shall have the authority to advise and make recommendations to the parish council and the
 administration concerning all facets of the public library system including its policies, operating procedures and
 budget formulation. The library board shall also make recommendations on the selection of the director of the
 library.
 (Code 1961, § 2-33(c))
-#####   
+##### Sec. 2-634. - Additional duties.  
 
 (a)
 The library board shall assist the department of library in publicizing the parish library system and its programs
@@ -6036,7 +6036,7 @@ Board members who miss three (3) consecutive meetings may be subject to removal.
 send a letter of notification to the absent Board member as well as the Council Member who appointed that
 Board member requesting evaluation or resignation of the absent Board member's seat.
 (Code 1961, § 2-33(d); Ord. No. 25963 , § 1, 3-11-20)
-#####   
+##### Sec. 2-635. - Solicitation of gifts.  
 
 The library board shall assist the library division in the solicitation of unconditional gifts to the library system,
 and the board may receive and accept unconditional gifts, donations and contributions from individuals and
@@ -6047,33 +6047,33 @@ regulations of the parish.
 (Code 1961, § 2-33(e))
 Secs. 2-636—2-645. - Reserved.
 #### DIVISION 11. - HISTORICAL COMMISSION
-#####   
+##### Sec. 2-646. - Created.  
 
 There is hereby created an historical commission.
 (Code 1961, § 2-144)
-#####   
+##### Sec. 2-647. - Composition.  
 
 The Jefferson Parish Historical Commission shall consist of seven (7) members, one (1) appointed by each of the
 seven (7) council members, and shall report all findings of historical and archaeological interest to the Jefferson
 Parish Council.
 (Code 1961, § 2-144; Ord. No. 20259, § 1, 1-14-98)
-#####   
+##### Sec. 2-648. - Authority.  
 
 The board has the authority to formulate rules and bylaws for members at large of the historical commission
 without limitation in order to allow all persons interested in the architectural and historical background of the
 parish to become involved in this important work.
 (Code 1961, § 2-145)
-#####   
+##### Sec. 2-649. - Election of officers.  
 
 The commission shall elect from among its members a chairperson, vice chairperson and treasurer; the secretary
 shall be elected from either among the commissioners or from outside the commission, but said secretary shall
 not be a voting member solely by virtue of selection by the commission.
 (Code 1961, § 2-146; Ord. No. 20259, § 2, 1-14-98)
-#####   
+##### Sec. 2-650. - Dues.  
 
 The historical commission, by its rules and bylaws, may charge dues for membership in the commission.
 (Code 1961, § 2-147)
-#####   
+##### Sec. 2-651. - Members to serve on the Jefferson Historical Society of Louisiana.  
 
 All commissioners shall work closely with the Jefferson Historical Society of Louisiana by serving as members
 of the board of directors of said society.
@@ -6085,11 +6085,11 @@ Footnotes:
 comprised Div. 12, Community Arts Commission. Former Div. 12 derived from the Code of 1961, § 2-851.
 Subsequently, Ord. No. 24460, § 1, adopted April 17, 2013, added provisions designated as a new Div. 12 to
 read as herein set out. See also the Code Comparative Table.
-#####   
+##### Sec. 2-661. - Created.  
 
 There is hereby created a committee to be known as the legal services evaluation committee.
 (Ord. No. 24460, § 1, 4-17-13)
-#####   
+##### Sec. 2-662. - Composition.  
 
 The legal services evaluation committee shall be composed of three (3) sitting members of the Jefferson Parish
 Council, to be named and appointed by council resolution. The parish attorney shall serve as an advisor to the
@@ -6097,7 +6097,7 @@ committee and as an ex officio non-voting member on the committee. The committee
 request the attendance of other ad hoc non-voting members at meetings of the committee to provide expert
 advice to the committee regarding the qualifications of attorneys in particular areas of law and legal practice.
 (Ord. No. 24460, § 1, 4-17-13)
-#####   
+##### Sec. 2-663. - Duties and functions.  
 
 (a)
 The legal services evaluation committee shall review and evaluate the statement of qualifications from each
@@ -6146,11 +6146,11 @@ Secs. 2-716—2-730. - Reserved.
 Footnotes:
 --- (68) --Editor's note— Ord. No. 24832 , § 1, adopted Sept. 17, 2014, amended the title of Ch. 2, Art. V., Div. 16 from
 "Community Action Board" to "Community Action Advisory Board," as set out herein.
-#####   
+##### Sec. 2-731. - Created.  
 
 There is hereby created an administrative board which shall be known as the community action advisory board.
 (Code 1961, § 2-100; Ord. No. 24832 , § 2, 9-17-14)
-#####   
+##### Sec. 2-732. - Composition.  
 
 The community action advisory board shall be composed of twenty-one (21) members and seven (7) alternates,
 as follows:
@@ -6190,18 +6190,18 @@ One (1) representative of the Head Start Policy Council;
 (16)
 Three (3) representatives shall serve as at-large members at the request of the Director of JeffCAP.
 (Code 1961, § 2-100; Ord. No. 17961, § 1, 4-4-90; Ord. No. 18462, § 1, 2-5-92; Ord. No. 24832 , § 3, 9-17-14)
-#####   
+##### Sec. 2-733. - Period of service.  
 
 Members of the community action advisory board shall serve for a period of four (4) years; however, in no
 instance shall any member serve more than two (2) consecutive four (4) year terms.
 (Code 1961, § 2-104; Ord. No. 24832 , § 4, 9-17-14)
-#####   
+##### Sec. 2-734. - Appointment of staff director.  
 
 The staff director of the C.A.A., who shall be responsible for the day-to-day operation of the program, including
 all matters pertaining to personnel and finances, shall be appointed by the parish president and the appointee
 shall be subject to the approval of the parish council.
 (Code 1961, § 2-105)
-#####   
+##### Sec. 2-735. - Duties of; compliance with O.  
 E.O. regulations; budget approval; exception from civil service;
 personal regulations.
 (a)
@@ -6217,13 +6217,13 @@ In this regard and considering employment under this program, and as the board c
 it shall be exempt from any and all civil service regulations and personnel regulations of the parish, and shall
 comply solely with the regulations and guidelines of Economic Opportunity Act, as amended.
 (Code 1961, § 2-106; Ord. No. 24832 , § 5, 9-17-14)
-#####   
+##### Sec. 2-736. - Procedure where action of elected officials required.  
 
 In all instances where the authority or approval of any elected officials in the parish shall be required, such
 officials shall give due and proper notice to the administrative board of its intentions to act and shall provide at
 least ten (10) days' notice to the administrative board, and further provide for public hearings in all such matters.
 (Code 1961, § 2-107)
-#####   
+##### Sec. 2-737. - Participation in programs, projects for low income areas.  
 
 The community action advisory board shall further have an opportunity to participate in the development and
 implementation of all programs and projects defined to serve the poor or low income areas, with maximum
@@ -6231,13 +6231,13 @@ feasible participation of residents of the areas and members of the group served
 and to assure these people that its programs and projects are meaningful to and widely utilized by their intended
 beneficiaries.
 (Code 1961, § 2-108; Ord. No. 24832 , § 6, 9-17-14)
-#####   
+##### Sec. 2-738. - Reports to parish president.  
 
 The community action advisory board shall annually submit a written status report to the parish president. These
 reports shall evaluate the community action program and such reports shall be available to the general public
 upon request.
 (Code 1961, § 2-109; Ord. No. 24832 , § 7, 9-17-14)
-#####   
+##### Sec. 2-739. - Authorized to contract, make appointments necessary for programs.  
 
 (a)
 The community action board shall have full authority and power to contract within the limitations provided in
@@ -6248,7 +6248,7 @@ The community action board shall have the authority to appoint neighborhood base
 groups within the area and all necessary communities and boards which are necessary to carry out the purposes
 of the board.
 (Code 1961, § 2-110)
-#####   
+##### Sec. 2-740. - Amendment of division provisions.  
 
 This division may be amended in accordance with O.E.O. regulations and any proposed amendments to the
 division will be published in accordance with the Parish Charter, and special notice shall be given to the
@@ -6280,12 +6280,12 @@ and salary of coordinator and Same—Duties. See also the Code Comparative Table
 #### DIVISION 19. - CRIMINAL JUSTICE COORDINATING COUNCIL
 Footnotes:
 --- (72) --Cross reference— Courts, Ch. 10; sheriff and law enforcement, Ch. 31.
-#####   
+##### Sec. 2-771. - Created.  
 
 There is hereby created a criminal justice coordinating council, which shall be responsible for approving and
 administering grants to benefit criminal justice activities in the Parish of Jefferson.
 (Code 1961, 2-861; Ord. No. 20307, § 1, 3-25-98)
-#####   
+##### Sec. 2-772. - Composition.  
 
 (a) The parish council hereby appoints the following members to the criminal justice coordinating council:
 Parish president; council member at-large, Division A, parish council; council member at-large, Division B,
@@ -6307,16 +6307,16 @@ council.
 (Code 1961, § 2-862(a), (b), (d); Ord. No. 15704, §§ 1, 2, 8-24-83; Ord. No. 18462, § 5, 2-5-92; Ord. No. 19352,
 § 1, 3-22-95; Ord. No. 19899, § 1, 12-11-96; Ord. No. 20785, § 1, 9-22-99; Ord. No. 20901, § 1, 2-23-00; Ord.
 No. 20932, § 1, 4-12-00; Ord. No. 22145, § 1, 3-17-04)
-#####   
+##### Sec. 2-773. - Officers.  
 
 The criminal justice coordinating council shall elect a chairman and vice-chairman and other officers as it deems
 necessary.
 (Code 1961, § 2-862(c))
-#####   
+##### Sec. 2-774. - Compensation.  
 
 The members of the criminal justice coordinating council shall serve without compensation.
 (Code 1961, § 2-862(e))
-#####   
+##### Sec. 2-775. - Functions and duties.  
 
 The criminal justice coordinating council shall have the following functions and duties:
 (1)
@@ -6433,14 +6433,14 @@ Secs. 2-780.12—2-785. - Reserved.
 Footnotes:
 --- (77) --Editor's note— Ord. No. 25897 , § 6, adopted Nov. 6, 2019, amended the title of Div. 20 from "Home Mortgage
 Authority" to "Finance Authority," as set out herein.
-#####   
+##### Sec. 2-786. - Created.  
 
 The creation of the parish home mortgage authority (the "authority") pursuant to that certain trust indenture,
 annexed hereto as exhibit "A" and incorporated herein by reference as if the same were set forth in full herein, is
 hereby approved, ratified and confirmed, and all of the terms and provisions of the trust indenture are hereby
 approved in all respects.
 (Code 1961, § 2-45. 15(a))
-#####   
+##### Sec. 2-787. - Acceptance of beneficial interest.  
 
 In accordance with the provisions of the trust indenture and the Louisiana Public Trust Law contained in Chapter
 2-A of Title 9 of the Louisiana Revised Statutes of 1950, as amended (the "act"), the parish council, on behalf of
@@ -6451,13 +6451,13 @@ trust indenture evidencing the acceptance of such beneficial interest in the aut
 (Code 1961, § 2-45.15(b))
 Secs. 2-788—2-795. - Reserved.
 #### DIVISION 21. - JEFFERSON PARISH HOMELAND SECURITY COMMITTEE
-#####   
+##### Sec. 2-796. - Created.  
 
 There is hereby created the Jefferson Parish Homeland Security Committee which shall be responsible for
 establishing priorities for the expenditure of funds received from the federal government for the enhancement of
 homeland security within Jefferson Parish.
 (Ord. No. 23956, § 1, 2-2-11)
-#####   
+##### Sec. 2-797. - Composition.  
 
 The Jefferson Parish Homeland Security Committee shall be composed of nineteen (19) members, as follows:
 (1)
@@ -6491,7 +6491,7 @@ committee, the rotation will pass to the next mayor whose term on the Jefferson 
 Committee occurs completely within his term as mayor. In such case, the rotation will continue until all mayors
 have served their one-year term or declined such membership at which time a new rotation will be established.
 (Ord. No. 23956, § 1, 2-2-11; Ord. No. 25220 , § 1, 9-21-16; Ord. No. 25979 , § 1, 4-8-20)
-#####   
+##### Sec. 2-798. - Functions and duties.  
 
 (a)
 The Jefferson Parish Homeland Security Committee shall meet as needed to formulate policy and take necessary
@@ -6503,7 +6503,7 @@ Parish.
 The committee shall make recommendations to the Jefferson Parish Council regarding the expenditures of
 Federal Homeland Security grants awarded to Jefferson Parish.
 (Ord. No. 23956, § 1, 2-2-11)
-#####   
+##### Sec. 2-799. - Council ratification of Federal Homeland Security grant expenditures required.  
 
 No expenditure of Federal Homeland Security grant funds granted to Jefferson Parish shall be authorized unless
 and until such expenditures are ratified by resolution of the Jefferson Parish Council.
@@ -6516,7 +6516,7 @@ pertained to the transportation advisory board and derived from Res. No. 65931, 
 Ord. No. 23106, § 1, adopted July 18, 2007.
 Secs. 2-811—2-820. - Reserved.
 #### DIVISION 23. - WEST BANK RAIL TRANSPORTATION AUTHORITY
-#####   
+##### Sec. 2-821. - Created.  
 
 (a)
 Under the authority granted by La. R.S. Title 33, Section 140.71, et seq., there is hereby created a railroad
@@ -6528,7 +6528,7 @@ and human resources of the area by providing job opportunities.
 The railroad development district established under subsection (a) herein shall be known as the West Bank Rail
 Transportation Authority
 (Ord. No. 23976, § 1, 3-16-11)
-#####   
+##### Sec. 2-822. - Board of commissioners; members; officers; agents; and employees.  
 
 (a)
 (1)
@@ -6581,13 +6581,13 @@ may be designated by the board and may contract with and employ attorneys, clerk
 commissioners, superintendents, and other agents and employees and shall fix their compensation and terms of
 employment.
 (Ord. No. 23976, § 1, 3-16-11)
-#####   
+##### Sec. 2-823. - Powers and authority of district; issuance of securities.  
 
 The railroad development district established under section 2-821 herein shall have all the powers and authority
 set forth in La. R.S. Title 33, Sections: 140.73, 140.74, 140.75, 140.76 and 140.79, including all the authority to
 issue bonds, certificates or other evidences of indebtedness as set forth in La. R.S. 33:140.77.
 (Ord. No. 23976, § 1, 3-16-11)
-#####   
+##### Sec. 2-824. - Exemption from taxation.  
 
 The district and all properties owned by the district and income thereon and all bonds, certificates and other
 evidence of indebtedness issued by the district under this division on the interest and income there from shall be
@@ -6597,11 +6597,11 @@ Secs. 2-825—2-830. - Reserved.
 #### DIVISION 24. - ANIMAL SHELTER ADVISORY BOARD
 Footnotes:
 --- (79) --Cross reference— Animals and fowl, Ch. 7.
-#####   
+##### Sec. 2-831. - Created.  
 
 There is hereby created an animal shelter advisory board.
 (Code 1961, § 4-12(b))
-#####   
+##### Sec. 2-832. - Composition of the board.  
 
 The animal shelter advisory board shall be composed of nine (9) members. Each councilperson shall appoint one
 (1) member, the parish president shall appoint two (2) members, and the appointments shall receive concurrence
@@ -6610,7 +6610,7 @@ parish, who hold no other public office or position in the parish, other than a 
 this division. The board shall elect its own chairperson, who shall serve one (1) year or until he is re-elected or
 his successor is elected. The parish attorney or designee shall be the advisor for the board.
 (Code 1961, § 4-12(b); Ord. No. 24103, § 1, 8-31-11)
-#####   
+##### Sec. 2-833. - Authority.  
 
 The animal shelter advisory board is an advisory board and shall have the authority to:
 (a)
@@ -6626,13 +6626,13 @@ recommendations made.
 Formulate recommendations, including amendments to ordinances, along with supporting documentation to the
 animal shelter director.
 (Code 1961, § 4-12(c); Ord. No. 20257, § 1, 1-14-98; Ord. No. 20681, § 1, 5-5-99; Ord. No. 24103, § 2 8-31-11)
-#####   
+##### Sec. 2-834. - Board member terms.  
 
 Board members shall serve at the pleasure of the member's appointing authority. Memberships on the board
 which become vacant due to resignation or termination shall be filled in accordance with the procedures set forth
 in section 2-832 hereinabove.
 (Ord. No. 24103, § 3, 8-31-11; Ord. No. 25089 , § 1, 2-17-16)
-#####   
+##### Sec. 2-835. - Meetings.  
 
 The animal shelter advisory board shall meet regularly as necessary, but not less frequently than once each
 month.
@@ -6641,11 +6641,11 @@ Secs. 2-836—2-840. - Reserved.
 #### DIVISION 25. - EAST JEFFERSON HOSPITAL BOARD
 Footnotes:
 --- (80) --Cross reference— Health and sanitation, Ch. 17.
-#####   
+##### Sec. 2-841. - Created.  
 
 There is hereby created the East Jefferson Hospital Board.
 (Code 1961, § 2-34.1)
-#####   
+##### Sec. 2-842. - Composition; general terms.  
 
 (a)
 The East Jefferson Hospital Board shall be composed of eight (8) regular members and two (2) special members.
@@ -6663,7 +6663,7 @@ Notwithstanding anything to the contrary herein, all board members shall continu
 beyond the designated dates of termination of their terms of appointment until their successors are duly
 appointed by the parish council.
 (Code 1961, § 2-34.1; Ord. No. 16702, § 1, 12-4-85; Ord. No. 18462, § 3, 2-5-92; Ord. No. 19589, § 1, 1-10-96)
-#####   
+##### Sec. 2-843. - Selection of director of hospital; setting of salary and benefits.  
 
 Whenever a vacancy occurs in the position of director/chief executive officer of East Jefferson General Hospital,
 the East Jefferson Hospital Board shall nominate a qualified person for the position, who shall be a resident of
@@ -6678,7 +6678,7 @@ Footnotes:
 --- (81) --Editor's note— Ord. No. 25897 , § 7, adopted Nov. 6, 2019, amended the title of Div. 26 from "West Jefferson
 Medical Center Board" to "Hospital Service District No. 1," as set out herein.
 Cross reference— Health and sanitation, Ch. 17.
-#####   
+##### Sec. 2-851. - Created.  
 
 Pursuant to the Cooperative Endeavor Agreement dated February 26, 2015, between Jefferson Parish Hospital
 Service District No. 1, Louisiana Children's Medical Center, West Jefferson Holdings, LLC, and Children's
@@ -6687,7 +6687,7 @@ Center Board, shall continue as the board of West Jefferson Holding, LLC. Wheref
 Jefferson Parish Hospital Service District No. 1 is hereby created and designated as the Jefferson Parish Hospital
 Service District No. 1 Board.
 (Ord. No. 11723, 7-11-74; Ord. No. 18462, § 4, 2-5-92; Ord. No. 25018 , § 2, 9-23-15)
-#####   
+##### Sec. 2-852. - Composition; terms.  
 
 (a)
 The Jefferson Parish Hospital Service District No. 1 Board shall be composed of eight (8) regular members and
@@ -6709,7 +6709,7 @@ Notwithstanding anything to the contrary herein, all board members shall continu
 beyond the designated dates of termination of their terms of appointment until their successors are duly
 appointed by the parish council.
 (Ord. No. 11723, 7-11-74; Ord. No. 13323, § 1, 3-29-78; Ord. No. 18462, § 4, 2-5-92; Ord. No. 19590, § 1, 110-96; Ord. No. 25018 , § 3, 9-23-15)
-#####   
+##### Sec. 2-853. - Reserved.  
 
 Editor's note— Ord. No. 25018 , § 4, adopted Sept. 23, 2015, repealed § 2-853, which pertained to the selection
 of director of hospital; setting of salary and benefits and derived from Ord. No. 18756, § 2, adopted May 12,
@@ -6728,11 +6728,11 @@ Footnotes:
 --- (83) --Editor's note— Section 10 of Ord. No. 15369, adopted Dec. 1, 1982, repealed Code 1961, § 13-21, concerning
 the manpower area planning council, codified herein as Div. 28, § 2-863. Subsequently, §§ 1—4 of Ord. No.
 15941, adopted March 14, 1984, nonamendatory of the Code, were included as a new Div. 28, §§ 2-863—2-866.
-#####   
+##### Sec. 2-863. - Created.  
 
 There is hereby created a committee to be known as the bid disqualification review committee.
 (Ord. No. 15941, § 1, 3-14-84; Ord. No. 25149 , § 1, 5-11-16)
-#####   
+##### Sec. 2-864. - Composition.  
 
 The bid disqualification review committee shall be composed of one (1) duly authorized representative from
 each of the following departments: finance, research and budget analysis, the parish attorney's office who shall
@@ -6742,7 +6742,7 @@ of the bid disqualification could be based upon the causes enumerated in section
 purchasing director shall not serve as the duly authorized representative of the finance department.
 (Ord. No. 15941, § 2, 3-14-84; Ord. No. 21064, § 1, 8-23-00; Ord. No. 24895 , § 1, 1-28-15; Ord. No. 25149 , §
 1, 5-11-16; Ord. No. 25605 , § 1, 7-25-18)
-#####   
+##### Sec. 2-865. - Review authorized.  
 
 Pursuant to the requirements of the public bid law, R.S. 38:2212 et seq. and related statutes, any low bidder
 sought or proposed to be disqualified from any public contract or purchase order on grounds that such bidder is
@@ -6752,7 +6752,7 @@ review committee shall conduct any such public hearing; and, following which, it
 proposed disqualification and/or otherwise make a determination as to whether the proposed disqualification is
 justified and whether or not the low bidder should, in fact, be disqualified.
 (Ord. No. 15941, § 3, 3-14-84; Ord. No. 25149 , § 1, 5-11-16)
-#####   
+##### Sec. 2-866. - Jurisdiction.  
 
 The bid disqualification review committee is authorized to adopt procedural rules and regulations not
 inconsistent with the laws of the State of Louisiana and ordinances of the Parish of Jefferson. The committee
@@ -6766,12 +6766,12 @@ Footnotes:
 Providers Board" to "9-1-1 Advisory Board," as set out herein.
 Cross reference— Office of telecommunications, § 2-214; E-911 building, § 8-161; communications district, §
 13-61 et seq.
-#####   
+##### Sec. 2-867. - Title.  
 
 This organization shall be known as the Jefferson Parish Communications District 9-1-1 Advisory Board. (Note:
 Informally known as 9-1-1 Advisory Board.)
 (Ord. No. 19305, Art. 1, § 1, 1-11-95)
-#####   
+##### Sec. 2-868. - Board membership.  
 
 (a)
 The board shall be composed of two (2) members representing the Jefferson Parish Sheriff's Office, two (2)
@@ -6809,7 +6809,7 @@ The parish council, as the Jefferson Parish Communication District's governing a
 member who the parish council, in its sole discretion, determines has been malfeasant in his/her duties as a
 board member.
 (Ord. No. 19305, Art. 2, §§ 1—7, 1-11-95; Ord. No. 24053, § I, 7-27-11; Ord. No. 25877 , § 1, 10-2-19)
-#####   
+##### Sec. 2-869. - Objectives of the board.  
 
 [The objects of the board are:]
 (1)
@@ -6827,7 +6827,7 @@ organizations involved with and at the 9-1-1 communications center and/or distri
 (4)
 To respond to the requests of the communications district in the analysis or evaluation of 9-1-1 related issues.
 (Ord. No. 19305, Art. 3, §§ 1—4, 1-11-95)
-#####   
+##### Sec. 2-870. - Duties of the chairman.  
 
 (a)
 The director of the Jefferson Parish Communication District shall act as the chairman of the advisory board and,
@@ -6849,7 +6849,7 @@ The chairman shall inform the board of major issues facing the communications di
 The chairman shall inform the board of planned upgrades, expenditures and/or proposed contracts related to the
 operation of the district.
 (Ord. No. 19305, Art. 4, §§ 1—5, 1-11-95; Ord. No. 25877 , § 2, 10-2-19)
-#####   
+##### Sec. 2-871. - Amendments.  
 
 (a)
 Amendments to the by-laws shall be presented in writing and may be submitted by any member.
@@ -6860,7 +6860,7 @@ prior to the vote on the matter with the vote to be taken at the next regular sc
 Amendments will be adopted by majority vote of the voting members present at the regular meeting provided
 that all stipulations with regards to subject matter regarding service groups has been complied with (section 2872).
 (Ord. No. 19305, Art. 5, §§ 1—3, 1-11-95)
-#####   
+##### Sec. 2-872. - Participating representation.  
 
 Amendments, motions, and other matters that may affect each of the major service providers (EMS, law and
 fire) must be provided to the chairman at least two (2) weeks prior to the regular meeting date in order that they
@@ -6868,7 +6868,7 @@ be placed on the forthcoming meeting agenda. A copy of the proposed agenda will 
 twenty-four (24) hours prior to the regular meeting date. At least one (1) member from each public safety agency
 shall be present for any matters pertaining to the three (3) major agencies prior to any vote.
 (Ord. No. 19305, Art. 6, § 1, 1-11-95; Ord. No. 25877 , § 3, 10-2-19)
-#####   
+##### Sec. 2-873. - Rules of order.  
 
 (a)
 Meetings will be conducted according to Roberts Rules of Order. Only one (1) member shall be entitled to the
@@ -6898,14 +6898,14 @@ understanding that this topic will be entertained again.
 (i)
 A roll call vote may be requested by the member presenting the motion at any time the member requests.
 (Ord. No. 19305, Art. 7, §§ 1—9, 1-11-95)
-#####   
+##### Sec. 2-874. - Voting procedure.  
 
 (a)
 In order to conduct official business a quorum consisting of two-thirds ( 2/3 ) of the members must be present.
 (b)
 For a motion to pass it requires concurrence of two-thirds ( 2/3 ) of those members voting.
 (Ord. No. 19305, Art. 8, §§ 1, 2, 1-11-95)
-#####   
+##### Sec. 2-875. - Order of business.  
 
 [The order of business shall be:]
 (1)
@@ -7564,13 +7564,13 @@ annual budget or any appropriations saved from repeal, § 1-4(6); prefiling of r
 of funds, § 2-34.1; research and budget analysis staff, § 2-66 et seq.; department of finance, § 2-156 et seq.:
 department of general services, § 2-166 et seq.; environmental mitigation fund, § 2-875.23; taxation, ch. 35.
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 2-876. - Purchase of U.  
 S. government surplus.
 The purchase by the department of general services and procurement of surplus materials, supplies or equipment
 offered for sale by the United States government may be made by negotiation, or by bidding, provided that the
 prices paid are less than prices of materials of equal quality offered by regular suppliers.
 (Code 1961, § 2-10.1)
-#####   
+##### Sec. 2-877. - Lease of parish immovables.  
 
 (a)
 Immovable properties classified as public things. Upon finding that a public thing, under the administration of
@@ -7840,7 +7840,7 @@ d.
 Notwithstanding any lease terms to the contrary, every lease under this section shall be evaluated and increased
 according to the Consumer Price Index for All Urban Consumers (CPI-U) every five (5) years.
 (Ord. No. 20706, § 1, 6-9-99; Ord. No. 22777, § 1, 6-28-06; Ord. No. 24870 , § 1, 11-5-14)
-#####   
+##### Sec. 2-878. - Purchase of voter lists.  
 
 (a)
 The department of finance is hereby authorized to make available listings, or gummed labels, of the registered
@@ -7855,7 +7855,7 @@ shall be no exceptions, unless such exceptions are approved by the council.
 The finance director shall annually recommend to the council the amount to be charged for this service, and that
 amount, when approved by the council, shall apply to all requests.
 (Code 1961, § 2-45.7)
-#####   
+##### Sec. 2-879. - Duties concerning budget amendments; requirements for budget transfers, etc.  
 
 (a)
 The council's research and budget analysis staff shall be notified in writing by the initiating parish department or
@@ -7896,7 +7896,7 @@ purchase orders. The finance director is authorized to perform such ancillary tr
 give full force and effect to this section.
 (Code 1961, § 2-7.01; Ord. No. 15414, 2-2-83; Ord. No. 19099, § 1, 6-8-94; Ord. No. 19882, § 1, 11-20-96; Ord.
 No. 20336, § 1, 4-15-98; Ord. No. 20472, § 1, 9-23-98; Ord. No. 24719, § 1, 4-9-14)
-#####   
+##### Sec. 2-880. - Funding source required in certain legislation; availability of funds; identification of accounts.  
 
 (a)
 Any ordinance and resolution which authorizes the use or disbursement of funds or accepts bids shall designate
@@ -7912,7 +7912,7 @@ used.
 Editor's note— Nonamendatory Ord. No. 15650, § 1, adopted July 27, 1983, has been codified as § 2-880 at the
 editor's discretion.
 Cross reference— Meetings and legislation, § 2-30 et seq.
-#####   
+##### Sec. 2-881. - Insufficient funds in payment to parish.  
 
 (a)
 In the event a check is used to make payment of any indebtedness to the parish or in payment of any fee due
@@ -7937,7 +7937,7 @@ the parish financial advisor's opinion that the parish or the special district c
 with a qualified bond underwriting firm or firms to be selected by the Jefferson Parish Council, the council shall
 have the option of proceeding with a negotiated bond sale.
 (Ord. No. 20290, §§ 1, 2, 3-11-98)
-#####   
+##### Sec. 2-882. - Solicitation of proposals from bond underwriters.  
 
 (a)
 Proposals for the receipt of detailed statements of qualifications from bond underwriters interested in purchasing
@@ -7978,7 +7978,7 @@ waiver is deemed to be in the best interest of the parish.
 (Ord. No. 17706, §§ 1—3, 3-15-89; Ord. No. 17842, § 1, 10-25-89)
 Editor's note— Ord. No. 17706, §§ 1—3, adopted Mar. 15, 1989, not specifically amendatory of the Code, has
 been included herein as § 2-882 at the discretion of the editor.
-#####   
+##### Sec. 2-883. - Solicitation of proposals and fees from bond attorneys.  
 
 (a)
 Proposals for the receipt of detailed statements of qualifications from bond attorneys interested in providing the
@@ -7995,7 +7995,7 @@ Fees for the legal work expressed as a percentage of the attorney general's fee 
 (Ord. No. 18338, §§ 1—6, 8-7-91; Ord. No. 20375, § 1, 6-3-98)
 Editor's note— Being not specifically amendatory of the Code, the provisions of §§ 1—6 of Ord. No. 18338,
 adopted Aug. 7, 1991, have been codified herein as § 2-883 at the editor's discretion.
-#####   
+##### Sec. 2-884. - Operating budget format.  
 
 (a)
 The parish administration shall submit to the council a proposed operating budget for each budget year
@@ -8012,7 +8012,7 @@ objectives for which funds are being allocated, examination of the costs of prog
 meet these objectives, and identification and analysis of quantitative data measuring work performed and
 accomplishments, for past budget cycles and future budget cycles.
 (Ord. No. 19098, § 1, 6-8-94; Ord. No. 19319, § 1, 2-8-95)
-#####   
+##### Sec. 2-885. - Notification requirements for holders of credit or debit cards issued by Jefferson Parish.  
 
 (a)
 Each person to whom Jefferson Parish has issued a credit or debit card shall forward copies of the monthly
@@ -8027,7 +8027,7 @@ issued by the card providers. The website posting shall include the names of eve
 parish has issued a public credit or debit card, and each published card statement shall be linked to the name of
 the parish employee to whom the card was issued.
 (Ord. No. 23795, § 1, 4-14-10; Ord. No. 24051, § 1, 7-27-11)
-#####   
+##### Sec. 2-886. - Council district improvement/assistance funds.  
 
 (a)
 Improvement/assistance funds (special revenue funds containing revenues or projects and/or activities funded by
@@ -8125,7 +8125,7 @@ budget for the following fiscal year.
 (Ord. No. 19477, § 1, 9-13-95; Ord. No. 21927, § 1, 7-16-03; Ord. No. 21997, § 1, 9-17-03; Ord. No. 22188, §
 1, 4-28-04; Ord. No. 22394, § 1, 1-12-05; Ord. No. 22443, §§ 1, 4, 5, 3-2-05; Ord. No. 23044, § 1, 4-25-07; Ord.
 No. 23176, § 1, 11-14-07; Ord. No. 24323, § 1, 9-19-12; Ord. No. 24849 , § 1, 10-8-14; Ord. No. 24963 , § 1, 610-15; Ord. No. 25059 , § 1, 12-9-15; Ord. No. 25960 , § 1, 3-11-20)
-#####   
+##### Sec. 2-887. - Confidentiality of trade secrets and proprietary information in contract documents.  
 
 (a)
 Except as otherwise provided by law, all documents submitted to the parish under a contract, bid, request for
@@ -8133,7 +8133,7 @@ proposal (RFP), or statement of qualifications (SOQ) are subject to the Louisian
 et seq., and may be released when a public records request is made by news media, competitors, or other
 interested parties, in accordance with the law.
 (Ord. No. 22628, § 1, 11-16-05; Ord. No. 24261, § 1, 4-18-12)
-#####   
+##### Sec. 2-888. - Dedication of red light camera safety program revenues.  
 
 (a)
 Jefferson Parish's portion of the revenues from the settlement of the matter entitled Redflex Traffic Systems, Inc.
@@ -8203,7 +8203,7 @@ and the amount of the broker's fee is disclosed on the invoice for the placement
 broker's services and that the risk management department provides a copy of said invoice to each member of
 the council within five (5) days of the department's receipt of the invoice.
 (Ord. No. 23750, § 1, 2-10-10)
-#####   
+##### Sec. 2-890. - Certification of proposed contract's compliance with applicable law.  
 
 (a)
 Each proposed contract that is presented to the Jefferson Parish Council Chairman for signature, except for those
@@ -8307,7 +8307,7 @@ ordinance, § 4.02(G).
 State Law reference— Public contracts, R.S. 38:2181 et seq.; applicability of Louisiana Procurement Code to
 political subdivisions, R.S. 39:1554(E); applicability of state procurement code to sole source purchases, R.S.
 39:1597 et seq.
-#####   
+##### Sec. 2-891. - Established.  
 
 (a)
 There is hereby established a uniform set of procedures for the purchase of labor, materials, supplies, equipment,
@@ -8323,13 +8323,13 @@ Jefferson Parish Hospital Service District No. 2;
 Jefferson Parish Economic Development and Port District (JEDCO).
 (Code 1961, § 2-8; Ord. No. 23103, § 4, 7-18-07; Ord. No. 24308, § 2, 8-8-12; Ord. No. 24355, § 2, 10-10-12;
 Ord. No. 24536, § 1, 7-24-13; Ord. No. 24789 , § 4, 7-23-14; Ord. No. 25018 , § 9, 9-23-15)
-#####   
+##### Sec. 2-892. - Authority of purchasing department.  
 
 All purchases of labor, materials, supplies, services (other than professional services) and public works will be
 made by the purchasing department. All departments will submit all requisitions to the purchasing department
 and will not undertake to purchase or contract with any vendor, except as authorized in this division.
 (Code 1961, § 2-8(a)(1); Ord. No. 23103, § 5, 7-18-07)
-#####   
+##### Sec. 2-893. - Brand names.  
 
 (a)
 Brand names will not be used for the purpose of eliminating competition. When a requisition is received by the
@@ -8342,13 +8342,13 @@ and that equivalent products will be acceptable.
 When the requisitioning department has knowledge that only a certain brand or make will fulfill the department's
 requirements, this information will be given in writing to the purchasing department with the reason outlined.
 (Code 1961, § 2-8(a)(2); Ord. No. 23103, § 6, 7-18-07)
-#####   
+##### Sec. 2-894. - Standard specifications.  
 
 The purchasing department shall maintain specifications of materials, equipment and services for normal
 purchases. These specifications will be developed with the cooperation of the department heads. The criteria
 shall be the most suitable products and services at the best available price.
 (Code 1961, § 2-8(a)(3); Ord. No. 20327, § 1, 4-15-98; Ord. No. 23103, § 7, 7-18-07)
-#####   
+##### Sec. 2-895. - Request for proposal (RFP) process.  
 
 The following request for proposal (RFP) process shall be used to obtain nonprofessional service(s) or
 nonstandard item(s) costing fifteen thousand dollars ($15,000.00) or more when the competitive sealed bid
@@ -8548,7 +8548,7 @@ after bids have been opened and tabulated.
 Removal of names. If a vendor or business on the bidders list does not respond to six (6) consecutive invitations
 for bids, its name may be removed from the bidders list.
 (Ord. No. 16832, § 1, 3-19-86; Ord. No. 23103, § 8, 7-18-07)
-#####   
+##### Sec. 2-896. - Services under annual contracts.  
 
 (a)
 Purchases of all services, other than professional services, under annual contract, such as office machine,
@@ -8566,13 +8566,13 @@ than contracts acquired by request for proposals or statements of qualifications
 thousand dollars ($50,000.00) per year shall not include a clause providing for an option for renewal or
 extension of said contract.
 (Code 1961, § 2-8(a)(5); Ord. No. 20327, § 1, 4-15-98; Ord. No. 21617, § 1, 7-17-02; Ord. No. 23252, § 1, 2-1308; Ord. No. 23942, § 2, 1-12-11; Ord. No. 24720, § 1, 4-9-14)
-#####   
+##### Sec. 2-897. - Planning, requisitioning.  
 
 Departments shall submit their requirements costing less than two thousand five hundred dollars ($2,500.00) at
 least three (3) weeks in advance, and requirements in excess of two thousand five hundred dollars ($2,500.00)
 shall be requisitioned at least forty-five (45) days in advance.
 (Code 1961, § 2-8(a)(6))
-#####   
+##### Sec. 2-898. - Consolidation, advertising for bids.  
 
 (a)
 In order to ensure the most advantageous buying, purchases of like items will be consolidated by the purchasing
@@ -8581,7 +8581,7 @@ department for the parish as a whole.
 The purchasing department is charged with the responsibility of coordinating such purchases, and the initiating
 departments shall cooperate in this respect.
 (Code 1961, § 2-8(a)(7); Ord. No. 23103, § 9, 7-18-07)
-#####   
+##### Sec. 2-899. - Receipt, inspection of goods.  
 
 (a)
 When goods are received by the initiating department, such goods are to be inspected as to quality and quantity,
@@ -8595,7 +8595,7 @@ conjunction with a computerized financial managerial system, such "electronic si
 acceptable and not list nor sample signature shall be required. Immediately upon receipt of the goods ordered,
 the proof of delivery document must be forwarded to the purchasing department.
 (Code 1961, § 2-8(a)(8); Ord. No. 20027, § 1, 5-21-97; Ord. No. 23103, § 10, 7-18-07)
-#####   
+##### Sec. 2-900. - Purchases from petty cash funds.  
 
 Purchases from any petty cash fund must be only for items so small in quantity that there would be no apparent
 savings had such purchases been made by the purchasing department. All such single purchases in excess of two
@@ -8604,14 +8604,14 @@ department of finance to ensure against the practice of making several small pur
 period of time when the combination of these purchases could have resulted in a quantity sufficient to effect a
 savings.
 (Code 1961, § 2-8(a)(9); Ord. No. 17886, § 1, 11-29-89; Ord. No. 18651, § 1, 12-16-92; Ord. No. 19379, § 1, 426-95; Ord. No. 20327, § 1, 4-15-98; Ord. No. 23103, § 11, 7-18-07)
-#####   
+##### Sec. 2-901. - Inspection of contracts.  
 
 
 Formal contracts for public works and the purchase of goods and services, including professional services, will
 be inspected and approved by the applicable department director, the department of law and the finance director
 before final execution.
 (Code 1961, § 2-8(a)(10); Ord. No. 23103, § 12, 7-18-07)
-#####   
+##### Sec. 2-902. - Purchases less than or equal to five thousand dollars.  
 
 Purchases less than or equal to five thousand dollars ($5,000.00) will require one (1) telephone or electronic
 quotation by the department requiring the purchase. The date, vendor's name, person contacted and the prices
@@ -8628,13 +8628,13 @@ least three (3) telephone or electronic quotes by the purchasing department shal
 date, vendor's name, person contacted and the prices quoted shall become a permanent part of the transaction
 record. Prices shall not be shopped by departments.
 (Code 1961, § 2-8(a)(12); Ord. No. 19136, § 1, 7-20-94; Ord. No. 20327, § 1, 4-15-98; Ord. No. 22595, § 2, 1012-05; Ord. No. 23530, § 2, 4-15-09; Ord. No. 25999 , § 3, 5-13-20)
-#####   
+##### Sec. 2-904. - Purchases exceeding contract limits for bids under state bid laws.  
 
 Advertisement for bids shall be required, pursuant to the regulations contained in state statutes, more particularly
 R.S. 38:2212.1, for the purchase of materials and supplies in excess of the sum set in R.S. 38:2212.1, and for all
 public works in excess of the contract limit, as defined in R.S. 38:2212.1.
 (Code 1961, § 2-8(a)(13); Ord. No. 19136, § 1, 7-20-94; Ord. No. 20327, § 1, 4-15-98; Ord. No. 22595, § 3, 1012-05; Ord. No. 23103, § 13, 7-18-07; Ord. No. 24072, § I, 8-10-11; Ord. No. 25999 , § 4, 5-13-20)
-#####   
+##### Sec. 2-905. - Purchases under state contract.  
 
 Materials or equipment may be purchased from current state contract price lists when it is economical or
 expedient to do so.
@@ -8643,7 +8643,7 @@ expedient to do so.
 Sec. 2-906. - Council authorization to advertise for bids
 Prior council authorization to advertise for bids pursuant to section 2-904 is required.
 (Code 1961, § 2-8(a)(15); Ord. No. 23103, § 15, 7-18-07; Ord. No. 25999 , § 6, 5-13-20)
-#####   
+##### Sec. 2-907. - Procedure for departments, prior to adoption of a director declared emergency.  
 
 The following procedures shall be established for all parish departments and prior to a declaration of a director
 declared emergency:
@@ -8664,7 +8664,7 @@ emergency operations and the expected duration of the emergency situation;
 If the estimated cost and/or duration of the emergency are exceeded, the director may be requested to appear
 before the parish council to explain said cost overruns and/or delays.
 (Code 1961, § 2-8(a)(16); Ord. No. 16168, § 1, 8-22-84; Ord. No. 23103, § 16, 7-18-07; Ord. No. 25999 , § 7, 513-20)
-#####   
+##### Sec. 2-908. - Emergency purchases.  
 
 (a)
 Defined. Emergency purchases covered by this section are those for:
@@ -8704,12 +8704,12 @@ that the contract be awarded to the lowest responsible bidder or that all bids b
 lowest responsible bidder, by mutual written consent, may mutually agree to extend the deadlines for award by
 one (1) or more extensions of thirty (30) calendar days.
 (Ord. No. 16559, § 1, 8-21-85; Ord. No. 20327, § 1, 4-15-98; Ord. No. 23103, § 17, 7-18-07)
-#####   
+##### Sec. 2-909. - Council action on bids.  
 
 All bids received pursuant to section 2-904 shall be placed on the agenda for action by the council at its next
 scheduled meeting pursuant to R.S. 38:2215.
 (Code 1961, § 2-7.2l; Ord. No. 25999 , § 9, 5-13-20)
-#####   
+##### Sec. 2-910. - Federal procurement procedures, when applicable.  
 
 (a)
 Whenever equipment, materials, or supplies are purchased or public works are constructed in whole or in part
@@ -8727,7 +8727,7 @@ existence of any local or state law or regulation which would otherwise be appli
 (c)
 The purchasing department shall establish policies within their handbook regarding federal procurement.
 (Code 1961, § 2-8(b); Ord. No. 20327, § 1, 4-15-98; Ord. No. 23103, § 18, 7-18-07; Ord. No. 23942, § 4, 1-1211; Ord. No. 25999 , § 10, 5-13-20)
-#####   
+##### Sec. 2-911. - Procurement of surety bonds and insurance.  
 
 The minimum standards for performance bonds and other required surety bonds shall be as set forth in R.S.
 38:2216 as amended, 38:2219 as amended, and 38:2241 as amended.
@@ -8812,7 +8812,7 @@ committee's decision; and
 c.
 The resolution accepting the lowest responsible bidder.
 (Ord. No. 17742, § 1, 5-24-89; Ord. No. 23103, § 20, 7-18-07; Ord. No. 25999 , § 12, 5-13-20)
-#####   
+##### Sec. 2-913. - Procedures for rejection or withdrawal of bids; and for protest of bid awards or rejections.  
 
 (a)
 In accordance with applicable Louisiana Public Bid Law, for just cause, Jefferson Parish may reject any or all
@@ -8878,7 +8878,7 @@ and the parish attorney, or their respective designees.
 Following such review, the parish attorney, or his designee, shall issue a written response to the protest prior to
 the parish council's consideration for award or rejection in accordance with Louisiana State Law.
 (Ord. No. 18503, § 1, 4-22-92; Ord. No. 23103, § 21, 7-18-07; Ord. No. 25999 , § 13, 5-13-20)
-#####   
+##### Sec. 2-914. - Electronic receipt of bids.  
 
 (a)
 Advertisement for bids shall be required, pursuant to the regulations contained in state statutes, more particularly
@@ -8899,7 +8899,7 @@ requirements for the electronic receipt of bids as set forth in LA R.S. 38:2212.
 Editor's note— Ord. No. 25999 , § 3, adopted May 13, 2020 repealed § 9-914.1, which pertained to procedures
 for rejection or withdrawal of bids, and for protest of bid awards or rejections and derived from Ord. No. 25773 ,
 § 1, adopted May 8, 2019.
-#####   
+##### Sec. 2-915. - Sole source procurements.  
 
 (a)
 
@@ -8921,12 +8921,12 @@ Procurement of items for resale; and
 (4)
 Procurement of public utility services.
 (Ord. No. 20399, § 1, 7-8-98; Ord. No. 23942, § 7, 1-12-11; Ord. No. 25999 , § 14, 5-13-20)
-#####   
+##### Sec. 2-916. - Reserved.  
 
 Editor's note— Ord. No. 25999 , § 3, adopted May 13, 2020, repealed § 2-916, which pertained to electronic
 receipt of bids and derived from Ord. No. 22595, § 5, adopted May 12, 2005 and Ord. No. 23103, § 23, adopted
 July 18, 2007.
-#####   
+##### Sec. 2-917. - Reserved.  
 
 Editor's note— Ord. No. 25999 , § 3, adopted May 13, 2020, repealed § 2-917, which pertained to pre-placed
 emergency contracts an derived from Ord. No. 24358, § 1, adopted Oct. 24, 2012 and Ord. No. 24654, § 1,
@@ -8936,7 +8936,7 @@ adopted Jan. 15, 2014.
 Editor's note— Ord. No. 25999 , § 3, adopted May 13, 2020, repealed § 2-917.1, which pertained to sole source
 procurement and derived from Ord. No. 24996 , § 1, adopted Aug. 12, 205.
 #### DIVISION 3. - RESTRICTIONS ON CONTRACTS AND OTHER AGREEMENTS
-#####   
+##### Sec. 2-918. - Studies, reports, plans and other documents; certification by administration.  
 
 Prior to the execution of a contract to produce any study, report, plan or other document, that administration
 shall certify to the council that no similar document is available to the parish which would serve the purpose for
@@ -8949,13 +8949,13 @@ Editor's note— Ord. No. 18689, §§ 1, 2, adopted Feb. 17, 1993, amended the C
 designated as §§ 2-930 and 2-931. Inasmuch as there already exist provisions so designated, the provisions of
 Ord. No. 18689 have been included herein as §§ 2-918 and 2-919 at the discretion of the editor. See also the
 Code Comparative Table.
-#####   
+##### Sec. 2-919. - Contracts, studies, reports, plans or other documents to be filed with parish clerk.  
 
 Copies of all parish contracts and all studies, reports, plans or other documents authorized by Jefferson Parish or
 funded by Jefferson Parish revenue shall be filed and indexed with the parish clerk's office.
 (Ord. No. 18689, § 2, 2-17-93)
 Note— See the editor's note at § 2-918.
-#####   
+##### Sec. 2-920. - Approval of final budget for public relations and election information services.  
 
 The final budget for services, production and placement costs, and any other fees and costs for public relations
 and voter information services for the parish shall be approved by resolution of the parish council prior to the
@@ -8978,7 +8978,7 @@ under the provisions of this section, the payment of any settlement or damages, 
 court of competent jurisdiction, shall not be considered an appropriation for the purpose of effecting a renewal or
 continuation of the contract.
 (Ord. No. 19841, § 1, 10-9-96)
-#####   
+##### Sec. 2-921. - Awarding contracts to certain consultants prohibited.  
 
 (a)
 
@@ -8996,7 +8996,7 @@ project for which said person or firm is contracted to provide program managemen
 this section, "program management services" shall include construction management services, project
 management services and any other coordination or review of engineering or architectural services.
 (Code 1961, § 2-8.3; Ord. No. 19350, § 1, 3-22-95)
-#####   
+##### Sec. 2-922. - Prohibited activity of contractors and subcontractors.  
 
 (a)
 No person, contracting with the parish, shall receive any thing of economic value from another person for
@@ -9122,7 +9122,7 @@ routed for approval to be included on the council agenda. For the purposes of th
 applies to RFP's, all affidavits received must be attached; the fact that some may have not been provided by the
 proposer will be reported to the council by the evaluation committee.
 (Ord. No. 23942, § 9, 1-12-11; Ord. No. 24072, § III, 8-10-11)
-#####   
+##### Sec. 2-924. - Preference to Louisiana resident contractors in the awarding of public works contracts.  
 
 (a)
 Resident contractor defined. A Louisiana resident contractor includes any person, partnership, association,
@@ -9171,7 +9171,7 @@ Editor's note— Ord. No. 16428, §§ 1—3, adopted May 8, 1985, not being spec
 has been included herein as § 2-924 at the editor's discretion.
 Cross reference— Contract limits for public works, § 2-905; wages paid by contractors with parish, § 2-972 et
 seq.
-#####   
+##### Sec. 2-925. - Preference to blind persons in operation of concessions on parish property.  
 
 (a)
 All departments, agencies, boards or commissions occupying property which is owned and controlled by the
@@ -9306,7 +9306,7 @@ title of said section from "Prohibition" to "Restrictions on contracts with poli
 Footnotes:
 --- (93) --Editor's note— Ord. No. 18993, § 2, adopted Feb. 23, 1994, amended the Code by redesignating and amending
 provisions to create a new Div. 3.1 to read as herein set out. See the Code Comparative Table.
-#####   
+##### Sec. 2-926. - Definitions.  
 
 As used in this division:
 Advisory committee or evaluation committee means the committee which is designated in this division as the
@@ -9396,7 +9396,7 @@ Technical evaluation committee means the technical evaluation committee as creat
 (Ord. No. 18993, § 2, 2-23-94; Ord. No. 19171, §§ 7, 8, 9-7-94; Ord. No. 20355, § 2, 5-13-98; Ord. No. 21593,
 § 1, 6-5-02; Ord. No. 22290, § 1, 8-11-04; Ord. No. 24460, § 2, 4-17-13; Ord. No. 24997 , § 1, 8-12-15; Ord.
 No. 25260 , § 1, 11-2-16)
-#####   
+##### Sec. 2-927. - Advertisement for and receipt of submittals.  
 
 (a)
 The parish council shall by resolution authorize the purchasing department to advertise for submittals of
@@ -9645,7 +9645,7 @@ members shall be deemed qualified to perform outside legal services tasks.
 Editor's note— Ord. No. 24869 , § 2, adopted Nov. 11, 2014, repealed § 2-927.3, which pertained to selection
 of attorneys to provide outside legal services for certain matters covered by insurance contracts and derived from
 Ord. No. 24460, § 5, adopted April 17, 2013 and Ord. No. 24817, § 2, adopted Aug. 27, 2014.
-#####   
+##### Sec. 2-928. - Required submittals.  
 
 (a)
 In order to be considered for selection to perform professional services for the parish or for any of its
@@ -9719,7 +9719,7 @@ pre-placed emergency contracts shall be submitted prior to payment on the contra
 (Ord. No. 18993, § 2, 2-23-94; Ord. No. 20060, §§ 2, 3, 6-25-97; Ord. No. 20296, § 2, 3-11-98; Ord. No. 20374,
 § 1, 6-3-98; Ord. No. 21593, §§ 5, 6, 6-5-02; Ord. No. 22290, § 2, 8-11-04; Ord. No. 22887, § 1, 10-4-06; Ord.
 No. 23942, § 10, 1-12-11; Ord. No. 24072, § IV, 8-10-11; Ord. No. 24327, § 2, 9-19-12; Ord. No. 24522, § 3, 724-13; Ord. No. 24997 , § 4, 8-12-15; Ord. No. 25260 , § 4, 11-2-16; Ord. No. 25988, § 8, 5-13-20)
-#####   
+##### Sec. 2-929. - Consultant selection procedures.  
 
 (a)
 The technical evaluation committee shall confer and evaluate all submittals for all architectural, engineering and
@@ -9760,7 +9760,7 @@ selection of persons or firms to perform professional services for any project.
 (Ord. No. 18993, § 2, 2-23-94; Ord. No. 19171, § 10, 9-7-94; Ord. No. 19802, § 1, 8-28-96; Ord. No. 20144, §
 1, 9-24-97; Ord. No. 20296, § 1, 3-11-98; Ord. No. 20375, § 2, 6-3-98; Ord. No. 21593, §§ 7, 8, 6-5-02; Ord.
 No. 23942, § 11, 1-12-11; Ord. No. 24656, § 1, 1-15-14; Ord. No. 24997 , § 5, 8-12-15)
-#####   
+##### Sec. 2-930. - Criteria for selection.  
 
 I.
 The following criteria shall be the minimum standards for persons or firms to perform professional services for
@@ -9840,7 +9840,7 @@ members shall be deemed qualified to perform architectural, engineering, surveyi
 services tasks.
 (Ord. No. 18993, § 2, 2-23-94; Ord. No. 20350, § 1, 5-13-98; Ord. No. 24270, § 1, 5-9-12; Ord. No. 24305, § 1,
 7-25-12; Ord. No. 24997 , § 6, 8-12-15)
-#####   
+##### Sec. 2-931. - Guidelines for selection.  
 
 The following guidelines, unless altered, amended or added to by the council for specific projects or selections,
 shall be used by the council and the evaluation committee in evaluating persons or firms to provide professional
@@ -9872,12 +9872,12 @@ with offices located in Jefferson Parish;
 The size of the firm based on the number of personnel, as related to the project requirements and/or scope.
 (Ord. No. 18993, § 2, 2-23-94; Ord. No. 19171, § 10, 9-7-94; Ord. No. 20350, § 1, 5-13-98; Ord. No. 24997 , §
 7, 8-12-15)
-#####   
+##### Sec. 2-932. - Appeals.  
 
 Any appeal of decisions by the evaluation committee or by the council shall be brought before the 24th Judicial
 District Court.
 (Ord. No. 18993, § 2, 2-23-94)
-#####   
+##### Sec. 2-933. - Contract negotiation and approval.  
 
 (a)
 The administration shall negotiate a contract with the person(s) or firm(s) selected by the council to provide
@@ -10048,11 +10048,11 @@ authorize an amendment.
 Editor's note— Ord. No. 25666 , § 2, adopted Sept. 18, 2018, repealed § 2-933.5, which pertained to
 prohibition and derived from Ord. No. 25045 , § 3, adopted Nov. 4, 2015 and Ord. No. 25262 , § 3, adopted Nov.
 2, 2016.
-#####   
+##### Sec. 2-934. - Reserved.  
 
 Editor's note— Ord. No. 24997 , § 9, adopted Aug. 12, 2015, repealed § 2-934, which pertained to the necessity
 of obtaining occupational license and derived from Ord. No. 18993, § 2, adopted Feb. 23, 1994.
-#####   
+##### Sec. 2-935. - Current questionnaire and affidavit required for certain contract extensions and selections.  
 
 No extension of any existing contract for professional services, or exercise of any contract option clause
 requiring council approval shall be considered unless the person or firm under contract first re-submits the
@@ -10347,7 +10347,7 @@ resolution.
 (Ord. No. 22716, § 2, 3-22-06)
 #### DIVISION 4. - SALE OF PROPERTY
 Subdivision I. - Sale of Movable Property
-#####   
+##### Sec. 2-936. - Intent to surplus of departmental directors.  
 
 (a)
 The sale of movable property shall be made upon the notification of intent to surplus from the director of the
@@ -10365,7 +10365,7 @@ the best interest of the department that the property be disposed of.
 For the purposes of this Subdivision, movable property is defined as things, whether animate or inanimate, that
 normally move or can be moved from one place to another.
 (Code 1961, § 2-10.4; Ord. No. 25975 , § 2, 4-8-20)
-#####   
+##### Sec. 2-937. - Process for surplus bidding/auction.  
 
 (a)
 The department of general services shall log the property in the parish determined electronic database used for
@@ -10382,7 +10382,7 @@ If the property is donated to a political subdivision(s) pursuant to state law, 
 donation by resolution and include the value as provided by the departmental director in the notification of intent
 to surplus.
 (Code 1961, §§ 2-10.3, 2-10.8; Ord. No. 25975 , § 2, 4-8-20)
-#####   
+##### Sec. 2-938. - Surplus bidding/auction procedure.  
 
 Property shall be sold under this division by the department of general services utilizing one or both of the
 following methods:
@@ -10410,11 +10410,11 @@ property.
 The approved internet auction firm shall have capability to send electronic notifications of the sale of movable
 property.
 (Code 1961, § 2-10.5; Ord. No. 18532, § 1, 6-3-92; Ord. No. 25324 , § 1, 3-22-17; Ord. No. 25975 , § 2, 4-8-20)
-#####   
+##### Sec. 2-939. - Terms of sale.  
 
 Property shall be sold under this division "as is, where is" and without any warranty whatsoever.
 (Code 1961, § 2-10.6)
-#####   
+##### Sec. 2-940. - Costs borne by purchaser.  
 
 All costs, including transportation, fees, in connection with the act of sale, if any, and all other related cost and
 fees, shall be borne exclusively by the purchaser.
@@ -10423,7 +10423,7 @@ Secs. 2-941—2-950. - Reserved.
 Subdivision II. - Sale and Exchange of Surplus Immovable Property
 Footnotes:
 --- (95) --Cross reference— Required information for proposals for real estate transactions, § 2-877.1.
-#####   
+##### Sec. 2-951. - Authority.  
 
 Whenever the parish president and/or the parish council determines that any real estate owned by the parish or
 by any special district or agency administered by the parish or by the public and administered by the parish is no
@@ -10432,7 +10432,7 @@ council authorizing the sale or exchange or other disposition of the property in
 powers, rights, privileges and authority whenever vested in parishes, parish governments, parish officers and
 police juries by the constitution and laws of the state and the Charter of the parish.
 (Code 1961, § 2-10.13)
-#####   
+##### Sec. 2-952. - Ordinance authorizing sale or exchange.  
 
 Sales or exchanges of property shall be authorized by an ordinance adopted by the council which shall indicate:
 (1)
@@ -10457,7 +10457,7 @@ attorney's office shall certify that the owner of the property adjacent to such 
 alley is not the original grantor or dedicator of such portion of the street, road, highway or alley, nor are the heirs
 of the original grantor or dedicator the abutting property owners.
 (Code 1961, § 2-10.13(a); Ord. No. 16416, § 1, 5-8-85)
-#####   
+##### Sec. 2-953. - Sale by public auction or by sealed bid; notice of sale; sales price; rejection of bids.  
 
 Property shall be sold at public auction conducted by either the sheriff of the parish or a private auctioneer for
 cash to the highest bidder after advertisement in an official journal of the parish at least once a week for three (3)
@@ -10468,7 +10468,7 @@ property originally dedicated as a street, road, highway or alley, as an alterna
 made by asking for sealed bids and the property sold to the highest bidder provided that such bid exceeds the
 minimum price established for the sale.
 (Code 1961, § 2-10.13(b))
-#####   
+##### Sec. 2-954. - Condition of sale; costs.  
 
 All property sold by the parish shall be sold without warranty or recourse, even for the return of the purchase
 price, provided that this provision shall not apply to exchanges of property in which the parish is a party. The
@@ -10476,30 +10476,30 @@ purchaser shall pay for all costs of advertisement, certificates, notarial fees,
 which might be necessary and for any other matters which the council and/or the parish president, in their
 discretion, may require.
 (Code 1961, § 2-10.13(c))
-#####   
+##### Sec. 2-955. - Sale of property not constituting a building site.  
 
 Where a portion of property which is to be sold by the parish does not constitute a building site or lot of record
 as provided in the parish planning and zoning ordinance, the successful bidder must be able to incorporate such
 property into his present property in order to constitute a lot of record under the zoning ordinance.
 (Code 1961, § 2-10.13(d))
-#####   
+##### Sec. 2-956. - Reserved.  
 
 Editor's note— Ord. No. 19570, § 1, adopted Dec. 6, 1995, repealed § 2-956 which pertained to abutting
 property owners' consent prerequisite to certain sales. See the Code Comparative Table.
-#####   
+##### Sec. 2-957. - Exchange of immovable property.  
 
 Where it is determined that it is in the public interest that the disposition of immovable property be effected by
 exchanging such property for other immovable property, the parish property may be exchanged for real property
 of approximately equal value, although the parish may pay or receive any difference in value in cash.
 (Code 1961, § 2-10.13(f))
-#####   
+##### Sec. 2-958. - Surplus real property inventory authorized.  
 
 The parish president's office is hereby authorized and requested to cause an inventory of all surplus real property
 owned by the parish, any agency or district thereof or by the public in general to be made so soon as possible, in
 order to determine what property is available for sale or exchange, and in this connection to employ appraisers,
 surveyors and other personnel which may be necessary and proper to give effect to this division.
 (Code 1961, § 2-10.13(g))
-#####   
+##### Sec. 2-959. - Private sale procedures.  
 
 In addition to procedures established by other provisions of this chapter for the alienation of surplus immovable
 property by the parish, the following procedures are established for the private sale of parish immovable
@@ -10542,7 +10542,7 @@ approved by the parish attorney to hold Jefferson Parish harmless from any liabi
 incur from the conducting of the survey or appraisal.
 (Ord. No. 22558, § 1, 7-13-05)
 #### DIVISION 4.1. - SELECTION OF PERSONS FOR PERSONAL SERVICES
-#####   
+##### Sec. 2-960. - Proposals for personal service; contracts; funding.  
 
 The Jefferson Parish Council hereby authorizes the department director to accept proposals from persons or
 firms interested in providing personal services to the parish. The director or his designee shall execute a contract
@@ -10550,12 +10550,12 @@ with the persons or firms, selected to provide personal services under this divi
 persons or firms selected shall be authorized and no payment shall be made to the persons or firms selected until
 it is shown that the current annual budget contains sufficient monies as determined by the finance director.
 (Ord. No. 19957, § 1, 2-26-97)
-#####   
+##### Sec. 2-961. - Selection of persons for personal services.  
 
 The selection of person(s) or firm(s) for personal services under this division shall not be subject to the
 requirements and provisions of Division 3.1 of Chapter 2 of the Jefferson Parish Code of Ordinances.
 (Ord. No. 19957, § 1, 2-26-97)
-#####   
+##### Sec. 2-962. - Requesting department to supply specific list of services.  
 
 The department requesting authorization to contract qualified persons or firms to provide personal services shall
 offer to the council a list specifying the type(s) of service(s) to be rendered accompanied by the fee schedule for
@@ -10565,36 +10565,36 @@ Secs. 2-963—2-970. - Reserved.
 #### DIVISION 5. - WAGES PAID BY CONTRACTORS WITH PARISH
 Footnotes:
 --- (96) --Cross reference— Preference to Louisiana resident contractors in awarding of public works contracts, § 2-924.
-#####   
+##### Sec. 2-971. - Reserved.  
 
 Editor's note— Section 2-971, adopted R.S. 38:2301 relative to prevailing wages, derived from Code 1961, § 210.8.1, was repealed by § 2 of Ord. No. 15944, adopted March 14, 1984.
-#####   
+##### Sec. 2-972. - Prevailing wage.  
 
 Every contract for construction, alteration, repair, maintenance or other public works project, which is finances
 in whole or in part with federal or state funds, shall contain appropriate provisions for the payment of prevailing
 wages to the various categories of workmen, mechanics and/or laborers in accordance with any and all
 applicable federal or state statutes, rules or regulations regarding prevailing wages.
 (Code 1961, § 2-10.9; Ord. No. 15944, § 1, 3-14-84)
-#####   
+##### Sec. 2-973. - Stipulation as to manner of wage payment.  
 
 Every contract based upon this division shall contain a stipulation that the contractor and his subcontractors shall
 pay all mechanics and laborers employed directly upon the site of the work, unconditionally, and not less often
 than once a week, without subsequent deduction or rebate on any account, the full amount accrued at time of
 payment computed at wage rates not less than those stated in the advertised specifications.
 (Code 1961, § 2-10.10)
-#####   
+##### Sec. 2-974. - Wage scale to be posted.  
 
 The scale of wages to be paid shall be posted by the contractor in a prominent and easily accessible place at the
 site of the work.
 (Code 1961, § 2-10.11)
-#####   
+##### Sec. 2-975. - Withholding funds from contractor, subcontractor.  
 
 The parish may withhold from any contractor so much of accrued payment as may be considered necessary by
 the contracting official to pay to the laborers and mechanics employed by the contractor, or any subcontractor,
 on the work, the difference between the rates of wages required by the specifications to be paid laborers and
 mechanics on the work and the rate of wages actually received by such laborers and mechanics.
 (Code 1961, § 2-10.12)
-#####   
+##### Sec. 2-976. - Payment provisions relating to construction contracts.  
 
 (a)
 Prompt payment of subcontractors. A primary contractor who receives a payment from the parish for work
@@ -10621,7 +10621,7 @@ The provisions of this section shall apply prospectively to all contracts for co
 Secs. 2-977—2-985. - Reserved.
 #### DIVISION 6. - SANCTIONS AND PROCEDURES FOR PUBLIC CONTRACTORS FOUND TO BE IN
 VIOLATION OF ETHICAL STANDARDS
-#####   
+##### Sec. 2-986. - Definitions.  
 
 For purposes of this division, the following words shall have the following meanings:
 (1)
@@ -10646,7 +10646,7 @@ Governmental Ethics.
 Public servant shall have the same meaning as ascribed to that term under the Louisiana Code of Governmental
 Ethics.
 (Ord. No. 23786, § 1, 3-24-10; Ord. No. 24649, § 1, 1-15-14)
-#####   
+##### Sec. 2-987. - Violation of ethical standards by public contractors prohibited.  
 
 (a)
 No Jefferson Parish contractor shall violate any of the provisions of the Louisiana Code of Governmental Ethics
@@ -10694,7 +10694,7 @@ shall be presented to the Jefferson Parish Council at the next regularly schedul
 The council may adopt the resolution with or without amendments or may cancel the resolution for reasons
 assigned by the council at the meeting at which the resolution is presented for consideration.
 (Ord. No. 23786, § 1, 3-24-10)
-#####   
+##### Sec. 2-989. - Sanctions for violation of ethical standards by public contractors and procedures for said sanctions.  
 
 (a)
 A finding that a parish contractor has violated any of the provisions of the Louisiana Code of Governmental
@@ -10723,7 +10723,7 @@ Secs. 2-990—2-995. - Reserved.
 #### DIVISION 7. - WIDOWS' PENSIONS
 Footnotes:
 --- (97) --Cross reference— Retirement, § 23-175 et seq.
-#####   
+##### Sec. 2-996. - Eligibility.  
 
 (a)
 In order for a widow to be eligible to obtain a widow's pension from the parish, her net income per month must
@@ -10738,7 +10738,7 @@ Editor's note— Ord. No. 17881, § 5, adopted November 29, 1989, which is set o
 prohibits any additional names from being added to the roster of qualified widows after December 31, 1989, also
 contained a clause which provided that the benefits of those persons who were on the roster as of December 31,
 1989, would not be affected by the adoption of Ord. No. 17881.
-#####   
+##### Sec. 2-997. - Application; investigation.  
 
 (a)
 It is hereby provided that all widows' pension applications will be investigated by an agency to be named by the
@@ -10753,16 +10753,16 @@ Any information provided by a widows' pension applicant on the widows' pension f
 affidavit and found to be falsified by the appointed investigating agency shall provide grounds for rejection of
 the application by the parish council.
 (Code 1961, §§ 13-11.11—13-11.13)
-#####   
+##### Sec. 2-998. - Amount monthly.  
 
 Each widow shall be entitled to a widow's pension of twenty-five dollars ($25.00) per month.
 (Code 1961, § 13-11.7)
-#####   
+##### Sec. 2-999. - Dependents' allowance.  
 
 The applying widow shall be allowed additional income of twenty-five dollars ($25.00) per month for each
 dependent.
 (Code 1961, § 13-11.9)
-#####   
+##### Sec. 2-1000. - Waiver of provisions.  
 
 The council reserves the right to waive the requirements of this division when the need is established, and it is
 recommended by the administration.
@@ -10773,12 +10773,12 @@ Footnotes:
 --- (98) --Editor's note— Ordinance No. 17922, §§ 1—4, adopted Jan. 31, 1990, did not specifically amend the Code,
 therefore inclusion as §§ 2-1011—2-1014 was at the editor's discretion.
 Cross reference— Department of finance, § 2-156 et seq.
-#####   
+##### Sec. 2-1011. - Established.  
 
 There is hereby established a set of procedures for the settlement and payment of any account, claim, demand or
 judgment against the parish.
 (Ord. No. 17922, § 1, 1-31-90)
-#####   
+##### Sec. 2-1012. - Amount of claim.  
 
 (a)
 Any account, claim, demand or judgment against the parish equal to or in excess of forty thousand dollars
@@ -10799,19 +10799,19 @@ The Jefferson Parish Council shall be notified of the terms, conditions, and amo
 within forty-eight (48) hours after reaching final terms of any proposed settlement. No funds shall be disbursed
 less than seven (7) days after notification to the parish council.
 (Ord. No. 17922, § 2, 1-31-90; Ord. No. 24481, § 1, 5-15-13; Ord. No. 25113 , § 1, 3-16-16)
-#####   
+##### Sec. 2-1013. - Fund established.  
 
 The finance director is hereby authorized to establish in the annual budget a general fund and/or departmental
 line items for the payment or settlement of such claims.
 (Ord. No. 17922, § 3, 1-31-90)
-#####   
+##### Sec. 2-1014. - Authority.  
 
 Pursuant to R.S. 39:1310, the adopted budget and any duly authorized amendments thereto shall constitute
 authority for the expenditures associated with the payment or settlement of such claim.
 (Ord. No. 17922, § 4, 1-31-90)
 Secs. 2-1015—2-1019. - Reserved.
 #### DIVISION 9. - REQUIREMENTS FOR HUD SECTION 3 COVERED PROJECTS
-#####   
+##### Sec. 2-1020. - Definitions.  
 
 For purposes of this division, the following terms shall have the following meanings:
 HUD means the United States Department of Housing and Urban Development.
@@ -10846,14 +10846,14 @@ income for each locality by household size or the number of people residing in o
 New hire means a full-time employee for a new permanent, temporary, or seasonal position that is created as a
 direct result of the expenditure of Section 3 covered financial assistance.
 (Ord. No. 24457, § 1, 4-17-13)
-#####   
+##### Sec. 2-1021. - Statement of compliance with Section 3 requirements.  
 
 The Parish of Jefferson shall, to the greatest extent feasible consistent with existing federal, state and local laws
 and regulations, when awarding contracts or providing training and/or employment opportunities for activities or
 projects subject to the requirements of Section 3, strive to comply with the goals established in this section. The
 provisions of this division shall be considered to be minimum standards in reaching these goals.
 (Ord. No. 24457, § 1, 4-17-13)
-#####   
+##### Sec. 2-1022. - Training and employment opportunities.  
 
 (a)
 Training and employment opportunities will be made available to Section 3 residents as follows: thirty (30)
@@ -10870,7 +10870,7 @@ Second priority: Participants of public and social service programs funded by Je
 (3)
 Third priority: Other low- and very-low income residents throughout the Parish certified as Section 3 eligible.
 (Ord. No. 24457, § 1, 4-17-13)
-#####   
+##### Sec. 2-1023. - Numerical goals for contracting activities.  
 
 Contractors, subcontractors, developers, and/or sub-recipients of contract awards in excess of one hundred
 thousand dollars ($100,000.00) in connection with a Section 3 eligible project shall commit to the following
@@ -10885,7 +10885,7 @@ above, they will be required to contribute the difference between ten (10) perce
 [three (3) percent for non-construction related covered contracts] and the amount provided to Section 3 business
 concerns and/or in the employment of Section 3 residents into the parish's Section 3 Implementation Fund.
 (Ord. No. 24457, § 1, 4-17-13)
-#####   
+##### Sec. 2-1024. - Preference for Section 3 business concerns.  
 
 The following order of preference will be followed when providing contracting opportunities to Section 3
 businesses:

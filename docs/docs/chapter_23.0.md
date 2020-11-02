@@ -14,7 +14,7 @@ department of human resource management, § 2-456 et seq.; holidays, § 20-6.
 State Law reference— Parish authority to delineate rights, duties, and privileges of parish employees, R.S.
 33:1236(51).
 ### ARTICLE I. - IN GENERAL
-#####   
+##### Sec. 23-1. - Reserved.  
 
 Editor's note— Ord. No. 19959, § 1, adopted Feb. 26, 1997, repealed § 23-1, which pertained to elected public
 officials excluded from unclassified service. See the Code Comparative Table.
@@ -31,7 +31,7 @@ insurance.
 Dependents. The Parish of Jefferson shall pay fifty (50) percent of the cost of an employee's family coverage and
 each employee shall be responsible for fifty (50) percent of the cost of their family coverage.
 (Ord. No. 25218 , § 1, 9-21-16)
-#####   
+##### Sec. 23-15. - Applicability of state laws.  
 
 (a)
 No law requiring increased expenditures for wages, hours, working conditions, pensions and retirement benefits,
@@ -54,7 +54,7 @@ District No. 1, Ambulance Service District No. 1, and Ambulance Service District
 Hereafter, any amendment or reenactment of this section of the Code shall relate back to the date this section
 originally takes effect.
 (Ord. No. 18377, § 1, 10-2-91; Ord. No. 25018 , § 12, 4-9-14)
-#####   
+##### Sec. 23-16. - Local authority for setting hours and benefits.  
 
 (a)
 Policy of uniformity. The parish declares that it is the policy of this parish that there be certain uniformity in
@@ -87,7 +87,7 @@ ARTICLE I-A. - POLITICAL ACTIVITY
 Footnotes:
 --- (2) --Editor's note— Ord. No. 24011, § 3, adopted May 11, 2011, renumbered §§ 23-2—23-4 as §§ 23-17—23-29 as
 a new Article I-A to read as herein set out. See also the Code Comparative Table.
-#####   
+##### Sec. 23-17. - Political activities of parish employees.  
 
 (a)
 Any person employed in the service of the parish is hereby prohibited from engaging in any activity of a
@@ -132,7 +132,7 @@ apply.
 State Law reference— Prohibitions against political activities,, Const. 1974, Art. 10, § 9; advisory opinions on
 political activity, R.S. 42:1382.
 Note— Formerly § 23-2.
-#####   
+##### Sec. 23-18. - Penalty for violating sections 23-17 and 23-18.  
 
 The violation of any of the provisions of sections 23-17 and 23-18 shall be cause for the following penalties:
 (1)
@@ -146,7 +146,7 @@ determine whether or not such employee has violated the provisions of section 23
 Elected officials shall be subject to censure by the parish council for violation of section 23-17(h).
 (Code 1961, § 13-7; Ord. No. 24011, § 3, 5-11-11)
 Note— Formerly § 23-3.
-#####   
+##### Sec. 23-19. - Soliciting funds for political purposes; discharge of employee.  
 
 (a)
 Prohibition; definition. Notwithstanding the provisions of section 23-17(i), no employee in the service of the
@@ -164,10 +164,10 @@ such employee has violated the provisions hereof.
 (Code 1961, § 13-7.1; Ord. No. 18330, § 1, 7-24-91; Ord. No. 24011, § 3, 5-11-11)
 Cross reference— Charitable solicitations, § 22-121 et seq.
 Note— Formerly § 23-4.
-#####   
+##### Sec. 23-20. - Reserved.  
 
 ### ARTICLE II. - CIVIL SERVICE SYSTEM
-#####   
+##### Sec. 23-21. - Established.  
 
 
 There is hereby established a system of civil service or "classified service" for all offices, positions of trust or
@@ -175,14 +175,14 @@ employment in the parish service, except those specifically exempted or excluded
 Section 4.03(A) of the Charter, Article X, Section 2 and Section 15 of the Constitution of the State of Louisiana
 of 1974.
 (Code 1961, § 13-1; Ord. No. 16332, § 1, 2-6-85; Ord. No. 18226, § 2, 3-18-91)
-#####   
+##### Sec. 23-22. - Personnel rules adopted.  
 
 Personnel rules for the classified civil service of the parish, including retirement and pension system, on file in
 the office of the parish clerk are hereby adopted and made a part of this chapter. The Parochial Employees'
 Retirement System of Louisiana and the Employees' Retirement System of Jefferson Parish have been published
 in pamphlet form and are available in the office of the parish clerk.
 (Code 1961, § 13-2)
-#####   
+##### Sec. 23-23. - Authorization of parish president to confer with employee representative.  
 
 The parish president or his designate is hereby authorized to meet and confer with a recognized representative of
 any association of employees in the parish civil service and under the jurisdiction of the parish president as
@@ -197,19 +197,19 @@ shall, upon approval by the parish council, be incorporated into a binding con, 
 parish president and the association shall adopt procedures for conducting such conferences which shall include
 the right to propose to the parish council that unresolved issues be submitted to public referendum.
 (Code 1961, § 13-2.1)
-#####   
+##### Sec. 23-24. - Designated employees and officers excluded.  
 
 The employees and officers of tax assessor, clerk of court, sheriff of the parish, the district attorney, coroner,
 24th Judicial District Court, juvenile court, and first and second parish courts are excluded from the civil service
 system and personnel rules adopted in sections 23-21 and 23-22, respectively.
 (Code 1961, § 13-3; Ord. No. 16332, § 1, 2-6-85)
-#####   
+##### Sec. 23-25. - Reserved.  
 
 Editor's note— Section 23-25, pertaining to the inclusion of juvenile court employees in the civil service
 system, and derived from Code 1961, § 13-3.1 (Ord. No. 10216, § 1, enacted June 24, 1971), was repealed by §
 1 of Ord. No. 16331, adopted Feb. 6, 1985.
 Secs. 23-26—23-41. - Reserved.
-#####   
+##### Sec. 23-42. - Established.  
 
 There is hereby established a system of fire civil service or "classified fire civil service" for all offices, positions
 of trust or employment in the East Bank Consolidated Special Service Fire Protection District of Jefferson Parish
@@ -217,7 +217,7 @@ which has as its primary duty one (1) of the functions specifically set forth to
 service by the provisions of Part III, Chapter 5 of Title 33 of the Louisiana Revised Statutes (R.S. 33:2531, et
 seq.).
 (Ord. No. 18226, § 1, 3-13-91)
-#####   
+##### Sec. 23-43. - Fire personnel rules adopted.  
 
 (a)
 The personnel rules for the East Bank Consolidated Special Service Fire Protection District of Jefferson Parish,
@@ -232,7 +232,7 @@ Secs. 23-44—23-49. - Reserved.
 Footnotes:
 --- (3) --Cross reference— Fire prevention and protection; emergency services and communication and hazardous
 material, Ch. 13.
-#####   
+##### Sec. 23-50. - Conduct of fire civil service board.  
 
 Any action taken by the fire civil service board shall be within the framework of and in conformity with the fire
 civil service laws of the parish. No rule, regulation or order shall be contrary to or in violation of any provisions,
@@ -240,13 +240,13 @@ purpose or intent of any applicable parish ordinance.
 (Ord. No. 18091, § 1, 8-29-90)
 Secs. 23-51—23-59. - Reserved.
 ### ARTICLE IV. - TRAVEL REGULATIONS
-#####   
+##### Sec. 23-60. - Appropriation, availability of funds.  
 
 No official travel can be authorized unless there are sufficient funds appropriated. Unless the funds are available,
 there will be no transportation or hotel accommodations reserved by the department of general services and
 procurement, and no cash advances or reimbursement for expenses will be made by the department of finance.
 (Code 1961, § 13-31)
-#####   
+##### Sec. 23-61. - Car allowance for private automobiles.  
 
 (a)
 Rate of reimbursement. At the discretion of the chief operating officer or the deputy chief operating officer for
@@ -269,7 +269,7 @@ employee recipient is on leave of absence from duty for a period in excess of th
 (Code 1961, § 13-32; Ord. No. 17881, § 3, 11-29-89; Ord. No. 24627, § 1, 12-11-13)
 Editor's note— The monthly mileage report form has not been included herein, but may be found on file in the
 parish offices.
-#####   
+##### Sec. 23-62. - Out of town travel.  
 
 (a)
 Trips to points in excess of one hundred (100) miles from the parish will be made, whenever possible, by means
@@ -288,13 +288,13 @@ since it is presumed that any point can be reached within one (1) day by public 
 allowance will be made for lodging, meals and other expenses en route. Any travel time used in excess of one
 (1) day will be charged to annual leave or leave without pay.
 (Code 1961, § 13-33; Ord. No. 17881, § 3, 11-29-89)
-#####   
+##### Sec. 23-63. - Hotel or motel accommodations.  
 
 Reservations will be made by the department of general services and procurement for hotel or motel
 accommodations upon receipt of a regular parish requisition. Arrangements will be made for the bill to be signed
 and the statement will then be mailed to the department of finance for direct payment.
 (Code 1961, § 13-34)
-#####   
+##### Sec. 23-64. - Allowance for meals.  
 
 (a)
 For each full twenty-four-hour day on official travel away from the parish the allowance for three (3) meals,
@@ -304,21 +304,21 @@ Revenue Service and shall be adjusted periodically to said allowance.
 No reimbursement for meals will be made when the round trip is made in one (1) day. The only exception to this
 will be when the return to the official domicile is made after 8:00 p.m.
 (Code 1961, § 13-35; Ord. No. 17881, § 3, 11-29-89)
-#####   
+##### Sec. 23-65. - Miscellaneous expenses.  
 
 The cost of taxis and other miscellaneous expenses will be supported by a full description of the expenditure. In
 the case of taxi travel the date, point of departure and point of arrival will be part of the supporting information.
 Registration costs at conventions must be supported by an official receipt which must indicate the name or
 names of authorized parish delegates to the convention.
 (Code 1961, § 13-36)
-#####   
+##### Sec. 23-66. - Travel advances.  
 
 Upon receipt of a regular parish requisition, the department of finance will issue an advance to cover the cost of
 travel. The requisition must show the name of the person who will travel, the destination, the official reason for
 such travel, the dates of departure and return, and an estimate of the total cost of the trip. The requisition should
 be submitted at least ten (10) days prior to departure.
 (Code 1961, § 13-37)
-#####   
+##### Sec. 23-67. - Expense voucher on return.  
 
 (a)
 Required. A travel expense voucher must be completed in duplicate and returned to the department of finance
@@ -340,7 +340,7 @@ Secs. 23-68—23-83. - Reserved.
 Footnotes:
 --- (4) --State Law reference— Code of governmental ethics, R.S. 42:1101 et seq.
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 23-84. - Definitions.  
 
 Unless the context clearly indicates otherwise, the following words and terms when used in this article shall
 have the respective meanings:
@@ -436,21 +436,21 @@ Is one to which the parish is or will be a party; or
 Is one in which the parish has a direct interest.
 (Code 1961, § 13-41; Ord. No. 24011, § 4, 5-11-11)
 Cross reference— Definitions and rules of construction generally, 1-2.
-#####   
+##### Sec. 23-85. - Prescription of enforcement.  
 
 
 No action to enforce any provision of this article shall be commenced after the expiration of two (2) years
 following the discovery of the occurrence of the alleged violation or four (4) years after the occurrence of the
 alleged violation, whichever period is shorter.
 (Code 1961, § 13-62)
-#####   
+##### Sec. 23-86. - Criminal laws not affected.  
 
 Nothing in this article is intended to nor is to be construed as repealing, amending or modifying in any way any
 provision of any criminal law of the state or the parish.
 (Code 1961, § 13-62.1)
 Secs. 23-87—23-108. - Reserved.
 #### DIVISION 2. - PUBLIC EMPLOYEES' ETHICAL STANDARDS
-#####   
+##### Sec. 23-109. - Standards.  
 
 (a)
 Economic interests of a public employee. No public employee shall participate in a transaction involving the
@@ -488,7 +488,7 @@ made the lowest sealed competitive bid on a public contract or subcontract and h
 the parish or the general contractor, and provided such employee did not assist in the procurement of the
 acceptance of such low bid.
 (Code 1961, § 13-42)
-#####   
+##### Sec. 23-110. - Compensation for public employees from nonpublic source.  
 
 (a)
 Payments for services to the parish. No public employee shall receive anything of economic value, other than his
@@ -514,7 +514,7 @@ economic value during the term of public employment in consideration of personal
 for any person subsequent to the term of such employment. However, a public employee may enter into a
 contract for prospective employment during the term of employment with the parish.
 (Code 1961, § 13-43)
-#####   
+##### Sec. 23-111. - Continuation in certain pension and other plans by public employees.  
 
 (a)
 Welfare or benefit plans. A public employee may continue in a bona fide employee welfare or benefit plan
@@ -527,7 +527,7 @@ stock bonus plan maintained by the former employer shall be retained by such emp
 employer makes no contributions on behalf of the employee based upon profits derived during the period of his
 public employment.
 (Code 1961, § 13-44)
-#####   
+##### Sec. 23-112. - Gifts.  
 
 No public employee shall solicit or receive, directly or indirectly, anything of economic value over fifty dollars
 ($50.00) as a gift or gratuity from any person or from any officer, director, agent or employee of such person, if
@@ -540,13 +540,13 @@ Conducts operations or activities which are regulated by such employee's agency;
 Has interests which may be substantially affected by such employee's performance or nonperformance of official
 duty.
 (Code 1961, § 13-45)
-#####   
+##### Sec. 23-113. - Abuse of office.  
 
 No public employee shall use the power of his office or position, directly or indirectly, in a manner intended to
 induce or coerce any person or other public employee to provide himself, any person or other public employee
 with anything of economic value.
 (Code 1961, § 13-46)
-#####   
+##### Sec. 23-114. - Regulations governing former employees in supervisory positions.  
 
 (a)
 General rule. No former public employee who served in a supervisory position shall, for a period of two (2)
@@ -568,13 +568,13 @@ Termination of public employment. For purposes of this section, the termination 
 employment in a supervisory position with the agency or department by which he was employed when he so
 participated shall be deemed to be the termination of his public employment.
 (Code 1961, § 13-47)
-#####   
+##### Sec. 23-115. - Illegal payments.  
 
 No public employee or person shall give, pay, loan, transfer or deliver, or offer to give, pay, loan, transfer or
 deliver, directly or indirectly, to any other public employee or person anything of economic value which he
 would be prohibited from receiving by any other provision of this division.
 (Code 1961, § 13-48)
-#####   
+##### Sec. 23-116. - Nepotism prohibited.  
 
 (a)
 General rule. On and after June 1, 1979, no member of the agency or department head's immediate family shall
@@ -590,7 +590,7 @@ Exceptions. The provisions of this section shall not apply to employees of the p
 June 1, 1979. For any such employees, the provisions of this section shall not in any way be construed to hinder,
 alter and affect normal promotional advancement of public employment.
 (Code 1961, § 13-49)
-#####   
+##### Sec. 23-117. - Members of authorities, boards, commissions and committees.  
 
 (a)
 General rule. For the purposes of this section "full-time" means employment in which a person normally works
@@ -645,7 +645,7 @@ The disclosure statements required in this subsection shall be filed each year w
 February first, and such employees: statements shall be a matter of public record.
 (Code 1961, § 13-50)
 Cross reference— Boards, commissions and committees generally, § 2-516 et seq.
-#####   
+##### Sec. 23-118. - Administration of sections pertaining to public employees.  
 
 (a)
 Jurisdiction. The ethics board shall administer and enforce the provisions of this division and the regulations,
@@ -695,7 +695,7 @@ in an amount equal to the maximum penalty allowed by law.
 (Code 1961, § 13-51; Ord. No. 24011, § 5, 5-11-11)
 Secs. 23-119—23-129. - Reserved.
 #### DIVISION 3. - ELECTED OFFICIALS ETHICAL STANDARDS
-#####   
+##### Sec. 23-130. - Definitions.  
 
 The following words and phrases, when used in this division, shall have the meanings respectively ascribed to
 them:
@@ -710,7 +710,7 @@ Person or individual means those entities as defined in Title 18 (Election Code)
 Statutes of 1950.
 (Code 1961, § 13-55(a); Ord. No. 17840, § 1, 10-25-89; Ord. No. 24011, § 6, 5-11-11)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-#####   
+##### Sec. 23-131. - Standards generally.  
 
 It shall be deemed incompatible with the discharge of his responsibilities for any elected official to accept any
 compensation or anything of economic value in any circumstance which would result in the use of public office
@@ -722,7 +722,7 @@ in a transaction with the parish.
 The ethics board shall have jurisdiction and shall administer and enforce the provisions of this division and the
 regulations, rules and orders issued hereunder regarding ethical standards.
 (Ord. No. 24011, § 7, 5-11-11)
-#####   
+##### Sec. 23-132. - Specific prohibitions.  
 
 (a)
 Prohibitions:
@@ -827,7 +827,7 @@ other legal entity, including their successors and assigns.
 
 Editor's note— Ord. No. 18916, § 1, adopted Nov. 17, 1993, repealed § 23-132.2 which pertained to campaign
 contributions involving persons doing business with the parish. See the Code Comparative Table.
-#####   
+##### Sec. 23-133. - Powers, duties and responsibilities of board of ethics.  
 
 (a)
 Amendment and enforcement of rules. The board of ethics may adopt, amend, repeal and enforce rules and
@@ -874,12 +874,12 @@ Additional duties. The board shall do and perform such other acts, duties, and f
 elsewhere in this article as it shall deem appropriate in connection with the provisions of this division within its
 jurisdiction.
 (Code 1961, § 13-56)
-#####   
+##### Sec. 23-134. - Enforcement of regulations, decision or order of an ethics body.  
 
 Any valid regulations, decision or order of an ethics body shall be enforceable in the proper court of this state by
 a mandamus or injunction suit brought for that purpose.
 (Code 1961, § 13-57)
-#####   
+##### Sec. 23-135. - Procedure for resolution of complaints.  
 
 (a)
 Complaints:
@@ -1006,7 +1006,7 @@ Any respondent found to have committed an act in violation of this section may a
 District Court for the Parish of Jefferson. Any such appeal must be filed within thirty (30) days of the date on
 which the Commission mailed its findings to the respondent via certified mail.
 (Code 1961, § 13-58; Ord. No. 25929 , § 1, 12-18-19)
-#####   
+##### Sec. 23-136. - Rescission of action of governmental entity.  
 
 The commission may order restitution to the aggrieved parties and/or disgorgement if a respondent is found to
 have violated a section of this division. If a respondent is subject to the parish's civil service rules, the
@@ -1014,14 +1014,14 @@ commission may make recommendations to the personnel board regarding potential s
 may make similar recommendations to the parish council or the state ethics board if the respondent is an elected
 official.
 (Code 1961, § 13-59; Ord. No. 25929 , § 2, 12-18-19)
-#####   
+##### Sec. 23-137. - Finding of possible criminal violation.  
 
 Upon finding at a public hearing that there is probable cause to believe that any elected official or person has
 violated any criminal law of this state, the board shall forward a copy of its findings to the district attorney of the
 parish for appropriate action. Thereafter, notwithstanding any other provisions of this division, such district
 attorney shall have access to all records of the board relative to the charges.
 (Code 1961, § 13-60)
-#####   
+##### Sec. 23-138. - Perjury; malfeasance in office.  
 
 (a)
 Perjury. Any person who intentionally and knowingly files a false sworn complaint with either the board or a
@@ -1033,14 +1033,14 @@ action by the board against any elected official or person knowing such action t
 court of competent jurisdiction shall be guilty of the crime of malfeasance in office and subject to the penalty set
 forth by law.
 (Code 1961, § 13-61)
-#####   
+##### Sec. 23-139. - Penalties.  
 
 Upon finding that any elected official or person has violated any provision of this division or any provision of
 applicable laws of the parish or the state, the board, by a majority vote of the membership, may censure the
 elected official or person; and upon conviction by a court of competent jurisdiction, the court may impose a
 penalty as provided in section 1-10.
 (Code 1961, § 13-54(d))
-#####   
+##### Sec. 23-140. - Civil action for damages.  
 
 The parish attorney, pursuant to Section 4.04 of the Charter or other attorney authorized by law, may bring a
 civil action against any elected official or former elected official in the district court in which the official or
@@ -1124,7 +1124,7 @@ Category III, $25,000.00—$100,000.00.
 (4)
 Category IV, more than $100,000.00.
 (Ord. No. 23831, § 1, 6-9-10Ord. No. 24650, § 1, 1-15-14; Ord. No. 24721, § 1, 4-9-14; Ord. No. 25505 , § 1, 131-18; Ord. No. 26000 , § 1, 5-13-20)
-#####   
+##### Sec. 23-146. - Definitions.  
 
 For purposes of this division, the following words shall have the following meanings:
 (1)
@@ -1177,7 +1177,7 @@ such capacity as of May 15th of each year.
 required to file has been living in open concubinage for at least one (1) year prior to the date on which said
 person submits the financial disclosure statement as required by this division.
 (Ord. No. 23831, § 1, 6-9-10; Ord. No. 25505 , § 2, 1-31-18)
-#####   
+##### Sec. 23-147. - Information to be disclosed by elected officials and executive pay plan employees.  
 
 The following information shall be provided by the person required to file in accordance with the requirements
 of this division on the financial disclosure statement:
@@ -1289,7 +1289,7 @@ any loan or other liability from a licensed financial institution made by said i
 available to any similarly situated member of the public for the purpose(s) for which the loan was made or for
 which the liability was incurred.
 (Ord. No. 23831, § 1, 6-9-10; Ord. No. 25505 , § 3, 1-31-18)
-#####   
+##### Sec. 23-148. - Procedural requirements for filing of financial disclosure statements.  
 
 (a)
 The financial disclosure statement shall include a certification by the person required to file the statement that
@@ -1348,7 +1348,7 @@ f.
 The provisions of subsections (b) and (c) of section 23-148 herein shall be applicable to any amendment to a
 financial disclosure statement which may be filed by a person required to file.
 (Ord. No. 23831, § 1, 6-9-10)
-#####   
+##### Sec. 23-149. - Claiming of privilege or other exemption from requirement to report.  
 
 (a)
 Any person required to file who claims a privilege or exemption recognized under law from a requirement to
@@ -1377,7 +1377,7 @@ delvers in writing to the council his opinion that the information so submitted 
 disclosure under any legally recognized privilege or under any exemption pursuant to the Public Record Law
 under the provisions of Chapter 1 of Title 44 of the Louisiana Revised Statutes of 1950.
 (Ord. No. 23831, § 1, 6-9-10)
-#####   
+##### Sec. 23-150. - Transfers of assets to avoid disclosure prohibited.  
 
 (a)
 For purposes of this section, a person required to file or the spouse of the person required to file shall not
@@ -1394,7 +1394,7 @@ section.
 (2)
 A recorded bond for deed contract shall not be a transfer prohibited by subsection (a) of this section.
 (Ord. No. 23831, § 1, 6-9-10)
-#####   
+##### Sec. 23-151. - Penalties for violation of the financial disclosure provisions.  
 
 (a)
 Each violation of any of the provisions of this division shall be punishable by a fine not exceeding five hundred
@@ -1408,7 +1408,7 @@ Nothing in this division shall require the disclosure or reporting of income der
 alimony payments contained in a court order or from the reporting or disclosure of income derived from
 disability payments from any source.
 (Ord. No. 23831, § 1, 6-9-10)
-#####   
+##### Sec. 23-152. - Review and reporting of the financial disclosure information.  
 
 (a)
 The parish attorney, or his designee, shall notify the members of the parish council and the parish president of all
@@ -1434,12 +1434,12 @@ Footnotes:
 designated as Div. 4, §§ 23-145, 23-146. Insomuch as there already exist provisions so designated, the provision
 of said § 9 have been included herein as Div. 5, §§ 23-153, 23-154 at the discretion of the editor. See also the
 Code Comparative Table.
-#####   
+##### Sec. 23-153. - Civil penalties.  
 
 The violation of any provision of this article shall be subject to the penalties provided in section 1-10 of the
 Code of Ordinances.
 (Ord. No. 24011, § 9, 5-11-11)
-#####   
+##### Sec. 23-154. - Additional civil penalties.  
 
 In addition to any other penalties allowed by law:
 (1)
@@ -1464,7 +1464,7 @@ advantage, the board may order the forfeiture of any gifts or payments made in v
 (Ord. No. 24011, § 9, 5-11-11)
 Secs. 23-155—23-156. - Reserved.
 ### ARTICLE VI. - ANNUAL AND SICK LEAVE BENEFITS
-#####   
+##### Sec. 23-157. - Eligibility for benefits; conversion.  
 
 (a)
 Full-time employees who are directors of departments, special assistants appointed by the parish president and
@@ -1492,7 +1492,7 @@ applicable to classified employees.
 The annual and sick leave benefits provided for herein shall be recorded within each department and reported
 monthly to the payroll officer of the department of finance.
 (Code 1961, § 13-30.1)
-#####   
+##### Sec. 23-158. - Effective dates of leave benefits.  
 
 All leave benefits will accrue from June 14, 1959. No officer or employee in the classified service shall draw
 upon the leave benefits provided until after January 1, 1960.
@@ -1502,7 +1502,7 @@ Secs. 23-159—23-174. - Reserved.
 Footnotes:
 --- (6) --Cross reference— Widows' pensions, § 2-996 et seq.
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 23-175. - Reserved.  
 
 Editor's note— Former § 23-175, which provided for mandatory retirement of parish employees upon
 attainment of age seventy (70), was repealed by § 1 of Ord. No. 18079, adopted Aug. 29, 1990. The repealed
@@ -1511,7 +1511,7 @@ Secs. 23-176—23-204. - Reserved.
 #### DIVISION 2. - JUDGES' RETIREMENT PLAN
 Footnotes:
 --- (7) --Cross reference— Courts, Ch. 10.
-#####   
+##### Sec. 23-205. - Definitions.  
 
 As used in this division, the following words and terms shall have the meanings hereinafter set forth:
 Judge means a judge of the First Parish Court or the Second Parish Court for the Parish of Jefferson, State of
@@ -1523,7 +1523,7 @@ Military service includes time served in the army, navy or air force of the Unit
 the judge has received an honorable discharge.
 (Code 1961, § 13-8; Ord. No. 15505, § 1, 4-13-83; Ord. No. 16399, § 1, 4-10-85)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-#####   
+##### Sec. 23-206. - Retirement date.  
 
 A judge of the First Parish Court or a judge of the Second Parish Court who has served as a judge of a court of
 record for at least eighteen (18) years and who has been elected to three (3) full terms as either a judge of the
@@ -1546,23 +1546,23 @@ for the Parish of Jefferson shall be given additional credit for time served as 
 assistant district attorney for the Parish of Jefferson; and shall be given additional credit for military service of
 up to four (4) years maximum after otherwise attaining eighteen (18) years of service.
 (Code 1961, § 13-9; Ord. No. 15505, § 2, 4-13-83; Ord. No. 16399, § 2, 4-10-85)
-#####   
+##### Sec. 23-207. - Continuance of benefits to spouse.  
 
 Upon the death of any such judge/magistrate, his surviving spouse shall be entitled to receive the same pension
 for the remainder of her life provided that said surviving spouse was married to the judge/magistrate at the time
 of his retirement and was married to the judge/magistrate at the time of his death.
 (Code 1961, § 13-10; Ord. No. 16399, § 3, 4-10-85; Ord. No. 17172, § I, 2-18-87)
-#####   
+##### Sec. 23-208. - Payments to be monthly.  
 
 The payments of the pension, herein authorized, shall be made monthly on the warrant of the judge or his
 surviving spouse.
 (Code 1961, § 13-11)
-#####   
+##### Sec. 23-209. - Source of funds.  
 
 The payments herein authorized shall be paid from the same sources from which the judge received his salary as
 a judge.
 (Code 1961, § 13-11.1)
-#####   
+##### Sec. 23-210. - Participants in judges' retirement plan.  
 
 No judge or magistrate who is first sworn into office as judge or magistrate after December 31, 1986, may
 participate in the retirement plan provided for in this division.
@@ -1578,7 +1578,7 @@ for employees and certain officials of the Parish of Jefferson, is hereby amende
 ordinance to those persons who were members, retirees or survivors or who had vested rights under the
 Employees' Retirement System of Jefferson Parish Louisiana on December 14, 1979."
 Subdivision I. - In General
-#####   
+##### Sec. 23-221. - Definitions.  
 
 The following words and phrases, as used in this division, unless a different meaning is plainly required by the
 context, shall have the following meanings:
@@ -1626,7 +1626,7 @@ Retirement system shall mean the employees retirement system of Jefferson Parish
 section 23-222 of this division.
 Service shall mean service rendered as an employee as described in this section.
 (Ord. No. 11027, § 1, 1-18-73; Ord. No. 11952, § 1, 3-6-75)
-#####   
+##### Sec. 23-222. - Name and date of establishment.  
 
 A retirement system is hereby established and placed under the management of the board of trustees for the
 purpose of providing retirement allowance and other benefits under the provisions of this division for employees
@@ -1637,7 +1637,7 @@ System of Jefferson Parish, Louisiana," and by such name all of its business sha
 invested and all of its cash and securities and other property held except that securities may be held in the name
 of any nominee designated by any custodian designated by the board of trustees.
 (Ord. No. 11027, § 2, 1-18-73; Ord. No. 15533, 5-4-83)
-#####   
+##### Sec. 23-223. - Membership.  
 
 The membership of the retirement system shall be composed as follows:
 (1)
@@ -1703,7 +1703,7 @@ Employees' Retirement System of Louisiana or other statewide system and the Empl
 Jefferson Parish, Louisiana, shall not exceed one hundred (100) percent of the members average final
 compensation.
 (Ord. No. 11027, § 3, 1-18-73; Ord. No. 19156, § 1, 8-24-94)
-#####   
+##### Sec. 23-224. - Creditable service.  
 
 (a)
 Any person who becomes a member of the system on January 1, 1973 and who was employed by Jefferson
@@ -1772,7 +1772,7 @@ a prior service certificate which is in full force and effect at the time of his
 1, 2, 8-7-75; Ord. No. 14149, § 1, 12-5-79)
 Secs. 23-225—23-240. - Reserved.
 Subdivision II. - Benefits
-#####   
+##### Sec. 23-241. - Superannuation retirement.  
 
 (a)
 Retirement allowance.
@@ -1826,7 +1826,7 @@ allowance, shall be certified by the actuary to be of equivalent actuarial value
 approved by the board of trustees.
 (Ord. No. 11027, § 5(1), (2), 1-18-73; Ord. No. 11952, § 1, 3-6-75; Ord. No. 12095, § 1, 7-31-75; Ord. No.
 12401, § 1, 5-13-76; Ord. No. 13010, § 1, 8-11-77; Ord. No. 13324, § 1, 3-29-78; Ord. No. 13613, § 1, 10-1878; Ord. No. 14799, § 1, 6-24-81; Ord. No. 16512, 7-10-85; Ord. No. 16537, 8-7-85; Ord. No. 19156, § 1, 8-2494)
-#####   
+##### Sec. 23-242. - Return of accumulated contributions.  
 
 Should a member cease to be a member except by death or retirement under the provisions of this division, he
 shall be paid the amount of the accumulated contributions standing to the credit of his individual account in the
@@ -1840,7 +1840,7 @@ as a refund, together with interest covering the period from the date of refund 
 such repayment the member shall again receive credit for the entire period of creditable service which he
 forfeited upon the receipt of the refund.
 (Ord. No. 11027, § 5(3), 1-18-73; Ord. No. 11952, § 1, 3-6-75; Ord. No. 19156, § 1, 8-24-94)
-#####   
+##### Sec. 23-243. - Disability benefits.  
 
 (a)
 Upon the application of a member or his employer, any member who has had at least ten (10) years of creditable
@@ -1880,7 +1880,7 @@ disability allowance which shall be paid to said spouse for life. All other prov
 remain unchanged.
 (Ord. No. 11027, § 5(4), 1-18-73; Ord. No. 12095, § 1, 7-31-75; Ord. No. 15815, §§ 1, 3, 12-14-83; Ord. No.
 19156, § 1, 8-24-94)
-#####   
+##### Sec. 23-244. - Benefits of surviving spouse.  
 
 (a)
 If a member dies after having attained a vested interest in this system, but before having attained sufficient age
@@ -1911,7 +1911,7 @@ proof of surviving spouse status
 These provisions apply to all members who retire on or after September 1, 1995.
 (Ord. No. 11027, § 5(5), 1-18-73; Ord. No. 13324, § 1, 3-29-78; Ord. No. 19156, § 1, 8-24-94; Ord. No. 19544,
 § 1, 11-15-95)
-#####   
+##### Sec. 23-245. - Optional allowances.  
 
 (a)
 With the provision that no optional selection shall be effective in case a member beneficiary dies within thirty
@@ -1938,7 +1938,7 @@ division.
 (Ord. No. 11027, § 5(6), 1-18-73; Ord. No. 19156, § 1, 8-24-94)
 Secs. 23-246—23-255. - Reserved.
 Subdivision III. - Administration
-#####   
+##### Sec. 23-256. - Board of trustees.  
 
 (a)
 The general administration and responsibility for the proper operation of the retirement system and for making
@@ -2000,17 +2000,17 @@ showing the fiscal transactions of the retirement system, for the preceding fisc
 accumulated cash and securities of the system, and the last balance sheet showing the financial condition of the
 system by means of an actuarial valuation of the assets and liabilities of the retirement system.
 (Ord. No. 11027, § 6(1)—(10), 1-18-73; Ord. No. 22916, § 1, 11-15-06; Ord. No. 24107, § 1, 8-31-11)
-#####   
+##### Sec. 23-257. - Legal adviser.  
 
 The parish attorney shall be the legal advisor of the board of trustees.
 (Ord. No. 11027, § 6(11), 1-18-73)
-#####   
+##### Sec. 23-258. - Medical board.  
 
 The board of trustees may accept the decisions, suggestions or reports of the Louisiana State Medical Disability
 Board as provided in LRS 33:6129 or the board of trustees may especially employ a physician or physicians to
 examine disability retirees or proposed disability retirees and report to the board of trustees his or their findings.
 (Ord. No. 11027, § 6(12), 1-18-73; Ord. No. 15815, § 2, 12-14-83)
-#####   
+##### Sec. 23-259. - Duties of actuary.  
 
 (a)
 The board of trustees shall designate an actuary who shall be the technical adviser of the board of trustees on
@@ -2036,7 +2036,7 @@ Certify the rates of contributions payable by each employer on account of new en
 On the basis of such tables as the board of trustees shall adopt, the actuary shall make an annual valuation of the
 assets and liabilities of the funds of the system created by this division.
 (Ord. No. 11027, § 6(13)—(16), 1-18-73)
-#####   
+##### Sec. 23-260. - Compliance with Internal Revenue Code provisions.  
 
 The board of trustees shall promulgate rules and procedures and take such other actions as may be necessary to
 comply with the provisions of the Internal Revenue Code of 1986, as amended, including any successor thereto,
@@ -2047,7 +2047,7 @@ authority granted by this section.
 (Ord. No. 23613, § 1, 8-12-09)
 Secs. 23-261—23-270. - Reserved.
 Subdivision IV. - Finance
-#####   
+##### Sec. 23-271. - Management of funds.  
 
 (a)
 The board of trustees shall be the trustees of the several funds created by this division, as provided in sections
@@ -2086,13 +2086,13 @@ That all funds of this retirement system shall be subject to audit regularly, at
 independent firm of certified public accountants chosen by the board of trustees or the State Legislative Auditor
 beginning in the year 1975.
 (Ord. No. 11027, § 7(1)—(7), 1-18-73; Ord. No. 11952, § 1, 3-6-75; Ord. No. 22916, § 2, 11-15-06)
-#####   
+##### Sec. 23-272. - Method of financing.  
 
 All of the assets of the retirement system shall be credited according to the purpose for which they are held to
 one (1) of four (4) funds, namely, the annuity savings fund, the annuity reserve fund, the pension accumulation
 fund and the expense fund.
 (Ord. No. 11027, § 8, 1-18-73)
-#####   
+##### Sec. 23-273. - Annuity savings fund.  
 
 (a)
 The annuity savings fund shall be a fund in which shall be accumulated contributions from the compensation of
@@ -2124,7 +2124,7 @@ which shall be paid all annuities and all benefits in lieu of annuities, payable
 a beneficiary retired on account of disability be restored to active service his annuity reserve shall be transferred
 from the annuity reserve fund to the pension accumulation fund.
 (Ord. No. 11027, § 8(2), 1-18-73)
-#####   
+##### Sec. 23-275. - Pension accumulation fund.  
 
 (a)
 The pension accumulation fund shall be the fund in which shall be accumulated all reserves for the payment of
@@ -2171,7 +2171,7 @@ accumulation fund to the annuity reserve fund.
 The board of trustees may transfer annually from the pension accumulation fund to the expense fund an amount
 sufficient to cover the expenses of the system.
 (Ord. No. 11027, § 8(3), 1-18-73)
-#####   
+##### Sec. 23-276. - Expense fund.  
 
 The expense fund shall be the fund from which the expenses of the retirement system shall be paid, exclusive of
 amount payable as retirement allowances and other benefits provided therein. Contributions shall be made to the
@@ -2183,7 +2183,7 @@ fiscal year.
 Any surplus in excess of five thousand dollars ($5,000.00) existing at the end of any fiscal year in the expense
 fund shall be transferred to the pension accumulation fund.
 (Ord. No. 11027, § 8(4), 1-18-73)
-#####   
+##### Sec. 23-277. - Collection of contributions.  
 
 (a)
 The collection of members' contributions shall be as follows:
@@ -2202,7 +2202,7 @@ contributed by each employer (if any) as provided for in section 23-275(b) of th
 (Ord. No. 11027, § 8(5), 1-18-73)
 Secs. 23-278—23-290. - Reserved.
 Subdivision V. - Miscellaneous
-#####   
+##### Sec. 23-291. - Exemptions from execution.  
 
 The right of a person to a pension, an annuity, or a retirement allowance, to the return of contributions, the
 pension, annuity or retirement allowance itself, any optional benefit or any other right accrued or accruing to any
@@ -2210,7 +2210,7 @@ person under the provisions of this division, and the moneys in the various fund
 hereby exempt from any state or municipal tax, and exempt from levy and sale, garnishment, attachment or any
 other process whatsoever, and shall be unassignable except as in this division specifically otherwise provided.
 (Ord. No. 11027, § 9, 1-18-73)
-#####   
+##### Sec. 23-292. - Protection against fraud.  
 
 Any person who shall knowingly make any false statement or shall falsify or permit to be falsified any record or
 records of this retirement system in any attempt to defraud such system, as a result of such act shall be guilty of
@@ -2222,7 +2222,7 @@ entitled to receive had the records been correct, the board of trustees shall co
 practicable, shall adjust the payment in such a manner that the actuarial equivalent of the benefit to which such
 member or beneficiary was correctly entitled shall be paid.
 (Ord. No. 11027, § 10, 1-18-73)
-#####   
+##### Sec. 23-293. - Limitation of membership.  
 
 No other provisions of law in any other statutes which provide wholly or partly at the expense of the State of
 Louisiana for pensions or retirement benefits for employees of the several parishes or any parish of the State of
@@ -2230,7 +2230,7 @@ Louisiana, their widows or other dependents, other than the Parochial Employees'
 Louisiana, shall apply to members or beneficiaries of the retirement system established by this division, their
 widows or other dependents.
 (Ord. No. 11027, § 11, 1-18-73)
-#####   
+##### Sec. 23-294. - Guaranty.  
 
 (a)
 The maintenance of annuity reserves as provided for, and regular interest creditable to the various funds as
@@ -2243,7 +2243,7 @@ Any member eligible for retirement, who does not have Social Security coverage a
 hereby guaranteed that he will not get less benefits under this system then those provided by the Federal Social
 Security Laws in effect at the time of his retirement.
 (Ord. No. 11027, § 12, 1-18-73)
-#####   
+##### Sec. 23-295. - [Employment by the parish of retired persons.  
 ]
 Any person who has retired under the provisions of this "supplemental retirement plan" may be employed by
 Jefferson Parish, or any of its agencies as a part-time employee provided he is retained on the same basis and
@@ -2251,7 +2251,7 @@ follows the same guidelines as provided in the Parochial Employees' Retirement S
 reference to reemployment after retirement with his former employer.
 (Ord. No. 11027, § 13, 1-18-73; Ord. No. 22916, § 3, 11-15-06)
 ### ARTICLE VIII. - PREVENTION OF SEXUAL HARASSMENT
-#####   
+##### Sec. 23-296. - Prohibition of sexual harassment.  
 
 It is unlawful to harass a person because of that person's sex. Sexual harassment is a form of discrimination
 under Title VII of the U.S. Civil Rights Act of 1964, as amended, and the Louisiana Employment Discrimination
@@ -2262,7 +2262,7 @@ course and scope of employment, all officers, agents, commissions, boards, commi
 employees, agencies or departments are prohibited from sexually harassing a person, regardless of any
 employment relationship.
 (Ord. No. 25709 , § 1, 12-5-18)
-#####   
+##### Sec. 23-297. - Definitions.  
 
 Unless the context clearly indicates otherwise, the following words and terms, when used in this chapter, shall
 have the following meanings:
@@ -2313,7 +2313,7 @@ Although severe and overt forms of sexual harassment may be readily apparent, so
 subtle and varies depending on interpretation and perception. Review of sexual harassment allegations are
 subject to the standard of what offends a "reasonable person."
 (Ord. No. 25709 , § 1, 12-5-18)
-#####   
+##### Sec. 23-298. - Sexual harassment policy.  
 
 The department of human resource management is tasked with maintaining a policy within the Administrative
 Management Policies Manual which complies with R.S. § 42:341 et seq., effective January 1, 2019. The
@@ -2336,7 +2336,7 @@ Employees also have the right to file a complaint with the Equal Employment Oppo
 (EEOC), the Louisiana Human Rights Commission, or pursue other legal action in addition to their rights
 hereunder. The EEOC provides employees three hundred (300) days to file an official complaint.
 (Ord. No. 25709 , § 1, 12-5-18)
-#####   
+##### Sec. 23-299. - Retaliation.  
 
 Retaliation against an employee who brings a complaint of harassment, reports an allegation of sexual
 harassment on behalf of another, or participates in an investigation of a harassment complaint is prohibited and
@@ -2345,7 +2345,7 @@ determined to be fabricated, knowingly false, or otherwise baseless shall requir
 impose disciplinary action against the complainant found to have filed the improper complaint, as well as any
 other employees that participated in the false allegation or complaint.
 (Ord. No. 25709 , § 1, 12-5-18)
-#####   
+##### Sec. 23-300. - Sexual harassment training.  
 
 (a)
 Each public employee shall receive a minimum of one (1) hour of education and training on preventing sexual
@@ -2361,7 +2361,7 @@ Each public servant shall be notified of the mandatory training requirement. The
 department of human resource management shall be responsible for maintaining records of the compliance of
 each public servant with the mandatory training requirement.
 (Ord. No. 25709 , § 1, 12-5-18)
-#####   
+##### Sec. 23-301. - Mandatory reports.  
 
 The director of the department of human resource management shall compile an annual public record report by
 February first of each year that contains the below information for the prior calendar year:

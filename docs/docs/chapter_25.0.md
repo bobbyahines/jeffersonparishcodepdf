@@ -13,7 +13,7 @@ Secs. 25-1—25-15. - Reserved.
 Footnotes:
 --- (2) --Cross reference— Administration, Ch. 2; boards, commissions and committees generally, § 2-516 et seq.
 State Law reference— Regional planning commissions, R.S. 33:131 et seq.
-#####   
+##### Sec. 25-16. - Established; purposes, powers.  
 
 There shall be established a regional planning commission under the provisions of R.S. 33:131 et seq., for the
 following purposes:
@@ -108,7 +108,7 @@ planning for civil defense;
 (10)
 Incidental powers. To exercise all other powers necessary and proper for the discharge of its duties.
 (Code 1961, § 14A-1)
-#####   
+##### Sec. 25-17. - Membership; appointment, removal, terms, compensation.  
 
 (a)
 Appointment. There is hereby established a regional planning commission which shall consist of thirty-one (31)
@@ -182,7 +182,7 @@ appointed for a term of five (5) years from and after the expiration of the term
 Vacancies. If a vacancy occurs otherwise than by expiration of term, same shall be filled by appointment of the
 unexpired term. Such appointment shall be made by the original appointing authority.
 (Code 1961, § 14A-2; Ord. No. 24555, § 1, 8-14-13)
-#####   
+##### Sec. 25-18. - Organization, meetings, rules, records.  
 
 The regional planning commission shall elect a chairman from its membership and create and fill such other of
 its offices as it may determine. The term of chairman shall be one (1) year, with eligibility for reelection, The
@@ -190,7 +190,7 @@ commission shall hold at least one (1) regular meeting in each month. It shall a
 business and shall keep records of its resolutions, transactions, findings, and determinations, which records shall
 be public.
 (Code 1961, § 14A-3)
-#####   
+##### Sec. 25-19. - Appointment, use of personnel; funds.  
 
 (a)
 In order to carry out its functions and responsibility the regional planning commission may appoint such
@@ -204,7 +204,7 @@ state and other such agencies, shall be within the amounts appropriated for the 
 legislative bodies, which shall provide the funds, equipment and accommodations necessary for the
 commission's work.
 (Code 1961, § 14A-4)
-#####   
+##### Sec. 25-20. - Disposition of development plan, revision, amendment.  
 
 Upon the preparation of the regional development plan or of any phase or functional part thereof, or upon the
 preparation of an amendment or revision of the plan or any part thereof, or upon the preparation of any extension
@@ -215,7 +215,7 @@ municipality within its area, as well as to regional planning commissions establ
 regional planning commission shall make copies of the regional development plan or part of a plan available for
 general distribution or sale.
 (Code 1961, § 14A-5)
-#####   
+##### Sec. 25-21. - Authority as to municipal, parish planning agencies.  
 
 The regional planning commission shall not be authorized to exercise the functions of any municipal planning
 commission or parish planning commission, where such are established within a regional planning area, except
@@ -243,7 +243,7 @@ commission functioning within a regional planning area, then the regional planni
 recommend measures for the coordination of plans, and if appropriate, recommend plans for adoption by the
 municipal or parish planning commission.
 (Code 1961, § 14A-6)
-#####   
+##### Sec. 25-22. - Disposition of local plans, ordinances, proposals.  
 
 To facilitate effective and harmonious planning of the region, all parish and municipal legislative bodies, and all
 parish, municipal or other local planning agencies shall file with the regional planning commission, for its
@@ -254,7 +254,7 @@ other local planning agencies may also submit proposals for such plans, ordinanc
 amendments or revisions prior to their adoption, in order to afford an opportunity to the regional planning
 commission and/or its staff to study such proposals and to render advice thereon.
 (Code 1961, § 14A-7)
-#####   
+##### Sec. 25-23. - Authority as to funds for regional planning; books, accounts to be kept.  
 
 The regional planning commission may request and accept grants of funds or services from the federal
 government or any of its agencies, from the state government or any of its agencies or from parish, municipal or
@@ -264,7 +264,7 @@ all or parts of their area. The books and accounts of the regional planning comm
 open for public inspection, and shall show the amounts and sources of all receipts and the amount of all
 disbursements.
 (Code 1961, § 14A-8)
-#####   
+##### Sec. 25-24. - Planning conferences, institutes, hearings; examinations, surveys.  
 
 (a)
 Members of the regional planning commission, when duly authorized by the commission, may attend planning
@@ -284,13 +284,13 @@ may enter upon any land and make examinations and surveys and place and maintain
 marks thereon. In general, the commission shall have such powers as may be necessary to enable it to fulfill its
 functions, promote planning and in all respects carry out the purposes of this article.
 (Code 1961, § 14A-9; Ord. No. 24555, § 2, 8-14-13)
-#####   
+##### Sec. 25-25. - Boundaries of regional planning area.  
 
 The boundaries of the regional planning area hereby established are to be comprised of the total area of Jefferson
 Parish, the City of New Orleans, and the Parish of St. Bernard, the Parish of St. Tammany, the Parish of
 Plaquemines, and the Parish of Tangipahoa.
 (Code 1961, § 14A-10; Ord. No. 24555, § 3, 8-14-13)
-#####   
+##### Sec. 25-26. - Council chairman to execute documents.  
 
 The chairman of the parish council shall be and he is hereby empowered, authorized and directed, to sign and
 execute all acts or documents necessary and proper in the premises to give full force and effect to this article.
@@ -298,7 +298,7 @@ execute all acts or documents necessary and proper in the premises to give full 
 Secs. 25-27—25-42. - Reserved.
 _____
 ### ARTICLE III. - GROWTH LIMITS
-#####   
+##### Sec. 25-43. - Established.  
 
 (1)
 There is established an Urban Growth Limit Line on the west bank of Jefferson Parish for the purpose of
@@ -800,7 +800,7 @@ In the event the legal description provided herein is in conflict with the actua
 National Historical Park and Preserve the survey line shall apply.
 (Code 1961, § 14A-21; Ord. No. 23101, § 1, 7-18-07)
 _____
-#####   
+##### Sec. 25-44. - Permitted structures and activities.  
 
 Outside the urban growth limit line, only the following structures and/or activities are permitted, provided all
 local, state and federal permits are obtained.
@@ -825,7 +825,7 @@ as art. IV, §§ 25-51—25.53, has been at the editor's discretion.
 Cross reference— Coastal zone management committee, § 2-545 et seq.
 State Law reference— Louisiana coastal protection, R.S. 49:213.1 et seq.; State and Local Coastal Resources
 Management Act of 1978, R.S. 49:214.1; local coastal management programs, R.S. 49:214.28.
-#####   
+##### Sec. 25-51. - Program adopted.  
 
 (a)
 The plan submitted by the coastal zone management advisory committee as supplemented, amended, reenacted
@@ -838,7 +838,7 @@ A copy of the coastal zone management program, as amended, shall be permanently 
 the parish clerk, the office of the planning department, the office of the department of environmental affairs, and
 in the parish library system to be made available for public scrutiny.
 (Ord. No. 15529, §§ I, 2, 5-4-83; Ord. No. 17090. § IV, 11-19-86; Ord. No. 20921, § 7, 3-15-00)
-#####   
+##### Sec. 25-52. - Coastal use permitting fees.  
 
 A local coastal use permitting fee is hereby adopted as follows:
 (1)
@@ -848,7 +848,7 @@ dollars ($100.00);
 All uses whose total cost will exceed ten thousand dollars ($10,000.00) will be assessed a fee of three hundred
 dollars ($300.00).
 (Ord. No. 15528, § 1, 5-4-83)
-#####   
+##### Sec. 25-53. - Administrator and deputy administrators.  
 
 (a)
 The administrator of the coastal zone management program shall be appointed by the parish council and he shall
@@ -865,7 +865,7 @@ Secs. 25-54—25-60. - Reserved.
 ### ARTICLE V. - ECONOMIC DEVELOPMENT DISTRICTS
 Footnotes:
 --- (4) --Cross reference— Economic development office, § 2-875.8 et seq.
-#####   
+##### Sec. 25-61. - Metairie district.  
 
 (a)
 Designation. The area of the Metairie CBD bounded by Tolmas, Metairie Lawn, canal no. 4, Division Street,
@@ -883,7 +883,7 @@ Classification of uses. For the purposes of this section and the implementation 
 development (areas having a zoning classification of R-3) and office development shall be considered
 commercial uses.
 (Ord. No. 17693, §§ 1—4, 2-15-89)
-#####   
+##### Sec. 25-62. - Manhattan Corridor Economic Development District.  
 
 (a)
 Pursuant to the authority contained in Act No. 286 of the 2007 Louisiana Legislative Session (the "Act"), now
@@ -931,7 +931,7 @@ R.S. 33:9038.34, are, respectively two million six hundred eleven thousand five 
 (Ord. No. 24478, §§ 1—7, 5-15-13)
 Editor's note— Ord. No. 24478, §§ 1—7, adopted May 15, 2013, did not specifically amend the Code; hence,
 inclusion herein as § 25-62 was at the discretion of the editor. See also the Code Comparative Table.
-#####   
+##### Sec. 25-63. - Manhattan Boulevard Economic Development District.  
 
 (a)
 
@@ -955,7 +955,7 @@ commercial uses.
 (Ord. No. 24532, §§ I—IV, 7-24-13)
 Editor's note— Ord. No. 24532, §§ I—IV, adopted July 24, 2013, did not specifically amend the Code; hence,
 inclusion herein as § 25-63 was at the discretion of the editor. See also the Code Comparative Table.
-#####   
+##### Sec. 25-64. - Jefferson highway economic development district.  
 
 (a)
 [Designation.] Pursuant to the Act, this council does hereby create an economic development district within the
@@ -976,7 +976,7 @@ Tax Increments of the parish sales tax generated within the boundaries of the Di
 [Governing authority.] The council is hereby designated, pursuant to the Act, as the governing authority of the
 District.
 (Ord. No. 25143 , § 1, 4-20-16)
-#####   
+##### Sec. 25-65. - Lafreniere area economic development district.  
 
 (a)
 Creation of district. Under the authority of La. R.S. 33:9038.32 there is hereby created an economic
@@ -1025,7 +1025,7 @@ Ord. No. 22807, § 10, adopted July 19, 2006; Ord. No. 22933 , §§ II—IV, ado
 42—44, adopted May 7, 2008; Ord. No. 23627, § 1, adopted Sept. 2, 2009; Ord. No. 23686, § 1, adopted Nov. 4,
 2009; Ord. No. 24576, § I, adopted Sept. 18, 2013; Ord. No. 24734 , §§ I—VII, adopted April 30, 2014; Ord.
 No. 25020 , §§ I, II, adopted Oct. 7, 2015; and Ord. No. 25890 , § 1, Nov. 6, 2019.
-#####   
+##### Sec. 25-100. - Title and adoption.  
 
 This article of the Jefferson Parish Code of Ordinances shall be known as the Jefferson Parish Comprehensive
 Plan, hereinafter referred to as the plan or this plan. The plan document and its subplans, as set forth in words,
@@ -1033,7 +1033,7 @@ maps, illustrations, and tables, are hereby made a part of this article, as if a
 fully described and set forth herein. Unless otherwise specified, the adopted plan documents are accessible in
 electronic format from the parish's official website.
 ( Ord. No. 25891 , § 5, 11-6-19)
-#####   
+##### Sec. 25-101. - Purpose.  
 
 In accordance with the Parish Charter, the purpose of the plan is to guide the parish's social, economic, and
 physical development including, but not limited to, densities of population, uses of land, networks of streets and
@@ -1042,22 +1042,22 @@ and utilities. The plan is an expression of the aspirations of the parish commun
 the vision, goals, objectives, and implementation tasks intended to promote coordinated, efficient, and orderly
 development and the public health, safety, and general welfare.
 ( Ord. No. 25891 , § 5, 11-6-19)
-#####   
+##### Sec. 25-102. - Authority.  
 
 The plan is authorized by the Jefferson Parish Home Rule Charter and in accordance with state law.
 ( Ord. No. 25891 , § 5, 11-6-19)
-#####   
+##### Sec. 25-103. - Jurisdiction.  
 
 Jefferson Parish shall prepare, enact, and enforce this plan for the unincorporated areas of the parish unless a
 plan element or other component specifies its application to an incorporated area.
 ( Ord. No. 25891 , § 5, 11-6-19)
-#####   
+##### Sec. 25-104. - Effective date.  
 
 As provided by state and local laws and the Parish Charter, the plan shall be in full force and effect pursuant to
 its adoption on August 6, 2003 by Ordinance No. 21939, which established the effective date as February 29,
 2004, as amended on November 6, 2019 and subsequently amended.
 ( Ord. No. 25891 , § 5, 11-6-19)
-#####   
+##### Sec. 25-105. - Relationship to other plans.  
 
 Unless otherwise specified, this plan shall govern where a conflict or inconsistency exists between:
 (1)
@@ -1066,7 +1066,7 @@ reference; or
 (2)
 The future land use map of this plan and future land use in a subarea plan adopted prior to November 6, 2019.
 ( Ord. No. 25891 , § 5, 11-6-19)
-#####   
+##### Sec. 25-106. - Plan specifications, generally.  
 
 In furtherance of the Parish Charter, the plan shall include the following components:
 (1)
@@ -1136,7 +1136,7 @@ Opportunities and constraints; and
 c.
 Implementation progress.
 ( Ord. No. 25891 , § 5, 11-6-19; Ord. No. 25916 , § 2, 12-18-19)
-#####   
+##### Sec. 25-107. - Official future land use map (FLUM).  
 
 The official boundaries of the future land use categories are available from electronic records that are accessible
 only from the Parish of Jefferson as the official future land use map (FLUM). The official future land use map
@@ -1146,7 +1146,7 @@ and information set forth thereon were fully described and copied herein. The of
 contained in said electronic records is based on the paper official future land use maps initially designated in the
 plan and as amended thereafter.
 ( Ord. No. 25891 , § 5, 11-6-19)
-#####   
+##### Sec. 25-108. - Consistency of key development actions with the plan.  
 
 (a)
 Purpose. The purpose of the consistency doctrine is to merge intentions and actions. Jefferson Parish recognizes
@@ -1213,7 +1213,7 @@ c.
 Any amendments to the plan that would eliminate an inconsistency between the plan and the proposed land use
 action.
 ( Ord. No. 25891 , § 5, 11-6-19)
-#####   
+##### Sec. 25-109. - Amendment.  
 
 (a)
 The parish council may, from time to time, amend, supplement or change the plan in accordance with the
@@ -1228,7 +1228,7 @@ action; or
 Less than two (2) acres, she may flag the area to be reviewed as part of annual monitoring and review of the
 plan.
 ( Ord. No. 25891 , § 5, 11-6-19)
-#####   
+##### Sec. 25-110. - Monitoring and review of the plan.  
 
 To ensure that the plan remains an effective guide for the parish, the planning director, with assistance from
 other departments, shall perform periodic evaluations of the goals, objectives, and implementation tasks of the

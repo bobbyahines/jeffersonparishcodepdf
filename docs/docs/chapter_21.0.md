@@ -4,7 +4,7 @@ Footnotes:
 State Law reference— Parks and playgrounds, R.S. 33:1236(20), 33:4622; recreational facilities, R.S. 33:4551
 et seq.; federal aid for outdoor recreation, R.S. 56:1805.
 ### ARTICLE I. - IN GENERAL
-#####   
+##### Sec. 21-1. - Regulations and prohibitions of booster clubs involved in recreation programs.  
 
 (a), (b)
 [Reserved.]
@@ -28,13 +28,13 @@ Each authorized booster club shall upon demand by the parish council, the parish
 department of parks and recreation make available any or all of its financial records upon one (1) week's notice
 for review by any and all parish officials.
 (Code 1961, 2-46; Ord. No. 18175, § 1, 12-19-90; Ord. No. 18486, § 1, 3-18-92; Ord. No. 20168, § 1, 10-22-97)
-#####   
+##### Sec. 21-2. - Vehicles prohibited in parks; exception.  
 
 The operation of motor bikes or motor vehicles is prohibited on all parish playgrounds and/or parks except when
 express permission is granted by the department of parks and recreation for a particular function.
 (Code 1961, § 11-8.4)
 Cross reference— Traffic and motor vehicles, Ch. 36.
-#####   
+##### Sec. 21-3. - Parking on playgrounds.  
 
 (a)
 No person shall park, or cause to be parked, any vehicle on playgrounds located in the parish.
@@ -46,7 +46,7 @@ No person shall park, or cause to be parked, any vehicle overnight in designated
 facilities.
 (Code 1961, § 11-88; Ord. No. 16586, § 1, 9-11-85)
 Cross reference— Parking, stopping and standing, § 36-88 et seq.
-#####   
+##### Sec. 21-4. - Use of parks for commercial purposes prohibited unless authorized.  
 
 Commercial operations in any park, playground or other recreational facility owned, operated, or maintained by
 the parish are prohibited unless specifically authorized by the Jefferson Parish Council, by written permission
@@ -59,7 +59,7 @@ equipment or paraphernalia used for commercial purposes on such grounds or facil
 used herein shall include automobiles, buses, boats, airboats, motorcycles, bicycles and other like equipment
 used for transportation.
 (Ord. No. 20164, § 1, 10-22-97)
-#####   
+##### Sec. 21-5. - Smoking prohibited in parish outdoor recreational facilities except in designated areas.  
 
 (a)
 It shall be unlawful for any person to smoke in any indoor or outdoor area in any playground, arena, stadium, or
@@ -101,10 +101,10 @@ Secs. 21-6—21-19. - Reserved.
 Footnotes:
 --- (2) --Charter reference— Authority to establish special districts for recreation, § 2.01(A)(7).
 Cross reference— Governing body and domicile of special districts, § 2-19; taxation, Ch. 35.
-#####   
+##### Sec. 21-20. - Reserved.  
 
 Note— See the editor's note following § 21-23.
-#####   
+##### Sec. 21-21. - Consolidated Jefferson Recreation and Community Center and Playground District.  
 
 (a)
 Creation. A consolidated recreation and community center and playground district be and is hereby created
@@ -122,7 +122,7 @@ be known and designated as "Consolidated Jefferson Recreation and Community Cent
 of the Parish of Jefferson, State of Louisiana."
 (Code 1961, §§ 2-17, 2-18; Ord. No. 17654, § 3, 12-7-88; Ord. No. 15119, § 2, 4-5-89; Ord. No. 22161, § 1, 331-04)
 State Law reference— Authority to create consolidated special service districts, R.S. 33:7701 et seq.
-#####   
+##### Sec. 21-22. - Reserved.  
 
 Editor's note— Ord. No. 20890, § 2, adopted Feb. 23, 2000, repealed § 21-22, which pertained to community
 center and playground district no. 10. See the Code Comparative Table.
@@ -132,7 +132,7 @@ West Bank Consolidated Recreation and Community Center and Playground Districts 
 §§ 21-23 and 21-24 derived from Ord. No. 16309, §§ 1, 2, adopted January 9, 1985; and Ord. No. 17860, §§ 1—
 3, adopted November 8, 1989. Sections 21-20, 21-23 through 21-27, which were superseded by the aforesaid,
 derived from the Code of 1961 and Ord. No. 16122.
-#####   
+##### Sec. 21-25. - Consolidated Recreation and Community Center and Playground District No.  
  2 of the Parish of
 Jefferson, State of Louisiana.
 (a)
@@ -164,7 +164,7 @@ known and designated as "Consolidated Recreation and Community Center and Playgr
 Parish of Jefferson, State of Louisiana.
 (Ord. No. 18520, § 1, 5-20-92; Ord. No. 20890, § 1, 2-23-00)
 Note— See the editor's note to § 21-24.
-#####   
+##### Sec. 21-26. - Sub-District No.  
  1 of Consolidated Recreation and Community Center and Playground District No.
 2 of the Parish of Jefferson, State of Louisiana.
 (a)
@@ -193,10 +193,10 @@ Official designation. The recreation and community center district created in th
 designated as Sub-District No. 1 of Consolidated Recreation and Community Center and Playground District
 No. 2 of the Parish of Jefferson, State of Louisiana.
 (Ord. No. 20098, § 1, 8-6-97; Ord. No. 20891, § 1, 2-23-00)
-#####   
+##### Sec. 21-27. - Reserved.  
 
 Note— See the editor's note following § 21-23.
-#####   
+##### Sec. 21-28. - Community center and playground district no.  
  16.
 (a)
 Creation. A community center and playground district is hereby created within the parish, which shall comprise
@@ -209,7 +209,7 @@ Official designation. The community center and playground district created by su
 is hereby designated as "Community Center and Playground District No. 16 of Parish of Jefferson, State of
 Louisiana."
 (Code 1961, § 2-32.11.1)
-#####   
+##### Sec. 21-29. - East Jefferson Park and Community Center and Playground District.  
 
 (a)
 Created. A community center and playground district is hereby created within the parish, to be known and
@@ -279,7 +279,7 @@ providing the disability benefit or provide other proof of disability benefit ac
 § 1, 3-10-93; Ord. No 18737, §§ 1, 2, 4-14-93; Ord. No. 20707, §§ 3, 4, 6-9-99; Ord. No. 21439, §§ 5, 8, 11-1401)
 Editor's note— At the editor's discretion, Ord. No. 17579, § 1, adopted Aug. 24, 1988, has been codified as §
 21-29.
-#####   
+##### Sec. 21-30. - West Jefferson Park and Community Center and Playground District.  
 
 (a)
 Creation. A community center and playground district be and is hereby created within the Parish of Jefferson,
@@ -334,7 +334,7 @@ within the district, and for such other purposes as provided by law and this art
 (Ord. No. 22162, § 1, 3-31-04)
 Secs. 21-31—21-38. - Reserved.
 ### ARTICLE III. - CIVIC AND CULTURAL CENTER DISTRICTS
-#####   
+##### Sec. 21-39. - Civic and cultural center district no.  
  1.
 (a)
 Created. A civic and cultural center district is hereby created, which shall comprise and embrace all of that

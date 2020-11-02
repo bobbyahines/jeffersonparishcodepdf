@@ -11,7 +11,7 @@ miscellaneous provisions, Ch. 20; vehicles prohibited in parks, § 21-2; sale fr
 22-47 et seq.; railroads, Ch. 28; roads and bridges, Ch. 29; vehicles for hire, Ch. 38.
 State Law reference— Motor vehicles and traffic, R.S. Title 32; power of local parish authorities, R.S. 32:42.
 ### ARTICLE I. - IN GENERAL
-#####   
+##### Sec. 36-1. - Definitions.  
 
 The following words and phrases, when used in this chapter, shall have the meanings respectively ascribed to
 them in this section:
@@ -100,7 +100,7 @@ hauler or camper. A vehicle may include bicycles, cars, motorcycles, trains, wat
 (Code 1961, § 11-1; Ord. No. 16602, § I, 9-11-85; Ord. No. 21077, §§ 1, 2, 9-20-00; Ord. No. 21357, § 2, 8-801; Ord. No. 22801, § 3, 7-19-06; Ord. No. 24587, §§ 2, 3 10-2-13; Ord. No. 25243 , § 1, 10-19-16)
 Cross reference— Definitions and rules of construction generally, § 1-2.
 State Law reference— State law definitions, R.S. 32:1.
-#####   
+##### Sec. 36-2. - Application to persons riding animals or driving animal-drawn vehicles.  
 
 Every person riding an animal or driving any animal-drawn vehicle upon a roadway shall be granted all of the
 rights and be subject to all of the duties applicable to the driver of a vehicle by this chapter, except those
@@ -108,7 +108,7 @@ provisions which by their very nature can have no application.
 (Code 1961, § 11-1)
 Cross reference— Animals and fowl, Ch. 7.
 State Law reference— Similar provisions, R.S. 32:22.
-#####   
+##### Sec. 36-3. - Reckless, careless operation of vehicles prohibited.  
 
 (a)
 Reckless operation of a vehicle is the operation of any motor vehicle in a criminally negligent or reckless
@@ -122,13 +122,13 @@ It shall be unlawful for any person to operate any motor vehicle upon any canal 
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Code 1961, § 11-8.2; Ord. No. 23671, § 5, 10-14-09)
 State Law reference— Reckless operation of a vehicle, R.S. 14:99.
-#####   
+##### Sec. 36-4. - Driving, parking or storing vehicles on sidewalks prohibited.  
 
 It shall be unlawful for any person to drive, park or store an automobile or motor vehicle upon the public
 sidewalk in and about the parish.
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Code 1961, § 11-12; Ord. No. 23671, § 6, 10-14-09)
-#####   
+##### Sec. 36-5. - Parking, storing, driving and/or riding a motor vehicle upon servitudes, etc.  
 , prohibited.
 (a)
 It shall be unlawful for any person to park, store, drive and/or ride a motor vehicle upon any canal servitudes,
@@ -148,7 +148,7 @@ of Ordinances.
 (c)
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Code 1961, § 11-12.1; Ord. No. 23298, § 1, 5-7-08; Ord. No. 23615, § 2, 8-12-09; Ord. No. 23671, § 7, 10-1409)
-#####   
+##### Sec. 36-6. - Stop and yield intersections.  
 
 (a)
 Authority. The department of public works, traffic engineering division, is hereby authorized to determine and
@@ -186,7 +186,7 @@ Penalties. Any person who violates any provision of this section shall be punish
 this Code.
 (Code 1961, § 11-19; Ord. No. 23671, § 8, 10-14-09)
 State Law reference— Right-of-way, R.S. 32:121 et seq.
-#####   
+##### Sec. 36-7. - Turning restrictions; designation of intersections.  
 
 (a)
 Authority. The department of public works, traffic engineering division, is hereby authorized to determine those
@@ -202,7 +202,7 @@ Penalties. Any person who violates any provision of this section shall be punish
 this Code.
 (Code 1961, § 11-20; Ord. No. 23671, § 9, 10-14-09)
 State Law reference— Required position and method of turning at intersections, R.S. 32:101.
-#####   
+##### Sec. 36-8. - Following authorized emergency vehicles prohibited.  
 
 The driver of any vehicle other than one on official business shall not follow any authorized emergency vehicle
 traveling in response to an official call of duty closer than five hundred (500) feet or drive into or park such
@@ -211,7 +211,7 @@ vehicle within the block where such vehicle has stopped in answer to an official
 Cross reference— Ambulances, Ch. 5; fire prevention and protection; emergency services and communication
 and hazardous material, Ch. 13; sheriff, Ch. 31.
 State Law reference— Similar provisions, R.S. 32:286.
-#####   
+##### Sec. 36-9. - Crossing fire hoses.  
 
 No vehicle shall be driven over any unprotected hose of a fire department when laid on any highway, private
 driveway or streetcar track without the consent of the fire department official in command.
@@ -219,7 +219,7 @@ driveway or streetcar track without the consent of the fire department official 
 Cross reference— Fire prevention and protection; emergency services and communication and hazardous
 material, Ch. 13.
 State Law reference— Similar provisions, R.S. 32:287.
-#####   
+##### Sec. 36-10. - Creation of hazard by fishing.  
 
 (a)
 Signs. The department of public works, traffic engineering division, is hereby authorized to investigate and
@@ -228,7 +228,7 @@ install the necessary signs in those areas where fishing creates a hazard or pub
 Prohibition. When such signs are installed it shall be unlawful for any person to fish from any bridge, pier,
 roadway, walkway or shore line of public property within one hundred (100) feet of such signs.
 (Code 1961, § 12-20.5)
-#####   
+##### Sec. 36-11. - Billboards, signs, etc.  
 , prohibited at railroad crossings.
 It shall be unlawful for any person to construct or cause the construction of any billboards, signs or any other
 devices which will prevent or obstruct the public view at approaches of any railroad crossings, or main tracks of
@@ -237,7 +237,7 @@ any railroad.
 Cross reference— Railroads, Ch. 28.
 State Law reference— Railroads required to erect and maintain signboards at crossings, R.S. 45:561 and
 45:565.
-#####   
+##### Sec. 36-12. - Loads on vehicles; care required thereto; penalties.  
 
 (a)
 (1)
@@ -283,18 +283,18 @@ shall not include agricultural products in their natural state or wood chips.
 (Ord. No. 22856, § 1, 8-30-06)
 Secs. 36-13—36-27. - Reserved.
 ### ARTICLE II. - TRAFFIC CONTROL DEVICES
-#####   
+##### Sec. 36-28. - Obedience.  
 
 The driver of any vehicle shall obey the instructions of any official traffic control device applicable thereto
 placed in accordance with the provisions of this chapter, unless otherwise directed by a traffic or police officer,
 subject to the exceptions granted the driver of an authorized emergency vehicle.
 State Law reference— Similar provisions, R.S. 32:231.
-#####   
+##### Sec. 36-29. - Existing devices ratified.  
 
 Traffic control devices existing on August 21, 1993 are hereby ratified and shall be presumed to have been
 lawfully erected.
 (Ord. No. 18826, § 1, 8-11-93)
-#####   
+##### Sec. 36-30. - Erection of devices by traffic engineering division.  
 
 The department of public works, traffic engineering division, shall erect such traffic control devices as directed
 by resolution or ordinance of the parish council. Traffic control devices may also be erected by the division upon
@@ -302,7 +302,7 @@ its own findings based upon applicable studies. Traffic control devices erected 
 section or by the traffic engineering division under the authority granted to the division by this chapter shall be
 considered to have been lawfully erected, regardless of whenever erected.
 (Ord. No. 18826, § 2, 8-11-93; Ord. No. 24499, § 1, 6-12-13)
-#####   
+##### Sec. 36-31. - Erection of temporary traffic control devices by school employees or volunteers.  
 
 Portable, temporary traffic control devices, provided to schools within the parish by the department of public
 works, traffic engineering division, shall be considered devices erected by the division for the purposes of this
@@ -313,7 +313,7 @@ Secs. 36-32—36-46. - Reserved.
 ### ARTICLE III. - SPEED RESTRICTIONS
 Footnotes:
 --- (2) --State Law reference— Speed restrictions, R.S. 32:61 et seq.
-#####   
+##### Sec. 36-47. - General speed law.  
 
 No person shall drive a vehicle on the streets within this parish at a speed greater than is reasonable and prudent
 under the conditions and potential hazards then existing, having due regard for the traffic on, and the surface and
@@ -321,18 +321,18 @@ width of, the highway, and the condition of the weather, and in no event at a sp
 speeds established by this chapter.
 (Code 1961, § 11-25)
 State Law reference— Similar provisions, R.S. 32:64.
-#####   
+##### Sec. 36-48. - Unposted limit.  
 
 It shall be unlawful for the driver of any vehicle to exceed a speed limit of twenty (20) miles per hour upon any
 of the streets of the parish unless otherwise posted.
-#####   
+##### Sec. 36-49. - Slow speed.  
 
 Except when a special hazard exists that requires lower speed for compliance with section 36-47, no person shall
 operate or drive a motor vehicle upon the streets of this parish at such a slow speed as to impede the normal and
 reasonable movement of traffic.
 (Code 1961, § 11-25)
 State Law reference— Similar provisions, R.S. 32:64.
-#####   
+##### Sec. 36-50. - Playground zones.  
 
 (a)
 The department of public works, traffic engineering division, is hereby authorized to install uniform playground
@@ -351,7 +351,7 @@ shall be in effect at all times.
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Code 1961, § 11-22; Ord. No. 23671, § 10, 10-14-09)
 Cross reference— Parks and recreation, Ch. 21.
-#####   
+##### Sec. 36-51. - School zones.  
 
 (a)
 School zone and school crossing speed limits shall be in effect as follows:
@@ -410,7 +410,7 @@ Sundays, or days when the individual schools are closed.
 Any motor vehicle operator violating the provisions of this section shall be punished as set forth in section 1-10
 of this Code.
 (Code 1961, § 11-13; Ord. No. 22530, § 1, 6-22-05; Ord. No. 23671, § 11, 10-14-09; Ord. No. 24395, § I, 12-1212)
-#####   
+##### Sec. 36-52. - Authorized emergency vehicles have limited exemption from speed restrictions.  
 
 The speed limitations set forth in this chapter shall not apply to vehicles when operated with due regard for
 safety under the direction of the department of state police, the sheriff, or his deputies, and other peace officers
@@ -424,7 +424,7 @@ Secs. 36-53—36-68. - Reserved.
 ### ARTICLE IV. - WEIGHT RESTRICTIONS
 Footnotes:
 --- (3) --State Law reference— Size, weight and load of vehicle, R.S. 32:381 et seq.
-#####   
+##### Sec. 36-69. - Generally.  
 
 When, by reason of conditions of weather or other emergency, or the physical condition of any public street or
 road or its recent construction, or the making of repairs thereto the parish council deems is necessary, it may, for
@@ -435,7 +435,7 @@ damage. Notice of such restrictions, prohibitions or weight reductions shall be 
 the termini of the street or road. However, failure to post such notice shall under no circumstances make the
 parish liable for any damages which may result of such failure.
 (Code 1961, § 11-51)
-#####   
+##### Sec. 36-70. - Gross weight limitation of vehicles; exceptions.  
 
 (a)
 No person shall operate any commercial vehicle exceeding ten thousand (10,000) pounds gross weight,
@@ -495,7 +495,7 @@ Parkway, Patton Lane, Cabildo Lane, East Kruger Lane, West Kruger Lane, Stilwell
 (Ord. No. 23023, §§ 1, 2, 3-28-07; Ord. No. 23671, § 12, 10-14-09)
 Editor's note— Ord. No. 23023, §§ 1, 2, adopted March 28, 2007, did not specifically amend the Code; hence,
 inclusion herein as § 36-70.1 was at the discretion of the editor. See also the Code Comparative Table.
-#####   
+##### Sec. 36-71. - Truck routes designated.  
 
 The gross weight limitations set out in section 36-70 are not applicable to the streets in the unincorporated areas
 of the parish which have been designated as a truck route on the following list:
@@ -588,7 +588,7 @@ Modern Farms Road between Foundry Road and the Union Pacific Railroad tracks.
 (Code 1961, § 11-54; Ord. No. 18562, § 1, 8-5-92; Ord. No. 19124, § 1, 7-20-94; Ord. No. 19399, § 1, 6-7-95;
 Ord. No. 19473, § 1, 9-13-95; Ord. No. 19607, § 1, 2-7-96; Ord. No. 23448, § 1, 12-10-08; Ord. No. 23804, § 1,
 5-12-10; Ord. No. 24755 , § 1, 6-11-14)
-#####   
+##### Sec. 36-72. - Operating vehicles on levees.  
 
 (a)
 Generally. It shall be unlawful for any person to park, store, drive or ride any motor vehicle which exceeds one
@@ -626,7 +626,7 @@ Footnotes:
 --- (4) --Cross reference— Parking on playgrounds, § 21-3.
 State Law reference— Parking, standing and stopping, R.S. 32:141 et seq.
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 36-88. - Unlawful to park a vehicle on street more than forty-eight hours.  
 
 It shall be unlawful for any person or entity to park, store, stop, leave standing or permit the parking, storing,
 stopping or standing of any vehicle on any street, highway, roadway or shoulder or curb thereof for longer than
@@ -635,7 +635,7 @@ Any person who violates any provision of this section shall be punished as set f
 (Code 1961, § 11-71; Ord. No. 16602, § II, 9-11-85; Ord. No. 23671, § 13, 10-14-09)
 Editor's note— Section II of Ord. No. 16602, adopted Sept. 11, 1985, renumbered and amended § 36-143 to
 read as set forth in § 36-88.
-#####   
+##### Sec. 36-89. - Areas where parking is prohibited.  
 
 (a)
 Authority. The department of public works, traffic engineering division, is hereby authorized to erect "No
@@ -651,24 +651,24 @@ parking interferes with traffic or creates a hazardous situation.
 Penalties. Any person who violates any provision of this section shall be punished as set forth in section 1-10 of
 this Code.
 (Code 1961, § 11-21; Ord. No. 23671, § 14, 10-14-09)
-#####   
+##### Sec. 36-90. - Violation of no parking zones.  
 
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Ord. No. 23671, § 15, 10-14-09)
-#####   
+##### Sec. 36-91. - Ten feet of roadway for free traffic movement required.  
 
 No person shall stop, stand park any vehicle upon a street in such a manner or under such conditions as to leave
 available less than ten (10) feet of the width of the roadway for free movement of vehicular traffic.
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Code 1961, § 11-74.1; Ord. No. 23671, § 16, 10-14-09)
-#####   
+##### Sec. 36-92. - On neutral ground.  
 
 No person shall park any vehicle or permit it to stand, either attended or unattended, on the public neutral ground
 of any street, road or highway of the parish, except where permitted by the appropriate parish department, which
 permission shall be indicated by the erection of appropriate signs in the area.
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Code 1961, § 11-73; Ord. No. 23298, § 2, 5-7-08; Ord. No. 23671, § 17, 10-14-09)
-#####   
+##### Sec. 36-93. - Near intersections.  
 
 (a)
 No person shall park any vehicle or permit it to stand, whether attended or unattended, on any public street,
@@ -684,7 +684,7 @@ Avenue.
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Code 1961, § 11-76; Ord. No. 23671, § 18, 10-14-09)
 State Law reference— Parking within an intersection, R.S. 32:143A(3).
-#####   
+##### Sec. 36-94. - Blocking of driveways.  
 
 It shall be unlawful for any person to park a motor vehicle, or permit it to stand, whether attended or unattended,
 on the street in front of, or within three (3) feet of the curb return of a driveway, or on the street directly opposite
@@ -706,7 +706,7 @@ driveway providing that such parking does not violate any other parish ordinance
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Code 1961, § 11-72; Ord. No. 15401, § 1, 1-583; Ord. No. 21799, § 1, 3-19-03; Ord. No. 23671, § 19, 10-1409)
 State Law reference— Blocking of private driveways, R.S. 32:143.1.
-#####   
+##### Sec. 36-95. - Near fire hydrant.  
 
 No person shall park any vehicle or permit it to stand, either attended or unattended, on the public streets, roads
 or highways of the parish within twenty (20) feet on either side of a fire hydrant.
@@ -715,7 +715,7 @@ Any person who violates any provision of this section shall be punished as set f
 Cross reference— Fire prevention and protection; emergency services and communication and hazardous
 material, Ch. 13.
 State Law reference— Similar provisions, R.S. 32:143A(4).
-#####   
+##### Sec. 36-96. - Display of "for sale" signs.  
 
 (a)
 
@@ -732,7 +732,7 @@ to purposely display said sign for a period of more than twenty-four (24) hours.
 (d)
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Code 1961, § 11-71.8; Ord. No. 22801, § 4, 7-19-06; Ord. No. 23671, § 21, 10-14-09)
-#####   
+##### Sec. 36-97. - Prohibited repair of automobiles and trucks on streets and sidewalks.  
 
 (a)
 It shall be unlawful to do any repair work on automobiles, trucks and/or other vehicles on the public streets,
@@ -750,7 +750,7 @@ Require the removal of any of the body parts.
 (b)
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code
 (Code 1961, § 12-39; Ord. No. 23671, § 22, 10-14-09)
-#####   
+##### Sec. 36-98. - Vehicles for hire must use bus bays, when provided, for loading and unloading of passengers.  
 
 It shall be unlawful for any motor vehicle carrying passengers for hire on the public streets, roads, highways, and
 bridges of this parish to stop on the public streets, roads, highways-and bridges of this parish for the loading or
@@ -765,7 +765,7 @@ neighborhood or on residentially zoned property, which includes, but is not limi
 recreational facility, in unincorporated areas of Jefferson Parish without the express written consent of the
 property owner.
 (Ord. No. 25243 , § 2, 10-19-16)
-#####   
+##### Sec. 36-99. - Parking areas at public buildings.  
 
 (a)
 No person shall park, or cause to be parked, any vehicle, whether attended or unattended, in the parking areas of
@@ -796,7 +796,7 @@ honor system and shall not require a military license plate, tag or other form o
 (Code 1961, § 11-90; Ord. No. 15364, §§ 1, 2, 12-1-82; Ord. No. 17208, 3-11-87; Ord. No. 22113, § 1, 2-18-04;
 Ord. No. 23671, § 23, 10-14-09; Ord. No. 25606 , § 1, 7-25-18)
 Cross reference— Administration, Ch. 2.
-#####   
+##### Sec. 36-100. - Unauthorized parking on private property.  
 
 (a)
 The unauthorized parking or abandoning of motor vehicles on private property shall be a misdemeanor.
@@ -987,7 +987,7 @@ Parked or standing while it is occupied by one (1) or more persons; or
 Belonging to any law enforcement agency, fire department, ambulance or medical transport provider, or other
 governmental agency, or any motor vehicle displaying a tax exempt license plate.
 (Ord. No. 21077, § 5, 9-20-00)
-#####   
+##### Sec. 36-101. - Presumption of violation.  
 
 In any prosecution charging a violation of any law or regulation governing the standing or parking of a vehicle,
 proof that the particular vehicle described in the complaint was parked in violation of any such law or regulation,
@@ -1021,7 +1021,7 @@ booting device.
 Nothing herein shall prohibit the owner, lessee or person in control of any private property from filing civil suit
 against a motorist for civil damages for the unauthorized parking on private property.
 (Ord. No. 21077, § 6, 9-20-00)
-#####   
+##### Sec. 36-104. - Licenses, permits and certificates, generally.  
 
 (a)
 No person or company, either as owner, agent or otherwise, shall furnish, operate, conduct, maintain, advertise
@@ -1043,7 +1043,7 @@ company to provide booting services in the parish.
 Permit means any authorization issued by the department pursuant to this chapter for a vehicle used in the
 operation as a booting service vehicle.
 (Ord. No. 21077, § 6, 9-20-00)
-#####   
+##### Sec. 36-105. - License and application procedures.  
 
 (a)
 The application to the department for a license under this division shall include:
@@ -1091,7 +1091,7 @@ Licenses shall be renewed only if the holder meets the prescribed standards at t
 (f)
 The annual license fee shall be two hundred fifty dollars ($250.00).
 (Ord. No. 21077, § 6, 9-20-00)
-#####   
+##### Sec. 36-106. - Permits and application procedures.  
 
 (a)
 A permit for a booting service vehicle shall only be issued if it complies with the standards that the department
@@ -1114,7 +1114,7 @@ Permits shall be reviewed only if the holder meets the prescribed standards at t
 (h)
 The annual permit fee for each vehicle shall be twenty-five dollars ($25.00).
 (Ord. No. 21077, § 6, 9-20-00)
-#####   
+##### Sec. 36-107. - Certificates; application procedures and standards for personnel.  
 
 (a)
 No person shall act or attempt to act as a booting vehicle attendant unless that person holds a currently valid
@@ -1146,7 +1146,7 @@ Certificates shall be renewed only if the holder meets the prescribed standards 
 (g)
 The certificate fee for each employee shall be fifty dollars ($50.00).
 (Ord. No. 21077, § 6, 9-20-00)
-#####   
+##### Sec. 36-108. - Required insurance coverage and bond.  
 
 (a)
 No business or vehicle regulated by this chapter shall operate in this parish unless the following insurance
@@ -1167,7 +1167,7 @@ coverage in the state.
 The applicant shall provide a surety bond in the minimum amount of one hundred fifty thousand ($150,000.00)
 to the director for any liability under section 36-100.8.
 (Ord. No. 21077, § 6, 9-20-00)
-#####   
+##### Sec. 36-109. - Inspections and investigations.  
 
 (a)
 The department of inspection and code enforcement shall make all investigations and inspections necessary to
@@ -1178,7 +1178,7 @@ personnel, vehicles, facilities, and communications equipment. Inspections and i
 regular or special basis and at such times and places as the department of inspection and code enforcement deem
 necessary.
 (Ord. No. 21077, § 6, 9-20-00; Ord. No. 23298, § 3, 5-7-08)
-#####   
+##### Sec. 36-110. - Contract inspection.  
 
 (a)
 The department of inspection and code enforcement shall, upon request, be immediately furnished a copy of any
@@ -1188,7 +1188,7 @@ Upon written request to the booting service company, any aggrieved motorist whos
 within seventy-two (72) hours of such request, be furnished a copy of the booting service contract required by
 section 36-103 for the location where his vehicle was booted.
 (Ord. No. 21077, § 6, 9-20-00)
-#####   
+##### Sec. 36-111. - Prohibitions.  
 
 (a)
 It shall be unlawful for any person to pay or be paid a commission, or a per vehicle fee, for booting or
@@ -1197,7 +1197,7 @@ identifying or designating vehicles to be booted pursuant to this article.
 It shall be unlawful for any person to install or have installed a booting device on any vehicle on private property
 except in accordance with the provisions of this article.
 (Ord. No. 21077, § 6, 9-20-00)
-#####   
+##### Sec. 36-112. - Suspension, revocation of license, permits and certificates.  
 
 In
 addition to any other penalty prescribed by law for violating the provisions of this article, the parish may
@@ -1208,7 +1208,7 @@ attendant, or vehicle that is in violation of this article.
 Footnotes:
 --- (5) --Editor's note— Ord. No. 21357, § 1, adopted Aug. 8, 2001, amended the title of Div. 2 to read as herein set out.
 See the Code Comparative Table.
-#####   
+##### Sec. 36-113. - Permit required; issued by traffic engineer; fees.  
 
 The traffic engineer shall not hereafter designate or sign any freight curb loading zone upon special request of
 any person unless such person make application for a permit for such zone. Before granting a permit and
@@ -1216,7 +1216,7 @@ installing signs designating the limits of such zone, he shall collect from the 
 treasury a service and installation fee of twenty-five dollars ($25.00). Every such permit shall expire at the end
 of one (1) year and map be reissued annually upon payment of a service fee of fifteen dollars ($15.00).
 (Code 1961, § 11-81)
-#####   
+##### Sec. 36-114. - No permit fee required of certain designated organizations; discretion of parish engineer.  
 
 (a)
 The traffic engineer may upon receipt of proper application but without collecting a service fee, issue permits
@@ -1228,7 +1228,7 @@ Freight loading zones may be installed at the discretion of the traffic engineer
 collection of a service fee at any location where it is necessary to expedite the loading or unloading of freight or
 to prevent the obstruction of traffic.
 (Code 1961, § 11-82)
-#####   
+##### Sec. 36-115. - Stopping, standing, and parking in passenger zones limited to three minutes.  
 
 (a)
 It shall be unlawful for any person to stop, stand or park a vehicle for any purpose or period of time other than
@@ -1242,7 +1242,7 @@ owner of such vehicle, shall create a prima facie presumption that the registere
 person who parked or placed such vehicle at the point where and for the time during which such violation
 occurred.
 (Code 1961, § 11-83)
-#####   
+##### Sec. 36-116. - Mobility impaired parking designations.  
 
 (a)
 It shall be unlawful for any unauthorized person to park any vehicle for any period of time in any parking zone
@@ -1295,7 +1295,7 @@ to fund the Jefferson Parish's Quad Squad Program.
 (i)
 No fine issued pursuant to this section shall be reduced or suspended.
 (Code 1961, § 11-83.1; Ord. No. 20131, § 1, 8-27-97; Ord. No. 20749, § 1, 9-1-99; Ord. No. 23671, § 25, 10-1409)
-#####   
+##### Sec. 36-117. - Regulation of stopping, standing and parking in freight curb zones.  
 
 (a)
 It shall be unlawful for any person to stop, stand or park a vehicle for any purpose or length of time other than
@@ -1309,7 +1309,7 @@ zone.
 (c)
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Code 1961, § 11-84; Ord. No. 23671, § 26, 10-14-09)
-#####   
+##### Sec. 36-118. - School bus loading zone designation.  
 
 (a)
 It shall be unlawful for any person to stop, stand or park a vehicle for any purpose or length of time, other than
@@ -1320,7 +1320,7 @@ the school bus loading zone sign.
 The traffic engineer may determine the need, placement and time of restriction, and install the necessary signs
 for a school bus loading zone on a public street adjacent to a school.
 (Ord. No. 21206, § 1, 2-14-01)
-#####   
+##### Sec. 36-119. - Valet parking—No parking in single-family residential zoning districts.  
 
 No valet parking operation shall park motor vehicles on any public right-of-way in any of the single-family
 residential zoning districts in the parish.
@@ -1330,7 +1330,7 @@ parking operation.
 A valet parking operation may park vehicles on property owned or leased by the establishment(s) serviced by the
 valet parking operation in the parking spaces required by law for said establishment(s).
 (Ord. No. 21357, § 3, 8-8-01)
-#####   
+##### Sec. 36-121. - Same—Exemptions; written permission; etc.  
 
 No valet parking operation shall park vehicles on any property that is not owned or leased by the owner of the
 establishment served by said valet parking operation without the written express permission of the owner of such
@@ -1340,7 +1340,7 @@ located on that property. The written permission of the property owner shall cle
 property and also state that valet parking for any establishment not located on said property shall not be
 permitted in the parking spaces required by law for said use(s) during the hours of operation of said use(s).
 (Ord. No. 21357, § 3, 8-8-01)
-#####   
+##### Sec. 36-122. - Same—Penalty for violation.  
 
 Each violation of the provisions regarding valet parking shall be punishable by a fine not exceeding five hundred
 dollars ($500.00) or imprisonment for a term not exceeding six (6) months, or both. Each day that each motor
@@ -1350,7 +1350,7 @@ Secs. 36-123—36-128. - Reserved.
 #### DIVISION 3. - JUNKED, WRECKED AND ABANDONED VEHICLES
 Footnotes:
 --- (6) --Cross reference— Nuisances generally, Ch. 19.
-#####   
+##### Sec. 36-129. - Prohibition.  
 
 No persons shall advertise or display a vehicle for sale, nor discard or park any junked, derelict, abandoned
 vehicle or any part of a vehicle on a parish street or right-of-way as defined in section 29-6(a)(2), or any vacant
@@ -1359,7 +1359,7 @@ pulled by its being attached to a vehicle, such as a boat or trailer, hauler or 
 vehicle.
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Code 1961, § 12-12.1; Ord. No. 16602, § IV, 9-11-85; Ord. No. 17750, § 1, 6-7-89; Ord. No. 20012, § 1, 4-2397; Ord. No. 21680, § 1, 10-9-02; Ord. No. 23671, § 27, 10-14-09)
-#####   
+##### Sec. 36-130. - Status determination.  
 
 (a)
 For the purposes of determining the status of any abandoned, inoperable, junked, or derelict vehicle the
@@ -1375,7 +1375,7 @@ property owner may be notified via mail and tag placed on closest window to the 
 Nothing contained herein shall prevent or prohibit any authorized personnel of the sheriff's office from
 performing the same procedure in determining the status of any vehicle.
 (Code 1961, § 12-21.3; Ord. No. 16602, § IV, 9-11-85; Ord. No. 18577, § 1, 8-19-92; Ord. No. 20258, § 1, 1-1498; Ord. No. 22801, § 5, 7-19-06)
-#####   
+##### Sec. 36-131. - Tagging; notice; request for hearing; emergency removal and storage.  
 
 (a)
 Tagging. Whenever any vehicle is found to have an apparent violation or is found to be abandoned, junked,
@@ -1413,7 +1413,7 @@ officer of the department of inspection and code enforcement, the department of 
 enforcement may forego tagging and/or notice to the owner and immediately tow the vehicle. The vehicle must
 be stored and applicable provisions adhered to per this chapter prior to disposal of the vehicle.
 (Code 1961, § 12-21.3; Ord. No. 16602, § IV, 9-11-85; Ord. No. 18577, § 1, 8-19-92; Ord. No. 20258, § 2, 1-1498; Ord. No. 22801, § 5, 7-19-06; Ord. No. 23298, § 4, 5-7-08; Ord. No. 23728, 1-13-10)
-#####   
+##### Sec. 36-132. - Review hearing.  
 
 (a)
 Upon request, a hearing shall be held before a hearing officer to allow the owner of a vehicle determined to be in
@@ -1435,7 +1435,7 @@ thirty (30) days, the vehicle will be destroyed or sold to defray costs or, if n
 removed and, likewise, destroyed or sold to defray costs.
 (Ord. No. 16602, § IV, 9-11-85; Ord. No. 16827, § I, 3-19-86; Ord. No. 18577, § 1, 8-19-92; Ord. No. 22801, §
 5, 7-19-06)
-#####   
+##### Sec. 36-133. - Vehicle removal and disposal.  
 
 (a)
 The department of inspection and code enforcement, through its inspectors, shall remove or cause to be removed
@@ -1474,7 +1474,7 @@ Act. The parish shall have no civil or criminal liability for the acts or omissi
 operator, salvage yard and/or independent contractor.
 (Ord. No. 16602, § IV, 9-11-85; Ord. No. 18577, § 1, 8-19-92; Ord. No. 20258, § 3, 1-14-98; Ord. No. 22801, §
 5, 7-19-06; Ord. No. 23298, § 5, 5-7-08)
-#####   
+##### Sec. 36-134. - Redemption by owner.  
 
 The owner of an inoperable, junked, derelict, abandoned or otherwise unlawfully parked or stored motor vehicle
 seized or impounded by the department of inspections and code enforcement under the provisions of this chapter
@@ -1487,7 +1487,7 @@ By posting bond in accordance with the provisions of section 36-146(a)(2).
 Such persons shall be issued a notice of hearing by the department of inspection and code enforcement.
 (Ord. No. 16602, § IV, 9-11-85; Ord. No. 18577, § 1, 8-19-92; Ord. No. 20258, § 4, 1-14-98; Ord. No. 20441, §
 1, 8-19-98; Ord. No. 23298, § 6, 5-7-08)
-#####   
+##### Sec. 36-135. - Penalty for violation.  
 
 (a)
 After notice has been duly given and all delays have expired, the registered owner of a motor vehicle unlawfully
@@ -1504,10 +1504,10 @@ Footnotes:
 --- (7) --Editor's note— Section V of Ord. No. 16602, adopted Sept. 11, 1985, changed the title of div. 4 from
 "Abandoned Vehicles" to "Impounded Vehicles."
 State Law reference— Abandoned motor vehicles, R.S. 32:471 et seq.
-#####   
+##### Sec. 36-143. - Reserved.  
 
 Editor's note— Section II of Ord. No. 16602, adopted Sept. 11, 1985, renumbered § 36-143 as § 36-88.
-#####   
+##### Sec. 36-144. - Sheriff to remove and impound vehicles.  
 
 (a)
 The sheriff shall cause to be removed and impounded any unoccupied vehicle of whatever kind or description
@@ -1517,13 +1517,13 @@ found parked or abandoned for a period of time in excess of forty-eight (48) con
 Any vehicles removed shall be impounded at a place or places designated by the sheriff as approved by the
 director of inspection and code enforcement.
 (Code 1961, § 11-71.1; Ord. No. 16602, § V, 9-11-85)
-#####   
+##### Sec. 36-145. - Notification of impoundment.  
 
 If the vehicle impounded has not been reclaimed within twenty-four (24) hours of the time of its impoundment
 under section 36-144, then the sheriff's office shall notify the vehicle's last owner of record (as determined by the
 license tags thereon) of the place of impoundment of the vehicle and procedure for release of same.
 (Code 1961, § 11-71.2)
-#####   
+##### Sec. 36-146. - Deposit of driver's license or bond; waiver of trial.  
 
 (a)
 If the person whose vehicle has been seized or impounded pursuant to this chapter, deposits with one (1) of the
@@ -1547,7 +1547,7 @@ such waivers of trail and pleas of guilty to the offense charged for entering of
 competent jurisdiction, and such persons shall be authorized to collect all such fines and fees and issue receipts
 therefor to the person making payment of same.
 (Code 1961, § 11-71.3; Ord. No. 16602, § V, 9-11-85)
-#####   
+##### Sec. 36-147. - Charges and fees for towing and storage.  
 
 (a)
 Any person or owner of a vehicle found guilty of any violation under this chapter by a court of competent
@@ -1572,7 +1572,7 @@ vehicle, shall be prima facie evidence that the defendant was the person who par
 point and location and for the time during which the vehicle was parked in violation of the aforementioned
 provisions.
 (Code 1961, § 11-71.4.1; Ord. No. 16602, § V, 9-11-85)
-#####   
+##### Sec. 36-148. - Sale by sheriff's department.  
 
 Vehicles remaining unclaimed ten (10) days after proper notification of one of the registered owners or sixty (60)
 days after the vehicle is impounded, if the owner or owners are unknown, shall be sold by the sheriff's
@@ -1586,7 +1586,7 @@ Footnotes:
 --- (8) --Editor's note— Ord. No. 24587, § 1, amended the title of Div. 5 to read as herein set out. Prior to inclusion of
 said ordinance, Div. 5 was titled, "Division 5.Trucks, Trailers, Commercial and/or Oversized Vehicles and Buses
 Restricted on Certain Streets." See also the Code Comparative Table.
-#####   
+##### Sec. 36-160. - Definitions.  
 
 The following words and phrases, when used in this division, shall have the meanings respectively ascribed to
 them:
@@ -1676,7 +1676,7 @@ Is a private automobile or passenger van that displays a business logo, identifi
 of minimal off-premises advertising.
 (Code 1961, § 11-131; Ord. No. 17316, § I, 8-12-87; Ord. No. 21989, § 1, 9-17-03; Ord. No. 24587, § 4, 10-213)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-#####   
+##### Sec. 36-161. - On-street parking within or adjacent to a residential district or a residential development site.  
 
 (a)
 These provisions are to be strictly construed to deter nuisance activities and to preserve the integrity of
@@ -1707,7 +1707,7 @@ Vehicles parked for the purpose of delivering, picking up materials or merchandi
 the actual time necessary to accomplish said delivery, pick up, or service.
 (Code 1961, § 11-132; Ord. No. 17316, § 2, 8-12-87; Ord. No. 21224, § 1, 3-7-01; Ord. No. 21989, § 2, 9-17-03;
 Ord. No. 23571, § 1, 6-24-09; Ord. No. 24587, § 5, 10-2-13)
-#####   
+##### Sec. 36-162. - Schedule of streets.  
 
 Heavy commercial vehicles, commercial vans, trailers, including, but not limited to, commercial and noncommercial trailers, and buses, are hereby prohibited from parking on the following streets:
 Accacia Lane.
@@ -1946,19 +1946,19 @@ No. 19895, § 1, 12-11-96; Ord. No. 19956, § 1, 2-26-97; Ord. No. 20230, § 1, 
 § 1, 4-12-00; Ord. No. 21135, § 1, 11-15-00; Ord. No. 21463, § 1, 12-12-01; Ord. No. 21634, § 1, 8-7-02; Ord.
 No. 21716, § 1, 11-13-02; Ord. No. 21798, § 1, 3-19-03; Ord. No. 22556, § 1, 7-13-05; Ord. No. 23023, § 3, 328-07; Ord. No. 24175, § 1, 12-7-11; Ord. No. 24243, § 1, 3-28-12; Ord. No. 24346, § 1, 10-10-12; Ord. No.
 24587, § 6, 10-2-13)
-#####   
+##### Sec. 36-163. - Appropriate notice of parking prohibition.  
 
 The department of public works, traffic engineering division, shall install an appropriate sign at the entrance to
 the street where the prohibition under this division is in effect.
 (Code 1961, § 11-133)
-#####   
+##### Sec. 36-164. - Impoundment of vehicles for violation.  
 
 The sheriff's department is hereby empowered to impound any vehicle used in violation of the no-parking
 regulations of this division. The sheriff's department is authorized to release any such vehicle upon the payment
 of two dollars ($2.00) per day for each and every day that the vehicle was stored, and all expenses involved in
 removing the vehicle from the street.
 (Code 1961, § 11-134)
-#####   
+##### Sec. 36-165. - Penalty for violation.  
 
 Any person violating this provision shall be subject to a fine not to exceed one hundred dollars ($100.00) per
 day the violation remains in effect and/or the revocation of the violators' occupational license. In its discretion,
@@ -1966,13 +1966,13 @@ the parish may enforce these penalties in furtherance of the objectives of secti
 (Code 1961, § 11-135; Ord. No. 21989, § 3, 9-17-03)
 Secs. 36-166—36-181. - Reserved.
 ### ARTICLE VI. - CLOSED STREETS
-#####   
+##### Sec. 36-182. - Operation of motor vehicles on streets where signs posted excluding vehicles.  
 
 No person shall operate, or knowingly permit to be operated, any type of motor vehicle on any street or road of
 the parish from which such vehicle is by proper authority excluded, provided that notice of such exclusion is
 conspicuously posted at the entrance to such road or street.
 (Code 1961, § 15-10)
-#####   
+##### Sec. 36-183. - Use of "emergency only gate" on hunter drive prohibited except for legitimate emergencies.  
 
 The use of the "emergency exit only" gate identified in Ordinance No. 22099, adopted on January 21, 2004, to
 exit from Metairie Club Estates subdivision onto Hunter Drive or to enter Metairie Club Estates subdivision
@@ -1981,7 +1981,7 @@ enforceable as a traffic regulation ordinance under rules and procedures establi
 violating this section shall be subject to a fine not to exceed two hundred fifty dollars ($250.00) for each such
 violation.
 (Ord. No. 22395, § 1, 1-12-05)
-#####   
+##### Sec. 36-184. - Tampering with, moving, etc.  
 , barricades, signs; etc., located in streets.
 No person shall in any way tamper with, move, damage or destroy any barricades, signs or signals placed upon
 any street or road within the parish by any department of the parish or by any contractor or subcontractor doing
@@ -1990,26 +1990,26 @@ instructions, signals, warnings or markings of any warning sign, signal or barri
 or road under construction or being repaired, unless at the time otherwise directed by a police officer of the state
 or parish.
 (Code 1961, § 15-11)
-#####   
+##### Sec. 36-185. - Effect of violation of sections 36-182 and 36-184.  
 
 Any person violating sections 36-182 and 36-184 shall be considered prima facie at fault and responsible to the
 parish for any damage to persons or property, including damage to such streets or roads, resulting from the
 violation. Nothing contained in this section shall be construed to affect the liability of any other persons for
 failure to properly maintain warnings and markings of construction work.
 (Code 1961, § 15-11.1)
-#####   
+##### Sec. 36-186. - Persons exempted from provisions of article.  
 
 The provisions of sections 36-182 through 36-185 shall not apply to the employees of the parish or of any
 contractor or subcontractor or any other person whose proper and lawful duties require them to go upon any
 portion of a street or road which is under construction or in the process of being repaired.
 (Code 1961, § 15-11.2)
-#####   
+##### Sec. 36-187. - Legal proceedings for violation.  
 
 The parish attorney is hereby given the authority to institute appropriate legal proceedings against any person
 who violates any provision of sections 36-182 through 36-186 in order to collect damages arising out of such
 violation.
 (Code 1961, § 15-11.4)
-#####   
+##### Sec. 36-188. - Operation of motor vehicles or boats on public roads, highways or bridges that are flooded.  
 
 (a)
 No person shall operate any motor vehicle or boat on a street or any portion thereof that is flooded as defined in
@@ -2057,7 +2057,7 @@ section.
 Secs. 36-189—36-203. - Reserved.
 ### ARTICLE VII. - PAY-VOLUME STANDARDS FOR TRUCKS
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 36-204. - Definitions.  
 
 The following words and phrases, when used in this article, shall have the meanings respectively ascribed to
 them:
@@ -2074,7 +2074,7 @@ Tailgate shall mean the rear wall of the box.
 Truck shall mean any vehicle used in the transportation of bulk construction materials.
 (Code 1961, § 11-112)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-#####   
+##### Sec. 36-205. - Restrictions.  
 
 Certification under this article relates to volumetric measurement only, and is not to be construed as a permit to
 carry loads in excess of the allowable under applicable federal, state, or local laws, statutes, ordinances or
@@ -2082,7 +2082,7 @@ regulations.
 (Code 1961, § 11-119)
 Secs. 36-206—36-216. - Reserved.
 #### DIVISION 2. - PERMIT
-#####   
+##### Sec. 36-217. - Required.  
 
 (a)
 No person shall deliver any material to a project without first obtaining a permit from the department of public
@@ -2091,30 +2091,30 @@ works for each truck to be used for deliveries as provided in this division.
 The formal permit will be the completed application form certified by authorized personnel of the department of
 public works.
 (Code 1961, § 11-117)
-#####   
+##### Sec. 36-218. - Application.  
 
 A written application on a form provided by the department of public works must be submitted to authorized
 personnel of the department at either the maintenance garage on the East Bank or the one on the West Bank
 before the issuance of a permit will be considered.
 (Code 1961, § 11-114)
-#####   
+##### Sec. 36-219. - Fees.  
 
 The permit fee shall be two dollars ($2.00).
 (Code 1961, § 11-116)
-#####   
+##### Sec. 36-220. - Eligible applicants.  
 
 Eligible applicants shall be any legal truck owner otherwise properly licensed to transport material in the parish.
 No permit will be issued for a truck that does not have a current state brake inspection certificate and license
 plate.
 (Code 1961, § 11-113)
-#####   
+##### Sec. 36-221. - Volumetric calibration.  
 
 The application form shall contain blank spaces for use by the certifying personnel in recording the interior
 length, width, and height of the box; the height shall be recorded both with and without boards. The volume of
 the box, with and without boards, will be calculated and recorded, to the nearest one-tenth ( 1/10 ) of a cubic
 yard, on the application form.
 (Code 1961, § 11-115)
-#####   
+##### Sec. 36-222. - Display.  
 
 (a)
 Permit sticker. A permit sticker shall be issued containing the permit number, the expiration date, and the payvolumes. This sticker is to be affixed to the windshield of the truck cab by the certifying officials.
@@ -2125,7 +2125,7 @@ Display. Prior to depositing the material on the project site, the truck driver 
 and/or the box plate to the inspector to the satisfaction of the inspector. If either the sticker or the plate is
 missing, mutilated, or illegible, the driver must display the original permit to the inspector.
 (Code 1961, § 11-118)
-#####   
+##### Sec. 36-223. - Term.  
 
 The permit shall be effective for a term of one (1) year from the date of issuance. On or before the expiration
 date of a permit, a new one must be secured.
@@ -2135,7 +2135,7 @@ Secs. 36-224—36-239. - Reserved.
 Footnotes:
 --- (9) --State Law reference— Operation of motorcycles, motor-driven cycles and bicycles, R.S. 32:191 et seq.
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 36-240. - Scope of regulations; compliance required; regulations for bicycles.  
 
 (a)
 It is a misdemeanor for any person to do any act forbidden or fail to perform any act required in this article.
@@ -2146,7 +2146,7 @@ ward to violate any of the provisions of this article.
 These regulations applicable to bicycles shall apply whenever a bicycle is operated upon any street or upon any
 public path set aside for the exclusive use of bicycles, subject to those exceptions stated herein.
 (Code 1961, § 4A-1)
-#####   
+##### Sec. 36-241. - Disposition of unclaimed abandoned, lost or stolen bicycles.  
 
 All bicycles abandoned, lost or stolen and subsequently recovered in the parish which remain unidentified by the
 owners of said bicycles shall be disposed of by the sheriff's office in the following manner:
@@ -2168,21 +2168,21 @@ determined by the sheriff's office to be needy or any nonprofit organization whi
 to needy children. The sheriff's office will maintain a record of the name of all donees for one (1) year after
 donation.
 (Code 1961, § 4A-8.1; Ord. No. 17749, § 1, 6-7-89)
-#####   
+##### Sec. 36-242. - Requirements for rental agencies.  
 
 
 A rental agency shall not rent or offer any bicycle for rent unless the bicycle is licensed and a license plate is
 attached thereto as provided herein and such bicycle is equipped with the lamps or other equipment required in
 this article.
 (Code 1961, § 4A-9)
-#####   
+##### Sec. 36-243. - Reports required by bicycle dealers.  
 
 Every person engaged in the business of buying or selling new or secondhand bicycles shall make report to the
 sheriffs department of every bicycle purchased or sold by such dealer, giving the name and address of the person
 from whom purchased or to whom sold, a description of such bicycle by name or make, the frame number
 thereof, and the number of license plate, if any, found thereon.
 (Code 1961, § 4A-10)
-#####   
+##### Sec. 36-244. - Traffic laws apply to persons riding bicycles.  
 
 Every person riding a bicycle upon a roadway shall be granted all of the rights and shall be subject to all of the
 duties applicable to the driver of a vehicle by the laws of this state declaring rules of the road applicable to
@@ -2191,7 +2191,7 @@ regulations in this article and except as to those provisions of laws and ordina
 have no application.
 (Code 1961, § 4A-11)
 State Law reference— Similar provisions, R.S. 32:194.
-#####   
+##### Sec. 36-245. - Obedience to traffic-control devices.  
 
 (a)
 Any person operating a bicycle shall obey the instructions of official traffic-control signals, signs and other
@@ -2202,7 +2202,7 @@ operating a bicycle shall disobey the directions of any such sign, except where 
 bicycle to make any such turn, in which event such person shall then obey the regulations applicable to
 pedestrians.
 (Code 1961, § 4A-12)
-#####   
+##### Sec. 36-246. - Riding on bicycles.  
 
 (a)
 A person propelling a bicycle shall not ride other than astride a permanent and regular seat attached thereto.
@@ -2211,7 +2211,7 @@ No bicycle shall be used to carry more persons at one (1) time than the number f
 equipped.
 (Code 1961, § 4A-13)
 State Law reference— Similar Provisions, R.S. 32:195.
-#####   
+##### Sec. 36-247. - Riding on roadways and bicycle paths.  
 
 (a)
 Every person operating a bicycle upon a roadway shall ride as near to the right-hand side of the roadway as
@@ -2224,34 +2224,34 @@ Whenever a usable path for bicycles has been provided adjacent to a roadway bicy
 and shall not use the roadway.
 (Code 1961, § 4A-14)
 State Law reference— Similar provisions, R.S. 32:197.
-#####   
+##### Sec. 36-248. - Speed.  
 
 No person shall operate a bicycle at a speed greater than is reasonable and prudent under the conditions then
 existing.
 (Code 1961, § 4A-15)
-#####   
+##### Sec. 36-249. - Emerging from alley or driveway.  
 
 The operator of a bicycle emerging from an alley, driveway or building, shall upon approaching a sidewalk area
 extending across an alleyway, yield the right-of-way to all pedestrians approaching on sidewalk or sidewalk
 area, and upon entering the roadway shall yield the right-of-way to all vehicles approaching on the roadway.
 (Code 1961, § 4A-16)
-#####   
+##### Sec. 36-250. - Clinging to vehicles.  
 
 No person riding upon any bicycle shall attach the same or himself to any vehicle upon a roadway.
 (Code 1961, § 4A-17)
 State Law reference— Similar provisions, R.S. 32:196.
-#####   
+##### Sec. 36-251. - Carrying articles.  
 
 No person operating a bicycle shall carry any package, bundle, or article which prevents the rider from keeping
 at least one (1) hand upon the handle bars.
 (Code 1961, § 4A-18)
-#####   
+##### Sec. 36-252. - Parking.  
 
 No person shall park a bicycle upon a street other than upon the roadway against the curb or upon the sidewalk
 in a rack to support the bicycle or against a building or at the curb, in such a manner as to afford the least
 obstruction to pedestrian traffic.
 (Code 1961, § 4A-19)
-#####   
+##### Sec. 36-253. - Riding on sidewalks.  
 
 (a)
 No person shall ride a bicycle upon a sidewalk within a business district.
@@ -2262,7 +2262,7 @@ bicycles thereon by any person and when such signs are in place no person shall 
 Whenever any person is riding a bicycle upon a sidewalk, such person shall yield the right-of-way to any
 pedestrian and shall give audible signal before overtaking and passing such pedestrian.
 (Code 1961, § 4A-20)
-#####   
+##### Sec. 36-254. - Lamps and other equipment on bicycles.  
 
 (a)
 Every bicycle when in use at nighttime shall be equipped with a lamp on the front which shall emit a white light
@@ -2280,7 +2280,7 @@ Every bicycle shall be equipped with a brake which will enable the operator to m
 dry, level, clean pavement.
 (Code 1961, § 4A-21)
 State Law reference— Similar provisions, R.S. 32:329, 32:346.
-#####   
+##### Sec. 36-255. - Violations.  
 
 Every person convicted of a violation of any provisions of this article shall be punished as provided in section 110, or by removal and detention of the license plate from such person's bicycle for a period not to exceed thirty
 (30) days or by impounding of such person's bicycle for a period not to exceed thirty (30) days or by any
@@ -2288,13 +2288,13 @@ combination thereof.
 (Code 1961, § 4A-22)
 Secs. 36-256—36-266. - Reserved.
 #### DIVISION 2. - LICENSE
-#####   
+##### Sec. 36-267. - Required.  
 
 No person who resides within this parish, shall ride or propel a bicycle on any street or upon any public path set
 aside for the exclusive use of bicycles unless such bicycle has been licensed and a license plate is attached
 thereto as provided in this division.
 (Code 1961, § 4A-2)
-#####   
+##### Sec. 36-268. - Application; fee.  
 
 Application for bicycle licenses and license plates shall be made on a form provided by the parish and shall be
 made to the sheriffs department. An annual fee of one dollar ($1.00) shall be collected before each license or
@@ -2302,7 +2302,7 @@ renewal thereof is granted; the proceeds from the fee shall be distributed to th
 sheriff's department shall pay all costs of the license plates and shall pay any and all costs in connection with the
 issuance of the licenses and the collection of the license fees.
 (Code 1961, § 4A-3)
-#####   
+##### Sec. 36-269. - Issuance.  
 
 (a)
 The license required in section 36-267 shall cover the period from January first to December thirty-first of each
@@ -2316,7 +2316,7 @@ The sheriffs department shall keep a record of the number of each license, the d
 of the person to whom issued, and the number on the frame of the bicycle for which issued, and a record of all
 bicycle license fees collected by the department.
 (Code 1961, § 4A-4)
-#####   
+##### Sec. 36-270. - Attachment of license plate.  
 
 (a)
 The sheriffs department upon issuing a bicycle license shall also issue a license plate bearing the license number
@@ -2328,17 +2328,17 @@ bicycle for which is. sued in such position as to be plainly visible from the re
 No person shall remove a license plate from a bicycle during the period for which issued except on a transfer of
 ownership or in the event the bicycle is dismantled and no longer operated upon any street in this parish.
 (Code 1961, § 4A-5)
-#####   
+##### Sec. 36-271. - Inspection.  
 
 The sheriff or a deputy assigned such responsibility, shall inspect each bicycle before licensing the same and
 shall refuse a license for any bicycle which he determines is in unsafe mechanical condition.
 (Code 1961, § 4A-6)
-#####   
+##### Sec. 36-272. - Renewal.  
 
 Upon the expiration of any bicycle license, the same may be renewed upon application and payment of the same
 fee as upon an original application.
 (Code 1961, § 4A-7)
-#####   
+##### Sec. 36-273. - Transfer of ownership.  
 
 Upon the sale or other transfer of a licensed bicycle the licensee shall remove the license plate and shall either
 surrender the same to the sheriffs department or may upon proper application but without payment of additional
@@ -2349,20 +2349,20 @@ Secs. 36-274—36-300. - Reserved.
 Footnotes:
 --- (10) --Editor's note— Ord. No. 18189, §§ 1—3, adopted January 9, 1991, did not specifically amend the Code;
 therefore, inclusion as Art. IX, §§ 36-301—36-303, was at the discretion of the editor.
-#####   
+##### Sec. 36-301. - Operation.  
 
 It shall be unlawful for any person to use or operate an all-terrain vehicle within five hundred (500) feet of an
 area zoned residential in the unincorporated areas of Jefferson Parish, this prohibition includes, but is not limited
 to, operation on private property.
 (Ord. No. 18189, § 1, 1-9-91)
-#####   
+##### Sec. 36-302. - Definition.  
 
 For the purpose of this article, "all-terrain vehicles" shall mean any vehicle with three (3) or more low pressure,
 flotation-type tires with a seat which is designed to be straddled by the operator; and shall also include
 motorized "dirt bikes," i.e., motorcycles and mini-bikes which cannot or have not been licensed for highway and
 street use and their primary usage is for "off-road" riding.
 (Ord. No. 18189, § 2, 1-9-91)
-#####   
+##### Sec. 36-303. - Violations.  
 
 Any person violating the provisions of this article shall, upon conviction by a court of law, be punished by a fine
 not exceeding five hundred dollars ($500.00) or by a term of imprisonment not exceeding six (6) months or by
@@ -2370,7 +2370,7 @@ both such fine and imprisonment, within the discretion of the court. Any violati
 article is hereby declared to be a nuisance.
 (Ord. No. 18189, § 3, 1-9-91; Ord. No. 22596, § 1, 10-12-05)
 ### ARTICLE X. - AIR BOATS
-#####   
+##### Sec. 36-304. - Operation of air boats regulated.  
 
 (a)
 Air boats shall not be launched or operated within one (1) mile of any populated area during the period
@@ -2403,14 +2403,14 @@ purposes of this section, "sign" means any sign or signs posted on the immovable
 places where the sign(s) may be reasonably expected to be seen.
 (Ord. No. 19718, § 1, 6-5-96; Ord. No. 19997, § 1, 4-23-97; Ord. No. 20921, § 14, 3-15-00; Ord. No. 22563, §
 1, 7-13-05)
-#####   
+##### Sec. 36-305. - Definition.  
 
 
 For the purpose of this article, "air boat" shall mean any boat or watercraft pushed, pulled or propelled by a
 propulsion mechanism similar to that of an airplane propeller, with a motor of more than twenty-five (25)
 horsepower.
 (Ord. No. 19718, § 2, 6-5-96; Ord. No. 22563, § 1, 7-13-05)
-#####   
+##### Sec. 36-306. - Penalties.  
 
 Any person violating the provisions of this article or any person who owns, leases, operates or controls any air
 boat found to be in violation of this article shall, upon conviction by a court of law, be punished by a fine not
@@ -2421,7 +2421,7 @@ Footnotes:
 --- (11) --Editor's note— Ord. No. 23083, § 1, adopted June 20, 2007, amended Art. XI, in its entirety, to read as herein
 set out. Prior to inclusion of said ordinance, Art. XI pertained to similar subject matter. See also the Code
 Comparative Table.
-#####   
+##### Sec. 36-307. - Definitions.  
 
 The following words and phrases, when used in this chapter, shall have the following meanings:
 Photographic traffic signal enforcement system shall mean a system that: 1) consists of a camera system
@@ -2444,7 +2444,7 @@ appears to have authority to operate the vehicle. Vehicle owner also includes a 
 lease contract with an automobile dealership, or a lessee of a motor vehicle rented or leased from a motor
 vehicle rental or leasing company, but does not include the motor vehicle rental or leasing company itself.
 (Ord. No. 23083, § 1, 6-20-07)
-#####   
+##### Sec. 36-308. - Succession of events.  
 
 (a)
 When the violation is issued pursuant to the ordinance for an alleged violation the vehicle owner is the person
@@ -2468,7 +2468,7 @@ If after the second notification the vehicle owner fails to pay the fine or cont
 be sent to the Jefferson Parish First and Second Parish Courts, and processed for review by the Jefferson Parish
 District Attorney's Office to be handled in a manner consistent with that of a parking violation.
 (Ord. No. 23083, § 1, 6-20-07)
-#####   
+##### Sec. 36-309. - Imposition of penalty for violations.  
 
 The parish council finds and determines that a vehicle that proceeds into an intersection when the traffic signal
 for that vehicle's direction of travel is emitting a steady red signal damages the public by endangering motor
@@ -2483,7 +2483,7 @@ article, but in no event shall the total fine plus enforcement costs exceed one 
 however, any court which handles any part of the prosecution for a violation under this article may impose costs
 upon the person responsible for the fine in addition to the fine and enforcement costs imposed under this article.
 (Ord. No. 23083, § 1, 6-20-07)
-#####   
+##### Sec. 36-310. - Exoneration of registered owner.  
 
 The registered owner of a vehicle that proceeds into an intersection when the traffic signal for that vehicle's
 direction of travel is emitting a steady red signal who alleges that he was not the driver of the vehicle at the time
@@ -2495,7 +2495,7 @@ liability for any fines and costs assessed for the violation. In addition, failu
 owner to have been driving the vehicle at the time of the violation to pay any and all fines or costs assessed for
 said violation shall result in the continued liability of the vehicle owner for said fines and costs.
 (Ord. No. 23083, § 1, 6-20-07)
-#####   
+##### Sec. 36-311. - Enforcement; procedures.  
 
 (a)
 The owner of the enforcement equipment provided to Jefferson Parish is responsible for the administration of
@@ -2544,7 +2544,7 @@ after having requested a court date is an admission of liability and waives the 
 A notice of violation under this article shall be presumed to have been received on the tenth day after the date
 the notice of violation is mailed.
 (Ord. No. 23083, § 1, 6-20-07)
-#####   
+##### Sec. 36-312. - Affidavit of violation.  
 
 An affidavit from the owner of the enforcement equipment that alleges a violation is admissible in a court
 proceeding under this article and is evidence of the facts contained in the affidavit. Such affidavit shall list:
@@ -2561,7 +2561,7 @@ A copy of the recorded image of the vehicle involved in the violation that depic
 vehicle;
 This affidavit is prima facie evidence of the alleged violation.
 (Ord. No. 23083, § 1, 6-20-07)
-#####   
+##### Sec. 36-313. - Effect of liability.  
 
 The imposition of a penalty under this ordinance constitutes an alternative method of detecting and deterring
 red-light violations. No fine imposed hereunder for such violations will result in notification to the Louisiana
@@ -2571,7 +2571,7 @@ costs imposed under this article or to timely contest liability for said fines a
 have admitted liability for the full amount of the fines and costs stated in the notice of violation mailed to the
 person and the matter will be turned over to the district attorney's office for further prosecution and collection.
 (Ord. No. 23083, § 1, 6-20-07)
-#####   
+##### Sec. 36-314. - Suspension of enforcement during evacuations.  
 
 The enforcement of the provisions of this article is hereby suspended during any period of voluntary or
 mandatory evacuation called by the parish president in accordance with the provisions of section 9-9 of the
@@ -2592,7 +2592,7 @@ herein set out in §§ 36-320—36-326. Prior to inclusion of said ordinance, Ar
 safety enforcement program. Subsequently, Ord. No. 23421, § 1, adopted October 29, 2008, amended Art. XII,
 in its entirety, to read as herein set out. Prior to inclusion of said ordinance, Art. XII pertained to similar subject
 matter. See also the Code Comparative Table.
-#####   
+##### Sec. 36-320. - Definitions.  
 
 The following words and phrases, when used in this chapter, shall have the following meanings:
 Recorded image means a live video image recorded by a photographic monitoring system that depicts a vehicle
@@ -2620,7 +2620,7 @@ highway and there are in operation on said school bus visual signals as required
 also means the failure of any such driver to remain stopped and to not proceed until such school bus resumes
 motion or the visual signals are no longer activated.
 (Ord. No. 23421, § 1, 10-29-08)
-#####   
+##### Sec. 36-321. - Succession of events.  
 
 (a)
 When the citation is issued pursuant to this article for an alleged violation, the vehicle owner is the person
@@ -2641,7 +2641,7 @@ Failure to perform by either paying the fine or contesting the fine will result 
 ($25.00) late fee. If the civil and late fees are not paid within fifteen (15) days of receiving the second notice, the
 matter will be submitted to the district attorney for prosecution.
 (Ord. No. 23421, § 1, 10-29-08)
-#####   
+##### Sec. 36-322. - Imposition of penalty for violations.  
 
 
 The parish council finds and determines that a vehicle that overtakes or meets a stopped school bus on which
@@ -2669,7 +2669,7 @@ Notwithstanding the limitations on the amount of the fine imposed under this art
 handles any part of the prosecution for a violation under this article may impose court costs upon the person
 responsible for the fine in addition to the fine and enforcement costs imposed under this article.
 (Ord. No. 23421, § 1, 10-29-08)
-#####   
+##### Sec. 36-323. - Exoneration of registered owner.  
 
 The registered owner of a vehicle that overtakes or meets a stopped school bus on which emergency stopped
 signals are operating in picking up or discharging passengers or in preparation for picking up or discharging
@@ -2682,7 +2682,7 @@ for the violation. In addition, failure of the person alleged by the vehicle own
 at the time of the violation to pay any and all fines or costs assessed for said violation shall result in the
 continued liability of the vehicle owner for said fines and costs.
 (Ord. No. 23421, § 1, 10-29-08)
-#####   
+##### Sec. 36-324. - Enforcement; procedures.  
 
 (a)
 The Jefferson Parish School Board, or its agent, is responsible for the administration of the system and for
@@ -2726,7 +2726,7 @@ is an admission of liability and may result in a civil judgment or court-ordered
 A notice of a violation under this article shall be presumed to have been received on the tenth day after the date
 the notice of violation is mailed.
 (Ord. No. 23421, § 1, 10-29-08)
-#####   
+##### Sec. 36-325. - Affidavit of violation.  
 
 An affidavit from the monitor of the enforcement equipment who viewed the live video or from the school bus
 driver or from any other person who witnessed the violation is admissible in a court or administrative proceeding
@@ -2741,7 +2741,7 @@ The license plate number displayed on the license plate of the vehicle involved 
 A copy of the recorded live image of the vehicle involved in the violation that depicts the license plate of that
 vehicle.
 (Ord. No. 23421, § 1, 10-29-08)
-#####   
+##### Sec. 36-326. - Effect of liability.  
 
 The imposition of a penalty under this ordinance constitutes an alternative method of detecting and deterring
 school bus overtaking violations. No fine imposed hereunder for such violations shall result in notification to the

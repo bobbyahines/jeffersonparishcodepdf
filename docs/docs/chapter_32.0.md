@@ -4,7 +4,7 @@ Footnotes:
 regulations, Ch. 8; roads and bridges, Ch. 29.
 State Law reference— Control of outdoor advertising and junkyards, R.S. 48:461 et seq.
 ### ARTICLE I. - IN GENERAL
-#####   
+##### Sec. 32-1. - Signs along rights-of-way, etc.  
 
 (a)
 Prohibition. Except as otherwise provided by law or under an exception of this chapter, it shall be unlawful for
@@ -77,13 +77,13 @@ council to grant such permits, as provided for in this chapter.
 (Code 1961, §§ 12-30—12-32; Ord. No. 16026, § 1, 5-9-84; Ord. No. 18046, § 2, 7-25-90; Ord. No. 19673, §§
 1, 2, 4-10-96; Ord. No. 20186, §§ 1—4, 11-5-97; Ord. No. 22268, § 1, 7-14-04; Ord. No. 23233, § 8, 1-23-08;
 Ord. No. 23302, § 1, 5-7-08; Ord. No. 24364, § I, 11-7-12; Ord. No. 24630, § 1, 12-11-13)
-#####   
+##### Sec. 32-2. - Advertisements; posting or painting in certain places prohibited.  
 
 It shall be unlawful for any person to post or paint advertisements of any kind whatsoever on any of the streets
 or curbing of the gutters, flagging, gutterstones, telephone, telegraph, or any utility posts or wooden or iron
 railings of any of the public buildings.
 (Code 1961, § 12-32.1; Ord. No. 23302, § 2, 5-7-08)
-#####   
+##### Sec. 32-3. - Signs on parish property.  
 
 Except as otherwise provided by law or under an exception of this chapter, it shall be unlawful for any private
 persons or companies to erect signs, including outdoor advertising billboards, on any public building or any
@@ -97,7 +97,7 @@ normally be posted by a utility company; and except such signs and/or placards o
 placed by the departments, public agencies and/or political subdivisions of the parish in the discharge and
 exercise of their duties and functions.
 (Code 1961, § 12-32.3)
-#####   
+##### Sec. 32-5. - Council permission.  
 
 The council, by resolution, may permit the installation of a private sign on public property provided the sign:
 (a)
@@ -261,7 +261,7 @@ Anyone found removing a sign, placard, poster, etc. in a manner that causes dama
 is further subject to the provisions of Section 20-43 and may be criminally prosecuted under La. R.S. 14:59(a)
 (10).
 (Ord. No. 16026, § 1, 5-9-84; Ord. No. 23302, § 3, 5-7-08)
-#####   
+##### Sec. 32-7. - Zoning and building restrictions.  
 
 (a)
 Nothing contained in this chapter shall supersede the requirements of other ordinances or parts of ordinances
@@ -271,7 +271,7 @@ zoning ordinance and the building code.
 All signs permitted by this chapter shall comply with the appropriate detailed provisions of the building code;
 and, no sign shall be placed or erected in violation of the comprehensive zoning ordinance.
 (Ord. No. 18046, § 2, 7-25-90)
-#####   
+##### Sec. 32-8. - Violations deemed nuisances.  
 
 (a)
 A sign shall be deemed a nuisance if it exists in violation of any of the following:
@@ -301,15 +301,15 @@ provisions of Chapter 19. Any person(s) that can be identified as having posted 
 this Chapter, is further subject to the provisions of section 20-43 and may be prosecuted under La. R.S. 14:59(a)
 (10).
 (Ord. No. 18046, § 3, 7-25-90; Ord. No. 23299, § 1, 5-7-08)
-#####   
+##### Sec. 32-9. - Reserved.  
 
 ### ARTICLE II. - PERMANENT SIGNS
-#####   
+##### Sec. 32-10. - Conformance with article required.  
 
 It shall be unlawful for any person, firm or corporation to erect, construct, enlarge, move, alter or convert any
 sign or cause same to be done except in conformance with this article.
 (Ord. No. 18046, § 1, 7-25-90)
-#####   
+##### Sec. 32-11. - Permit required.  
 
 (a)
 Except as otherwise provided in this Code, no person shall erect, construct, enlarge, move, alter or convert any
@@ -329,7 +329,7 @@ sign or sign structure is not modified in any way. No new permit is required for
 which conform with the requirements of the Code on the date of its adoption, unless and until the sign is altered
 or relocated.
 (Ord. No. 18046, § 1, 7-25-90)
-#####   
+##### Sec. 32-12. - License or certification required.  
 
 (a)
 Every person engaged in the business of constructing, erecting, installing, repairing or maintaining signs,
@@ -339,12 +339,12 @@ and shall obtain an occupational license in accordance with section 35-153, et s
 No person shall install or attempt to install any sign except a licensed building contractor, or a licensed or
 certified sign contractor, master sign erector or certified sign erector.
 (Ord. No. 18046, § 1, 7-25-90)
-#####   
+##### Sec. 32-13. - Permission of owner required.  
 
 No person shall erect, construct or maintain any sign upon any property or building without the consent of the
 owner or person entitled to possession of the property, or their representative.
 (Ord. No. 18046, § 1, 7-25-90)
-#####   
+##### Sec. 32-14. - Removal of signs.  
 
 Any sign now or hereafter existing which no longer advertises a bona fide business conducted, or a product sold,
 shall be taken down, or removed by the owner, agent or person having the beneficial use of the building or
@@ -353,7 +353,7 @@ department of inspection and code enforcement and, upon failure to comply with s
 specified in such order, the department of inspection and code enforcement is hereby authorized to cause
 removal of such sign and collect the cost, therefore, in accordance with sections 19-13 through 19-19.
 (Ord. No. 18046, § 1, 7-25-90)
-#####   
+##### Sec. 32-15. - Definitions.  
 
 For purposes of this article, the following terms, phrases, words and their derivations shall have the meanings
 given herein:
@@ -374,12 +374,12 @@ ordinance.
 Secs. 32-16—32-19. - Reserved.
 ### ARTICLE III. - MOBILE SIGNS
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 32-20. - Defined.  
 
 For purposes of this article, "mobile sign" shall mean any portable sign, not mounted on a trailer.
 (Code 1961, § 17A-11; Ord. No. 16026, § 1, 5-9-84)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-#####   
+##### Sec. 32-21. - Enforcement.  
 
 If the building inspector shall find that any mobile sign regulated by this Code is unsafe or insecure, is a menace
 to the public, or has been placed on public property toga greater extent than is permitted by this Code, he shall
@@ -387,7 +387,7 @@ give written notice to the holder of the permit. If the permittee fails to remov
 with the standards set forth within ten (10) days after the notice, the sign shall be removed or altered to comply
 with this Code by the inspector at the expense of the permittee.
 (Code 1961, § 17A-16)
-#####   
+##### Sec. 32-22. - Design characteristics.  
 
 (a)
 Mobile signs shall be designed according to generally accepted good engineering practices to withstand wind
@@ -399,7 +399,7 @@ and tongues shall be removed when the sign is being used for display.
 No mobile sign shall be permitted if such sign is mounted on a trailer or whose area on one (1) side exceeds ten
 (10) square feet.
 (Code 1961, § 17A-17; Ord. No. 16026, § 1, 5-9-84)
-#####   
+##### Sec. 32-23. - Electrical equipment and connections.  
 
 (a)
 Mobile signs which include electrical lighting or equipment shall have been approved and labeled by the
@@ -412,7 +412,7 @@ than fifteen (15) amperes.
 Mobile signs shall not be placed within five (5) feet of any pole, guy wire or line of any electric, telephone or
 other utility.
 (Code 1961, § 17A-l8)
-#####   
+##### Sec. 32-24. - Location.  
 
 (a)
 No unauthorized person shall erect or maintain upon any parish highway, right-of-way, servitudes, streets, public
@@ -435,7 +435,7 @@ It shall be unlawful for any private persons or companies to erect signs includi
 on parish property without a resolution from the parish council authorizing such act.
 
 (Code 1961, § 17A-19; Ord. No. 16026, § 1, 5-9-84; Ord. No. 23330, § I, 6-11-08; Ord. No. 24735 , § 1, 4-3014)
-#####   
+##### Sec. 32-25. - Traffic hazard or nuisance.  
 
 (a)
 No mobile sign shall be placed at any location in such a manner as to obstruct free and clear vision at the
@@ -461,30 +461,30 @@ drainage line by use of mechanical cleaning equipment.
 (Code 1961, § 17A-20; Ord. No. 16026, § 1, 5-9-84)
 Secs. 32-26—32-36. - Reserved.
 #### DIVISION 2. - PERMIT
-#####   
+##### Sec. 32-37. - Required.  
 
 A mobile sign shall not be located or utilized for display purposes on any site or premises unless a sign permit
 has been issued by the building inspector for that location.
 (Code 1961, § 17A-11)
-#####   
+##### Sec. 32-38. - Fees; term.  
 
 The building inspector shall collect a fee of five dollars ($5.00) for each mobile sign permit. This permit is valid
 for a maximum period of ninety (90) days, but may be renewed for a fee of five dollars ($5.00) for each
 subsequent ninety-day period.
 (Code 1961, § 17A-13)
-#####   
+##### Sec. 32-39. - Insurance.  
 
 Mobile signs shall be insured covering bodily injury and accidental death liability for each accident in the
 amount of one hundred thousand dollars ($100,000.00) for each person and three hundred thousand dollars
 ($300.000.00) for each accident, and property damage liability for one hundred thousand dollars ($100,000.00)
 each occurrence and three hundred thousand dollars ($300,000.00) aggregate.
 (Code 1961, § 17A-14)
-#####   
+##### Sec. 32-40. - State and federal regulations.  
 
 A mobile sign permit shall not be issued whenever the issuance of a permit would result in the maintenance of a
 sign in violation of any existing state or federal regulation.
 (Code 1961, § 17A-15)
-#####   
+##### Sec. 32-41. - Plate.  
 
 The building inspector shall record on each permit the number from a metal plate. This plate shall be issued with
 the permit and must be displayed on the base of the sign where it is visible from the street when the sign is in
@@ -493,7 +493,7 @@ subsequent permits for use of that same sign at a different location.
 (Code 1961, § 17A-12)
 Secs. 32-42—32-49. - Reserved.
 ### ARTICLE IV. - NONPROFIT AND CIVIC
-#####   
+##### Sec. 32-50. - Definitions.  
 
 For the purposes of this article, the following definitions shall apply:
 (a)
@@ -503,7 +503,7 @@ Organization shall mean any nongovernmental organization or agency or civic asso
 granted nonprofit status by the appropriate agencies of the State of Louisiana and/or the United States
 government.
 (Ord. No. 16026, § 1, 5-9-84)
-#####   
+##### Sec. 32-51. - Design characteristics.  
 
 (a)
 Signs shall be designed according to generally accepted good engineering practices to withstand wind pressures
@@ -512,7 +512,7 @@ of at least twenty (20) pounds per square foot.
 Signs shall be designed to rest on structural members other than wheels. Jacks, tongues and any transportation
 wheels shall be removed when the sign is being used for display.
 (Ord. No. 16026, § 1, 5-9-84)
-#####   
+##### Sec. 32-52. - Location.  
 
 (a)
 An organization shall not erect or maintain upon any parish highway, right-of-way, servitudes, streets, public
@@ -530,25 +530,25 @@ telephone or other utility.
 (e)
 A sign shall not be placed closer than fifty (50) feet from another private sign.
 (Ord. No. 16026, § 1, 5-9-84; Ord. No. 23330, § II, 6-11-08; Ord. No. 24735 , § 2, 4-30-14)
-#####   
+##### Sec. 32-53. - Traffic hazard or nuisance.  
 
 No nonprofit or civic organization may place or maintain any sign which would be deemed a traffic hazard or a
 nuisance under section 32-8, or which would violate any other section of this chapter.
 (Ord. No. 16026, § 1, 5-9-84; Ord. No. 23299, § 2, 5-7-08)
 Secs. 32-54—32-59. - Reserved.
 ### ARTICLE V. - BANNERS
-#####   
+##### Sec. 32-60. - Banners permitted.  
 
 Notwithstanding any provision of this article or any other ordinance to the contrary, the Jefferson Parish Council
 may permit the placement of banners along public rights-of-way providing said banners are placed in accordance
 with the provisions of this article.
 (Ord. No. 19858, § 1, 11-6-96)
-#####   
+##### Sec. 32-61. - Purposes for banners defined.  
 
 Banners placed under this article must promote tourism in the parish, provide information regarding significant
 public events and/or promote civic pride and knowledge about Jefferson Parish.
 (Ord. No. 19858, § 1, 11-6-96; Ord. No. 20510, § 1, 11-18-98)
-#####   
+##### Sec. 32-62. - Corridors and districts for banners.  
 
 Banners may be placed on street light standards or other suitable fixtures only along the following approved
 corridors or districts (parks, playgrounds, parish building sites, or other areas):
@@ -588,7 +588,7 @@ followed.
 (Ord. No. 19858, § 1, 11-6-96; Ord. No. 19903, § 1, 12-11-96; Ord. No. 20078, § 1, 7-23-97; Ord. No. 20340, §
 1, 4-29-98; Ord. No. 20510, § 2, 11-18-98; Ord. No. 23519, § 1, 4-1-09; Ord. No. 24137, § 1, 10-12-11; Ord.
 No. 24983 , § 1, 7-22-15; Ord. No. 25325 , § 1, 3-22-17)
-#####   
+##### Sec. 32-63. - Sponsorship of banners.  
 
 Banners may be sponsored by the Parish of Jefferson to display the parish's seal or logo, to convey information
 regarding the parish, to depict designs or graphics appropriate to a seasonal or holiday period, or to promote or
@@ -596,7 +596,7 @@ inform the public as to an upcoming event. Banners may be sponsored by an entity
 Jefferson Parish to promote an upcoming event but only if said event provides a significant economic benefit to
 Jefferson Parish.
 (Ord. No. 19858, § 1, 11-6-96)
-#####   
+##### Sec. 32-64. - Requirements for all banners.  
 
 All banners sponsored by Jefferson Parish or other entities must meet the following requirements:
 (1)
@@ -623,7 +623,7 @@ stimulating, not through the use of corporate or sponsor names, logos or text. S
 acknowledgments must not occupy more twenty-five (25) percent of the total surface of the banner with the
 graphic image depicting or promoting the event to occupy the entire remaining surface of the banner.
 (Ord. No. 19858, § 1, 11-6-96)
-#####   
+##### Sec. 32-65. - Application and requirements for sponsorship of banners.  
 
 (a)
 Submission requirements and application. All sponsors of banners other than the Parish of Jefferson and
@@ -741,7 +741,7 @@ fixtures before the submission of the report and/or recommendation required abov
 Council.
 (Ord. No. 19858, § 1, 11-6-96; Ord. No. 19903, § 2, 12-11-96; Ord. No. 20078, §§ 2—9, 7-23-97; Ord. No.
 20340, § 2, 4-29-98; Ord. No. 22807, § 12, 7-19-06; Ord. No. 24983 , § 2, 7-22-15)
-#####   
+##### Sec. 32-66. - Duration, installation, removal and liability for banners.  
 
 (a)
 The maximum time for the display of banners sponsored by entities other than Jefferson Parish and other than
@@ -763,14 +763,14 @@ shall be responsible for the disappearance of or any damage to banners from any 
 to, wind, weather, theft, vandalism, fire, accidents or acts of God.
 (Ord. No. 19858, § 1, 11-6-96; Ord. No. 20078, § 10, 7-23-97; Ord. No. 20340, § 3, 4-29-98; Ord. No. 24983 , §
 3, 7-22-15)
-#####   
+##### Sec. 32-67. - Use of excess funds.  
 
 Any funds from applications or funds generated from entities granted the exclusive right by the Jefferson Parish
 Council to design, manufacture, install and maintain banners or other fees authorized by this article which
 exceed the cost of administration of the regulations under this article shall be reserved for beautification projects
 in the council district in which the banners which generated the funds were placed.
 (Ord. No. 19903, § 3, 12-11-96; Ord. No. 20340, § 4, 4-29-98)
-#####   
+##### Sec. 32-68. - Family Gras and Carnival Kickoff banners excepted.  
 
 Notwithstanding any provision of this article or of any other ordinance to the contrary, Jefferson Parish or any
 agency working on behalf of Jefferson Parish may sponsor and place banners advertising the annual Family Gras
@@ -778,7 +778,7 @@ event or the annual Carnival Kickoff event, whether or not these banners meet al
 (Ord. No. 23231, § 1, 1-23-08; Ord. No. 25325 , § 2, 3-22-17)
 Editor's note— Ord. No. 25325 , § 2, adopted March 22, 2017, changed the title of § 32-68 from "Family Gras
 banners excepted" to "Family Gras and Carnival Kickoff banners excepted."
-#####   
+##### Sec. 32-69. - East Jefferson General Hospital banners excepted.  
 
 Notwithstanding any provision of this article or of any other ordinance to the contrary, East Jefferson General
 Hospital or any agency working on behalf of East Jefferson General Hospital may from time to time sponsor and
@@ -786,7 +786,7 @@ place banners promoting the hospital on the light standards located in the media
 West Esplanade Avenue and the hospital, whether or not the construction, content, placement or sponsorship of
 these banners meet all requirements under this article.
 (Ord. No. 23301, § 1, 5-7-08)
-#####   
+##### Sec. 32-70. - Metairie Business Development District and Fat City banners excepted.  
 
 Notwithstanding any provision of this article or of any other ordinance to the contrary, Jefferson Parish, the
 Metairie Business Development District, or any agency working on behalf of Jefferson Parish or the Metairie

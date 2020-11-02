@@ -8,7 +8,7 @@ and miscellaneous provisions, Ch. 20; notice to drain ponding water, § 27-107; 
 27-117 et seq.; junked, wrecked and abandoned vehicles, § 36-129 et seq.
 State Law reference— Abatement of public nuisances, R.S. 13:4711 et seq.
 ### ARTICLE I. - IN GENERAL
-#####   
+##### Sec. 19-1. - Purpose and scope.  
 
 The purpose of this chapter is to provide for the protection and promotion of the public health, safety and
 welfare by regulating and eliminating those nuisances which have a negative impact upon the quality of life,
@@ -22,7 +22,7 @@ impact on neighboring properties. Further, vacant, unsecured and/or boarded stru
 source of blight as such unkempt structures and long-term vacancies discourage economic development, retard
 appreciation of property values and decrease the quality of life.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 24462, § 1, 4-17-13)
-#####   
+##### Sec. 19-2. - Definitions.  
 
 For the purposes of this chapter, the following terms, phrases, words and derivations shall have the meaning
 given herein, unless it is apparent from the context that a different meaning is intended:
@@ -98,13 +98,13 @@ for recreational purposes, which is of artificial or semi-artificial constructio
 to its use. The term as used in this chapter shall in no way change or otherwise affect the interpretation of any
 terms or definitions found in the Standard Swimming Pool Code Edition adopted within section 19-34.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 24159, § 1, 11-9-11)
-#####   
+##### Sec. 19-3. - Maintenance of a nuisance prohibited.  
 
 Maintenance of a nuisance or other prohibited activity or condition in or upon any premises by a proprietary
 party, his representative or any person acting in concert with him or them is hereby prohibited and declared to be
 unlawful.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-4. - Miscellaneous.  
 
 (a)
 Contractors shall not undertake any residential home improvement construction project without first obtaining
@@ -135,14 +135,14 @@ Failure to comply with this section shall constitute a nuisance.
 (Ord. No. 23373, § 1, 8-20-08)
 Secs. 19-5—19-7. - Reserved.
 ### ARTICLE II. - RAILROAD RIGHTS-OF-WAY
-#####   
+##### Sec. 19-8. - Unlawful growth and accumulation of weeds, trash, etc.  
 
 It shall be unlawful for the owner of any railroad right-of-way within the limits of the parish, or his agent, to
 permit the growth of grass or weeds upon such property at a height of more than eight (8) inches, or to permit
 deleterious or unhealthful growths or trash, debris, refuse or discarded or noxious matter within a radius of three
 hundred (300) feet from a building.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 24530, § 1, 7-24-13, eff. 1-1-14)
-#####   
+##### Sec. 19-9. - Notification to owner of violation; procedure.  
 
 The director of public utilities shall notify the owner, or his agent, of any railroad right-of-way on which grass,
 weeds, trash, debris, refuse or other noxious matter may be located in violation of this chapter, by certified mail
@@ -152,7 +152,7 @@ of such railroad right-of-way or his agent and shall state the estimated cost of
 accomplish the cutting, destruction or removal of such matter, giving the owner or his agent fifteen (15) days to
 perform the necessary work at his own expense. Said notice shall be sent once every calendar year.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-10. - Failure to abate; special assessment for work performed by parish.  
 
 If the required work is not done within fifteen (15) days after receipt of such written notice by the owner of the
 railroad right-of-way, or his agent, or within fifteen (15) days after the date of such notice if the notice should be
@@ -162,7 +162,7 @@ may then proceed to adopt an ordinance levying a local or special assessment aga
 involved for the actual cost of such work, plus accrued interest at the rate of eight (8) percent per annum from
 the date of completion of the work.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-11. - Special assessment to function as lien of primary nature.  
 
 A certified copy of the local or special assessment ordinance shall be filed with the clerk of court of the parish,
 who shall forthwith record same in the mortgage records of the parish. Such ordinance, when so filed and
@@ -170,7 +170,7 @@ recorded, shall operate as a lien and privilege against the railroad right-of-wa
 privilege shall rank from the date of filing of the ordinance in the mortgage records of the parish and shall prime
 all other claims, mortgages and liens, except taxes and prior recorded special assessment liens.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-12. - Failure of owner to pay assessment; council to collect costs, interest and fees.  
 
 If the owner of the railroad right-of-way fails to pay the amount due under the local or special assessment
 ordinance within thirty (30) days from the date of publication of such ordinance after its final adoption, the
@@ -178,7 +178,7 @@ council may authorize an action either in rem against the immovable property or 
 or both, for the collection of the total amount due, including interest, plus an additional sum equivalent to
 twenty-five (25) percent of the principal and interest due as attorney's fees.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-13. - Time limit imposed upon persons questioning action by council.  
 
 No contest, action or proceeding to question the validity or legality of any resolution, ordinance, notice or other
 proceeding adopted or published in accordance with the foregoing shall be begun in any court by any person for
@@ -189,7 +189,7 @@ such matter.
 (Ord. No. 23373, § 1, 8-20-08)
 Secs. 19-14—19-15. - Reserved.
 ### ARTICLE III. - TRASH, VEGETATION AND PROPERTY MAINTENANCE
-#####   
+##### Sec. 19-16. - Trash, debris, junk, refuse, abandoned property prohibited on public and private property.  
 
 (a)
 It shall be unlawful for any person or proprietary party to maintain, permit or allow the accumulation, collection
@@ -211,7 +211,7 @@ Only vehicles operating on a daily basis may display such verbiage or items loca
 used property, car dealership and/or used car lot; otherwise, said display is hereby prohibited and declared to be
 a nuisance.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 23529, § 2, 4-15-09; Ord. No. 23615, § 1, 8-12-09)
-#####   
+##### Sec. 19-17. - Exceptions.  
 
 Provided the premises complies with all other applicable ordinances and regulations, the following situations
 shall be excluded from the application of the previous section:
@@ -228,7 +228,7 @@ residential district or residential premises, and operated in a lawful manner wh
 such items is necessary to the operation of such enterprise; or with regard to any appropriate storage place or
 depository maintained by the parish, its departments or any other public agency or public entity.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-18. - Weeds, grass, other vegetation.  
 
 It shall be unlawful for any person or proprietary party to maintain, permit or allow on any premises, within one
 hundred fifty (150) feet of an existing building, the growth of grass or weeds, other than trees, shrubs, cultivated
@@ -238,7 +238,7 @@ unhealthful vegetation; and, the same is hereby declared to be a nuisance. It sh
 flowers, gardens or landscaping is uncontrolled or not regularly maintained.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 23529, § 2, 4-15-09; Ord. No. 24530, § 2, 7-24-13, eff. 1-1-14; Ord.
 No. 25405 , § 4, 8-9-17)
-#####   
+##### Sec. 19-19. - Violations and penalties.  
 
 (a)
 Any person violating any provision of this chapter shall be guilty of a misdemeanor, and upon conviction shall
@@ -258,7 +258,7 @@ Any adjacent or neighboring property owner who is especially damaged by such vio
 (3)
 Any ten (10) residents of the election precinct wherein the violation exists.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-20. - Injunctive relief; judicial order.  
 
 (a)
 Application for injunctive relief or judicial order of abatement afforded by this chapter shall be by petition to a
@@ -271,7 +271,7 @@ or by imprisonment in the parish prison for a period of not less than twenty-fou
 (30) days or both fine and imprisonment. On conviction for a second or subsequent contempt the offender shall
 be punished by both fine and imprisonment, without benefit of probation or suspension of sentence.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-21. - Abatement by order of parish.  
 
 (a)
 Abatement by owner. Upon notification of violation, as provided in this chapter, the proprietary party, his
@@ -358,7 +358,7 @@ Once notice is issued to a property owner, removal of vegetation and/or trash in
 without a hearing.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 23912, § 1, 11-3-10; Ord. No. 24135, § 1, 10-12-11; Ord. No. 24530, §
 3, 7-24-13; Ord. No. 25405 , § 5, 8-9-17)
-#####   
+##### Sec. 19-22. - Notification of violation.  
 
 (a)
 Following an inspection and verification of a violation, the parish, through its legal and/or administrative
@@ -389,7 +389,7 @@ Following a third (3rd) or greater inspection of the same property within a twel
 new violations, a one hundred fifty dollar ($150.00) administrative inspection fee shall apply per additional
 inspection until said violations are remedied.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 23529, § 2, 4-15-09; Ord. No. 23807, § 1, 5-12-10)
-#####   
+##### Sec. 19-23. - Review hearings.  
 
 (a)
 In all applicable instances where a proprietary party has received notice of a violation of the provisions of this
@@ -410,7 +410,7 @@ The hearing officer shall be empowered to hear testimony and examine all evidenc
 fact as to whether the conditions the proprietary party was cited for exist or not and render any order authorized
 herein that is consistent with the findings.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 23529, § 2, 4-15-09)
-#####   
+##### Sec. 19-24. - Billing; payment.  
 
 At the completion of any work performed pursuant to this article, the proprietary party and/or owner of the
 premises shall be sent a bill by certified mail delivery confirmation, personal or domiciliary service made by any
@@ -418,7 +418,7 @@ authorized personnel of the parish, or by any other reasonable method of notific
 work in accordance with this article. The proprietary party and/or owner of the premises shall be given ten (10)
 days from the date of the notice to make payment to the parish before a lien is placed.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-25. - Authority to impose lien.  
 
 In addition to the other provisions of this article, the parish is also authorized to have recorded in the mortgage
 office of the parish, a sworn statement showing the cost and expenses incurred for the work and the date, place
@@ -428,7 +428,7 @@ plus costs filing the lien, and costs of court, if any, for collection until fin
 statements for matters involving minor or major repairs shall include the fine imposed plus costs of filing the
 lien, and costs of court, if any.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-26. - Collection of outstanding invoices.  
 
 (a)
 The administrative departments handling the enforcement of this article and the enforcement of sections 27-106
@@ -453,7 +453,7 @@ percent, plus any necessary court costs when an account is turned over for colle
 The department of inspection and code enforcement shall monitor and give monthly reports to the office of
 research and budget and the finance department as to the success of collections for these charges.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-27. - Adding costs and/or fines to ad valorem tax bill.  
 
 (a)
 In addition to any other provisions regarding collection of costs for work performed pursuant to this article, if
@@ -468,12 +468,12 @@ Costs, including court costs or hearing costs, administrative fees, charges from
 other fines assessed to the violator, if not paid timely pursuant to this section or a judgment or order, may be
 placed on the tax rolls for collection.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 23806, § 2, 5-12-10)
-#####   
+##### Sec. 19-28. - Enforcement department.  
 
 The department responsible for the enforcement of this article and section 27-117 et seq. shall be the department
 of inspection and code enforcement.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-29. - Reserved.  
 
 ARTICLE III-A. - MAINTENANCE OF ABANDONED RESIDENTIAL PROPERTY
 ##### Sec. 19-29.1. - Maintenance of abandoned residential properties.  
@@ -600,14 +600,14 @@ producing pictures or records to prove that the privilege established on the pro
 accurate, or by issuing a written release and cancellation of the privilege.
 (Ord. No. 24369, § 1, 11-7-12)
 ### ARTICLE IV. - SWIMMING POOLS AND EXCAVATIONS
-#####   
+##### Sec. 19-30. - Declaration as nuisance.  
 
 Any swimming pool or open excavation on or within five hundred (500) feet of residential property, that is not
 protected or supervised, or which is otherwise deemed dangerous, as defined herein, that is located outside
 incorporated municipalities within the parish, which is injurious to or a danger to the public health, safety,
 morals or welfare of the people of the parish, is hereby declared to be a public nuisance.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-31. - Definitions.  
 
 (a)
 (1)
@@ -641,7 +641,7 @@ access the property and cause the swimming pool or open excavation to be drained
 by the parish at the expense of the owner if deemed an emergency by the director of inspection and code
 enforcement. Said action may be taken without notice or a hearing.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-32. - Inspections.  
 
 The director of the department of inspection and code enforcement may designate appropriate personnel to:
 (1)
@@ -669,7 +669,7 @@ article.
 If a violation is found, the owner shall be issued notice and given five (5) days to comply from date of notice
 with said notice only being required to be sent to the owner once every calendar year.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-33. - Hearing; placarding of building or structure.  
 
 (a)
 If a premises, has, upon inspection, been found contain a dangerous swimming pool or open excavation, then
@@ -715,7 +715,7 @@ issue a revised order that the building be demolished.
 If any instance in which an order has been issued pursuant to subsection (b) above, and the owner fails to
 comply with the order, said file may be sent to the parish attorney's office for enforcement.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-34. - Fees; costs; billing; payment; imposition of lien; addition of costs to ad valorem tax bill.  
 
 (a)
 The parish council hereby finds and declares that the general administrative expenses of inspecting swimming
@@ -760,7 +760,7 @@ such premises was found to be in compliance with the order
 (f)
 A fee shall be imposed for such release of lien provided hereunder in an amount to be fixed by the clerk of court.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-35. - Adding cost to ad valorem tax bill.  
 
 (a)
 In addition to any other provisions of law regarding collection of costs for work performed pursuant to this
@@ -775,7 +775,7 @@ Costs, including court costs or hearing costs, administrative fees, charges from
 other fines assessed to the violator, if not paid timely pursuant to this section or a judgment or order, may be
 placed on the tax rolls for collection.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 23806, § 3, 5-12-10)
-#####   
+##### Sec. 19-36. - Violations; penalty for disregarding or removing notices or orders.  
 
 (a)
 The owner of any premises containing dangerous swimming pool or open excavation who shall fail to comply
@@ -795,7 +795,7 @@ Each day that any violation of the above subsections continues shall constitute 
 Violation of any of the above subsections shall be punishable as provided in section 1-10 or as in section 2.5-7 of
 this Code.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-37. - Emergencies and disclaimer of liability.  
 
 (a)
 In cases where it reasonably appears that there is immediate danger to the health, life or safety of any person
@@ -820,7 +820,7 @@ existing on private property in violation of the provisions of this chapter.
 (Ord. No. 23373, § 1, 8-20-08)
 Secs. 19-38—19-40. - Reserved.
 ### ARTICLE V. - SLUM AND BLIGHTED AREAS
-#####   
+##### Sec. 19-41. - Definition of slum area.  
 
 Any contiguous land area located in Jefferson Parish in which there is a predominance of buildings or
 improvements in which by reason of dilapidation, deterioration, age or obsolescence, inadequate provision for
@@ -829,7 +829,7 @@ such factors, are conducive to ill health, transmission of disease, infant morta
 crime, injuriously affect the entire area, and are detrimental to the public health, safety, morals or welfare, is
 hereby declared to be a slum area and a nuisance.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-42. - Definition of blighted area.  
 
 Any contiguous land area located in Jefferson Parish, whether commercial or residential, whether vacant or
 improved, where by reason of the predominance of defective or inadequate street layout, faulty lot layout in
@@ -840,7 +840,7 @@ combination of such factors, the development of such area (which may include som
 improvements) into predominantly housing uses is being prevented, or such area is uninhabitable and hazardous
 due to its physical condition, is hereby declared to be a blighted area and a nuisance.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-43. - Application for federal funds.  
 
 The department of community development programs shall, if it deems appropriate, make application to the U.S.
 Department of Housing and Urban Development and/or any other federal department or agency for funds to be
@@ -848,13 +848,13 @@ used to eradicate slum and/or blighted areas located within Jefferson Parish.
 (Ord. No. 23373, § 1, 8-20-08)
 Secs. 19-44, 19-45. - Reserved.
 ### ARTICLE VI. - DANGEROUS BUILDINGS
-#####   
+##### Sec. 19-46. - Declaration as nuisance.  
 
 All buildings or structures located outside incorporated municipalities within the parish which are injurious to or
 a danger to the public health, safety, morals or welfare of the people of the parish, as hereinafter defined,
 whether vacant or occupied, are hereby declared to be public nuisances.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 23529, § 2, 4-15-09)
-#####   
+##### Sec. 19-47. - Definitions and conditions.  
 
 (a)
 All structures which have any or all of the following defects shall constitute a public nuisance and be deemed
@@ -981,7 +981,7 @@ A structure which has been cited with two (2) or more violations, whether or not
 not constitute an imminent danger to persons is hereby declared to be a nuisance, the owner a repeat offender
 and a blighted property.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 23529, § 2, 4-15-09; Ord. No. 24626, § 1, 12-11-13)
-#####   
+##### Sec. 19-48. - Inspectors; jurisdiction.  
 
 The director of the department of inspection and code enforcement shall designate inspectors whose duties shall
 be as follows:
@@ -1086,7 +1086,7 @@ order and the matter may be reconvened upon notice to the owner, lien holders, o
 having an interest in the property. If the hearing officer finds that the building remains a dangerous building
 notwithstanding the owner's efforts, he may issue a revised order that the building be demolished may be issued.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-50. - Matters sent to environmental court section.  
 
 (a)
 Any structure subject to a violation of this chapter may be prohibited from obtaining a repair permit or
@@ -1104,7 +1104,7 @@ parish may proceed with the demolition order.
 Any work performed by the parish or its agent pursuant to a court order is subject to collection by the parish via
 placement of a lien.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-51. - Fees; costs, billing; payment; imposition of lien; addition of costs to ad valorem tax bill.  
 
 (a)
 The parish council hereby finds and declares that the general administrative expenses of inspecting buildings,
@@ -1156,7 +1156,7 @@ the building had not been demolished, whether or not the building is in such con
 (c)
 A fee shall be imposed for such release of lien provided hereunder in an amount to be fixed by the clerk of court.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-53. - Adding cost and/or fines to ad valorem tax bill.  
 
 (a)
 In addition to any other provisions regarding collection of costs for work performed pursuant to this article, if
@@ -1170,7 +1170,7 @@ collected from the proprietary party and/or owner of the premises or property in
 Demolition costs, court costs, hearing costs, administrative fees, and any other fines assessed to a violator, if not
 paid timely pursuant to this section or a court order may be placed on the tax rolls for collection.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 23806, § 4, 5-12-10)
-#####   
+##### Sec. 19-54. - Violations; penalty for disregarding or removing notices or orders.  
 
 (a)
 The owner of any "dangerous" structure who shall fails to comply with any order to repair, vacate, demolish or
@@ -1188,7 +1188,7 @@ Each day that any violation of the above subsections continues shall constitute 
 Violation of any of the above subsections shall be punishable as provided in section 1-10 or as in section 2.5-7 of
 this Code.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-55. - Emergencies.  
 
 (a)
 In cases where it reasonably appears that there is immediate danger to the health, life or safety of any person
@@ -1231,7 +1231,7 @@ provided in this article. If the hearing officer finds that the building, at the
 dangerous building within the provisions of this article, he shall issue an order for its abatement as set out in this
 article. The provisions in this article shall be applicable to any such order.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 23711, § 1, 12-9-09; Ord. No. 23926, § 1, 12-8-10)
-#####   
+##### Sec. 19-56. - Cleanup after demolition or removal of structures.  
 
 (a)
 Within thirty (30) days after any building or structure is demolished or removed from any lot or tract of land:
@@ -1253,7 +1253,7 @@ Each owner and each person having control over the property on which the buildin
 removal or demolition is individually responsible for completing such work or causing such work to be
 completed.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-57. - Notice to complete work.  
 
 Whenever it shall come to the knowledge of the inspector, parish attorney's office or a hearing officer designated
 pursuant to Chapter 2.5 of this Code that a building or structure has been demolished or removed and that the
@@ -1263,7 +1263,7 @@ the work required by this article which has not been completed. If a notice is p
 or person having control over the property to complete or cause to be completed all work required by this article
 within thirty (30) days of service of such notice.
 (Ord. No. 23373, § 1, 8-20-08)
-#####   
+##### Sec. 19-58. - Penalty.  
 
 (a)
 Any person failing to comply with the any law, ordinance herein, or to comply with the order of a court of
@@ -1277,21 +1277,21 @@ general administrative expenses associated with inspection, locating owners, con
 and other administrative functions.
 (Ord. No. 23373, § 1, 8-20-08; Ord. No. 23575, 6-24-09)
 ### ARTICLE VII. - CARWASH NUISANCE
-#####   
+##### Sec. 19-59. - Declaration as nuisance.  
 
 Any carwash that emits noise from dryers, buzzers, blowers, vacuums, speaker systems, or the like is hereby
 declared a nuisance if; (1) the sound level at the boundary of the property exceeds the sound level limit set forth
 in Table 1 of section 20-102; or (2) the specific acts set forth in section 20-102(h)(1), (2) and (3) occur anywhere
 on the lot upon which the carwash is located.
 (Ord. No. 24157, § I, 11-9-11; Ord. No. 24273, § I, 5-23-12)
-#####   
+##### Sec. 19-60. - Notice of violation.  
 
 (a)
 Notice of violations may be provided pursuant to Chapter 2.5.
 (b)
 Any violation of this section may be brought before the bureau of administrative adjudication.
 (Ord. No. 24157, § I, 11-9-11)
-#####   
+##### Sec. 19-61. - Penalties.  
 
 If the trier of fact finds any individual or entity in violation of this article, hearing costs, fines and penalties may
 be imposed as provided in sections 1-10 and 1-11, and corrective measures may be ordered including, but not
@@ -1302,7 +1302,7 @@ hours of operations on twenty-four-hour repeat offender violators, or any other 
 nuisance.
 (Ord. No. 24157, § I, 11-9-11)
 ### ARTICLE VIII. - DISTRIBUTION OF PRINTED MATTER
-#####   
+##### Sec. 19-62. - Purpose.  
 
 The purpose of this article is to provide for the protection and promotion of the public health, safety, and welfare
 by regulating the distribution of unsolicited printed matter, which when unchecked negatively impacts the
@@ -1310,7 +1310,7 @@ quality of life, safety, and health of neighborhoods, disturbs the peaceful poss
 accumulation of filth, sewerage, garbage, refuse, and debris, and contributes to damaging property, including but
 not limited to sewerage and/or drainage backups.
 (Ord. No. 25598 , § 1, 6-27-18)
-#####   
+##### Sec. 19-63. - Definitions.  
 
 For the purposes of this chapter, the following terms and phrases when used in this article shall have the
 respective meanings ascribed to them in this section, unless a definite meaning clearly appears from the context:
@@ -1328,7 +1328,7 @@ Unsolicited printed matter shall mean any printed matter that is delivered to an
 without the express invitation or express permission in writing (or otherwise) of the proprietary party or
 corresponding representative.
 (Ord. No. 25598 , § 1, 6-27-18)
-#####   
+##### Sec. 19-64. - Solicited printed matter.  
 
 (a)
 This article shall not in any way provide for the regulation of solicited printed matter; additionally, it shall not be
@@ -1345,7 +1345,7 @@ person is authorized to deposit such solicited printed matter into said receptac
 (4)
 Distribute solicited printed matter to any person willing to accept it.
 (Ord. No. 25598 , § 1, 6-27-18)
-#####   
+##### Sec. 19-65. - Unsolicited printed matter.  
 
 (a)
 It shall be unlawful for any person to cause unsolicited printed matter to be deposited upon any residential
@@ -1368,7 +1368,7 @@ said person is authorized to deposit such unsolicited printed matter into said r
 (2)
 Distribute unsolicited printed matter to any person who accepts it.
 (Ord. No. 25598 , § 1, 6-27-18)
-#####   
+##### Sec. 19-66. - "Do not toss" list.  
 
 (a)
 PMZ shall maintain a "do not toss" list of addresses where the respective proprietary parties of such residential
@@ -1382,11 +1382,11 @@ PMZ shall update the parish website on a regularly scheduled basis so as to make
 an accurate and current list of addresses associated with the "do not toss" list; and, upon request, PMZ shall
 distribute a date-referenced copy of the "do not toss" list to any publisher or distributor of printed matter.
 (Ord. No. 25598 , § 1, 6-27-18)
-#####   
+##### Sec. 19-67. - United states mail exempted.  
 
 The provisions of this article shall not apply with regard to the distribution of mail by the United States.
 (Ord. No. 25598 , § 1, 6-27-18)
-#####   
+##### Sec. 19-68. - Enforcement.  
 
 (a)
 PMZ is authorized to enforce the provisions of this article and to adopt rules and regulations for the proper

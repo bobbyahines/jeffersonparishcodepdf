@@ -16,7 +16,7 @@ tax exemption, § 25-61; sewerage districts, 27-29 et seq.; drainage districts, 
 State Law reference— Taxation and fiscal affairs, R. S. 33:2621 et seq.; revenue and taxation generally, R. S.
 Title 47.
 ### ARTICLE I. - IN GENERAL
-#####   
+##### Sec. 35-1. - Earnings tax prohibited.  
 
 (a)
 No parish or municipal governing authority shall levy a tax upon or collect or require payment of any tax from
@@ -55,12 +55,12 @@ violation of any provision of this section shall be punished by a fine not excee
 within the discretion of the court. Each day any violation of any provision of this section shall continue
 constitutes a separate offense.
 (Ord. No, 17101, §§ I—V, 12-3-86)
-#####   
+##### Sec. 35-2. - License fee on off-track wagering facilities.  
 
 A license fee of two (2) percent of the total amount wagered at any off-track wagering facility within the parish
 is hereby imposed, in accordance with R.S. 4:218.B.
 (Ord. No. 17447, § 1, 2-10-88)
-#####   
+##### Sec. 35-3. - Tax-free shopping program.  
 
 (a)
 Purpose. The parish desires to increase its share of foreign travelers, and if the parish participates in the state taxfree shopping program foreign travelers will be refunded parish sales taxes paid on hard and soft goods, and the
@@ -74,7 +74,7 @@ Handling fees. The parish agrees to appropriate its proportionate share of the h
 pursuant to R.S. 51:1307.
 (Ord. No. 17589, §§ 1, 2, 9-14-88)
 Cross reference— Sales and use tax, § 35-16 et seq.
-#####   
+##### Sec. 35-4. - Reserved.  
 
 Editor's note— Ord. No. 22443, § 2, adopted March 2, 2005, repealed § 35-4, which pertained to Video poker
 revenue. See also the Code Comparative Table.
@@ -94,7 +94,7 @@ interstate commerce apply. Parish of Jefferson v. Elcao-Glaco, 280 So.2d 629 (La
 Cross reference— Tax-free shopping program, § 35-3; rules and regulations promulgated in connection with the
 parish sales and use tax, App. A.
 State Law reference— Municipal sales tax, R.S. 33:2711 et seq.; state sales tax, R.S. 47:301 et seq.
-#####   
+##### Sec. 35-16. - Uniform Local Sales Tax Code.  
 
 Chapter 2-D of Subtitle II of Title 47, Louisiana Revised Statutes 47:337.1 — 47:337.100, entitled the "Uniform
 Local Sales Tax Code", is hereby adopted by reference as though copied here fully.
@@ -104,14 +104,14 @@ Editor's note— Section 1 of Ord. No. 22808, adopted July 19, 2006, provided, "
 the Jefferson Parish Code of Ordinances is hereby repealed, with the exception of sections 35-17, 35-18, 35-21,
 35-22, 35-23, 35-24, 35-24.1, 35-32, 35-65, 35-66, 35-67, 35-68, 35-69, 35-70, and 35-71." Section 2 of said
 ordinance enacted provisions designated a new section 35-16. See also the Code Comparative Table.
-#####   
+##### Sec. 35-17. - Definitions.  
 
 Louisiana Revised Statute (La. R.S.) 47:301, containing definitions relevant to this section, is hereby adopted by
 reference as though copied here fully and is applicable in Jefferson Parish for purposes of sales and/or use tax
 words, terms and/or phrases herein.
 (Code 1961, § 16-2; Ord. No. 19916, § 1, 1-8-97; Ord. No. 22572, § 1, 8-10-05; Ord. No. 22778, § 2, 6-28-06)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-#####   
+##### Sec. 35-18. - Enforcement—By sheriff.  
 
 (a)
 The collection of the taxes imposed under this article shall be made in the name of the parish, by the sheriff, who
@@ -141,12 +141,12 @@ Code.
 Cross reference— Sheriff generally, Ch. 31.
 Secs. 35-19, 35-20. - Reserved.
 Note— See the editor's note at § 35-16.
-#####   
+##### Sec. 35-21. - Supplemental and other taxes.  
 
 The tax levied herein is declared to be supplemental and in addition to all other taxes levied by and under the
 authority of the council of the parish of any kind or nature.
 (Code 1961, § 16-6)
-#####   
+##### Sec. 35-22. - Imposition of tax (1954).  
 
 There is hereby levied for the purposes hereinafter specified, a tax upon the sale at retail, the use, the
 consumption, the distribution, and the storage in this parish of each item or article of tangible personal property
@@ -184,7 +184,7 @@ Section 4 thereof (R.S. 47:304). Upon the establishment of an integrated bracket
 collector of revenue of the state, the sheriff shall designate such brackets for the purpose of tax collection within
 the meaning of this article.
 (Code 1961, § 16-7)
-#####   
+##### Sec. 35-23. - Imposition of supplemental tax (1966).  
 
 (a)
 Levy. There is hereby levied from and after July 1, 1966, for the purposes stated in the proposition set forth in
@@ -286,7 +286,7 @@ No. 7766.
 Supplementary to other taxes. The tax herein levied is declared to be supplemental and in addition to all other
 taxes levied by and under the authority of the parish council of any kind or nature.
 (Code 1961, §§ 16-53—16-58; Ord. No. 24583, § 1, 9-18-13)
-#####   
+##### Sec. 35-24. - Imposition of supplemental tax (1981).  
 
 (a)
 Levy. There is hereby levied from and after March 1, 1981 for the purposes stated in the proposition set forth in
@@ -493,7 +493,7 @@ taxes levied by and under the authority of the parish council of any kind or nat
 (Ord. No. 16116, §§ 1—7)
 Secs. 35-25—35-31. - Reserved.
 Note— See the editor's note at § 35-16.
-#####   
+##### Sec. 35-32. - Delinquent taxes.  
 
 (a)
 If the amount of tax due by the dealer is not paid on or before the twentieth day of the month next following the
@@ -520,14 +520,14 @@ not remit or waive payment of any interest payment.
 (Code 1961, § 16-15)
 Secs. 35-33—35-64. - Reserved.
 Note— See the editor's note at § 35-16.
-#####   
+##### Sec. 35-65. - Records to be kept by sheriff.  
 
 The sheriff shall keep a record of all of his official acts and shall preserve the copies of all rules, decisions and
 orders made by him. He shall also keep an accurate record showing the name of remitter, amount and type of all
 taxes paid to him, reports filed with him, and such other records as are necessary to the proper administration
 and execution of this article.
 (Code 1961, § 16-47)
-#####   
+##### Sec. 35-66. - Copies of official acts of sheriff; authentication; evidence; fee.  
 
 Copies of any rule, decision, or order of the sheriff, and of any paper or report tiled in any office maintained by
 him in the administration of this article, may be authenticated under his signature, and when so authenticated,
@@ -535,7 +535,7 @@ shall be evidence in all courts of this state, with the same force and weight as
 authenticating any such copy, the sheriff may charge a fee of one dollar ($1.00) which must be deposited to the
 operating account of his department.
 (Code 1961, § 16-48)
-#####   
+##### Sec. 35-67. - Records and files of sheriff confidential; construction.  
 
 (a)
 The records and files of the sheriff respecting the administration of this article, shall be considered confidential
@@ -571,12 +571,12 @@ The information on the face of the sales tax certificate(s); and/or
 c.
 The name and address of the particular person to whom the sales tax certificate(s) is issued.
 (Code 1961, 16-49; Ord, No. 18261, § 1, 4-24-91)
-#####   
+##### Sec. 35-68. - Preservation and destruction of returns and reports.  
 
 All returns or reports filed with the parish pursuant to the provisions of this article shall be preserved for three
 (3) years and thereafter may be destroyed by order of the sheriff.
 (Code 1961, § 16-50)
-#####   
+##### Sec. 35-69. - Extensions at discretion of sheriff.  
 
 Upon the written request of the taxpayer and for good cause shown, the sheriff may grant reasonable extensions
 of time for the filing of returns and payment of tax due-under this article; provided that such extensions of time
@@ -585,13 +585,13 @@ extension is granted shall not become delinquent until the expiration of the ext
 accrue on the tax during the period of the extension, such interest to be computed in all cases from the date the
 tax would have become delinquent in the absence of an extension.
 (Code 1961, § 16-51)
-#####   
+##### Sec. 35-70. - Bond may be required of taxpayer.  
 
 The parish may require a bond or other security satisfactory to the sheriff for the payment of any taxes, fees,
 interest and penalties, or any of them, imposed pursuant to this article, when he shall find that the collection
 thereof may be prejudiced without such security.
 (Code 1961, 16-52)
-#####   
+##### Sec. 35-71. - Optional exclusions and exemptions.  
 
 (a)
 In accordance with LSA-R.S. 47:337.10(1), for purposes of the imposition of the sales and use tax levied by the
@@ -610,7 +610,7 @@ Secs. 35-72—35-86. - Reserved.
 ### ARTICLE III. - CHAIN STORE TAX
 Footnotes:
 --- (4) --State Law reference— Authority for this tax, R.S. 47:10.
-#####   
+##### Sec. 35-87. - Composition of tax.  
 
 (a)
 Because of the advantages accruing from the operation of multiple stores wherever situated and because of the
@@ -624,7 +624,7 @@ commonly recognized as a member of a chain and as a branch store.
 The license tax herein authorized shall be in addition to ad valorem taxes and any other licenses under the laws
 of the state and parish.
 (Code 1961, § 16-69)
-#####   
+##### Sec. 35-88. - Amount of tax.  
 
 (a)
 The license tax for the business described in this article levied upon the store or stores operated within this
@@ -737,7 +737,7 @@ and over
 (b)
 The tax for any store opened after June thirtieth of any year shall not exceed one-half (½) of the annual amount.
 (Code 1961, 16-70)
-#####   
+##### Sec. 35-89. - Payment of tax.  
 
 Every person engaged in business in this parish, excepting business located in a municipality, shall on or before
 the first day of February of each year render to the parish a report containing a true and, complete statement
@@ -747,7 +747,7 @@ not, as of the report date. Whenever a new store is opened which was not include
 report, a supplemental report setting forth the required information shall be filed prior to the expiration of thirty
 (30) days after the date of opening.
 (Code 1961, § 16-71)
-#####   
+##### Sec. 35-90. - Designation of sheriff as tax collector.  
 
 (a)
 The collection of the taxes imposed hereunder shall be made in the name of the parish, by the sheriff, who is the
@@ -759,7 +759,7 @@ The initial payment of license taxes authorized and levied under this article sh
 by section 35-89 and shall be due three (3) weeks subsequent to the adoption of this article. All subsequent
 license taxes levied hereunder shall be due and payable as provided for by section 35-89.
 (Code 1961, § 16-72; Ord. No. 24584, § 1, 9-18-13)
-#####   
+##### Sec. 35-91. - Collection procedure; pleading and practice; effect of collector's affidavit; burden of proof.  
 
 (a)
 Procedure. The procedure to collect the delinquent taxes due hereunder shall be by rule, which shall be tried or
@@ -780,7 +780,7 @@ knowledge and belief all of the said facts shall be accepted as prima facie trut
 case, and the burden of proof to establish anything to the contrary shall rest wholly on the defendant or opposing
 party.
 (Code 1961, § 16-73)
-#####   
+##### Sec. 35-92. - Objection to tax; payment; refunds; legal actions; construction.  
 
 (a)
 Objection to tax. A right of action is hereby created to afford a remedy at law for any person aggrieved by the
@@ -811,7 +811,7 @@ file an additional suit. In such cases, the tax so paid under protest shall be s
 ex officio tax collector until the question of law involved has been determined by the courts and shall then be
 disposed of as therein provided.
 (Code 1961, § 16-74)
-#####   
+##### Sec. 35-93. - Attorneys to aid in collection; commission; duties and procedure.  
 
 The sheriff and ex officio tax collector of the parish is authorized to employ attorneys at law to assist in the
 collection of any delinquent licenses due under the provisions of this article. If any delinquent license is referred
@@ -819,7 +819,7 @@ to an attorney at law for collection, the delinquent taxpayer owing the license 
 attorney of ten (10) percent, calculated upon the aggregate amount of the license plus any interest and other
 penalties that might be due thereon.
 (Code 1961, § 16-75)
-#####   
+##### Sec. 35-94. - Interest on unpaid taxes.  
 
 When any taxpayer fails to pay any tax, or any portion thereof, due under the provisions of this article on or
 before the day when it shall be required by law to be paid, there shall be added to the amount of tax due, interest
@@ -829,7 +829,7 @@ charged exceeds four (4) years, the rate of interest for the period beyond four 
 as if it were part of the tax.. due and can be enforced in a separate action or in the same action for collection of
 the tax, and shall not be waived or remitted.
 (Code 1961, § 16-76)
-#####   
+##### Sec. 35-95. - Penalty for failure to make timely return.  
 
 When any taxpayer fails to make any return required to be made under the provisions of this article at the time
 such return becomes due, there shall be imposed, in addition to any other penalties provided, a specific penalty
@@ -839,7 +839,7 @@ continues, not to exceed twenty-five (25) percent of the tax in the aggregate. T
 obligation to be collected and accounted for in the same manner as if it were part of the tax due, and can be
 enforced either in a separate action or in the same action for the collection of the tax.
 (Code 1961, § 16-77)
-#####   
+##### Sec. 35-96. - Tax obligation to constitute a lien, privilege and mortgage.  
 
 Except as is specifically provided in the laws regulating building and loan associations, any tax, penalty, interest
 or attorney fee due under the provisions of this article, shall operate as a lien, privilege and mortgage on all of
@@ -855,7 +855,7 @@ Secs. 35-97—35-112. - Reserved.
 ### ARTICLE IV. - ALCOHOLIC BEVERAGE GALLONAGE TAX
 Footnotes:
 --- (5) --State Law reference— Authority to levy gallonage tax on beverages of low alcoholic content, R.S. 26:493.
-#####   
+##### Sec. 35-113. - Levy.  
 
 By virtue of authority granted by Act 190 of the Louisiana Legislature of 1946 (R.S. 26:493), there is hereby
 levied, in addition to all other excises, licenses or privilege taxes presently imposed, a tax on all beer, porter, ale,
@@ -864,14 +864,14 @@ six (6) percent, by volume, of one dollar and fifty cents ($1.50) per standard b
 any like rate of any other quantity, or for the fractional parts of such barrel sold for consumption in the parish,
 within the meaning and intent of such act.
 (Code 1961, § 3-26)
-#####   
+##### Sec. 35-114. - Collection.  
 
 The tax levied by section 35-113 shall be collected by any and all wholesale dealers from their vendees
 purchasing for consumption in the parish on each sale and shall be remitted by the wholesale dealers to the state
 collector of revenue for each month, on or before the twentieth day of each succeeding month, respectively, all
 in accordance with rules and regulations promulgated by the collector of revenue and as provided by state law.
 (Code 1961, § 3-26)
-#####   
+##### Sec. 35-115. - Failure to collect or pay tax.  
 
 If a dealer in beverages of low alcoholic content fails to file a return and pay the tax due on the beverages within
 the time provided in Louisiana Revised Statute 26:345, he shall be subject to a penalty of five (5) percent on the
@@ -883,7 +883,7 @@ Secs. 35-116—35-131. - Reserved.
 ### ARTICLE V. - LICENSE TAX ON INSURERS
 Footnotes:
 --- (6) --State Law reference— Authority for this article, R.S. 22:1076.
-#####   
+##### Sec. 35-132. - Levy.  
 
 (a)
 There is hereby levied an annual license tax for the year 1965 and for each subsequent year on each company,
@@ -939,7 +939,7 @@ organized under the laws of this state, and domiciled in this state, or in stock
 associations organized and operating under the laws of this state, to the extent such stock is guaranteed or
 insured by the Federal Deposit Insurance Corporation or other federal or state agency.
 (Code 1961, § 10-75)
-#####   
+##### Sec. 35-133. - Basis for tax.  
 
 (a)
 The annual premiums referred to in section 35-132 shall be the gross amount of premiums on risks located in the
@@ -961,14 +961,14 @@ for the preceding year. No credit shall be taken for reinsurance unless in other
 parish and paying the license due under this chapter on such business. The blanks for making such report shall
 be furnished by the sheriff and ex officio tax collector.
 (Code 1961, § 10-75)
-#####   
+##### Sec. 35-135. - Payment; certificate.  
 
 The full amount of license taxes levied under this article shall be paid to the sheriff on or before the first of
 March of each year, and he shall issue to the company, society, association, corporation, firm or individual
 making the payment a license certificate on a printed or lithographed form, showing the amount of such
 payment, and the license class under which the license is paid.
 (Code 1961, § 10-75)
-#####   
+##### Sec. 35-136. - Delinquency.  
 
 In case of any failure to make a report or to make payment of license tax, as required by this article, ten (10)
 percent shall be added to the amount of tax due, and paid to the sheriff, along with the tax due, unless evidence
@@ -997,7 +997,7 @@ seasonal and which began operations in October during its peak period. Parish of
 Corporation, 283 So. 2d 246 (La. 1973).
 State Law reference— State occupational license tax, R.S. 47:341 et seq.; local occupational license tax, Const.
 1974, Art. 6, § 28.
-#####   
+##### Sec. 35-153. - Imposition of tax.  
 
 (a)
 In addition to all other license and excise taxes imposed by other laws, there is hereby levied an annual
@@ -1013,7 +1013,7 @@ Editor's note— Ord. No. 17514, adopted May 25, 1988, amended art. VI "to provi
 of said tax, to allow additional time for the Jefferson Parish Occupational License Tax Advisory Committee to
 report its findings."
 State Law reference— Imposition of state tax, R.S. 47:341.
-#####   
+##### Sec. 35-154. - General definitions.  
 
 For the purposes of this article, unless the context clearly otherwise requires or unless otherwise defined in
 specific portions of the article, the following words shall have the respective meanings ascribed to each in this
@@ -1094,7 +1094,7 @@ Person. "Person" includes an individual, firm, corporation, partnership, associa
 (Ord. No. 17268, § 1, 6-10-87; Ord. No. 24665, § 1, 1-15-14)
 Cross reference— Definitions and rules of construction, § 1-2.
 State Law reference— Similar provisions, R.S. § 47:342.
-#####   
+##### Sec. 35-155. - Payment of tax.  
 
 (a)
 Except as otherwise expressly provided, the first license tax herein authorized to be levied shall be due and
@@ -1120,7 +1120,7 @@ license year, the license for the year shall be based on their gross receipts fo
 hundred sixty-five (365) and multiplied by the number of days in which they are in operation.
 (Ord. No. 17268, § 1, 6-10-87; Ord. No. 24739, § 1, 4-30-14)
 State Law reference— Similar provisions, R.S. § 47:343.
-#####   
+##### Sec. 35-156. - New business; license required before commencing.  
 
 
 No person shall commence any business within the parish without first paying a tentative license tax. Within
@@ -1132,7 +1132,7 @@ business is begun on or after July first of any year, the tentative tax shall be
 rate or the specific amount per unit, as the case may be.
 (Ord. No. 17268, § 1, 6-10-87)
 State Law reference— Similar provisions, R.S. § 47:344.
-#####   
+##### Sec. 35-157. - Change of ownership or lessee.  
 
 (a)
 The license is issued in the name of the person making application and paying the initial fee and is not
@@ -1146,7 +1146,7 @@ or ownership or lease to December thirty-first of the license year. The collecto
 days when a change is effected.
 (Ord. No. 17268, § 1, 6-10-87)
 State Law reference— Similar provisions, R.S. § 47:345.
-#####   
+##### Sec. 35-158. - Separate license required for each location, based on primary class of business.  
 
 Only one (1) license shall be required for each place of business, and the license shall be based upon the
 classification of business which constitutes the major portion of the taxable annual gross sales and receipts.
@@ -1157,7 +1157,7 @@ required if other classes of business are operated in conjunction with the hotel
 boardinghouse.
 (Ord. No. 17268, § 1, 6-10-87; Ord. No. 25513 , § 8, 2-21-18)
 State Law reference— Similar provisions, R.S. § 47:346.
-#####   
+##### Sec. 35-159. - Class of business.  
 
 In order to calculate the license fee for a business location at which business activities are carried on that fall
 under more than one (1) tax basis schedule, gross receipts, fees, or commissions for each group of activities
@@ -1167,7 +1167,7 @@ business activities carried on at the business location, minus any applicable de
 schedule to compute the fee.
 (Ord. No. 17268, § 1, 6-10-87)
 State Law reference— Similar provisions, R.S. § 47:347.
-#####   
+##### Sec. 35-160. - Period used where gross receipts are the measure of the license.  
 
 (a)
 The basis for determining the amount of the annual licenses provided by this article, where the license is
@@ -1201,7 +1201,7 @@ The date of beginning business for the purposes of this article shall depend upo
 and shall be governed by regulations promulgated by the collector of revenue according to law.
 (Ord. No. 17268, § 1, 6-10-87)
 State Law reference— Similar provisions, R.S. § 47:348.
-#####   
+##### Sec. 35-161. - Taxpayers required to keep records; confidentiality.  
 
 (a)
 Records required. In general each person shall keep a reasonable record of his gross receipts, gross fees or
@@ -1258,7 +1258,7 @@ c.
 The name and address of the particular person to whom the occupational license is issued.
 (Ord. No. 17268, § 1, 6-10-87; Ord. No. 18262, § 1, 4-24-91)
 State Law reference— Similar provisions, R.S. § 47:349.
-#####   
+##### Sec. 35-162. - Application of licenses.  
 
 (a)
 Every person subject to a license tax levied by this article shall apply to the collector for a license before the
@@ -1278,7 +1278,7 @@ constitute a misdemeanor, and any person convicted thereof shall be fined not mo
 ($200.00) or imprisoned for not more than six (6) months, or both.
 (Ord. No. 17268, § 1, 6-10-87)
 State Law reference— Similar provisions, R.S. § 47:350.
-#####   
+##### Sec. 35-163. - Failure to pay tax; judgment prohibiting further pursuit of business.  
 
 Failure to pay the tax levied by this article shall, ipso facto, without demand or putting in default, cause the tax,
 interest, penalties and costs to become immediately delinquent; and the collector is hereby vested with authority,
@@ -1289,7 +1289,7 @@ chambers and shall always be tried by preference. If the rule is made absolute, 
 considered a judgment in favor of the parish.
 (Ord. No. 17268, § 1, 6-10-87)
 State Law reference— Similar provisions, R.S. § 47:351.
-#####   
+##### Sec. 35-164. - Collector authorized to make rules and regulations.  
 
 (a)
 The collector shall make and enforce all rules and regulations necessary for the proper, complete and equitable
@@ -1301,19 +1301,19 @@ The collector may make and publish reasonable rules and regulations, not inconsi
 enforcement of the provisions of this article and collection of the revenue hereunder.
 (Ord. No. 17268, § 1, 6-10-87)
 State Law reference— Similar provisions, R.S. § 47:352.
-#####   
+##### Sec. 35-165. - Records to be kept by collector.  
 
 The collector shall keep an accurate record showing the names of every person paying taxes under this article,
 together with the business pursued, the amount of the license, the date of the collection, and the payment thereof.
 (Ord. No. 17268, § 1, 6-10-87)
 State Law reference— Similar provisions, R.S. § 47:353.
-#####   
+##### Sec. 35-166. - Cost of collection.  
 
 The sheriff is authorized to withhold from the collections under this article not more than seven (7) percent of
 the gross amount of annual license tax and to expend the same or as much thereof as may be required for the
 necessary employees and other expenses in the collection of the taxes levied under this article.
 (Ord. No. 17268, § 1, 6-10-87)
-#####   
+##### Sec. 35-167. - Disposition of collections.  
 
 
 All taxes collected under the provisions of this article and all penalties, interest and costs pertaining thereto shall
@@ -1342,7 +1342,7 @@ knowledge and belief, all of the facts shall be accepted as prima facie true and
 and the burden of proof to establish anything to the contrary shall rest wholly on the defendant or opposing
 party.
 (Ord. No. 17268, § 1, 6-10-87)
-#####   
+##### Sec. 35-169. - Objection to tax; payment; refunds; legal actions; construction.  
 
 (a)
 Objection to tax. A right of action is hereby created to afford a remedy at law for any person aggrieved by the
@@ -1373,14 +1373,14 @@ file an additional suit. In such cases the tax so paid under protest shall be se
 ex officio tax collector until the question of law involved has been determined by the courts and shall then be
 disposed of as therein provided.
 (Ord. No. 17268, § 1, 6-10-87)
-#####   
+##### Sec. 35-170. - Attorneys to aid collector; commission; duties and procedure.  
 
 The collector of the parish is authorized to employ attorneys-at-law to assist in the collection of any delinquent
 licenses due under the provisions of this article, provided that if any delinquent license is referred to an attorneyat-law for collection, the delinquent tax payer owing the license shall pay a commission to the attorney of ten
 (10) percent calculated upon the aggregate amount of the license plus any interest and other penalties that might
 be due thereon.
 (Ord. No. 17268, § 1, 6-10-87)
-#####   
+##### Sec. 35-171. - Interest on unpaid taxes.  
 
 When any taxpayer fails to pay any tax, or any portion thereof, due under the provisions of this article on or
 before the day when it shall be required by law to be paid, there shall be added to the amount of tax due, interest
@@ -1390,7 +1390,7 @@ percent per annum. Such interest shall be an obligation to be collected and acco
 if it were part of the tax due and can be enforced in a separate action or in the same action for collection of the
 tax, and shall not be waived or remitted.
 (Ord. No. 17268, § 1, 6-10-87)
-#####   
+##### Sec. 35-172. - Penalty for failure to make timely return.  
 
 When any taxpayer fails to make any return required to be made under the provisions of this article at the time
 such return becomes due, there shall be imposed, in addition to any other penalties provided, a specific penalty
@@ -1400,7 +1400,7 @@ continues, not to exceed twenty-five (25) percent of the tax in the aggregate. T
 obligation to be collected and accounted for in the same manner as if it were part of the tax due, and can be
 enforced either in a separate action or in the same action for the collection of the tax.
 (Ord. No. 17268, § 1, 6-10-87)
-#####   
+##### Sec. 35-173. - Tax obligation to constitute a lien, privilege and mortgage.  
 
 Except as is specifically provided in the laws regulating building and loan associations, any tax, penalty, interest
 or attorney fee due under the provisions of this article shall operate as a lien, privilege and mortgage on all of the
@@ -1412,7 +1412,7 @@ mortgage records of any parish wherein the collector has reason to believe the t
 lien, privilege and mortgage created by this section shall affect third parties only from the date of recordation
 and shall take their respective ranks by virtue of recordation.
 (Ord. No. 17268, § 1, 6-10-87)
-#####   
+##### Sec. 35-174. - Retail dealers in merchandise, services and rentals.  
 
 (a)
 For every fixed location retail dealer in merchandise, services and rentals, including but not limited to all
@@ -1846,7 +1846,7 @@ dealers to farmers or institutions: shipbuilders; contractors, both lump sum and
 tax paid by a retail dealer of building materials shall not exceed sixty-two hundred dollars ($6,200.00).
 (Ord. No. 17268, § 1, 6-10-87)
 State Law reference— State license, R.S. 47:355.
-#####   
+##### Sec. 35-176. - Business of lending or of dealing of notes secured by chattel mortgages or other liens.  
 
 (a)
 For every person, firm, corporation, or association or persons engaged in the business of purchasing, selling,
@@ -2104,7 +2104,7 @@ section 35-160 of this article, except that the "amount of the loans made" shall
 revenue."
 (Ord. No. 17268, § 1, 6-10-87)
 State Law reference— State license, R.S. § 47:356.
-#####   
+##### Sec. 35-177. - Brokerage and commission agents.  
 
 (a)
 For every factorage, commission or brokerage business; dealers in stocks or bonds as principal; stocks, bonds or
@@ -2306,7 +2306,7 @@ be based on gross annual profits; however, where no gross annual profit is reali
 above schedule shall be paid.
 (Ord. No. 17268, § 1, 6-10-87)
 State Law reference— State license, R.S. § 47:357.
-#####   
+##### Sec. 35-178. - Public utilities.  
 
 For carrying on each business of gas light, heat or power; electric light, heat or power; waterworks; and for each
 telephone, telegraph or express business, the license shall be based on gross annual revenue from all business
@@ -2437,7 +2437,7 @@ of business shall be the place where the general office of such person is locate
 (Ord. No. 17268, § 1, 6-10-87)
 Cross reference— Water, sewerage and drainage, Ch. 27;
 State Law reference— State license, R.S. § 47:358.
-#####   
+##### Sec. 35-179. - Businesses where licenses are based on flat fees.  
 
 The following types of businesses shall obtain an annual license based on the flat fee designated hereafter. For
 purposes of this section, the minimum tax noted in for most new businesses for the first year of commencement
@@ -2564,7 +2564,7 @@ as a firm, partnership, or corporation.
 (Ord. No. 17268, § 1, 6-10-87; Ord. No. 17379, § 1, 11-4-87; Ord. No. 17449, §§ 1, 2, 2-10-88; Ord. No. 18652,
 § 1, 12-16-92; Ord. No. 21442, § 1, 11-14-01; Ord. No. 25513 , § 9, 2-21-18)
 State Law reference— State license, R.S. § 47:359
-#####   
+##### Sec. 35-180. - Exemptions.  
 
 (a)
 Blind persons and their widows or orphans. License taxes levied by this article shall not apply to blind persons,
@@ -2607,7 +2607,7 @@ Owner of immovable property. An owner of immovable property shall be exempt from
 taxes on renting, leasing, or licensing that immovable property.
 (Ord. No. 17268, 1, 6-10-87; Ord. No. 24665, § 2, 1-15-14)
 State Law reference— State license, R.S. § 47:360.
-#####   
+##### Sec. 35-181. - Deductions.  
 
 (a)
 Petroleum taxes. In calculating the gross sales at retail gasoline filling and service stations or at bulk or
@@ -2637,7 +2637,7 @@ repair shops, and sales of motor vehicles; however, the gross sales and receipts
 motor vehicles and boats shall not exceed seven hundred thousand dollars ($700,000.00).
 (Ord. No. 17268 § 1, 6-10-87)
 State Law reference— State license, R.S. § 47:361.
-#####   
+##### Sec. 35-182. - Special provisions.  
 
 (a)
 The tax levied on any person engaged in the business of contractor who holds a license issued by the state
@@ -2671,7 +2671,7 @@ who pay the tax shall be charged the lowest fee in their respective categories, 
 business to be chosen from either the new schedule or the old schedule, whichever is lower.
 (Ord. No. 17268, § 1, 6-10-87; Ord. No. 17379, § 2, 11-4-87)
 State Law reference— Similar provisions, R.S. § 47:362.
-#####   
+##### Sec. 35-183. - Use of revenues.  
 
 The net parish collections of annual occupational license taxes are to be allocated as follows:
 (1)
@@ -2705,11 +2705,11 @@ collections of two million dollars ($2,000,000.00) to JEDCO is to be adjusted an
 Federal Consumer Price Index ("CPI") occurring in the preceding year; provided that the "CPI" annually
 adjusted total amount does not exceed the net parish collections.
 (Ord. No. 17268, § 1, 6-10-87; Ord. No. 18287, 5-22-91; Ord. No. 24966 , 6-10-15)
-#####   
+##### Sec. 35-184. - Effective date.  
 
 The provisions of this article shall become effective and apply to taxable years beginning January 1, 1988.
 (Ord. No. 17268, § 1, 6-10-87)
-#####   
+##### Sec. 35-185. - Severability.  
 
 If any section, subsection, sentence, clause and phrase of this article or the application thereof should be held
 invalid for any reason, the remaining sections, subsections, sentences, clauses or phrases of this article shall
@@ -2725,13 +2725,13 @@ provisions already included in Art. VII, the editor has designated §§ 35-200�
 by Act No. 265, and §§ 35-205-35-207 as Div. 2.
 State Law reference— Hotel occupancy tax in Jefferson Parish, R.S. 33:2740.18.2.
 #### DIVISION 1. - TAX AUTHORIZED BY ACT NO. 265
-#####   
+##### Sec. 35-200. - Imposed.  
 
 The one (1) percent occupancy tax as authorized by Act No. 265 of the 1989 regular session of the state
 legislature is hereby imposed on the paid occupancy of the hotel rooms located in hotels containing ten (10) or
 more guest rooms in the parish, beginning on September 1, 1989.
 (Ord. No. 17794, § 1, 8-9-89)
-#####   
+##### Sec. 35-201. - Collection.  
 
 The sheriff of the parish is hereby authorized to collect the hotel occupancy tax imposed by section 35-210 [35200] and, after deducting a collection fee of not more than eleven (11) percent of such proceeds, he shall remit
 the proceeds thereof as follows:
@@ -2746,7 +2746,7 @@ programs that enhance visitation and tourism in Jefferson Parish;
 To the director of the department of finance, the net proceeds of such tax collected in Jefferson Parish, less and
 except the amounts distributed to the qualified municipalities in accordance with paragraph (1).
 (Ord. No. 17794, § 1, 8-9-89; Ord. No. 22310, § 1, 8-25-04)
-#####   
+##### Sec. 35-202. - Distribution of proceeds—Portion distributed to municipalities.  
 
 The finance director shall distributed to the governing authorities of each municipality located within the parish
 thirty (30) percent collected from hotels located in each such municipality, except that, because of the distance of
@@ -2754,7 +2754,7 @@ the Town of Grand Isle from the site of any convention/multipurpose center which
 Jefferson, the finance director shall distribute to the governing authority of the Town of Grand Isle all of the net
 proceeds of the tax collected from hotels located in the Town of Grand Isle.
 (Ord. No. 17794, § 1, 8-9-89; Ord. No. 19110, § 1, 6-8-94)
-#####   
+##### Sec. 35-203. - Same—Escrow accounts.  
 
 
 The finance director shall place the net proceeds of the tax, after distributing a portion of the proceeds to the
@@ -2772,7 +2772,7 @@ River shall be separately escrowed for the expressed purpose of constructing and
 convention/multipurpose center in West Jefferson, and for funding other programs and projects concerning
 tourism-related activities.
 (Ord. No. 17794, § 1, 8-9-89)
-#####   
+##### Sec. 35-204. - Capital projects funds.  
 
 Separate capital project funds shall be established to account for the funds escrowed in accordance with section
 35-203 above.
@@ -2782,7 +2782,7 @@ Separate capital project funds shall be established to account for the funds esc
 Editor's note— Ord. No. 22443, § 2, adopted March 2, 2005, repealed § 35-204.1, which pertained to allocation
 of West Bank Convention Center and Tourism Fund. See also the Code Comparative Table.
 #### DIVISION 2. - TAX AUTHORIZED BY ACT NO. 751 AND ACT NO. 10
-#####   
+##### Sec. 35-205. - Imposed.  
 
 The one (1) percent hotel occupancy tax as authorized by Act. No. 751 of the Regular Session of the 1991
 Louisiana Legislature and by Act. No. 10 of the Third Extraordinary Session of the 1991 Louisiana Legislature
@@ -2790,13 +2790,13 @@ is hereby imposed on the paid occupancy of the hotel rooms located in hotels con
 rooms located on the East Bank of the Mississippi River within Jefferson Parish in addition to all other taxes
 being levied upon the occupancy of hotel rooms in the parish.
 (Ord. No. 18352, § 1, 9-4-91)
-#####   
+##### Sec. 35-206. - Collection.  
 
 The sheriff of the parish is hereby authorized to collect the hotel occupancy tax imposed by section 35-205 and
 he shall remit the proceeds thereof to the director of the department of finance after deducting a collection fee of
 not more than eleven (11) percent of such proceeds.
 (Ord. No. 18362, § 1, 9-4-91)
-#####   
+##### Sec. 35-207. - Use of net proceeds of tax.  
 
 The net proceeds of the tax after deduction of collection expenses shall be used for the following purposes:
 (1)
@@ -2815,13 +2815,13 @@ on any contiguous tract or tracts subsequently acquired by or on behalf of the p
 (Ord. No. 18362, § 1, 9-4-91)
 Secs. 35-208, 35-209. - Reserved.
 #### DIVISION 3. - TAX AUTHORIZED BY R.S. 33:2740.18.2
-#####   
+##### Sec. 35-210. - Imposed.  
 
 The one (1) percent hotel occupancy tax as authorized by R.S. 33:2740.18.2 is hereby imposed on the paid
 occupancy of the hotel rooms located within Jefferson Parish in addition to all other taxes being levied upon the
 occupancy of hotel rooms in the parish.
 (Ord. No. 22273, § 1, 7-14-04)
-#####   
+##### Sec. 35-211. - Use of net proceeds of tax.  
 
 (a)
 The net proceeds of the tax after deduction of collection expenses shall be used to fund programs and special
@@ -2832,7 +2832,7 @@ endeavor agreement with the Jefferson Convention and Visitors Bureau relative to
 proceeds of the tax on programs and special events that relate to tourism or in anywise enhance visitation and
 tourism in Jefferson Parish.
 (Ord. No. 22273, § 1, 7-14-04)
-#####   
+##### Sec. 35-212. - Collection.  
 
 (a)
 The sheriff of the parish is hereby authorized to collect the hotel occupancy tax imposed by section 35-210 and
@@ -2846,7 +2846,7 @@ programs that enhance visitation and tourism in Jefferson Parish.
 (Ord. No. 22273, § 1, 7-14-04)
 Secs. 35-213—35-299. - Reserved.
 ### ARTICLE VIII. - RIVERBOAT ADMISSION FEE
-#####   
+##### Sec. 35-300. - Riverboat admission fee.  
 
 (a)
 There is hereby levied a fee of six (6) percent of the weekly net gaming proceeds of any riverboat licensed to
@@ -2911,7 +2911,7 @@ during which the riverboat is in operation. Every operator shall maintain at lea
 near the riverboat for division employees.
 (Ord. No. 19063, § 1, 5-4-93; Ord. No. 19209, § 1, 10-5-94; Ord. No. 19340, § 1, 3-8-95; Ord. No. 19426, § 1,
 7-12-95; Ord. No. 19457, §§ 1, 3, 8-16-95; Ord. No. 22478, § 5, 4-13-05)
-#####   
+##### Sec. 35-301. - Enforcement by department of internal audit.  
 
 (a)
 

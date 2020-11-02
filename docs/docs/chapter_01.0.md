@@ -1,12 +1,12 @@
 ## Chapter 1 - GENERAL PROVISIONS
-#####   
+##### Sec. 1-1. - How Code designated and cited.  
 
 The ordinances embraced in the following chapters and sections shall constitute and be designated and cited as
 the "Code of Ordinances, Jefferson Parish, Louisiana."
 (Code 1961, § 1-1)
 Charter reference— Mandate for codification, § 2.07(H).
 State Law reference— Authority for codification, R.S. 33:1361 et seq.
-#####   
+##### Sec. 1-2. - Definitions and rules of construction generally.  
 
 In the construction of this Code, and of all ordinances, the following rules shall be observed, unless such
 construction would be inconsistent with the manifest intent of the parish council:
@@ -82,14 +82,14 @@ printing or otherwise.
 Year. The word "year" shall mean a calendar year.
 (Code 1961, § 1-2; Ord. No. 15702, § 1, 8-24-83; Ord. No. 16613, § I, 9-25-85; Ord. No. 23233, § 1, 1-23-08;
 Ord. No. 23292, § 45, 5-7-08)
-#####   
+##### Sec. 1-3. - Catchlines of sections.  
 
 The catchlines of the several sections of this Code, printed in boldface type, are intended as mere catchwords to
 indicate the contents of the section and shall not be deemed nor taken to be titles of such sections, or as any part
 of the section, nor, unless expressly so provided, shall they be so deemed when any of such sections, including
 the catchlines are amended or reenacted.
 (Code 1961, § 1-3)
-#####   
+##### Sec. 1-4. - Certain ordinances saved from repeal.  
 
 Nothing in this Code or the ordinance adopting this Code shall repeal or affect, when not inconsistent with this
 Code, any ordinance:
@@ -122,7 +122,7 @@ Pertaining to zoning; except as otherwise provided in Chapter 40.
 Regulating traffic or parking on specific streets; and all such ordinances shall continue in full force and effect as
 if set out in full herein.
 (Ord. No. 5165, § 4, 8-10-61; Ord. No. 20783, § 1, 9-22-99)
-#####   
+##### Sec. 1-5. - Effect of repeal of ordinances.  
 
 (a)
 The repeal of an ordinance shall not revive any ordinances in force before or at the time the ordinance repealed
@@ -132,7 +132,7 @@ The repeal of an ordinance shall not affect any punishment or penalty incurred b
 any suit, prosecution or proceeding pending at the time of the repeal, for an offense committed under the
 ordinance repealed.
 (Code 1961, § 1-4)
-#####   
+##### Sec. 1-6. - Amendments to Code; effect of new ordinances; amendatory language.  
 
 (a)
 All ordinances passed subsequent to this Code of Ordinances which amend, repeal or in any way affect this
@@ -174,7 +174,7 @@ of the ordinance receives a favorable vote of at least two-thirds ( 2/3 ) of the
 said ordinance shall be considered finally enacted and become law irrespective of the veto by the president. No
 public hearing is required on the council's veto override action.
 (Ord. No. 21325, § 1, 7-18-01)
-#####   
+##### Sec. 1-7. - Supplementation of Code.  
 
 (a)
 By contract or by parish personnel, supplements to this Code shall be prepared and printed whenever authorized
@@ -208,13 +208,13 @@ the Code which embody the substantive sections of the ordinance incorporated int
 Make other nonsubstantive changes necessary to preserve the original meaning of ordinance sections inserted
 into the Code; but, in no case, shall the codifier make any change in the meaning or effect of ordinance material
 included in the supplement or already embodied in the Code.
-#####   
+##### Sec. 1-8. - Altering Code.  
 
 It shall be unlawful for any person to change or amend by additions or deletions, any part or portion of this
 Code, or to insert or delete pages or portions thereof, or to alter or tamper with such Code in any manner
 whatsoever which will cause the law of the Parish of Jefferson to be misrepresented thereby.
 (Code 1961, § 1-7)
-#####   
+##### Sec. 1-9. - Severability of parts of Code.  
 
 It is hereby declared to be the intention of the parish council that the sections, paragraphs, sentences, clauses and
 phrases of this Code are severable, and if any phrase, clause, sentence, paragraph or section of this Code shall be
@@ -223,7 +223,7 @@ shall not affect any remaining phrases, clauses, sentences, paragraphs and secti
 would have been enacted by the parish council without the incorporation in this Code of any such
 unconstitutional phrase, clause, sentence, paragraph or section.
 (Code 1961, § 1-5)
-#####   
+##### Sec. 1-10. - Penalty; maximum; continuing violations.  
 
 It shall be unlawful for any person or entity to violate or fail to comply with any provision of this Code and,
 where no specific penalty is provided therefore, the violation of any provision of the Code may be punished by a
@@ -232,7 +232,7 @@ months, or by both such fine and imprisonment, within the discretion of the trie
 of any provision of this Code continues shall constitute a separate offense.
 (Code 1961, § 1-8; Ord. No. 16605, § 1, 9-11-85; Ord. No. 24158, § 1, 11-9-11)
 State Law reference— Maximum penalties permitted, R.S. 33:1243.
-#####   
+##### Sec. 1-11. - Civil enforcement.  
 
 (a)
 In addition to, or as an alternative to, the penalties provided for in section 1-10, the provisions of this Code may

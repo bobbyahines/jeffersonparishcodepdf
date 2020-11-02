@@ -13,7 +13,7 @@ fire hoses, § 36-9; parking near fire hydrants, § 36-95.
 State Law reference— Parish authority to regulate fire safety requirements of buildings and structures, R.S.
 33:1236(36).
 ### ARTICLE I. - IN GENERAL
-#####   
+##### Sec. 13-1. - Bonfires, leaf and rubbish fires.  
 
 (a)
 Burn permit. No person shall kindle or maintain any bonfire, or authorize any such fire to be kindled or
@@ -68,7 +68,7 @@ privately owned, shall assume full liability therefore, and shall be subject to 
 (Burn permits shall not relinquish the requirement to comply with applicable regulations of the state governed
 by the Louisiana Revised Statutes).
 (Code 1961, § 7-14; Ord. No. 24567, § 1, 8-28-13)
-#####   
+##### Sec. 13-2. - Uncontrolled fire or smoke.  
 
 Any person, owner, proprietor, lessee, manager, agent, or employee knowing of or having knowledge of a fire or
 smoke condition of a character not permitted by law, or any unattended or uncontrolled fire in any building,
@@ -79,7 +79,7 @@ that such alarm has been transmitted. No person, owner, proprietor, lessee, mana
 make, issue, post or maintain any regulation or order, written, or verbal that would require any person to take
 any delaying action prior to reporting such conditions to the fire department.
 (Code 1961, § 7-15)
-#####   
+##### Sec. 13-3. - Smoking.  
 
 (a)
 No person shall smoke any pipe, cigar or cigarette, or tobacco ignited by fire, upon the wharves set apart for the
@@ -98,7 +98,7 @@ under penalty of the law." It shall be unlawful for any person to remove the sig
 (d)
 Smoking means smoking or to smoke as defined in section 20-121.
 (Code 1961, §§ 7-18—7-20; Ord. No. 25602 , § 2, 6-27-18)
-#####   
+##### Sec. 13-4. - Storage and disposal of hazardous materials.  
 
 It shall be unlawful for any person to store any hazardous materials, including but not limited to toxic,
 biological, chemical, explosive and pathogenic hospital wastes and empty pesticide containers within the parish
@@ -109,7 +109,7 @@ additionally notified the fire department seven (7) days in advance of any antic
 at the facility.
 (Code 1961, § 12-1)
 Note— See also art. VI of this chapter, § 13.74 et seq.
-#####   
+##### Sec. 13-5. - Radioactive materials; storage, use and disposition.  
 
 (a)
 Any person who shall possess or sell radioactive materials is directed to notify in writing by United States
@@ -124,7 +124,7 @@ emergency management, the sheriff's office and such other departments as may req
 safety of its employees.
 (Code 1961, § 12-27.2; Ord. No. 22803, § 2, 7-19-06)
 Note— See also art. VI of this chapter, § 13-74 et seq.
-#####   
+##### Sec. 13-6. - Reporting accidents involving hazardous materials.  
 
 (a)
 Required:
@@ -332,7 +332,7 @@ Editor's note— Ord. No. 16789, adopted Feb. 19, 1986, did not specifically ame
 of §§ 1—4 as § 13—6 was at the discretion of the editor. Section 1 of Ord. No. 16881, which was included as
 superseding Ord. No. 16789, adopted CFR 49, parts 100—177, revised as of Nov. 1, 1983, by reference as part
 of this section 13-6. See also art. VI of this chapter, § 13-74 et seq.
-#####   
+##### Sec. 13-7. - Cleanup of hazardous materials spills.  
 
 (a)
 Classes of hazardous substances: Hazardous substances will be defined for the purposes of this section as any
@@ -493,7 +493,7 @@ both. Each day on which the violation occurs shall be considered a separate offe
 Editor's note— Ord. No. 17052, adopted Oct. 8, 1986, did not specifically amend this Code; hence inclusion of
 §§ 2—6 as § 13-9 was at the discretion of the editor. Section l adopted CFR 49, parts 100—177, revised as of
 Nov. 1, 1983, by reference. See also art. VI of this chapter, § 13-74 et seq.
-#####   
+##### Sec. 13-8. - Report of presence of portable electrical equipment.  
 
 (a)
 Definition. For the purpose of this section, portable electrical equipment shall be defined as any portable or
@@ -514,7 +514,7 @@ both. Each day on which the violation occurs shall be considered a separate offe
 (Ord. No. 17075, §§ 1—4, 115-86)
 Editor's note— Ord. No. 17075, adopted Nov. 5, 1986, did not specifically amend this Code; hence inclusion as
 §§ 1—4 as § 13-8 was at the discretion of the editor.
-#####   
+##### Sec. 13-9. - Obstruction or defacement of fire hydrants.  
 
 (a)
 Terms defined. For purposes of this section:
@@ -603,7 +603,7 @@ displayed according to address guidelines of Jefferson Parish and the local fire
 Parish council may by resolution adopt and approve all rules, regulations and guidelines for the implementation
 of this ordinance.
 (Ord. No. 22674, § 1, 1-1-06; Ord. No. 22731, § 1, 4-5-06)
-#####   
+##### Sec. 13-11. - Commercial use of pyrotechnics and flame effects.  
 
 (a)
 All commercial use of pyrotechnics and/or flame effects must be permitted prior to use.
@@ -631,14 +631,14 @@ Secs. 13-12—13-20. - Reserved.
 ### ARTICLE II. - FIRE PREVENTION CODE
 Footnotes:
 --- (2) --State Law reference— State Uniform Fire Prevention Code, R.S. 40:1578.7.
-#####   
+##### Sec. 13-21. - Adoption of the State Uniform Fire Prevention Code.  
 
 The State Uniform Fire Prevention Code, known as NFPA1, as amended pursuant to La. Rev. Stat. 40:1578.7(E),
 is hereby adopted by reference as the Fire Prevention Code for the Parish of Jefferson.
 (Code 1961, § 7-24; Ord. No. 16504, § 1, 7-10-85; Ord. No. 17605, § 1, 10-12-88; Ord. No. 17688, § 1, 2-15-89;
 Ord. No. 18521, § 1, 5-20-92; Ord. No. 20940, § 1, 4-26-00; Ord. No. 23690, § 1, 11-4-09)
 State Law reference— Authority to adopt technical codes by reference, R.S. 33:1368.
-#####   
+##### Sec. 13-22. - Definitions.  
 
 (a)
 Wherever the word "municipality" is used in the fire prevention code, it shall mean the Parish of Jefferson.
@@ -647,7 +647,7 @@ Wherever the term "corporate counsel" is used in the fire prevention code, it sh
 Parish Attorney.
 (Code 1961, § 7-25)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-#####   
+##### Sec. 13-23. - Fire lanes for large commercial developments and multiple-family residential properties.  
 
 (a)
 Definitions.
@@ -723,7 +723,7 @@ Footnotes:
 Cross reference— Governing body of special districts, § 2-19; taxation, Ch. 35.
 State Law reference— Jefferson Parish authority to establish fire and other special districts, R.S. 33:1420.11;
 fire protection districts generally, R.S. 40:1491 et seq.
-#####   
+##### Sec. 13-36. - East Bank consolidated special service fire protection district.  
 
 (a)
 Creation. Having been requested to do so by resolutions of fire protection districts no. 1 and 2 of the parish dated
@@ -774,7 +774,7 @@ That the authority of the fire marshal to monitor the performance of the fire pr
 performance of those functions which would otherwise be performed by the fire marshal is recognized.
 (Code 1961, § 7-7.1; Ord. No. 25448 , §§ 1—7, 10-4-17)
 State Law reference— Authority to create consolidated special service districts, R.S. 33:7701 et seq.
-#####   
+##### Sec. 13-37. - Fire protection district no.  
  3.
 (a)
 
@@ -816,7 +816,7 @@ claim.
 Editor's note— Ordinance No. 17863, adopted Nov. 8, 1989, pertaining to the assessing and collecting a special
 service charge in the fire protection district no. 3 of the parish did not specifically amend the code. Inclusion of
 §§ 1—3 as § 1337(c)(1)—(3) was at the editor's discretion.
-#####   
+##### Sec. 13-38. - Fire protection district no.  
  4.
 (a)
 Creation. A fire protection district is hereby created within the parish comprising and embracing all of that
@@ -837,7 +837,7 @@ On the south by the line separating T 17 S. from Township 16 S., and lying betwe
 Official designation. The fire protection district created in subsection (a) shall be known and designated as "Fire
 Protection District No. 4 of the Parish of Jefferson, State of Louisiana."
 (Code 1961, §§ 7-10, 7-11)
-#####   
+##### Sec. 13-39. - Fire protection district no.  
  5.
 (a)
 Creation. There is hereby created a fire protection district within the parish which district shall comprise and
@@ -855,7 +855,7 @@ boundary of the City of Gretna), as projected, the point of beginning.
 Official designation. The first protection district created in subsection (a) shall be known and designated as "Fire
 Protection District No. 5 of the Parish of Jefferson, State of Louisiana."
 (Code 1961, §§ 7-12, 7-13)
-#####   
+##### Sec. 13-40. - Fire protection district no.  
  6.
 (a)
 Creation. A fire protection district is hereby created within the parish comprising and embracing all of that
@@ -877,7 +877,7 @@ projected, the point of beginning.
 Official designation. The fire protection district created in subsection (a) shall be known and designated as "Fire
 Protection District No. 6 of the Parish of Jefferson, State of Louisiana."
 (Code 1961, § 7-13.01)
-#####   
+##### Sec. 13-41. - Fire protection district no.  
  7.
 (a)
 Creation. A fire protection district is hereby created within the parish comprising and embracing all of that
@@ -919,7 +919,7 @@ claim.
 (Ord. No. 18152, §§ 1—3, 11-28-90; Ord. No. 21439, § 6, 11-14-01)
 Editor's note— Ord. No. 18152, §§ 1—3, adopted Nov. 28, 1990, did not specifically amend the Code; hence,
 inclusion herein as § 13-41.1 was at the discretion of the editor.
-#####   
+##### Sec. 13-42. - Fire protection district no.  
  8.
 (a)
 Creation. A fire protection district is hereby created within the parish comprising and embracing all of that
@@ -938,7 +938,7 @@ River. Thence, westerly along the centerline of the Mississippi River to the poi
 Official designation. The fire protection district in subsection (a) shall be known and designated as Fire
 Protection District No. 8 of the Parish of Jefferson, State of Louisiana.
 (Code 1961, § 7-13.2)
-#####   
+##### Sec. 13-43. - Fire protection district no.  
  9.
 A fire protection district is hereby created within the parish, to be known and designated as Fire Protection
 District No. 9 of the Parish of Jefferson, State of Louisiana, which shall comprise and embrace all of that
@@ -951,14 +951,14 @@ Editor's note— Ord. No. 16082, § 1, adopted June 20, 1984, not specifically a
 included herein as § 13-43 at the discretion of the editor.
 Secs. 13-44—13-55. - Reserved.
 ### ARTICLE IV. - GASOLINE FILLING STATIONS
-#####   
+##### Sec. 13-56. - Temporarily idle station's tanks to be flushed and filled with water.  
 
 Any operator of a gasoline filling station who ceases to operate the filling station for a temporary period of time
 shall empty the gasoline tanks, flush them with water and backfill the tanks to their full capacity with water and
 maintain the tanks filled with water until such time as they are to be placed back into operation to dispense
 gasoline.
 (Code 1961, § 11A-21)
-#####   
+##### Sec. 13-57. - Permanent closing of station; tanks to be removed.  
 
 Any owner of a gasoline filling station who has ceased to operate the gasoline filling station on a permanent
 basis shall remove the gasoline tanks and backfill the excavation with a sanitary fill or permanently fill the
@@ -974,7 +974,7 @@ herein was created by Act. 156 of the 1982 legislature. The act is not included 
 Cross reference— Office of telecommunications, § 2-214; 911 service providers board, § 2-875.1 et seq.;
 malicious damage to telephone emergency system, § 20-44.
 State Law reference— Emergency telephone service, R.S. 45-791.
-#####   
+##### Sec. 13-61. - Emergency telephone service charge.  
 
 (a)
 The parish council finds that 911 emergency telephone communication systems and other emergency 911
@@ -1045,7 +1045,7 @@ and can utilize the 911 emergency telephone system.
 21790, § 1, 2-26-03; Ord. No. 23438, § 3, 11-19-08; Ord. No. 25850 , § 1, 8-21-19)
 Cross reference— Service charge for cellular subscribers for 911 service, § 20-8; water, sewerage and drainage,
 Ch. 27.
-#####   
+##### Sec. 13-62. - Administration of district.  
 
 (a)
 Support services. The parish is hereby authorized to provide accounting, payroll, and all other necessary support
@@ -1065,7 +1065,7 @@ journal.
 (Ord. No. 15253, §§ 1—5, 8-11-82; Ord. No. 19885, § 2, 11-20-96; Ord. No. 24308, § 3, 8-8-12)
 Cross reference— Parish council to be governing body of certain special districts, courthouse to be domicile, §
 2-19.
-#####   
+##### Sec. 13-63. - Parish council to act as governing authority.  
 
 (a)
 The parish council acting as governing authority of the parish communication district, and the parish president
@@ -1080,7 +1080,7 @@ parish council.
 The parish council clerk is hereby directed to include the business of the parish communication district as an
 item on the council meeting agendas.
 (Ord. No. 15267, §§ 2—4, 8-25-82)
-#####   
+##### Sec. 13-64. - Reserved.  
 
 Editor's note— Ord. No. 19885, § 3, adopted Nov. 20, 1996, repealed § 13-64, which pertained to structure fire
 reports. See the Code Comparative Table.
@@ -1090,12 +1090,12 @@ Footnotes:
 --- (5) --Editor's note— Ord. No. 16971, adopted Aug. 6, 1986, effective Oct. 1, 1986, did not specifically amend this
 Code; hence inclusion of §§ 1—8 as ch. 13, art. VI, §§ 13-74—13-81, was at the discretion of the editor.
 Cross reference— Storage and disposal of hazardous materials, § 13-4.
-#####   
+##### Sec. 13-74. - Federal regulations adopted by reference.  
 
 The Code of Federal Regulations title 49, parts 100 to 177, revised as of November 1, 1983, is annexed hereto
 and incorporated herein by reference.
 (Ord. No. 16971, § 1, 8-6-86)
-#####   
+##### Sec. 13-75. - Definition of "aboveground storage tank.  
 "
 For the purposes of this article, "aboveground storage tank" is defined as any tank that is not buried in the
 ground and whose primary purpose is that of storage and meets at least one (1) of the following criteria:
@@ -1108,7 +1108,7 @@ temporarily attached to a transport vehicle or ship, and equipped with skids, mo
 handling of the tank by mechanical means. It does not include any cargo tank, tank car tank, tank of the DOT
 106A or 110A type, or trailers carrying 3AX, 3AAX, or 3T cylinders. (See CFR 49 section 171.8).
 (Ord. No. 16971, § 2, 8-6-86)
-#####   
+##### Sec. 13-76. - Types of liquid substances.  
 
 Liquid substances are defined and incorporated herein as any substance that at standard temperature and pressure
 (STP [1 atm. at 0°C(32°F)]) is a liquid and meets at least one (1) of the following criteria:
@@ -1251,7 +1251,7 @@ a.
 ORM: May pose an unreasonable risk to health and safety or property when transported in commerce. (See CFR
 49 section 173.500 for details.)
 (Ord. No. 16971, § 3, 8-6-86)
-#####   
+##### Sec. 13-77. - Certification required.  
 
 All owners or their duly authorized representatives of businesses in the parish which provide aboveground tank
 storage for any liquid substance defined herein shall annually certify to the department of emergency
@@ -1259,7 +1259,7 @@ management that the storage tanks are in good condition, are constructed of mate
 stored within and, where applicable, are constructed in conformity with National Fire Codes, 1985. This
 certification will include but not be limited to the tank height, diameter and type of product being stored.
 (Ord. No. 16971, § 4, 8-6-86)
-#####   
+##### Sec. 13-78. - Containment structures required; exceptions.  
 
 (a)
 The owners or their duly authorized representative of aboveground tank storage in which any liquid substance
@@ -1276,7 +1276,7 @@ Provisions of subsection (a) shall not apply to tanks in process areas, provided
 LWDPS treatment train to a permitted LWDPS outfall. However, the owners and operators shall supply a current
 copy of the LWDPS permit to the department of emergency management.
 (Ord. No. 16971, § 5, 8-6-86)
-#####   
+##### Sec. 13-79. - Rule-making authority.  
 
 (a)
 The director of the department of emergency management may adopt and promulgate any rules and regulations
@@ -1287,21 +1287,21 @@ resolution of the parish council prior to enforcement.
 Thirty (30) days prior to the submission of said rules and regulations to the parish council, the director shall mail
 a copy of all said rules and regulations to all parties who have made a written request therefor to the director.
 (Ord. No. 16971, § 6, 8-6-86)
-#####   
+##### Sec. 13-80. - Exemptions.  
 
 Any owner or operator of aboveground tank storage within the parish may request in writing to the department
 of emergency management that a temporary or permanent exemption from all or part of this article be granted
 them. Exemptions shall be granted only by the parish council with the advice and recommendation of the
 director of the department of emergency management.
 (Ord. No. 16971, § 7, 8-6-86)
-#####   
+##### Sec. 13-81. - Penalties; civil action.  
 
 The director of the department of emergency management and/or the parish attorney is authorized to commence
 a civil action for appropriate relief, including a permanent or temporary injunction, for any violation of this
 article.
 (Ord. No. 16971, § 8, 8-6-86)
 ### ARTICLE VII. - HAZARDOUS MATERIALS EMERGENCY PREPAREDNESS SERVICE CHARGE
-#####   
+##### Sec. 13-82. - Imposition of service charge.  
 
 Because of the potential danger posed to human life and personal property by the handling of hazardous
 materials and the need for industry, community and parish coordination, planning education, preparedness and
@@ -1309,7 +1309,7 @@ response, there is hereby imposed an annual service charge in the year 1998 for 
 year 1997, and for each subsequent year upon every person who uses, stores, manufactures, generates, disposes
 of, or sells hazardous materials within the Parish of Jefferson.
 (Ord. No. 20261, § 1, 1-28-98; Ord. No. 24351, § 1, 10-10-12)
-#####   
+##### Sec. 13-83. - Definitions.  
 
 For all purposes of this article and regulations applicable thereto, the terms defined in this section shall have the
 following meanings:
@@ -1323,14 +1323,14 @@ dispenses gasoline, diesel or other motor fuel.
 Small business means any single business establishment employing not more than nine (9) employees and
 showing a maximum of two million dollars ($2,000,000.00) in average annual gross receipts
 (Ord. No. 20261, § 1, 1-28-98; Ord. No. 22692, § 5, 2-8-07; Ord. No. 25286 , § 3, 1-11-17)
-#####   
+##### Sec. 13-84. - Establishment of service charge.  
 
 Every person which owns, operates, or acts as an agent for an establishment where one (1) or more hazardous
 materials are used, stored, manufactured, generated, disposed of, or sold shall pay an annual service charge.
 Where more than one (1) such establishment or facility is kept or conducted by the same person, a separate
 service charge shall be paid for each separate establishment.
 (Ord. No. 20261, § 1, 1-28-98)
-#####   
+##### Sec. 13-85. - Amount of service charge.  
 
 (a)
 The service charge shall be based upon the maximum quantity* of a hazardous material used, stored,
@@ -1371,14 +1371,14 @@ In no event shall the maximum fee exceed one thousand five hundred dollars ($1,5
 2013. Thereafter, the maximum fee shall equal the sum of one thousand five hundred dollars ($1,500.00) plus
 the CPI adjustment for each succeeding year.
 (Ord. No. 20261, § 1, 1-28-98; Ord. No. 24351, § 2, 10-10-12)
-#####   
+##### Sec. 13-86. - Pipelines; flat fee.  
 
 Persons owning pipelines which traverse the parish, including, but not limited to, any equipment, facility, meter
 and/or pump station, breakout tank or building associated with the transportation of hazardous materials by
 pipeline under U.S. DOT or State Pipeline Safety jurisdiction, shall pay a flat fee of one thousand five hundred
 dollars ($1,500.00) irrespective of the number or mileage of pipelines they own which traverse the parish.
 (Ord. No. 20261, § 1, 1-28-98; Ord. No. 24351, § 3, 10-10-12)
-#####   
+##### Sec. 13-87. - Service stations; flat fee.  
 
 Persons engaged in retail sales of gasoline, diesel or other motor fuel shall pay a flat fee of sixty dollars ($60.00)
 per retail motor fuel dispensing unit, not to exceed one thousand five hundred dollars ($1,500.00) per station.
@@ -1401,13 +1401,13 @@ drivetrain, only) shall pay a fee of sixty dollars ($60.00) per fuel dispensing 
 ($150.00).
 * Extremely hazardous substance is defined in 40 CFR 355, Appendix A.
 (Ord. No. 20261, § 1, 1-28-98; Ord. No. 20841, § 2, 12-1-99; Ord. No. 24351, § 5, 10-10-12)
-#####   
+##### Sec. 13-88. - Method of payment; when due.  
 
 All annual service charges shall be due on March 1 and shall become delinquent on May 1 of each year and shall
 be paid by check or postal money order to the Jefferson Parish Department of Fire, accompanied by such return
 or form(s) as the said director may require.
 (Ord. No. 20261, § 1, 1-28-98; Ord. No. 22692, § 6, 2-8-07)
-#####   
+##### Sec. 13-89. - Penalties and interest.  
 
 (a)
 If the service charge due by any person under this article is knowingly not paid on or before the date prescribed
@@ -1446,7 +1446,7 @@ Appeals from the decision of the director in regard to the penalties and interes
 to the hearing officer of the parish offices of administrative adjudication, whose decision shall be considered
 final and subject only to review by a court of competent jurisdiction.
 (Ord. No. 20261, § 1, 1-28-98; Ord. No. 22692, § 7, 2-8-07)
-#####   
+##### Sec. 13-90. - Violations.  
 
 It shall be unlawful and a misdemeanor to knowingly do anything prohibited or to fail to do anything required by
 this article. Any person, member of any firm, officer, manager or agent of any corporation, who knowingly
@@ -1454,7 +1454,7 @@ violates any provision of this article, shall be fined not more than five hundre
 one hundred dollars ($100.00), or shall be imprisoned for not more than five (5) months nor less than sixty (60)
 days, or both.
 (Ord. No. 20261, § 1, 1-28-98; Ord. No. 24351, § 6, 10-10-12)
-#####   
+##### Sec. 13-91. - Exemptions.  
 
 (a)
 This article shall not apply to:
@@ -1496,7 +1496,7 @@ the responsibility of each business to submit proof of small business status to 
 coordinator. In the absence of such proof said business will be required to pay fees based on the schedule in
 section 13-85 of this article.
 (Ord. No. 20261, § 1, 1-28-98; Ord. No. 24351, § 7, 10-10-12)
-#####   
+##### Sec. 13-92. - Annual audit.  
 
 The local emergency planning committee shall conduct an annual audit of the program and the funds generated
 by this section. Should the funds generated by this section be inadequate or excessive for the proper and
@@ -1508,7 +1508,7 @@ council approved budget, with a corresponding reduction in the fees levied on af
 (Ord. No. 20261, § 1, 1-28-98)
 Secs. 13-93—13-119. - Reserved.
 ### ARTICLE VIII. - PROCESSING OR STORAGE OF HAZARDOUS MATERIALS IN BULK
-#####   
+##### Sec. 13-120. - Requirements for processing or storage of hazardous materials in bulk.  
 
 In the interest of the public safety of the citizens of Jefferson Parish, the requirements in Chapter 13, Article
 VIII, shall apply to any terminal, plant, site, warehouse or yard used for the processing or storage of hazardous
@@ -1519,7 +1519,7 @@ responsible for the safety of its equipment and its operations. Designation as a
 processing or storage of hazardous materials in bulk shall be based on the plant's representations to the parish
 and shall not create for the parish any liability for damages or injury related to a plant so designated.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-121. - Definitions.  
 
 For the purposes of this article and the regulations applicable thereto, the following definitions shall apply:
 
@@ -1607,7 +1607,7 @@ containers, such as drums, tote tanks, boxes or other similar containers, not to
 (2,500) pounds or three hundred (300) gallons, for a specific customer that will not be stored in any bulk storage
 location for longer than thirty (30) calendar days.
 (Ord. No. 22937, § 2, 12-13-06; Ord. No. 24693, § 1, 3-19-14)
-#####   
+##### Sec. 13-122. - Special permitted use.  
 
 Approval of special permitted use shall be obtained from the parish council for all plants involving the
 processing or storage of hazardous materials in bulk as defined in this article. Any such plant that does not have
@@ -1615,7 +1615,7 @@ a currently valid special permitted use that covers all of the containers and eq
 file an application for approval of a special permitted use with the planning department within two (2) year after
 the approval of this ordinance by the Jefferson Parish Council.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-123. - List of materials for processing or storage of hazardous materials in bulk.  
 
 No hazardous material(s) shall be processed or stored in bulk without prior notice to the Jefferson Parish
 Hazardous Material Risk Coordinator and the Department of Environmental Affairs. These departments shall
@@ -1653,7 +1653,7 @@ allowed on that plant;
 (4)
 Additions or changes to any list of materials shall be submitted as required in the following section.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-124. - Changes to the list of materials.  
 
 A notice of a change to the list of materials for any particular container, including materials that previously have
 been stored in other parts of the plant, but are not listed for the container of proposed storage, shall be submitted
@@ -1685,7 +1685,7 @@ Environmental Protection Agency and permit application; and
 If applicable, a copy of the Louisiana Department of Environmental Quality permit and the United States
 Environmental Protection Agency, when issued.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-125. - Access.  
 
 Personnel of the Jefferson Parish Department of Environmental Affairs and Jefferson Parish Hazardous Material
 Risk Coordinator, upon presentation of identification, shall be granted access to a plant for any legitimate
@@ -1701,18 +1701,18 @@ items.
 A plant representative shall respond as soon as possible following notification from Jefferson Parish of an
 incident involving an unoccupied plant. Response time shall not exceed one (1) hour.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-126. - Vehicular access within the plant.  
 
 The street system that provides interior circulation and ingress and egress shall be sufficient to provide ready
 access for fire and emergency equipment in accordance with the Jefferson Parish Fire Code.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-127. - Emissions and odor control.  
 
 The plant operator shall be responsible for controlling emissions and nuisance odors from his facility.
 Safeguards shall be provided to limit obnoxious or offensive emissions of smoke, gas, dust and odors, other
 noxious or offensive fumes, or spilled liquids.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-128. - Failure to control emissions or odors.  
 
 If it is determined through the use of reliable detection equipment, methods or procedures, including but not
 limited to olfactometer, photo ionization detectors, flame ionization detectors, infared spectrometers,
@@ -1724,7 +1724,7 @@ development of onsite and offsite emergency response plans, establishing a plant
 team training, having emergency containment equipment and/or having other engineered mitigation control
 measures.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-129. - Community warning system plan.  
 
 The plant shall submit to the parish a community warning system plan that is in accordance with administrative
 guidelines developed by the Jefferson Parish's Hazardous Material Risk Coordinator, Department of
@@ -1757,14 +1757,14 @@ Method of cleanup and status of cleanup operations; and
 g.
 Potential harmful effects of event on humans and the environment.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-130. - Reporting of emissions, releases, leakages or spillages.  
 
 The plant shall report emissions, releases, leakages or spillages to the appropriate agency as required by parish,
 state or federal law. In addition, in the event of obnoxious or offensive emissions of smoke, gas, dust and odors,
 other noxious or offensive fumes, or spilled liquids the plant shall implement the written portions of the
 community warning system within ten (10) working days of the event.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-131. - Emergency plans.  
 
 Emergency plans shall be maintained by each plant. If there is more than one (1) operator on a site, separate
 integrated emergency plans shall be required for each operator on a site. All emergency plans shall be forwarded
@@ -1777,13 +1777,13 @@ At least every five (5) years; and
 (3)
 Whenever renewing the plant's special permitted use.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-132. - Plans and procedures.  
 
 All plans and procedures required in this article shall conform to and complement existing parish emergency
 plans. If the plant is subject to 40 CFR 68.95 Risk Management Planning, the plan shall conform to 40 CFR
 68.95 or its successor as well as to existing parish emergency plans.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-133. - Testing and inspection prior to first use of new tanks.  
 
 A plant shall have all equipment subject to this article, including but not limited to storage tanks or other storage
 containers, piping and appurtenances tested and inspected prior to first use by a qualified, third party inspector.
@@ -1806,7 +1806,7 @@ Summary of inspection and testing procedures; and
 (5)
 Other items related to the inspections and testing as requested by the parish representatives.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-134. - Testing and inspection of all containers.  
 
 (a)
 Different standards regarding the types and frequency of inspections based on the materials involved and the
@@ -1846,14 +1846,14 @@ regulations.
 The parish shall not be responsible for the inspection of the containers or any other items on any plant site or
 related to the operation of any plant.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-135. - State or federal action(s).  
 
 All plants shall furnish a copy of any notice of violation or potential violation of any state or federal
 environmental law or regulation as well as written notice of final resolution of the matter regarding its plant to
 the Jefferson Parish Hazardous Material Risk Coordinator and the Department of the Environmental Affairs
 within ten (10) days of receipt by the plant of any such notification.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-136. - Compliance with other standards.  
 
 In addition to the provisions in this article, any plant involved in the processing or storage of hazardous materials
 in bulk shall be in complete compliance with the operational features in standards of the 2000 National Fire
@@ -1862,7 +1862,7 @@ successor to that code or another code and any amendments to any such codes that
 Jefferson Parish Council as the Parish Fire Code as well as the International Building Code and any amendments
 thereto adopted by the Jefferson Parish Council.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-137. - Transition inspection schedule plan.  
 
 A plant that is unable to meet the applicable industry standards regarding internal and external testing and
 inspection frequency requirements of this article may conditionally comply with those requirements if the
@@ -1914,14 +1914,14 @@ any and all claims by any entity against the parish for damages related in any w
 indemnification shall be signed by an individual authorized to bind the company or companies operating on the
 site.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-138. - Authority to issue violation notices.  
 
 The Jefferson Parish's Hazardous Material Risk Coordinator, the Department of Environmental Affairs, or the
 appropriate fire department(s) shall have authority to issue a notice of violation to a plant for any violation of
 this article. The Jefferson Parish Sheriff's Office and the Louisiana State Police may also enforce violations of
 this article.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-139. - Fines and penalties.  
 
 (a)
 If it is determined that a plant has violated any provisions of this article the plant shall be subject to actions
@@ -1934,7 +1934,7 @@ Jefferson Parish Administrative Hearing Officer or in the appropriate Parish Cou
 Division of the Twenty-Fourth Judicial District Court for the Parish of Jefferson, State of Louisiana or in any
 other division of the Twenty-Fourth Judicial District Court for the Parish of Jefferson, State of Louisiana.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-140. - Limitation of liability.  
 
 No procedure or provision of this article or any action taken by the parish to enforce this article shall constitute,
 or be construed by any individual or enforcement agency, as a warranty or guarantee regarding the safety or
@@ -1944,12 +1944,12 @@ enforce this article shall constitute, or be construed by any individual or enfo
 liability of the parish. Each plant is responsible for the safety of the operation and the equipment related in any
 way to it.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-141. - Administrative authority.  
 
 Minor amendments to reporting and documentation requirements in this article shall become effective when
 approved by the Jefferson Parish Director of Fire and the Director of the Department of Environmental Affairs.
 (Ord. No. 22937, § 2, 12-13-06)
-#####   
+##### Sec. 13-142. - Conflict.  
 
 In the event that any of the regulations or provisions contained in this article conflict with one another or with
 other parish regulations, or with state or federal regulations, the more restrictive shall govern.

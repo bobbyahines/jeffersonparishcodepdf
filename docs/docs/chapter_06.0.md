@@ -11,7 +11,7 @@ Secs. 6-1—6-15. - Reserved.
 ### ARTICLE II. - AMUSEMENTS PLACES
 Footnotes:
 --- (2) --State Law reference— Occupational license tax on amusement devices, R.S. 47:359.D.
-#####   
+##### Sec. 6-16. - Defined.  
 
 Amusements places are defined, for the purposes of this article, as any business, place or establishment where
 three (3) or more coin-operated amusements games such as, but not limited to, flipper type machines, target
@@ -19,7 +19,7 @@ machines, foosball machines and the like are available for the use and enjoyment
 of which constitutes the primary or principal business of any such place, business or establishment.
 (Code 1961, § 12-11.1(a))
 Cross reference— Definitions and rules of construction generally, § 1-2.
-#####   
+##### Sec. 6-17. - Adult supervision required.  
 
 It shall be unlawful for any person whether as proprietor, agent, manager, employee, lessee or otherwise,
 conducting or carrying on any place, business or establishment of amusement places, for pay or otherwise, to
@@ -27,7 +27,7 @@ permit the establishment to be open without adult supervision present on the pre
 supervision is hereby defined as any person eighteen (18) years of age or older, whose name must be publicly
 displayed in the amusement place.
 (Code 1961, § 12-11.1(e))
-#####   
+##### Sec. 6-18. - Minors under twelve restricted during certain hours.  
 
 (a)
 It shall be unlawful for any person whether as proprietor, agent, manager, employee, lessee or otherwise,
@@ -42,14 +42,14 @@ twelve (12) years upon the premises of the amusement place of business between t
 7:00 a.m.
 (Code 1961, § 12-11.1(b), (c))
 Cross reference— Curfew for minors, § 20-167 et seq.
-#####   
+##### Sec. 6-19. - Alcoholic beverages prohibited.  
 
 It shall be unlawful for any person, whether as proprietor, agent, manager, employee, lessee, or otherwise,
 conducting or carrying on any place, business, or establishment of amusement places, for pay or otherwise, to
 permit or allow alcoholic beverages on the premises at any time.
 (Code 1961, § 12-11.1(f))
 Cross reference— Alcoholic beverages generally, Ch. 4.
-#####   
+##### Sec. 6-20. - Exemptions from article.  
 
 Any place of business where minors are prohibited by law from being on the premises; and schools, churches
 and fairs, charitable private clubs, or any other charitable organizations which may sponsor fairs or activities and
@@ -58,14 +58,14 @@ hereof.
 (Code 1961, § 12-11.1(d))
 Secs. 6-21—6-31. - Reserved.
 ### ARTICLE III. - DRIVE-IN THEATERS
-#####   
+##### Sec. 6-32. - Defined.  
 
 "Drive-in theater," for the purpose of this article, is any premises in which motion pictures are projected upon a
 screen or theatrical performances given for viewing by patrons seated in automobiles or other vehicles and for
 which an admission charge is made.
 (Code 1961, § 11A-12)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-#####   
+##### Sec. 6-33. - Conduct and operation; standards for maintenance of premises.  
 
 Drive-in theaters shall comply with the following requirements and standards of operation:
 (1)
@@ -82,13 +82,13 @@ c.
 No person shall place, throw or deposit any food, beverage, paper, bottle or other waste materials upon the
 premises of any drive-in theater, nor shall such conduct be permitted.
 (Code 1961, § 11A-13)
-#####   
+##### Sec. 6-34. - X-rated films prohibited under certain conditions.  
 
 It shall be unlawful for any X-rated motion picture that depicts lewd and sexual acts to be shown at any open
 drive-in theater when the screen of the theater is accessible to public view from any street or structure other than
 the interior area of the drive-in theater.
 (Code 1961, § 11A-16)
-#####   
+##### Sec. 6-35. - Authority to revoke licenses; grounds.  
 
 The parish council shall have the authority to revoke any license issued to persons and/or drive-in theaters, if:
 (1)
@@ -99,7 +99,7 @@ immoral activities on the premises.
 (Code 1961, § 11A-14)
 Secs. 6-36—6-50. - Reserved.
 ### ARTICLE IV. - PERFORMING ARTS CENTER
-#####   
+##### Sec. 6-51. - Facility fee.  
 
 (a)
 There shall be three dollars ($3.00) facility fee on tickets purchased at the Jefferson Parish Performing Arts
@@ -121,14 +121,14 @@ Footnotes:
 out. Prior to inclusion of said ordinance, Art. V pertained to similar subject matter. See also the Code
 Comparative Table.
 #### DIVISION 1. - IN GENERAL
-#####   
+##### Sec. 6-65. - Purpose.  
 
 The regulations contained in this division are ordained and required for the public health, safety, morals, good
 order, convenience and general welfare of the community. It is the intention of this article to establish reasonable
 limits to the demand for law enforcement, fire, sanitation, and other parish services and to maintain the great
 tradition of Carnival.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-66. - Standards, regulations, method of reporting.  
 
 (a)
 
@@ -138,7 +138,7 @@ deemed appropriate in promulgating the provisions of this article and the purpos
 The carnival and special events office shall develop a methodology of reporting which shall be applicable to all
 carnival parade organizations and participants.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-67. - Definitions.  
 
 For the purpose of this article, the following terms are defined as follows:
 Auxiliary vehicle is a motor vehicle that is properly registered and licensed for use on a public street and which
@@ -192,7 +192,7 @@ of staging a parade, which uses only trucks for its parade.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 23925, § 1, 12-8-10; Ord. No. 24368, § 1, 11-7-12; Ord. No. 24479, § 1,
 5-15-13; Ord. No. 22807, § 7, 7-19-06; Ord. No. 25602 , § 1, 6-27-18; Ord. No. 25688 , § 1, 10-24-18; Ord. No.
 25812 , § 1, 7-24-19)
-#####   
+##### Sec. 6-68. - Parade routes.  
 
 (a)
 East Bank routes.
@@ -245,13 +245,13 @@ to abridge or otherwise alter any parade route or to cancel or reschedule any pa
 or safety concerns due to prevailing conditions on the day that the parade is scheduled to roll.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 24322, § 1, 9-19-12; Ord. No. 25071 , § 1, 1-27-16; Ord. No. 25812 , §
 2, 7-24-19)
-#####   
+##### Sec. 6-69. - Reviewing stands.  
 
 Carnival parade reviewing stands shall be erected in the areas designated by resolution of the Jefferson Parish
 Council after receiving the recommendation of the director of citizens' affairs.
 (Ord. No. 23544, § 1, 5-6-09)
 #### DIVISION 2. - PARADE PARTICIPANTS
-#####   
+##### Sec. 6-70. - Attire and characterization.  
 
 (a)
 No participant of a Carnival/Mardi Gras float or truck-float parade shall ride in public view unless that person is
@@ -282,13 +282,13 @@ words that are deemed unacceptable by the Federal Communications Commission.
 Microphones, megaphones, and any other type of device used to project someone speaking to persons along the
 parade route are prohibited, except for use by performing bands and musicians.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 23925, § 2, 12-8-10; Ord. No. 24368, § 2, 11-7-12)
-#####   
+##### Sec. 6-71. - Minimum age.  
 
 
 The minimum age for carnival parade walking participants shall be set at age ten (10) including, but not limited
 to, krewe, band, dance groups, flag bearers or mascots.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-72. - Throws prohibited.  
 
 (a)
 No parade participant other than an actual riding member and special guest celebrities or other participants
@@ -350,7 +350,7 @@ surrender all throws for the duration of the parade.
 Riders not in compliance with any of the above may be removed from the parade by the captain, float lieutenant,
 parade marshal, sheriff's office or the office.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 23925, § 3, 12-8-10; Ord. No. 25071 , § 2, 1-27-16)
-#####   
+##### Sec. 6-73. - Riders; requirements.  
 
 (a)
 Each individual float rider shall wear the provided safety device at all times during the parade where required.
@@ -370,12 +370,12 @@ The krewe is ultimately responsible for the conduct of all riders in the krewe's
 of all fines assessed against any of the krewe's riders for the violation of any of the provisions of this article.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 24176, § 2, 12-7-11)
 #### DIVISION 3. - PERMITS
-#####   
+##### Sec. 6-74. - Permits.  
 
 Each float parade and truck parade shall annually be required to obtain the proper permit from the office of
 carnival and special events.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-75. - Number of permits.  
 
 (a)
 There shall be a limit to the number of float parade organizations given permits to conduct Carnival/Mardi Gras
@@ -462,7 +462,7 @@ parade during the Carnival/Mardi Gras Parade Season as set out in subparagraphs 
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 24176, § 3, 12-7-11; Ord. No. 24326, 9-1-9-12; Ord. No. 24479, § 2, 515-13; Ord. No. 24511, § 2, 6-26-13; Ord. No. 24756 , 6-11-14; Ord. No. 24985 , § 1, 7-22-15; Ord. No. 25273 ,
 § 1, 12-7-16; Ord. No. 25456 , § 1, 11-15-17; Ord. No. 25688 , § 2, 10-24-18; Ord. No. 25812 , § 3, 7-24-19;
 Ord. No. 25944 , § 1, 1-29-20)
-#####   
+##### Sec. 6-76. - Application for permit.  
 
 (a)
 Applications for parade permits shall be received by the office no later than the month of July in the year prior to
@@ -509,7 +509,7 @@ shall result in forfeiture of its parade permit for that year and may also resul
 all subsequent years.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 23925, § 4, 12-8-10; Ord. No. 24176, § 4, 12-7-11; Ord. No. 24479, § 3,
 5-15-13; Ord. No. 25688 , § 3, 10-24-18)
-#####   
+##### Sec. 6-77. - Permits for positions, dates, and times.  
 
 (a)
 Permits for this and subsequent years shall be for the same position, route, and time in the carnival parade season
@@ -527,7 +527,7 @@ the provisions of this chapter which may desire to transfer to such open date an
 seniority prevailing with approval of the office.
 (Ord. No. 23544, § 1, 5-6-09)
 #### DIVISION 4. - PARADE REGULATIONS
-#####   
+##### Sec. 6-78. - Assembly and disbanding.  
 
 (a)
 The consumption of alcohol, including beer, in the assembly area is forbidden.
@@ -554,7 +554,7 @@ Discarding of debris, trash, and packaging in the disbanding areas is prohibited
 No vehicles shall be permitted in the assembly area within one (1) hour prior to the start of a parade, unless said
 vehicle(s) is authorized to be in the parade.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-79. - Auxiliary vehicles.  
 
 (a)
 Each band, marching club and any other marching group in each parade shall be allowed no more than one (1)
@@ -591,7 +591,7 @@ Large enough to hold any and all parade throws which may be recaptured from para
 Equipped with a backstop or other structure that prevents beads or other parade throws from striking nearby
 parade participants, animals, vehicles, or parade spectators on the opposite side of the parade route.
 (Ord. No. 25737 , § 1, 2-6-19)
-#####   
+##### Sec. 6-80. - Bands.  
 
 (a)
 Each float parade organization shall contract for the minimum of ten (10) musical units to participate in its
@@ -630,7 +630,7 @@ of this subsection but shall not be required to provide the minimum number of ba
 (a).
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 24176, § 5, 12-7-11; Ord. No. 25273 , § 2, 12-7-16; Ord. No. 25688 , § 4,
 10-24-18; Ord. No. 25812 , § 4, 7-24-19)
-#####   
+##### Sec. 6-81. - Drivers.  
 
 (a)
 All drivers shall be at least eighteen (18) years of age and have a valid driver's license. Drivers shall not throw or
@@ -642,7 +642,7 @@ automobiles, scooters, motorcycles and go-karts.
 (b)
 All drivers of pull vehicles must have sufficient training from the tractor or float provider prior to the parade.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 24176, § 6, 12-7-11)
-#####   
+##### Sec. 6-82. - Floats.  
 
 (a)
 Float sizes shall be as follows:
@@ -719,7 +719,7 @@ sounds is likely to substantially interfere with or which actually interferes wi
 music being played by marching bands in the parade.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 23925, § 5, 12-8-10; Ord. No. 24176, § 7, 12-7-11; Ord. No. 24368, § 3,
 11-7-12; Ord. No. 25688 , § 5, 10-24-18)
-#####   
+##### Sec. 6-83. - Generators.  
 
 All generators that are used in conjunction with a parade shall comply with the following requirements:
 (1)
@@ -782,7 +782,7 @@ To further improve upon parade safety and the safe use of generators, the fire d
 rules and regulations with respect to generators, including but not limited to the prohibition of generators where
 appropriate.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 24479, § 5, 5-15-13; Ord. No. 25688 , § 6, 10-24-18)
-#####   
+##### Sec. 6-84. - Horses and mules.  
 
 (a)
 There shall be a maximum of eight (8) horse riding clubs/groups in each parade including mounted law
@@ -822,7 +822,7 @@ Control Officer or a Jefferson Parish Humane Officers immediately prior to or an
 inspection purposes.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 23753, § 1, 2-10-10; Ord. No. 24176, § 8, 12-7-11; Ord. No. 25688 , § 7,
 10-24-18)
-#####   
+##### Sec. 6-85. - Inspections.  
 
 Representatives of the fire department shall inspect each parade for which a permit has been issued to ascertain
 whether the provisions of this chapter have been observed. Additionally, if at any time during the parade, the fire
@@ -830,7 +830,7 @@ department, sheriff's office, carnival and special events office or department o
 determine that the physical or safety requirements of this chapter are not being observed, the particular float,
 truck-float, piece of equipment, other apparatus, group(s) or individual(s), may be removed from the parade.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 24176, § 9, 12-7-11)
-#####   
+##### Sec. 6-86. - Insurance.  
 
 (a)
 Each parade organization shall maintain at its expense general liability insurance in the amount of one million
@@ -865,7 +865,7 @@ Each vehicle in a parade shall be properly insured.
 The certificate of insurance described in subsection (a) must be submitted to the department of citizens' affairs
 no later than thirty (30) days prior to the start of the Carnival/Mardi Gras parade season.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 23925, § 6, 12-8-10; Ord. No. 24479, § 6, 5-15-13)
-#####   
+##### Sec. 6-87. - Marching clubs.  
 
 (a)
 Each marching club shall have a minimum of twenty-five (25) with a maximum of one hundred (100) marchers.
@@ -873,7 +873,7 @@ Each marching club shall have a minimum of twenty-five (25) with a maximum of on
 Each marching club shall be permitted to march on foot in front of or behind any float or truck parade along the
 designated parade route, provided they have the consent of the parading krewe captain.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-88. - Parade breakdowns.  
 
 (a)
 Procedure for mechanical and/or other breakdowns during parade:
@@ -895,13 +895,13 @@ Carnival/Mardi Gras Parades shall not have less than one (1) spare tractor or pu
 No hot work shall be performed on any occupied float or truck float. Hot work shall include, but not be limited
 to, welding soldering, cutting, and brazing.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 23925, § 7, 12-8-10)
-#####   
+##### Sec. 6-89. - Parade line up.  
 
 A tentative parade line-up showing the position of each float, band, marching group and all other components of
 the parade, along with the written agreement between the krewe and each scheduled band, shall be submitted to
 the department of citizens' affairs at least fourteen (14) days prior to the date of the parade.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 24479, § 7, 5-15-13)
-#####   
+##### Sec. 6-90. - Parade marshals.  
 
 The function of a marshal of a Mardi Gras parading organization shall encompass but shall not be limited to the
 following:
@@ -921,18 +921,18 @@ Shall be instrumental in the orderly disbandment of the parade with the cooperat
 (7)
 Report to the assembly area at least two (2) hours prior to the start of the parade.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-91. - Political.  
 
 Participants in any parade shall not display in said parade any endorsement of candidates for elective public
 office, or any endorsement of any issues to be voted on in any election. However, nothing contained in this
 provision shall be construed to prohibit the humorous caricature of current social events and issues.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-92. - Rescheduling of rained out parades.  
 
 If a parade is canceled because of inclement weather, it may be rescheduled by the carnival and special events
 office.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-93. - Sponsors.  
 
 (a)
 Any individual, organization or social entity desirous of sponsoring a parade or any unit within the parade shall
@@ -949,12 +949,12 @@ requirement may be admissible when they are presented for approval to the office
 to the parade date. Logos, signs, posters, or placards that are disapproved shall be removed from the parade prior
 to its start.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-94. - Time limit.  
 
 Excluding parades on Mardi Gras, the last unit of carnival parades shall be in the disbanding areas within five
 (5) hours of the starting time, barring an unforeseen or disruptive incident.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-95. - Truck-floats.  
 
 (a)
 Each truck in a truck parade shall be no more than sixty (60) feet in length including the truck cab, no more than
@@ -1026,7 +1026,7 @@ Fire extinguishers shall be visible from the street level driver's side.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 24368, § 4, 11-7-12; Ord. No. 24479, § 8, 5-15-13; Ord. No. 25688 , § 8,
 10-24-18)
 #### DIVISION 5. - PUBLIC SAFETY
-#####   
+##### Sec. 6-96. - Enforcement.  
 
 (a)
 The Jefferson Parish Sheriff's Office and the Jefferson Parish Fire Department shall have the authority to issue
@@ -1041,15 +1041,15 @@ hundred dollars ($500.00) or imprisonment for a term not exceeding six (6) month
 imprisonment, within the discretion of the court, in accordance with section 1-10 of the Jefferson Parish Code of
 Ordinances.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 24176, § 10, 12-7-11)
-#####   
+##### Sec. 6-97. - Following parade floats, bands.  
 
 Individuals are hereby prohibited from following parade floats and bands without authorization.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-98. - Impeding or delaying the progress of a parade.  
 
 Participants in a parade shall not in any manner impede or delay the progress of a parade.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-99. - Unauthorized persons or vehicles.  
 
 (a)
 Any person, group or vehicle participating in a parade without proper authorization from the parading
@@ -1059,7 +1059,7 @@ law enforcement authorities.
 (b)
 All permitted vehicles shall display a participation card duly authorized by the captain of the krewe.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-100. - Public safety.  
 
 (a)
 The unofficial presence of elevating-type vehicles, such as "cherry pickers" along the parade route is prohibited.
@@ -1169,7 +1169,7 @@ persons either viewing or participating in any parade; but shall not be applicab
 parade route, but not participating in the parade, of matches or lighters for the purpose of lighting cigarettes or
 other smoking materials which are not otherwise prohibited.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 25737 , § 2, 2-6-19)
-#####   
+##### Sec. 6-101. - Outdoor concessions during Carnival Parade Season.  
 
 (a)
 Any property owner or business owner or lessee may apply to operate an outdoor concession during the Carnival
@@ -1281,7 +1281,7 @@ Cooking equipment used in fixed, mobile, or temporary concessions, such as truck
 tents, or any form of roofed enclosure, shall comply with NFPA 96 and the Jefferson Parish Fire Prevention
 Code.
 (Ord. No. 23925, § 9, 12-8-10; Ord. No. 24479, § 9, 5-15-13)
-#####   
+##### Sec. 6-102. - Prohibited parking.  
 
 (a)
 It shall be unlawful for any person or entity to park, store, leave standing or permit the parking, storing, stopping
@@ -1305,7 +1305,7 @@ violation of this section or section 6-100(g). Any vehicles removed shall be imp
 section 36-144, et seq.
 (Ord. No. 23544, § 1, 5-6-09)
 #### DIVISION 6. - VIOLATIONS AND PENALTIES
-#####   
+##### Sec. 6-103. - Violations and penalties.  
 
 (a)
 Class I violations (major violations):
@@ -1410,7 +1410,7 @@ punished by a fine not exceeding five hundred dollars ($500.00) or imprisonment 
 (6) months or both, with such fine and imprisonment within the discretion of the court, in accordance with
 section 1-10 of the Jefferson Parish Code of Ordinances.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 24479, § 10, 5-15-13; Ord. No. 25688 , § 9, 10-24-18)
-#####   
+##### Sec. 6-104. - Contraband.  
 
 (a)
 Contraband is defined to mean any item or trinket sold from concession stands or sold by vendors which are
@@ -1433,19 +1433,19 @@ authorized by this chapter, unless an appeal has been taken pursuant to the prov
 of Ordinances.
 (Ord. No. 23544, § 1, 5-6-09)
 #### DIVISION 7. - OTHER PARADES
-#####   
+##### Sec. 6-105. - Regulations.  
 
 Other parades shall be regulated by the same requirements and code that prevail for Carnival/Mardi Gras
 Parades in Article V.
 (Ord. No. 23544, § 1, 5-6-09)
-#####   
+##### Sec. 6-106. - Little Rascals parade.  
 
 The Little Rascals Parade is hereby authorized to conduct annually their parade at 12:00 p.m. (noon) on the first
 Sunday before the official Carnival/Mardi Gras Parade Season. The route for said parade, which shall be
 approved by the office, shall be a substantially-abridged version of a route approved for use by a krewe within
 that year's Carnival/Mardi Gras Parade Season.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 25688 , § 10, 10-24-18)
-#####   
+##### Sec. 6-107. - St.  
  Patrick's parade.
 (a)
 The St. Patrick's Day Parade Committee is hereby authorized to conduct annually the St. Patrick's Parade at
@@ -1458,7 +1458,7 @@ parade will disband at the direction of the parade marshals in conjunction with 
 Bayou Metairie Park on Metairie Road between Metairie Lawn and Labarre Road is designated as the St.
 Patrick's Parade reviewing stand area.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 25688 , § 10, 10-24-18)
-#####   
+##### Sec. 6-108. - Irish-Italian parade.  
 
 (a)
 The Irish-Italian Parade Committee is hereby authorized to conduct annually the Irish-Italian Parade at 12:00
@@ -1469,7 +1469,7 @@ Carnival/Mardi Gras Parade Season.
 Veterans Memorial Plaza's public area on the south side of the north roadway of Veterans Boulevard between
 Causeway Boulevard and Severn Avenue is designated as Irish-Italian Parade reviewing stand areas.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 25688 , § 10, 10-24-18)
-#####   
+##### Sec. 6-109. - Exceptions.  
 
 (a)
 Parades under this division shall be comprised of not more than one hundred ten (110) units. For the purpose of
@@ -1504,7 +1504,7 @@ Footnotes:
 pertained to nonprofit games of chance. See also the Code Comparative Table.
 Secs. 6-115—6-199. - Reserved.
 ### ARTICLE VII. - PARISH LICENSE FEE FOR CONDUCTING RACE MEETINGS
-#####   
+##### Sec. 6-200. - License fee levied; limitation.  
 
 Effective July 1, 1991, and in accordance with R.S. 4:163.1, there is hereby levied a license fee on the total daily
 betting pools of not more than two and ninety-seven hundredths (2.97) percent on each person, association, or
@@ -1512,7 +1512,7 @@ corporation conducting a race meeting within Jefferson Parish. The license fees 
 under this section; however, shall not exceed the total amount that would have been due the State of Louisiana,
 on any given day, under the applicable provisions of the chapter containing R.S. 4:163.1.
 (Ord. No. 18236, § 1, 3-27-91)
-#####   
+##### Sec. 6-201. - Allocation of license fee.  
 
 The avails of the license fee collected pursuant to section 6-200 are allocated as follows:
 Percent
@@ -1531,11 +1531,11 @@ City of Jean Lafitte .....0.9
 (7)
 City of Westwego .....3.7
 (Ord. No. 18236, § 1, 3-27-91)
-#####   
+##### Sec. 6-202. - Reserved.  
 
 Editor's note— Ord. No. 22443, § 2, adopted March 2, 2005, repealed § 6-202, which pertained to allocation of
 license fee within the parish. See also the Code Comparative Table.
-#####   
+##### Sec. 6-203. - Off-track betting revenues excess to the needs of the various LaSalle Tract bond issues.  
 
 The off-track betting revenues received by the Parish of Jefferson from off-track betting patrons located on the
 East Bank which are determined to be surplus funds in accordance with the ordinances relating to the various

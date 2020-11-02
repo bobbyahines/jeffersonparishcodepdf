@@ -11,7 +11,7 @@ Ch. 29; traffic and motor vehicles, Ch. 36; vehicles for hire must use bus bays,
 unloading of passengers, § 36-98.
 State Law reference— Regulation by local governments of private for hire vehicles, R.S. 33:4792.
 ### ARTICLE I. - GENERAL PROVISIONS
-#####   
+##### Sec. 38-1. - Definitions.  
 
 For the purpose of this chapter, the following terms and phrases have the respective meanings ascribed to them
 in this section, unless a definite meaning clearly appears from the context:
@@ -72,7 +72,7 @@ and to pick-up or discharge passengers.
 VFH zone means a place where certain vehicles regulated by this chapter may be authorized by PMZ to pick-up
 or discharge passengers, but not to park.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-2. - Exemptions.  
 
 (a)
 The provisions of this chapter shall not apply to vehicles operated by a local transit service over a definite and
@@ -80,7 +80,7 @@ fixed route or to any vehicles operating under franchises or indeterminate permi
 (b)
 The provisions of this chapter shall not apply to limousines operated in the course of wedding/funeral services.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-3. - Unauthorized vehicles licensed elsewhere.  
 
 (a)
 Any person/business operating a vehicle that is not authorized to operate in the parish, or in any political
@@ -102,7 +102,7 @@ compensation for delivery (or transport any individual for compensation) from an
 unincorporated Jefferson Parish to any other location, unless such person/business is performing services
 pursuant to an agreement with the parish or the Regional Transit Authority (RTA).
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-4. - Assistance by departments, sheriff, and courts.  
 
 (a)
 When so requested by PMZ, the department of inspection and code enforcement, the department of transit
@@ -113,7 +113,7 @@ When so requested, all officers, members, and personnel of the Jefferson Parish 
 court, second parish court, and Twenty-Fourth Judicial District Court shall assist PMZ and its agents in the
 necessary performance of duties.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-5. - PMZ authority, duties, and powers.  
 
 (a)
 PMZ is hereby given the authority to regulate all vehicles-for-hire operating within unincorporated Jefferson
@@ -136,14 +136,14 @@ Designate the maximum age of vehicles regulated by this chapter; and
 (5)
 Require running boards on vehicles deemed inordinately high for the access/discharge of passengers.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-6. - VFH stands and zones.  
 
 PMZ may designate the location of VFH stands and VFH zones on the streets and other public/private places in
 unincorporated Jefferson Parish. such VFH stands and zones shall be marked by appropriate signs and shall be
 reserved exclusively for vehicles regulated by this chapter, as designated and authorized by PMZ and as
 specified by such signs, while waiting to pick up passengers for compensation.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-7. - Parking prohibition in residential areas.  
 
 (a)
 Except as provided in this section and in section 38-6 above, it shall be unlawful for any person/business
@@ -163,7 +163,7 @@ prohibited by any applicable law or regulation other than the provisions of this
 shall the number of such vehicles-for-hire at or in the vicinity of any residential premises, as permitted by this
 paragraph (b), exceed the number of valid respective driver residents thereat.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-8. - Receiving and discharging passengers.  
 
 (a)
 Operators/drivers shall instruct that riders/passengers may not open any door of any such vehicle without the
@@ -173,7 +173,7 @@ the movement of traffic or endanger any other person/vehicle.
 No operator/driver shall permit any other rider/passenger to occupy said vehicle, unless the rider/passenger first
 occupying and engaging the vehicle in service consents to additional riders/passengers.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-9. - Solicitation.  
 
 (a)
 No operator/driver shall solicit patronage in a loud or annoying tone of voice or by annoying or obstructing the
@@ -183,7 +183,7 @@ person or lay hands on anyone's baggage without said person's consent.
 No operator/driver shall offer or provide money or other gratuity in an effort to solicit hotel/motel business from
 any hotel or tourist court, nor shall any such operator/driver attempt to divert patronage from one to another.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-10. - Advertising.  
 
 (a)
 No advertisement that is carried by any vehicle regulated by this chapter shall contain pictures, designs, or
@@ -201,7 +201,7 @@ provided by this chapter as well as to the temporary/permanent removal of vehicl
 privilege to advertise in/on vehicles regulated by this chapter may be suspended or revoked by PMZ following
 due notice and a hearing.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-11. - Service contracts.  
 
 (a)
 Any hotel, motel, hospital, business place, or place of public gathering that has an exclusive service contract
@@ -215,7 +215,7 @@ with annual gross receipts relating to the furnishing of VFH stands or transport
 hospital, business place, or place of public gathering, and whether any such arrangement is made with any
 corporation, firm, or association with which the holder may be interested or connected.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-12. - Unlawful gratuity requests.  
 
 (a)
 It shall be unlawful for any person/business to require payments/gratuities from the operator of any vehicle
@@ -226,7 +226,7 @@ apply to all payments/gratuities that exceed those set forth in the written agre
 (c)
 Any violation of the provisions of this section shall subject the offender to those penalties provided in sections 110 and 1-11 of this Code and/or applicable state statutes.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-13. - Refusal to pay legal fare.  
 
 (a)
 It shall be unlawful for any person/business to refuse to pay the legal fare of any vehicle regulated by this
@@ -235,7 +235,7 @@ with intent to defraud the person/business from whom it is hired of the value of
 (b)
 Any violation of the provisions of this section shall subject the offender to those penalties provided in sections 110 and 1-11 of this Code and/or applicable state statutes.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-14. - Responsible behavior, good conduct, and presentation.  
 
 (a)
 Operation, speed, and driving of vehicles regulated by this chapter shall conform with this Code and state law.
@@ -272,7 +272,7 @@ including efforts to locate the owners of all such items; and, if the owner of a
 delivery, actual fare may be charged to such individual for such delivery.
 (Ord. No. 25219 , § 1, 9-21-16)
 ### ARTICLE II. - VEHICLES-FOR-HIRE
-#####   
+##### Sec. 38-15. - Company license, fees, and reports.  
 
 (a)
 It shall be unlawful for any company to provide VFH service in unincorporated Jefferson Parish without
@@ -328,7 +328,7 @@ must be maintained in the Jefferson Parish region; a P.O. Box is not sufficient.
 (e)
 All companies shall furnish to PMZ additional reports, as PMZ may require.
 (Ord. No. 25219 , § 1, 9-21-16; Ord. No. 25355 , § 1, 5-3-17)
-#####   
+##### Sec. 38-16. - Company website requirements.  
 
 (a)
 A company shall provide the following information on its website:
@@ -345,7 +345,7 @@ Complaint telephone, complaint e-mail, and website information for PMZ; and
 (6)
 Liability insurance disclosures for potential passengers and drivers, as required in section 38-29.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-17. - Application for company license.  
 
 (a)
 Application for the issuance or renewal of a company license shall be made in writing to PMZ on a form
@@ -429,7 +429,7 @@ Provide passengers on all its receipts (written or electronic) and on its websit
 address, and web address, as supplied by PMZ, where passengers may file complaints regarding potential
 criminal acts or violations of this chapter.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-18. - Verification and issuance/denial of license.  
 
 (a)
 Upon receipt of a complete application for the issuance or renewal of a company license, PMZ may verify all
@@ -449,7 +449,7 @@ which to present a defense. In the event the hearing results in an affirmation o
 the applicant may appeal to the Twenty-Fourth Judicial District Court for the Parish of Jefferson for relief from
 the denial.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-19. - Suspension and revocation of license.  
 
 (a)
 PMZ may suspend, for a period not to exceed ninety (90) days, or revoke the company license which grants the
@@ -474,7 +474,7 @@ In the event of suspension or revocation of a company license, the company will 
 hearing and judicial relief as set forth in section 38-18, subsection (c) The company shall be given written notice
 and afforded a hearing before the bureau of administrative adjudication in which to present a defense.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-20. - Prohibition on reapplication.  
 
 (a)
 A company whose license has been revoked or whose application has been denied pursuant to this article shall
@@ -495,7 +495,7 @@ license has been revoked may not seek further reapplication. At the successful c
 period, a company may apply for a regular annual company license upon meeting all requirements and
 qualifications provided in this chapter for an original applicant.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-21. - Company-issued driver authorization.  
 
 (a)
 Prior to operating a VFH within unincorporated Jefferson Parish, each driver is required to obtain an annual
@@ -547,7 +547,7 @@ driver from operating a VFH for the company.
 No driver shall operate any VFH using either a suspended/revoked driver authorization or a suspended/revoked
 chauffeur's driver's license on a VFH requiring the same.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-22. - Driver background checks.  
 
 (a)
 All companies shall annually perform or cause to be performed background checks on driver applicants and
@@ -593,7 +593,7 @@ generated by the parish or the Jefferson Parish Sheriff's Office. Failure to con
 driving record checks or failure to maintain or provide, upon request, the results of such criminal background
 and driving records check as required shall be grounds for the suspension/revocation of a company permit.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-23. - Driver drug screening.  
 
 (a)
 For random drug testing purposes, every quarter PMZ may send any company a list of up to twenty-five (25)
@@ -641,7 +641,7 @@ The medication was not prescribed as permitted by R.S. 40:1046.
 Failure of any company to comply with these provisions shall be grounds for suspension/revocation of the
 company license.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-24. - Display of driver authorization.  
 
 (a)
 Each driver shall legibly display either in the vehicle in a printed format readily visible to a person of average
@@ -661,7 +661,7 @@ No driver shall allow any other person to utilize said driver's display of drive
 a VFH; and no driver shall allow any other person to operate said driver's VFH, unless that person is likewise
 authorized to operate/drive said VFH.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-25. - VFH inspections and identification requirements.  
 
 (a)
 All vehicles-for-hire shall bear a valid inspection sticker issued by the state, commonly known as a brake tag.
@@ -696,7 +696,7 @@ inch in vertical strokes; and
 No company or VFH shall be permitted to imitate another company's color scheme, identifying design,
 monogram, or insignia in such a manner as would tend to mislead or deceive the public.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-26. - Operating regulations.  
 
 (a)
 In addition to all other applicable legal requirements, it shall be unlawful for any person:
@@ -752,7 +752,7 @@ No company or driver shall disable, eliminate, or otherwise prevent access to th
 application used by the company or driver to provide VFH services by PMZ, or in any way interfere with or
 obstruct enforcement of this chapter by PMZ.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-27. - Service charges and fare rates.  
 
 (a)
 Each company or driver that exclusively accepts trips that are paid from a membership or account with the
@@ -840,13 +840,13 @@ PMZ.
 A company or driver may not increase rates during a state of emergency as declared by the governor or parish
 governing authority, except as permissible according to R.S. 29:732.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-28. - Operation on private property.  
 
 Nothing in this chapter shall limit any natural person or legal entity that owns or controls real property from
 prohibiting VFH operation on said property or from developing alternative rules, regulations, and fees when
 allowing a VFH to operate on said property.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-29. - Liability insurance required.  
 
 (a)
 No company license shall be issued or continued unless there is in full force and effect: liability insurance for
@@ -915,7 +915,7 @@ provides while the driver uses a personal vehicle in connection with the company
 That the driver's own automobile insurance policy, depending on its terms, may or may not provide any coverage
 while the driver uses a personal vehicle in connection with any aspect of the company's VFH operations.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-30. - Enforcement, rules and regulations, and complaints.  
 
 (a)
 PMZ is authorized to enforce this chapter and to adopt rules and regulations for the proper administration and
@@ -931,14 +931,14 @@ conduct annual criminal background checks on drivers listed in the company's mos
 company and driver shall cooperate with PMZ by promptly providing PMZ with any additional information and
 consent required for PMZ to facilitate the annual criminal background check.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-31. - Violations and penalties.  
 
 Violations of the provisions of this chapter by a company or driver may be enforced by a suspension or
 revocation of any company license issued hereunder or may be enforced by any other civil or criminal remedy
 pursuant to this Code or state statutes. Each violation shall be deemed a separate and distinct offense and shall be
 penalized as a separate and distinct offense.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-32. - Zero-tolerance policy.  
 
 Every company shall establish and maintain a zero-tolerance policy on the use of drugs and/or alcohol by its
 drivers while providing VFH services. Immediately upon receiving a passenger-credible complaint regarding the
@@ -950,7 +950,7 @@ complaints as well as the results of any such investigations. Any driver found t
 zero-tolerance policy shall be prohibited from engaging as a driver or operator within the Parish of Jefferson for
 a period of no less than one (1) year from the date of the violation.
 (Ord. No. 25219 , § 1, 9-21-16)
-#####   
+##### Sec. 38-33. - Privacy protections.  
 
 (a)
 A company, driver, or operator shall not disclose to a third party any personally identifiable information
@@ -969,7 +969,7 @@ for the suspension and/or revocation of a company license. The Parish of Jeffers
 in a court of competent jurisdiction in the Parish of Jefferson to seek appropriate remedies for any violations of
 this provision.
 ### ARTICLE III. - SIGHTSEEING VEHICLES-FOR-HIRE
-#####   
+##### Sec. 38-34. - Sightseeing cars and buses.  
 
 (a)
 Sightseeing cars and buses must post the rate for each tour offered to the public or provide to prospective riders

@@ -12,12 +12,12 @@ waste, § 16-101 et seq.; nuisances, Ch. 19; water, sewerage and drainage, Ch. 2
 State Law reference— Parish health units, R.S. 40:12 et seq.; parish authority to pass health regulations, R.S.
 33:1236(38)(a).
 ### ARTICLE I. - IN GENERAL
-#####   
+##### Sec. 17-1. - Incorporation of state code by reference.  
 
 The Sanitary Code of the State of Louisiana, consisting of L.S.A.R.S. 40:03 et seq., in effect on April 15, 1993,
 is incorporated in this Code by reference, the same being on file in the office of the parish clerk.
 (Ord. No. 18755, § 1, 5-12-93)
-#####   
+##### Sec. 17-2. - Incorporation of state law by reference.  
 
 The State Food, Drug and Cosmetic Law and Regulations of Louisiana, consisting of L.S.A.R.S. 40:601 et seq.,
 in effect on April 15, 1993, is incorporated in this Code by reference, the same being on file in the office of the
@@ -30,13 +30,13 @@ Footnotes:
 services, § 1.01(14).
 Cross reference— Governing body and domicile of special districts, § 2-19; taxation, Ch. 35.
 State Law reference— Hospital service districts, R.S. 46:1051 et seq.
-#####   
+##### Sec. 17-14. - Reserved.  
 
 Editor's note— Ord. No. 24789 , § 5, adopted July 23, 2014, repealed § 17-14, which pertained to the Jefferson
 Parish Hospital and Health Services District and derived from Ord. No. 23584, § 1, adopted July 8, 2009.
-#####   
+##### Sec. 17-15. - Reserved.  
 
-#####   
+##### Sec. 17-16. - Hospital district no.  
  1.
 (a)
 Creation. There is hereby created a hospital service district within the parish comprising and embracing all of
@@ -56,7 +56,7 @@ September 24, 2015, effective October 1, 2015, by and between the Jefferson Pari
 No. 1 and West Jefferson Holdings, pursuant to which, West Jefferson Holdings has agreed to operate the
 hospital on behalf of the district for the benefit of the residents of Jefferson Parish and the West Bank, generally.
 (Code 1961, §§ 9-4, 9-5; Ord. No. 23584, § 6, 7-8-09; Ord. No. 24374, § 1, 11-7-12; Ord. No. 25018 , § 1, 9-2315)
-#####   
+##### Sec. 17-17. - Hospital district no.  
  2.
 (a)
 Creation. There is hereby created a hospital service district within the parish comprising and embracing all that
@@ -69,14 +69,14 @@ Pontchartrain and on the south by the north bank of the Mississippi River.
 Official designation. The hospital service district created in subsection (a) shall be known and designated as
 "Jefferson Parish Hospital Service District No. 2, Parish of Jefferson, State of Louisiana."
 (Code 1961, §§ 9-6, 9-7)
-#####   
+##### Sec. 17-18. - Meetings of governing authority.  
 
 The parish council acting as governing authority of Jefferson Parish Hospital Service District No. 1 and
 Jefferson Parish Hospital Service District No. 2 shall conduct the respective hospital service districts business at
 an appropriate time during the parish council meeting as indicated on the meeting agenda.
 (Ord. No. 17141, § 2, 1-21-87; Ord. No. 23584, § 6, 7-8-09; Ord. No. 24789 , § 6, 7-23-14)
 Cross reference— Parish council agenda, § 2-36.
-#####   
+##### Sec. 17-19. - Rules and procedures.  
 
 All the rules and procedures set out for handling business items of Jefferson Parish Hospital Service District No.
 1 and Jefferson Parish Hospital Service District No. 2, including but not limited to the expenditure of funds,
@@ -85,7 +85,7 @@ Hospital Service District No. 1 and Jefferson Parish Hospital Service District N
 agenda of the parish council.
 (Ord. No. 17141, § 2, 1-21-87; Ord. No. 24789 , § 7, 7-23-14)
 Cross reference— Parish council agenda, § 2-36.
-#####   
+##### Sec. 17-20. - Support of the prison medical unit.  
 
 (a)
 Hospital Service District No. 1 and Hospital Service District No. 2 shall be invoiced by the finance department
@@ -118,7 +118,7 @@ more than one (1) member or representative of the administration of the hospital
 service district which created the entity and shall otherwise consist solely of members of the Jefferson Parish
 Hospital Service District Board which created the entity.
 (Ord. No. 23033, § 1, 3-28-07)
-#####   
+##### Sec. 17-22. - Responsibility of Hospital Service District No.  
  1 to fund West Jefferson Medical Center employee's
 pension.
 Jefferson Parish Hospital Service District No. 1 shall fund the West Jefferson Medical Center employee's
@@ -141,7 +141,7 @@ Secs. 17-23—17-30. - Reserved.
 ### ARTICLE III. - AIR POLLUTION CONTROL
 Footnotes:
 --- (3) --State Law reference— Louisiana Air Control Law, R.S. 30:2051 et seq.
-#####   
+##### Sec. 17-31. - Definitions.  
 
 The following words and phrases, when used in this article, shall have the meanings respectively ascribed to
 them:
@@ -157,7 +157,7 @@ Ringelmann chart shall be that standard published by the United States Bureau of
 of smoke.
 (Code 1961, § 9-20)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-#####   
+##### Sec. 17-32. - Emission of dense smoke—Prohibited.  
 
 It shall be unlawful for any person to permit the emission of any smoke from any source whatever of a density
 equal to or greater than that density described as No. 2 on the Ringelmann chart, published by the United States
@@ -166,7 +166,7 @@ of such dense smoke is declared to be a public nuisance and may be summarily aba
 inspection and code enforcement, or by anyone whom he may designate for such purpose; provided, however
 that this section shall not be applicable to the circumstances set forth in section 17-33.
 (Code 1961, § 9-21)
-#####   
+##### Sec. 17-33. - Same—Exceptions.  
 
 The provisions of section 17-32 shall not be applicable:
 (1)
@@ -178,7 +178,7 @@ device is being cleaned out and a new fire is being built therein, in which even
 that described as No. 2 of the Ringelmann chart shall be permitted for a period of not to exceed five (5) minutes
 in any single period of sixty (60) minutes.
 (Code 1961, § 9-22)
-#####   
+##### Sec. 17-34. - Escape of soot, cinders, noxious acids, fumes and gases declared nuisance; abatement authorized.  
 
 It shall be unlawful for any person to permit or cause the escape of such quantities of soot, cinders, noxious
 acids, fumes, and gases in any such place or manner as to be detrimental to any person or to the public or to
@@ -187,7 +187,7 @@ have a tendency to cause injury or damage to property or business. The escape of
 public nuisance and may be summarily abated by the director of inspection and code enforcement, or by anyone
 whom he may designate for such purpose.
 (Code 1961, § 9-23)
-#####   
+##### Sec. 17-35. - Duties of the department of inspection and code enforcement in smoke prevention.  
 
 The duties of the department of inspection and code enforcement shall be:
 (1)
@@ -211,30 +211,30 @@ render;
 To do any and all other acts which may be necessary for the successful prosecution of the purposes of this
 article, and such other acts as may be specifically enumerated therein as his duties.
 (Code 1961, § 9-24)
-#####   
+##### Sec. 17-36. - The Ringelmann chart.  
 
 The standard by which the density of smoke is to be measured will be the Ringelmann chart, published by the
 United States Bureau of Mines.
 (Code 1961, § 9-25)
-#####   
+##### Sec. 17-37. - Fees for operating, enforcing article provisions.  
 
 The director of inspection and code enforcement is authorized to establish a fee schedule to recover the actual
 costs of operating and enforcing this article.
 (Code 1961, § 9-26)
-#####   
+##### Sec. 17-38. - Violations.  
 
 Any abatement provided for in this article shall be in addition to any penalties prescribed in section 1-10.
 (Code 1961, § 9-27)
 Secs. 17-39—17-49. - Reserved.
 ### ARTICLE IV. - MENTAL HEALTH, MENTAL RETARDATION AND SUBSTANCE ABUSE AUTHORITY
-#####   
+##### Sec. 17-50. - Established; governance.  
 
 The Jefferson Parish Human Services Authority is hereby established in accordance with Act No. 94 of the 1990
 Regular Session of the Louisiana Legislature, to be governed by a board appointed in accordance with R.S.
 28:831(C). The board shall establish rules and regulations regarding the governance and functions of the
 authority and the employees.
 (Ord. No. 17848, § 1, 10-25-89; Ord. No. 18156, § 1, 11-28-90)
-#####   
+##### Sec. 17-51. - Functions.  
 
 The authority shall perform the functions of the state for the residents of parish relative to:
 (1)
@@ -247,7 +247,7 @@ developmentally disabled, and the autistic;
 Care, diagnosis, training, treatment, and education of alcohol or drug abusers and the prevention of alcohol and
 drug abuse.
 (Ord. No. 17848, § 1, 10-25-89)
-#####   
+##### Sec. 17-52. - Funding.  
 
 The board shall collect or cause to be collected all monies due the authority for the provision of services
 pursuant to statutory requirements, and any other form of contract or agreement by which the authority provides
@@ -255,7 +255,7 @@ services and levies charges therefor. In addition, the Jefferson Parish council 
 taxes and issue bonds or other obligations for the purposes provided in this article or in Chapter 14 of Title 28 of
 the Louisiana Revised Statutes of 1950.
 (Ord. No. 17848, § 1, 10-25-89; Ord. No. 18156, § 2, 11-28-90)
-#####   
+##### Sec. 17-53. - Transfer of administration and functions.  
 
 Under the authority of R.S. 36:254(E), the administration and functions of the state relative to mental health,
 mental retardation, and substance abuse services for the parish shall be transferred to the parish.
@@ -269,7 +269,7 @@ Editor's note— Res. No. 80006, adopted July, 12, 1995, did not specifically am
 herein as Art. V, §§ 17-61—17-104, was at the discretion of the editor. See the Code Comparative Table.
 Cross reference— Similar provisions, §§ 20-121—20-122.1
 #### DIVISION 1. - GENERALLY
-#####   
+##### Sec. 17-61. - Purpose.  
 
 These regulations are established pursuant to section 20-122.1 of the Code of Ordinances of Jefferson Parish
 adopted by the Jefferson Parish Council to serve as general guidelines for the designation of no smoking areas;
@@ -277,12 +277,12 @@ use and design of signs; adoption. implementation, dissemination of a written sm
 petition of waivers; provide for the enforcement of penalties for violations as required by the Code of
 Ordinances.
 (Res. No. 80006, § 1.1, 7-12-95)
-#####   
+##### Sec. 17-62. - Authority.  
 
 These regulations are prepared under the authority of paragraph (e) of section 20-122.1 of the Code of
 Ordinances of Jefferson Parish.
 (Res. No. 80006, § 1.2, 7-12-95)
-#####   
+##### Sec. 17-63. - Definitions.  
 
 Unless the context of their usage clearly indicates otherwise, or modified by the definitions provided herein, the
 terms defined in section 20-121 of the Code of Ordinances are used in this document in conformity with the
@@ -365,7 +365,7 @@ or retail, and in which the sale, manufacture or promotion of other products is 
 (Res. No. 80006, § 1.3, 7-12-95; Ord. No. 25602 , § 3, 6-27-18)
 Secs. 17-64—17-70. - Reserved.
 #### DIVISION 2. - PROHIBITION OF SMOKING
-#####   
+##### Sec. 17-71. - Regulation of public places.  
 
 Smoking is prohibited in all enclosed areas within public places during the times in which the public is invited or
 permitted, except as otherwise restricted in accordance with the provisions below. Such public places include,
@@ -548,7 +548,7 @@ waiting areas, or portion thereof, is in an area otherwise designated for smokin
 subsections (1), (4), (5), (6), (8), (9), (10), (12), and (14). This paragraph shall not be construed to prohibit
 smoking in any area where smoking is not prohibited pursuant to Division 3.
 (Res. No. 80006, § 2.1, 7-12-95)
-#####   
+##### Sec. 17-72. - Regulation in places of employment.  
 
 (a)
 (1) It shall be the responsibility of employers who employ more than fifteen (15) employees to provide, to the
@@ -623,7 +623,7 @@ remedy, the provisions of this section shall take effect.
 (Res. No. 80006, § 2.2, 7-12-95)
 Secs. 17-73—17-80. - Reserved.
 #### DIVISION 3. - AREAS WHERE SMOKING IS NOT REGULATED
-#####   
+##### Sec. 17-81. - Exemptions.  
 
 The following areas are exempt from and shall not be subject to the smoking restrictions of these regulations:
 (1)
@@ -655,7 +655,7 @@ with section 17-104(a);
 (9)
 Restaurants with an indoor seating capacity of fifty (50) patrons or fewer, except as provided in section 1771(5), and provided there is adequate exhaust ventilation in accordance with section 17-104(b).
 (Res. No. 80006, § 3.1, 7-12-95)
-#####   
+##### Sec. 17-82. - Waivers.  
 
 (a)
 The council, by resolution, may grant a waiver from the application of a specific provision of these regulations;
@@ -678,7 +678,7 @@ The council may revoke any existing waiver for false information provided during
 substantial noncompliance with conditions set forth upon granting of waiver, or upon presentation to it that
 substantial and previously undetected health risks make such a waiver untenable.
 (Res. No. 80006, § 3.2, 7-12-95)
-#####   
+##### Sec. 17-83. - Miscellaneous.  
 
 (a)
 Nothing in this article shall be construed to permit smoking where it is otherwise prohibited by law or
@@ -694,7 +694,7 @@ these regulations.
 (Res. No. 80006, § 3.3, 7-12-95)
 Secs. 17-84—17-90. - Reserved.
 #### DIVISION 4. - ENFORCEMENT
-#####   
+##### Sec. 17-91. - Posting of signs: requirements for motion picture theaters.  
 
 (a)
 Except as may otherwise be provided by other ordinances, resolutions or rules and regulations promulgated by
@@ -714,7 +714,7 @@ In addition to the posting of signs as provided in section 17-91(a), every motio
 or operator shall show upon the screen for at least five (5) seconds prior to the showing of each feature motion
 picture, information indicating the areas where smoking is prohibited and permitted within the premises.
 (Res. No. 80006, § 4.1, 7-12-95)
-#####   
+##### Sec. 17-92. - Enforcement authority.  
 
 (a)
 The Jefferson Parish Sheriff's Office shall enforce the provisions of these regulations. In addition, designated
@@ -731,7 +731,7 @@ responsible for informing, individuals smoking in restricted areas that they are
 The fire department shall seek to obtain voluntary compliance with these regulations by means of publicity and
 education programs, and the issuance of warnings, where appropriate.
 (Res. No. 80006, § 4.2, 7-12-95)
-#####   
+##### Sec. 17-93. - Violations and penalties.  
 
 (a)
 Any person who owns, manages, operates or otherwise controls the use of an establishment in which smoking is
@@ -778,13 +778,13 @@ violator shall be liable for a penalty of not more than three hundred dollars ($
 Every person who violates section 17-93(d) shall be liable for a penalty of up to fifty dollars ($50.00) for each
 violation.
 (Res. No. 80006, § 4.3, 7-12-95)
-#####   
+##### Sec. 17-94. - Hearing officer.  
 
 All notices of violations may be enforced by the Jefferson Parish Hearing Officer pursuant to Chapter 2.5 of the
 Jefferson Parish Code of Ordinances.
 (Res. No. 80006, § 4.4, 7-12-95)
 #### DIVISION 4.1. - TOBACCO DEALER PERMITS
-#####   
+##### Sec. 17-95. - Definitions.  
 
 The following words, terms and phrases, when used in this division, shall have the meanings ascribed to them in
 this section, except where the context clearly indicates a different meaning:
@@ -817,14 +817,14 @@ Vending machine lessee means individual or business who has contracted with the 
 individual to have, retain or possess, for the use and enjoyment of patrons, a tobacco vending machine for a term
 or duration at a fixed place of business.
 (Ord. No. 24993 , § 1, 8-12-15; Ord. No. 25159 , § 1, 5-25-16)
-#####   
+##### Sec. 17-96. - Obtaining of permits, date and payment of fees.  
 
 Before engaging in the business of dealing in tobacco products within the territorial limits of the parish, except
 the corporate limits of municipalities, all persons shall obtain from the sheriff and ex officio tax collector for the
 Parish of Jefferson, annually, dated from January first of each year, a permit to conduct each separate business
 and shall pay the parish all fees assessed therefor, all in accordance with the schedule set forth in this article.
 (Ord. No. 24993 , § 1, 8-12-15; Ord. No. 25159 , § 2, 5-25-16)
-#####   
+##### Sec. 17-97. - Qualifications and conditions of applicants.  
 
 Applicants for a permit shall meet the following qualifications and conditions:
 (1)
@@ -888,7 +888,7 @@ A crime of violence as defined in R.S. 14:2(B); or
 2.
 A crime involving a controlled dangerous substance.
 (Ord. No. 24993 , § 1, 8-12-15; Ord. No. 25159 , § 3, 5-25-16)
-#####   
+##### Sec. 17-98. - Notice of application for retail dealer.  
 
 (a)
 A person not possessing a retail dealer's permit, but desirous of obtaining one (1), prior to making application for
@@ -905,7 +905,7 @@ above.
 (c)
 Publication of notice shall not apply to licensees seeking the renewal of their permits.
 (Ord. No. 24993 , § 1, 8-12-15; Ord. No. 25159 , § 4, 5-25-16)
-#####   
+##### Sec. 17-99. - Application.  
 
 (a)
 Prior to the issuance of any tobacco product permit, all applicants must first make a written application on forms
@@ -928,7 +928,7 @@ denied by the parish.
 (d)
 Upon receipt of the application, the sheriff shall immediately write or stamp thereon the date and time of receipt.
 (Ord. No. 24993 , § 1, 8-12-15; Ord. No. 25159 , § 5, 5-25-16)
-#####   
+##### Sec. 17-100. - Fingerprints and photographs.  
 
 Applicants under this article shall have their fingerprints and photographs taken by the sheriff and ex officio tax
 collector for this parish at the time of submission of their applications, and applications shall be considered
@@ -1171,19 +1171,19 @@ revocation. All tobacco products may not be restocked or displayed within the pr
 period of suspension or until a new permit is issued after revocation of the former permit.
 (Ord. No. 24993 , § 1, 8-12-15; Ord. No. 25159 , § 9, 5-25-16)
 #### DIVISION 5. - MISCELLANEOUS
-#####   
+##### Sec. 17-101. - Public education.  
 
 The fire department shall engage in a continuing program to explain and clarify the provisions and purposes of
 these regulation and shall provide assistance to those persons who seek to comply, and to those who want to stop
 smoking.
 (Res. No. 80006, § 5.1, 7-12-95)
-#####   
+##### Sec. 17-102. - Governmental agency cooperation.  
 
 The fire department shall seek to encourage state and federal governmental and educational agencies having
 facilities within the Parish of Jefferson, but not subject to the provisions of these regulations, to establish local
 operating procedures which substantially conform to the requirements of these regulations.
 (Res. No. 80006, § 5.2, 7-12-95)
-#####   
+##### Sec. 17-103. - Construction and interpretation.  
 
 (a)
 Nothing in these regulations shall be construed to preclude the owner, manager, operator or other person having
@@ -1195,7 +1195,7 @@ control of an establishment regulated under these regulations to be subject to a
 regulations in any court by any party other than the Jefferson Parish Sheriff's Office or the Parish of Jefferson, or
 its designated agencies.
 (Res. No. 80006, § 5.3, 7-12-95)
-#####   
+##### Sec. 17-104. - Adequate ventilation.  
 
 (a)
 Whenever an employer or other business establishment designates a room or other enclosed area as a smoking
