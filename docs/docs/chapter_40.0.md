@@ -30,17 +30,20 @@ by vendor of real estate, § 20-5; planning and development, Ch. 25; water, sewe
 and bridges, Ch. 29; subdivisions, Ch. 33.
 State Law reference— Zoning regulations for parishes, R.S. 33:4780.40 et seq.
 ### ARTICLE I. - IN GENERAL
-Sec. 40-1. - Adoption.
+#####   
+
 That Ordinance No. 5687, as amended, be and the same is hereby amended and re-enacted so that the
 Comprehensive Zoning Ordinance of the Parish of Jefferson shall read as follows.
 (Ord. No. 20783, § 3(I), 9-22-99)
-Sec. 40-2. - Title and purpose.
+#####   
+
 This chapter shall be known, referred to, and cited as "The Comprehensive Zoning Ordinance, as amended, of
 the Parish of Jefferson, Louisiana." The purpose of the Comprehensive Zoning Ordinance is to protect and
 promote public health, safety and general welfare through a set of regulations and procedures for the use of land
 which are consistent with and implement the Jefferson Parish Comprehensive Plan, as adopted.
 (Ord. No. 20783, § 3(II), 9-22-99; Ord. No. 22142, § 1, 3-17-04)
-Sec. 40-3. - Definitions.
+#####   
+
 For the purpose of this chapter, certain words and terms are hereby defined. Words used in the present tense shall
 include the future; the singular number shall include the plural and the plural the singular; the word "building"
 shall include the word "structure" and the word "shall" is mandatory and not directory. Definitions herein are
@@ -955,17 +958,20 @@ Footnotes:
 --- (2) --Editor's note— Ord. No. 23881, § 11, adopted September 22, 2010, amended Art. II to read as herein set out in
 §§ 40-30—40-37. Prior to inclusion of said ordinance, Art. II pertained to similar subject matter. See also the
 Code Comparative Table.
-Sec. 40-30. - Future land use and zoning districts.
+#####   
+
 Future land use districts are established on the official future land use map as adopted in chapter 25 of this Code.
 Zoning districts for the parish are established on the official zoning map.
 (Ord. No. 23881, § 11, 9-22-10; Ord. No. 25891 , § 18, 11-6-19)
-Sec. 40-31. - Establishment of districts.
+#####   
+
 In order to classify, regulate and restrict the location and use of land, buildings, and structures for trade, industry,
 residence, and other purposes; to regulate and restrict the height and size of buildings hereafter erected or
 structurally altered, the area of yards, courts and other open spaces and the density of population, all
 unincorporated areas of the Parish of Jefferson, Louisiana, are divided into the zoning districts shown below.
 (Ord. No. 23881, § 11, 9-22-10)
-Sec. 40-32. - Base zoning districts.
+#####   
+
 The unincorporated areas of Jefferson Parish are divided into the following base zoning districts:
 (a)
 Districts that promote a single use or permit a limited variety of use types:
@@ -1040,7 +1046,8 @@ FC-3 Fat City Commercial Mixed Use District.
 (6)
 U-1S Unrestricted Suburban District.
 (Ord. No. 23881, § 11, 9-22-10; Ord. No. 25020 , § XI, 10-7-15)
-Sec. 40-33. - Overlay zoning districts.
+#####   
+
 The following overlay zoning districts are established for unincorporated Jefferson Parish. These districts
 impose additional requirements on certain properties within one (1) or more underlying base zoning districts.
 (1)
@@ -1066,7 +1073,8 @@ AIM Avondale Industrial Marine District is an overlay zoning district with bound
 that maps the district.
 (Ord. No. 23881, § 11, 9-22-10; Ord. No. 25020 , § XII, 10-7-15; Ord. No. 25041 , § 1, 11-4-15; Ord. No. 25794
 , § 3, 6-19-19)
-Sec. 40-34. - Floating zones.
+#####   
+
 The following floating zones are established for unincorporated Jefferson Parish in order to establish a process
 and standards for the siting of uses that have unique neighborhood, environmental, or design impacts, and have
 not been previously identified on the official zoning map, and that may require individual, legislative approval in
@@ -1076,7 +1084,8 @@ GED Gaming and Entertainment District.
 (2)
 P-1 Penal and Criminal Correctional Institution District.
 (Ord. No. 23881, § 11, 9-22-10)
-Sec. 40-35. - Boundaries of districts.
+#####   
+
 
 The official boundaries of the zoning districts are available from electronic records that are accessible only from
 the Planning Department of the Parish of Jefferson as the official zoning map. The official zoning map contained
@@ -1086,7 +1095,8 @@ information set forth thereon were fully described and copied herein. The offici
 electronic records is based on the paper official zoning maps initially dated and adopted January 27, 1966, and as
 amended thereafter.
 (Ord. No. 23881, § 11, 9-22-10)
-Sec. 40-36. - Interpretation of district boundaries.
+#####   
+
 Where uncertainty exists as to the boundaries of any land use and zoning district shown on said maps the
 following rules shall apply:
 (a)
@@ -1103,7 +1113,8 @@ unless same are indicated by dimensions, shall be determined by use of the scale
 (d)
 In case any further uncertainty exists, the planning director shall determine the location of boundaries.
 (Ord. No. 23881, § 11, 9-22-10)
-Sec. 40-37. - Interpretation of district classification.
+#####   
+
 For the purposes of this chapter, when a comparative analysis is required to determine if one (1) district is more
 restrictive or less restrictive than another district(s) the following rule shall apply: The numerical listing assigned
 to each zoning district in section 40-32(a) of this article shall be controlling; the district having the lower number
@@ -1111,7 +1122,8 @@ shall be more restrictive. This rule shall not apply to the mixed-use base zonin
 (Ord. No. 23881, § 11, 9-22-10)
 Secs. 40-38—40-45. - Reserved.
 ### ARTICLE III. - GENERAL PROVISIONS
-Sec. 40-46. - Restriction on land, buildings and structures.
+#####   
+
 Except as hereinafter provided:
 (1)
 Use. No building or structure shall be erected and no existing building shall be moved, altered, added to, or
@@ -1149,14 +1161,16 @@ and/or vinyl siding, and shall specifically exclude the use of prefabricated or 
 mirrored glass.
 (Ord. No. 20783, § 3(V(1)), 9-22-99; Ord. No. 22012, § 2, 10-8-03; Ord. No. 22670, § 2, 1-11-06; Ord. No.
 23776, § 1, 3-24-10; Ord. No. 24240, § I, 3-28-12)
-Sec. 40-47. - Regulation of land on unprotected side of levees.
+#####   
+
 All lands located within the unincorporated areas of the Parish of Jefferson on the unprotected side of the
 Pontchartrain and Vicinity Hurricane Protection Levee, the West Bank and Vicinity Hurricane Protection Levee,
 the Mississippi River and Tributaries Flood Protection Levee, and the Jefferson Parish Urban Growth Limit
 Line, as established in section 25-43 and regulated in section 25-44 of this Code, shall be subject to the
 regulations of section 39-10, Parish Infrastructure and Environmental Review (PIER) Certificate required,
 (Ord. No. 23167, 11-14-07)
-Sec. 40-48. - Regulation of land under water.
+#####   
+
 All lands located within the unincorporated areas of the Parish of Jefferson on the unprotected side of the
 Pontchartrain and Vicinity Hurricane Protection Levee, the West Bank and Vicinity Hurricane Protection Levee,
 the Mississippi River and Tributaries Flood Protection Levee, and the Jefferson Parish Urban Growth Limit
@@ -1164,31 +1178,36 @@ Line, as established in section 25-43 and regulated in section 25-44 of this Cod
 regulations of section 39-10, Parish Infrastructure and Environmental Review (PIER) Certificate required,
 section 40-48, Regulation of land under water.
 (Ord. No. 20783, § 3(V(2)), 9-22-99; Ord. No. 23167, § 1, 11-14-07; Ord. No. 23167, 11-14-07)
-Sec. 40-49. - Vacation of streets and public ways.
+#####   
+
 Whenever any street, alley or other public way is vacated by official action of the governing body of the Parish
 of Jefferson, the zoning district adjoining each side of such street, alley or public way shall automatically extend
 to the center of same, and all area included therein shall then become subject to all appropriate regulations of the
 extended districts.
 (Ord. No. 20783, § 3(V(3)), 9-22-99; Ord. No. 23167, 11-14-07)
-Sec. 40-50. - Protection of street rights-of-way.
+#####   
+
 Every building or structure hereafter erected on any lot abutting on any street, shown as a designated street on
 the Jefferson Parish Thoroughfare Plan, shall in the computation of the front and side yard depths as hereafter
 required compute and measure the required depth from the right-of-way line as set out in the Jefferson Parish
 Thoroughfare Plan.
 (Ord. No. 20783, § 3(V(4)), 9-22-99; Ord. No. 23167, 11-14-07; Ord. No. 23292, § 2, 5-7-08)
-Sec. 40-51. - Consistency requirements with Comprehensive Plan.
+#####   
+
 Legislative and use actions shall be consistent with the comprehensive plan in accordance with section 25-108,
 Consistency of key development actions with the plan, of this Code.
 (Ord. No. 22142, § 7, 3-17-04; Ord. No. 23167, 11-14-07; Ord. No. 25891 , § 19, 11-6-19)
 Secs. 40-52—40-60. - Reserved.
 ### ARTICLE IV. - BATTURE DISTRICT B-1
-Sec. 40-61. - Description.
+#####   
+
 This district is composed of certain lands that are located within three hundred (300) feet of a residential district
 and that are not protected by levees. Land uses permitted in this district will be limited to temporary
 development unless buildings or structures are erected or constructed in accordance with the provisions of
 Article 202 of the Building Code of Jefferson Parish.
 (Ord. No. 20783, § 3(V-A(1)), 9-22-99)
-Sec. 40-62. - Permitted uses.
+#####   
+
 In B-1 Districts only the following uses of property shall be permitted:
 (1)
 Boat houses and boat docks for recreational purposes.
@@ -1258,10 +1277,12 @@ Single-family.
 Accessory buildings and uses customarily incidental to any of the above uses.
 (Ord. No. 20783, § 3(V-A(2)), 9-22-99; Ord. No. 22962, § 2, 1-10-07; Ord. No. 23898, § 2, 10-13-10; Ord. No.
 24364, § V, 11-7-12)
-Sec. 40-63. - Height regulations.
+#####   
+
 No building shall exceed thirty-five (35) feet in height.
 (Ord. No. 20783, § 3(V-A(3)), 9-22-99)
-Sec. 40-64. - Area regulations.
+#####   
+
 (a)
 Yard.
 (1)
@@ -1297,7 +1318,8 @@ Every lot upon which a dwelling is erected shall have an area of not less than t
 feet per family, provided, however, that a single-family dwelling may be constructed upon any lot of record
 existing at the time of adoption of this chapter.
 (Ord. No. 20783, § 3(V-A(4)), 9-22-99)
-Sec. 40-65. - Sign regulations.
+#####   
+
 (a)
 Number. One (1) on-premises sign shall be permitted for places of worship, public buildings, schools, and
 institutions.
@@ -1312,12 +1334,14 @@ Electronic variable message signs.
 (3)
 Off-premises signs.
 (Ord. No. 24364, § VI, 11-7-12)
-Sec. 40-66. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(V-A(5)), 9-22-99; Ord. No. 23330, § IV, 6-11-08; Ord. No. 24364, § VI, 11-7-12)
 Secs. 40-67—40-75. - Reserved.
 ### ARTICLE V. - SUBURBAN DISTRICT S-1
-Sec. 40-76. - Description.
+#####   
+
 
 This district is composed of certain lands and structures having a low density single-family residential character
 and additional open area where it is likely and desirable that such similar development will occur. Portions of
@@ -1326,7 +1350,8 @@ public transit. Though the district is intended primarily for residential purpos
 and the raising of poultry and live stock is frequently desired by home owners in this district therefore provision
 is made for limited forms of such activity with appropriate safeguards for nearby residences.
 (Ord. No. 20783, § 3(VI(1)), 9-22-99)
-Sec. 40-77. - Permitted uses.
+#####   
+
 In S-1 Districts only the following uses of property shall be permitted:
 (1)
 Farming, including the usual farm buildings and structures, and animal raising, trapping and fishing.
@@ -1485,10 +1510,12 @@ Truck and flower gardening, nurseries and greenhouses.
 Accessory buildings and uses customarily incidental to any of the above uses.
 (Ord. No. 20783, § 3(VI(2)), 9-22-99; Ord. No. 22962, § 3, 1-10-07; Ord. No. 23292, § 3, 5-7-08; Ord. No.
 24364, § VII, 11-7-12; Ord. No. 24807 , § II, 8-27-14; Ord. No. 24823 , § III, 9-17-14)
-Sec. 40-78. - Height regulations.
+#####   
+
 No building or structure shall exceed thirty-five (35) feet in height.
 (Ord. No. 20783, § 3(VI(3)), 9-22-99)
-Sec. 40-79. - Area requirements for permitted uses.
+#####   
+
 (a)
 Minimum yard requirements.
 (1)
@@ -1537,7 +1564,8 @@ Lot width—One hundred (100) feet.
 (3)
 Lot depth—Two hundred (200) feet.
 (Ord. No. 20783, § 3(VI(4)), 9-22-99; Ord. No. 23551, § 1, 5-20-09)
-Sec. 40-80. - Sign regulations.
+#####   
+
 
 The following signs shall be permitted for religious structures and uses, public buildings, schools, institutions,
 and other nonresidential principal uses permitted in this district:
@@ -1610,17 +1638,20 @@ scintillating lights are prohibited.
 (5)
 Variances. The council or the board of zoning adjustments shall not grant variances to the height of signs.
 (Ord. No. 24364, § VIII, 11-7-12; Ord. No. 24807 , § III, 8-27-14; Ord. No. 25405 , § 44, 8-9-17)
-Sec. 40-81. - Exceptions.
+#####   
+
 If the front yard requirements for a new development do not match the front yard setbacks for existing
 developments within an established neighborhood, such new development shall be allowed to match the front
 yard setbacks of existing development within three hundred (300) feet on both sides of the development within
 the same zoning district. The average of the front yard setbacks shall be taken to determine the appropriate front
 yard setback for the new development.
 (Ord. No. 20783, § 3(VI(5)), 9-22-99; Ord. No. 23551, § 2, 5-20-09; Ord. No. 24364, § VIII, 11-7-12)
-Sec. 40-82. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(VI(6)), 9-22-99; Ord. No. 23330, § IV, 6-11-08; Ord. No. 24364, § VIII, 11-7-12)
-Sec. 40-83. - Exterior wall materials.
+#####   
+
 (a)
 Residential dwellings.
 (1)
@@ -1643,7 +1674,8 @@ Riding stables and kennels.
 A variance may be granted for exterior wall materials under the provisions set forth in section 40-792 of this
 Code.
 (Ord. No. 24240, § II, 3-28-12; Ord. No. 24364, § VIII, 11-7-12)
-Sec. 40-84. - Landscaping standards.
+#####   
+
 (a)
 Applicability. Section 33-6.25, Landscaping, buffering, and screening, shall apply for non-residential principal
 uses to new development, or to an existing development when a change in use results in an increase in the
@@ -1662,13 +1694,15 @@ the constraints of the site.
 (Ord. No. 24807 , § IV, 8-27-14; Ord. No. 24989 , § XI, 8-12-15; Ord. No. 25405 , § 45, 8-9-17)
 Secs. 40-85—40-90. - Reserved.
 ### ARTICLE VI. - SINGLE-FAMILY RESIDENTIAL DISTRICT R-1A
-Sec. 40-91. - Description.
+#####   
+
 This district is composed of certain lands and structures having a low density, single-family residential character
 and additional open area where it is desirable and likely that such similar development will occur. Uses are
 limited to single-family residences and such non-residential uses as are intended primarily to provide service to
 the adjacent neighborhood.
 (Ord. No. 20783, § 3(VII-A(1)), 9-22-99)
-Sec. 40-92. - Permitted uses.
+#####   
+
 In R-1A Districts, only the following uses of property shall be permitted:
 (1)
 Dwellings, single-family.
@@ -1886,10 +1920,12 @@ in subparagraph a. shall be followed.
 (Ord. No. 20783, § 3(VII-A(2)), 9-22-99; Ord. No. 20834, § 2, 12-1-99; Ord. No. 21734, § 4, 12-11-02; Ord.
 No. 22962, § 4, 1-10-07; Ord. No. 23898, § 3, 10-13-10; Ord. No. 24364, § IX, 11-7-12; Ord. No. 24807 , § V,
 8-27-14)
-Sec. 40-93. - Height regulations.
+#####   
+
 No building shall exceed thirty-five (35) feet in height.
 (Ord. No. 20783, § 3(VII-A(3)), 9-22-99)
-Sec. 40-94. - Area regulations.
+#####   
+
 (a)
 Yard.
 (1)
@@ -1927,13 +1963,16 @@ Lot area.
 Every lot shall contain an area of not less than five thousand (5,000) square feet, a width of not less than fifty
 (50) feet and a depth of not less than one hundred (100) feet.
 (Ord. No. 20783, § 3(VII-A(4)), 9-22-99; Ord. No. 24807 , § VI, 8-27-14)
-Sec. 40-95. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-80 of this chapter.
 (Ord. No. 24364, § X, 11-7-12; Ord. No. 24807 , § VII, 8-27-14)
-Sec. 40-96. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(VII-A(5)), 9-22-99; Ord. No. 23330, § IV, 6-11-08; Ord. No. 24364, § X, 11-7-12)
-Sec. 40-97. - Exterior wall materials.
+#####   
+
 (a)
 Residential dwellings.
 (1)
@@ -1947,18 +1986,21 @@ of this Code, except when the building is less than five hundred (500) square fe
 A variance may be granted for exterior wall materials under the provisions set forth in section 40-792 of this
 Code.
 (Ord. No. 24240, § III, 3-28-12; Ord. No. 24364, § X, 11-7-12)
-Sec. 40-98. - Landscaping standards.
+#####   
+
 Landscaping shall be provided in accordance with Sec. 40-84 of this Chapter.
 (Ord. No. 24807 , § VIII, 8-27-14)
 Sec. 40-99—40-105. - Reserved
 ### ARTICLE VII. - SUBURBAN RESIDENTIAL DISTRICT R-1B
-Sec. 40-106. - Purpose.
+#####   
+
 This district is intended for single-family low density living only. Uses are limited to single-family detached
 dwelling units and such necessary or desirable uses that are normally compatible with residential living. The
 special permitted use criteria are designed to service low density residential development to ensure compatibility
 and minimize impact on residences.
 (Ord. No. 20783, § 3(VII-B(1)), 9-22-99)
-Sec. 40-107. - Permitted uses.
+#####   
+
 (a)
 Dwellings, single-family.
 (b)
@@ -1975,7 +2017,8 @@ Public parks and playgrounds. Athletic fields and stadiums must meet applicable 
 section 40-747, Regulations for stadiums and athletic fields.
 (Ord. No. 20783, § 3(VII-B(2)), 9-22-99; Ord. No. 22962, § 5, 1-10-07; Ord. No. 23898, § 4, 10-13-10; Ord. No.
 24807 , § IX, 8-27-14)
-Sec. 40-108. - Special permitted uses.
+#####   
+
 (a)
 Second culinary facility is permitted subject to the criteria delineated in section 40-92(18). Second culinary
 facilities are not subject to the stipulations of paragraph (c) below.
@@ -2020,7 +2063,8 @@ The structure or structures shall have the same or similar exterior finish, roof
 surrounding property within three hundred (300) feet.
 (Ord. No. 20783, § 3(VII-B(3)), 9-22-99; Ord. No. 22962, § 6, 1-10-07; Ord. No. 23292, § 4, 5-7-08; Ord. No.
 24364, § XI, 11-7-12; Ord. No. 24807 , § X, 8-27-14)
-Sec. 40-109. - Area requirements for permitted uses.
+#####   
+
 (a)
 Minimum yard requirements.
 (1)
@@ -2065,13 +2109,16 @@ Lot width—Sixty (60) feet.
 (3)
 Lot depth—One hundred twenty (120) feet.
 (Ord. No. 20783, § 3(VII-B(4)), 9-22-99; Ord. No. 23551, § 3, 5-20-09; Ord. No. 24807 , § XI, 8-27-14)
-Sec. 40-110. - Maximum height for permitted uses.
+#####   
+
 Three (3) stories up to a maximum of thirty-five (35) feet in height.
 (Ord. No. 20783, § 3(VII-B(5)), 9-22-99)
-Sec. 40-111. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(VII-B(6)), 9-22-99; Ord. No. 23330, § IV, 6-11-08)
-Sec. 40-112. - Tree preservation.
+#####   
+
 All development shall, to the greatest extent possible, include the preservation of all trees larger than eight (8)
 inches in diameter as measured at a point four and one-half (4.5) feet above the ground and determined to be a
 significant tree by the Jefferson Parish Department of Parkways.
@@ -2088,14 +2135,16 @@ species. The replacement trees shall be in addition to all other landscaping req
 During construction, the significant trees shall be protected by a fence at the drip line of the tree or at a distance
 of ten (10) feet from the trunk, whichever is greater, and using accepted tree protection techniques.
 (Ord. No. 20783, § 3(VII-B(7)), 9-22-99)
-Sec. 40-113. - Exceptions.
+#####   
+
 If the front yard requirements for a new development do not match the front yard setbacks for existing
 developments within an established neighborhood, such new development shall be allowed to match the front
 yard setbacks of existing development within three hundred (300) feet on both sides of the development within
 the same zoning district. The average of the front yard setbacks shall be taken to determine the appropriate front
 yard setback for the new development.
 (Ord. No. 20783, § 3(VII-B(8)), 9-22-99; Ord. No. 23551, § 4, 5-20-09)
-Sec. 40-114. - Exterior wall materials.
+#####   
+
 (a)
 Residential dwellings shall meet the requirements set forth in section 40-46 of this Code.
 (b)
@@ -2108,21 +2157,25 @@ Special permitted uses shall be compatible as defined in section 40-108 of this 
 A variance may be granted for exterior wall materials under the provisions set forth in section 40-792 of this
 Code.
 (Ord. No. 24240, § IV, 3-28-12)
-Sec. 40-115. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-80 of this chapter.
 (Ord. No. 24807 , § XII, 8-27-14)
-Sec. 40-116. - Landscaping standards.
+#####   
+
 The development site or campus of a nonresidential use shall be landscaped in accordance with section 40-84 of
 this chapter.
 (Ord. No. 24807 , § XII, 8-27-14)
 Sec. 40-117—40-125. - Reserved.
 ### ARTICLE VIII. - RURAL RESIDENTIAL DISTRICT R-1C
-Sec. 40-126. - Purpose.
+#####   
+
 The intent and purpose of the district is to provide for single-family residential areas with large lots and low
 population densities. Certain structures and uses required to serve educational, religious, utilities and
 noncommercial recreational needs of such areas are permitted within the districts as special permitted uses.
 (Ord. No. 20783, § 3(VII-C(1)), 9-22-99)
-Sec. 40-127. - Permitted uses.
+#####   
+
 (a)
 Dwellings, single-family.
 (b)
@@ -2139,7 +2192,8 @@ Public parks or playgrounds. Athletic fields and stadiums must meet applicable a
 section 40-747, Regulations for stadiums and athletic fields.
 (Ord. No. 20783, § 3(VII-C(2)), 9-22-99; Ord. No. 22962, § 7, 1-10-07; Ord. No. 23898, § 4, 10-13-10; Ord. No.
 24807 , § XIII, 8-27-14)
-Sec. 40-128. - Special permitted uses.
+#####   
+
 (a)
 Second culinary facility is permitted subject to the criteria delineated in section 40-92(18). Second culinary
 facilities are not subject to the stipulations of paragraph (c) below.
@@ -2183,7 +2237,8 @@ The structure or structures shall have the same or similar exterior finish, roof
 surrounding property within three hundred (300) feet.
 (Ord. No. 20783, § 3(VII-C(3)), 9-22-99; Ord. No. 22962, § 8, 1-10-07; Ord. No. 23292, § 5, 5-7-08; Ord. No.
 24364, § XII, 11-7-12; Ord. No. 24807 , § XIV, 8-27-14)
-Sec. 40-129. - Area requirements for permitted uses.
+#####   
+
 (a)
 Minimum yard requirements.
 (1)
@@ -2228,13 +2283,16 @@ Lot width—Eighty (80) feet.
 (3)
 Lot depth—One hundred fifty (150) feet.
 (Ord. No. 20783, § 3(VII-C(4)), 9-22-99; Ord. No. 22039, § 3, 11-5-03; Ord. No. 23551, § 5, 5-20-09)
-Sec. 40-130. - Maximum height for permitted uses.
+#####   
+
 Three (3) stories up to a maximum of thirty-five (35) feet in height.
 (Ord. No. 20783, § 3(VII-C(5)), 9-22-99)
-Sec. 40-131. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(VII-C(6)), 9-22-99; Ord. No. 23330, § IV, 6-11-08)
-Sec. 40-132. - Tree preservation.
+#####   
+
 All development shall, to the greatest extent possible, include the preservation of all trees larger than eight (8)
 inches in diameter as measured at a point four and one-half (4.5) feet above the ground and determined to be a
 significant tree by the Jefferson Parish Department of Parkways:
@@ -2251,14 +2309,16 @@ species. The replacement trees shall be in addition to all other landscaping req
 During construction, the significant trees shall be protected by a fence at the drip line of the tree or at a distance
 of ten (10) feet from the trunk, whichever is greater, and using accepted tree protection techniques.
 (Ord. No. 20783, § 3(VII-C(7)), 9-22-99)
-Sec. 40-133. - Exceptions.
+#####   
+
 If the front yard requirements for a new development do not match the front yard setbacks for existing
 developments within an established neighborhood, such new development shall be allowed to match the front
 yard setbacks of existing development within three hundred (300) feet on both sides within the same zoning
 district. The average of the front yard setbacks shall be taken to determine the appropriate front yard setback for
 the new development.
 (Ord. No. 20783, § 3(VII-C(8)), 9-22-99; Ord. No. 23551, § 6, 5-20-09)
-Sec. 40-134. - Exterior wall materials.
+#####   
+
 (a)
 Residential dwellings shall meet the requirements set forth in section 40-46 of this Code.
 (b)
@@ -2271,21 +2331,25 @@ Special permitted uses shall be compatible as defined in section 40-128 of this 
 A variance may be granted for exterior wall materials under the provisions set forth in section 40-792 of this
 Code.
 (Ord. No. 24240, § V, 3-28-12)
-Sec. 40-135. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-80 of this chapter.
 (Ord. No. 24807 , § XV, 8-27-14)
-Sec. 40-136. - Landscaping standards.
+#####   
+
 The development site or campus of a nonresidential use shall be landscaped in accordance with section 40-84 of
 this chapter.
 (Ord. No. 24807 , § XV, 8-27-14)
 Secs. 40-137—40-145. - Reserved.
 ### ARTICLE IX. - RURAL RESIDENTIAL DISTRICT R-1D
-Sec. 40-146. - Purpose.
+#####   
+
 The intent and purpose of the district is to provide for single-family residential areas with large lots and low
 population densities. Certain structures and uses required to serve educational, religious, utilities and
 noncommercial recreational needs of such areas are permitted within the districts as special permitted uses.
 (Ord. No. 20783, § 3(VII-D(1)), 9-22-99)
-Sec. 40-147. - Permitted uses.
+#####   
+
 (a)
 Dwellings, single-family.
 (b)
@@ -2302,7 +2366,8 @@ Public parks or playgrounds. Athletic fields and stadiums must meet applicable a
 section 40-747, Regulations for stadiums and athletic fields.
 (Ord. No. 20783, § 3(VII-D(2)), 9-22-99; Ord. No. 22962, § 9, 1-10-07; Ord. No. 23898, § 4, 10-13-10; Ord.
 No. 24807 , § XVI, 8-27-14)
-Sec. 40-148. - Special permitted uses.
+#####   
+
 (a)
 Second culinary facility is permitted subject to the criteria delineated in section 40-92(18). Second culinary
 facilities are not subject to the stipulations of paragraph (c) below.
@@ -2346,7 +2411,8 @@ The structure or structures shall have the same or similar exterior finish, roof
 surrounding property within three hundred (300) feet.
 (Ord. No. 20783, § 3(VII-D(3)), 9-22-99; Ord. No. 22962, § 10, 1-10-07; Ord. No. 23292, § 6, 5-7-08; Ord. No.
 24364, § XIII, 11-7-12; Ord. No. 24807 , § XVII, 8-27-14)
-Sec. 40-149. - Area requirements for permitted uses.
+#####   
+
 (a)
 Minimum yard requirements.
 (1)
@@ -2395,13 +2461,16 @@ Lot width—One hundred (100) feet.
 (3)
 Lot depth—Two hundred (200) feet.
 (Ord. No. 20783, § 3(VII-D(4)), 9-22-99; Ord. No. 22039, § 4, 11-5-03; Ord. No. 23551, § 7, 5-20-09)
-Sec. 40-150. - Maximum height for permitted uses.
+#####   
+
 Three (3) stories up to a maximum of thirty-five (35) feet in height.
 (Ord. No. 20783, § 3(VII-D(5)), 9-22-99)
-Sec. 40-151. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(VII-D(6)), 9-22-99; Ord. No. 23330, § IV, 6-11-08)
-Sec. 40-152. - Tree preservation.
+#####   
+
 All development shall, to the greatest, extent possible, include the preservation of all trees larger than eight (8)
 inches in diameter as measured at a point four and one-half (4.5) feet above the ground and determined to be a
 significant tree by the Jefferson Parish Department of Parkways:
@@ -2418,14 +2487,16 @@ species. The replacement trees shall be in addition to all other landscaping req
 During construction, the significant trees shall be protected by a fence at the drip line of the tree or at a distance
 of ten (10) feet from the trunk, whichever is greater, and using accepted tree protection techniques.
 (Ord. No. 20783, § 3(VII-D(7)), 9-22-99)
-Sec. 40-153. - Exceptions.
+#####   
+
 If the front yard requirements for a new development do not match the front yard setbacks for existing
 developments within an established neighborhood, such new development shall be allowed to match the front
 yard setbacks of existing development within three hundred (300) feet on both sides within the same zoning
 district. The average of the front yard setbacks shall be taken to determine the appropriate front yard setback for
 the new development.
 (Ord. No. 20783, § 3(VII-D(8)), 9-22-99; Ord. No. 23551, § 8, 5-20-09)
-Sec. 40-154. - Exterior wall materials.
+#####   
+
 (a)
 Residential dwellings shall meet the requirements set forth in section 40-46 of this Code.
 (b)
@@ -2438,10 +2509,12 @@ Special permitted uses shall be compatible as defined in section 40-148 of this 
 A variance may be granted for exterior wall materials under the provisions set forth in section 40-792 of this
 Code.
 (Ord. No. 24240, § VI, 3-28-12)
-Sec. 40-155. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-80 of this chapter.
 (Ord. No. 24807 , § XVIII, 8-27-14)
-Sec. 40-156. - Landscaping standards.
+#####   
+
 The development site or campus of a nonresidential use shall be landscaped in accordance with section 40-84 of
 this chapter.
 (Ord. No. 24807 , § XVIII, 8-27-14)
@@ -2451,7 +2524,8 @@ Footnotes:
 --- (3) --Editor's note— Ord. No. 23201, § 2, adopted December 12, 2007, amended Art. X, in its entirety, to read as
 herein set out in §§ 40-166—40-174. Prior to inclusion of said ordinance, Art. X pertained to similar subject
 matter. See also the Code Comparative Table.
-Sec. 40-166. - Purpose.
+#####   
+
 The Old Metairie Neighborhood Conservation District is intended to promote the health, safety, economic,
 cultural, and general welfare of the populace of Jefferson Parish by encouraging the conservation and
 enhancement of the urban environment. The purposes of this district are:
@@ -2478,7 +2552,8 @@ To encourage construction design reflective of traditional regional architecture
 character of the district and reduces impacts from flooding, erosion, and sediment pollution to individual
 properties and to the conservation district as a whole.
 (Ord. No. 23201, § 2, 12-12-07)
-Sec. 40-167. - Structure.
+#####   
+
 The Old Metairie Neighborhood Conservation District shall be in the form of an overlay zone, in addition to and
 superseding the underlying zoning district. Between the Old Metairie Neighborhood Conservation District and
 the underlying zoning district, the more restrictive regulations shall prevail. The Old Metairie Commission shall
@@ -2489,7 +2564,8 @@ Conservation District and which is not listed in section 40-170(2)b. Development
 purview of the Old Metairie Commission, shall be issued by the department of inspection and code enforcement
 without review by the Old Metairie Commission and approval of the development proposal by the Council.
 (Ord. No. 23201, § 2, 12-12-07; Ord. No. 24640, § I, 1-15-14)
-Sec. 40-168. - District boundaries.
+#####   
+
 The Old Metairie Neighborhood Conservation District shall be defined by the following boundaries: the New
 Orleans Terminal Railroad to the north; Metairie Road and the eastern boundary of Orpheum Avenue to the east;
 Northline Avenue from Orpheum Avenue to the rear property line of #40 Nassau Drive to the south; the rear
@@ -2499,7 +2575,8 @@ Metairie Country Club; Metairie Country Day School; St. Francis Xavier Church an
 attached map dated June 2, 1992. Said boundaries shall be reflected on the Official Zoning Map of Jefferson
 Parish.
 (Ord. No. 23201, § 2, 12-12-07)
-Sec. 40-169. - Definitions.
+#####   
+
 The definitions listed below shall serve the purposes of the Old Metairie Neighborhood Conservation District.
 For definitions not specified in this subsection, section 40-3, Definitions, of this chapter shall apply.
 Addition shall mean a structure added to the original structure at some time after completion of the original.
@@ -2668,7 +2745,8 @@ Symmetry shall mean a balance of architectural components in a structure.
 Terracing shall mean a raised bank of earth, or a series of banks, used as a technique to elevate landscaping.
 Elevated planting beds used in landscaping shall be considered terracing.
 (Ord. No. 23201, § 2, 12-12-07; Ord. No. 24169, § I, 12-7-11; Ord. No. 24640, § II, 1-15-14)
-Sec. 40-170. - Old Metairie Commission (OMC).
+#####   
+
 The Old Metairie Commission is hereby created to make recommendations to carry forth the purposes of the Old
 Metairie Neighborhood Conservation District.
 (1)
@@ -2877,7 +2955,8 @@ through the variance process specified in this section. The variance shall be re
 standards comparable to the Americans with Disabilities Act (ADA) guidelines.
 (Ord. No. 23201, § 2, 12-12-07; Ord. No. 24169, § II, 12-7-11; Ord. No. 24640, § III, 1-15-14; Ord. No. 25365 ,
 § 1, 5-24-17)
-Sec. 40-171. - Review procedures.
+#####   
+
 (a)
 General.
 (1)
@@ -3155,7 +3234,8 @@ development activities without permit or inconsistent with any permit or any ter
 place upon any permit.
 (Ord. No. 20783, § 3(VII-E(5)), 9-22-99, Ord. No. 22322, § 1, 9-29-04, Ord. No. 22323, § 3, 9-29-04; Ord. No.
 23201, § 2, 12-12-07; Ord. No. 23250, § 1, 2-13-08; Ord. No. 24003, § III, 5-11-11; Ord. No. 24169, § III, 12-711; Ord. No. 24640, § IV, 1-15-14; Ord. No. 24576, § V, 9-18-13; Ord. No. 24989 , § XII, 8-12-15)
-Sec. 40-172. - Design guidelines.
+#####   
+
 The design guidelines for the Old Metairie Neighborhood Conservation District shall serve as a model for
 appropriate design and to acquaint property owners with the character of Old Metairie before any alterations to
 the property within the district are proposed. The Louisiana Speaks: Pattern Book, prepared for the Louisiana
@@ -3507,7 +3587,8 @@ gateway into the heart of the Old Metairie Neighborhood Conservation District an
 architecture of the surrounding residential development.
 (Ord. No. 23201, § 2, 12-12-07; Ord. No. 23250, § 2, 2-13-08; Ord. No. 24169, § IV, 12-7-11; Ord. No. 24640, §
 V, 1-15-14; Ord. No. 24823 , § IV, 9-17-14)
-Sec. 40-173. - Fill and foundation requirements.
+#####   
+
 To protect and preserve the existing tree canopy and to prevent sediment and construction debris runoff and
 sediment accumulation onto adjacent property, sidewalks, streets, and into storm drains, the following
 regulations shall be met:
@@ -3703,7 +3784,8 @@ A certified topographic survey of the fill contours and the design and construct
 C.
 A drainage plan showing containment of all runoff from the filled site from impacting abutting properties.
 (Ord. No. 23201, § 2, 12-12-07; Ord. No. 24169, § V, 12-7-11)
-Sec. 40-174. - Violations.
+#####   
+
 (a)
 Injunction. Whenever a person has engaged or is about to engage in any act or practice which constitutes a
 violation of this section, the Parish of Jefferson may make application to the appropriate court for an order
@@ -3728,7 +3810,8 @@ dedicated to the planting or maintenance of trees on public property within the 
 given to the Metairie Ridge Tree Preservation District, and third priority given to Council District Five (5).
 (Ord. No. 23201, § 2, 12-12-07; Ord. No. 24169, § VI, 12-7-11)
 ARTICLE X.5. - METAIRIE RIDGE TREE PRESERVATION DISTRICT (MRTPD)
-Sec. 40-175. - Purpose.
+#####   
+
 The intent and purpose of the Metairie Ridge Tree Preservation District is to create and apply an overlay zone
 intended to protect the existing tree canopy in the preservation district and facilitate the maintenance and
 planting of trees in Jefferson Parish. The Metairie Ridge Tree Preservation District shall also facilitate related
@@ -3736,13 +3819,15 @@ urban forestry activities in this district, maintain and add aesthetic appeal, i
 in this district, and generally improve the quality of the environment in the Metairie Ridge Tree Preservation
 District.
 (Ord. No. 22419, § 2, 2-2-05; Ord. No. 22707, § 1, 3-8-06)
-Sec. 40-176. - Structure.
+#####   
+
 Within the Metairie Ridge Tree Preservation District ("MRTPD") the regulations and requirements of the
 MRTPD are imposed in addition to the underlying zoning district regulations. Development and structures
 within the district must conform to the regulations of both the underlying zoning district and the MRTPD, or to
 the more restrictive requirement of the two (2) districts regarding tree preservation or replacement.
 (Ord. No. 22419, § 2, 2-2-05; Ord. No. 22707, § 1, 3-8-06)
-Sec. 40-177. - District boundaries.
+#####   
+
 The Metairie Ridge Tree Preservation District shall be defined by the following boundaries: Beginning at
 Bonnabel Boulevard, to its intersections with Interstate 10 south to Metairie Road; Metairie Road south to North
 Labarre Road to the Norfolk Southern Railroad Tracks; the Norfolk Southern Railroad Tracks east back to
@@ -3750,7 +3835,8 @@ Metairie Road; Metairie Road to the 17th Street Canal; north along the 17th Stre
 west back towards Bonnabel Boulevard and reflected as an overlay zone in the electronic records which
 constitute the Official Zoning Map of Jefferson Parish.
 (Ord. No. 22419, § 2, 2-2-05; Ord. No. 22707, § 1, 3-8-06)
-Sec. 40-178. - Definitions.
+#####   
+
 For the purposes of this article the following words are defined as follows:
 Base of tree shall mean the area delineated by the circumference of the tree trunk at its widest point at or near
 ground level.
@@ -3791,14 +3877,16 @@ protection minimum requirements within this article and as contained in a tree p
 approval by the parish arborist. Root protection zone may appear as the abbreviation "RPZ."
 (Ord. No. 22419, § 2, 2-2-05; Ord. No. 22670, § 4, 1-11-06; Ord. No. 22707, § 1, 3-8-06; Ord. No. 25405 , § 46,
 8-9-17)
-Sec. 40-179. - Authority to place tree related requirements on construction activity.
+#####   
+
 When necessary to protect the tree canopy in the MRTPD, the director of inspection and code enforcement is
 authorized to add, as requirements for the issuance of a building permit on private property in the MRTPD, the
 recommendations of the parish arborist regarding tree preservation, tree removal and replacement of trees on
 private property and public property abutting the permit site. A building permit is required for all construction
 activity, as defined in the MRTPD, not withstanding the provisions of the Building Code of Jefferson Parish.
 (Ord. No. 22419, § 2, 2-2-05; Ord. No. 22707, § 1, 3-8-06)
-Sec. 40-180. - Preservation and maintenance of trees.
+#####   
+
 (a)
 General.
 (1)
@@ -4131,7 +4219,8 @@ recommendations of the parish arborist, may be appealed to the board of zoning a
 days following the decision of the director in accordance with the procedures established by Chapter 40, Article
 XLII. Board of Zoning Adjustments.
 (Ord. No. 22419, § 2, 2-2-05; Ord. No. 22707, § 1, 3-8-06)
-Sec. 40-182. - Application requirements and review procedures for planning department.
+#####   
+
 (a)
 Applications for minor subdivision. In addition to the regular requirements for the minor subdivision application
 process the following additional requirements shall be submitted for such a subdivision in MRTPD:
@@ -4252,18 +4341,21 @@ Review of applications. All subdivision and special permitted use applications s
 according to the standard procedures of the planning department as established in Chapters 33 and 40.
 (Ord. No. 22419, § 2, 2-2-05; Ord. No. 22707, § 1, 3-8-06; Ord. No. 24576, § VI, 9-18-13; Ord. No. 24899 , § II,
 2-11-15)
-Sec. 40-183. - Reserved.
+#####   
+
 Editor's note— Ord. No. 25405 , § 48, adopted Aug. 9, 2017, repealed § 40-183, which pertained to violations
 of the article and derived from Ord. No. 22419, § 2, adopted Feb. 2, 2005 and Ord. No. 22707, § 1, adopted
 March 8, 2006.
 Secs. 40-184, 40-185. - Reserved.
 ### ARTICLE XI. - MANUFACTURED HOME DISTRICT R-1 MH
-Sec. 40-186. - Description.
+#####   
+
 This district is composed of certain area, where it is desirable to recognize a greater density of residential
 manufactured housing dwelling units on permanent foundations, but not permitting multiple dwelling structures.
 In no case will a manufactured home district be less than seven (7) acres.
 (Ord. No. 20783, § 3(VII-F(1)), 9-22-99)
-Sec. 40-187. - Permitted uses.
+#####   
+
 In R-1 MH Districts only the following uses of property shall be permitted:
 (1)
 Any use permitted in an R-1 Single-Family District.
@@ -4273,10 +4365,12 @@ Manufactured housing.
 Accessory buildings, and uses customarily incidental to any of the above listed uses when located on the same
 lot and not involved in the conduct of a business.
 (Ord. No. 20783, § 3(VII-F(2)), 9-22-99; Ord. No. 24807 , § XIX, 8-27-14)
-Sec. 40-188. - Height regulations.
+#####   
+
 No building shall exceed thirty-five (35) feet in height.
 (Ord. No. 20783, § 3(VII-F(3)), 9-22-99)
-Sec. 40-189. - Area regulations.
+#####   
+
 (a)
 Yard.
 (1)
@@ -4315,23 +4409,28 @@ Lot area.
 Lots occupied by single-family dwellings shall contain an area of not less than four thousand (4,000) square feet,
 a width of not less than forty (40) feet and a depth of not less than seventy-five (75) feet.
 (Ord. No. 20783, § 3(VII-F(4)), 9-22-99; Ord. No. 24807 , § XX, 8-27-14)
-Sec. 40-190. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-80 of this chapter.
 (Ord. No. 24364, § XIV, 11-7-12; Ord. No. 24807 , § XXI, 8-27-14)
-Sec. 40-191. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(VII-F(5)), 9-22-99; Ord. No. 23330, § IV, 6-11-08; Ord. No. 24364, § XIV, 11-7-12)
-Sec. 40-192. - Landscaping standards.
+#####   
+
 The development site or campus of a nonresidential use shall be landscaped in accordance with section 40-84 of
 this chapter.
 (Ord. No. 24807 , § XXII, 8-27-14)
 Secs. 40-193—40-200. - Reserved.
 ### ARTICLE XII. - TWO-FAMILY RESIDENTIAL DISTRICT R-2
-Sec. 40-201. - Description.
+#####   
+
 This district is composed of certain area where it is desirable to recognize a greater density of residential use by
 provision for the placement of two-family dwelling units, but not permitting multiple dwelling structures.
 (Ord. No. 20783, § 3(VIII(1)), 9-22-99)
-Sec. 40-202. - Permitted uses.
+#####   
+
 In R-2 Districts only the following uses of property shall be permitted:
 (1)
 Any use permitted in an R-1 Single-Family District.
@@ -4359,10 +4458,12 @@ Condominiums.
 Accessory buildings and uses customarily incidental to any of the permitted uses within this district when
 located on the same lot and not involved in the conduct of a business.
 (Ord. No. 20783, § 3(VIII(2)), 9-22-99; Ord. No. 24807 , § XXXIII, 8-27-14; Ord. No. 24823 , § V, 9-17-14)
-Sec. 40-203. - Height regulations.
+#####   
+
 No building shall exceed thirty-five (35) feet in height.
 (Ord. No. 20783, § 3(VIII(3)), 9-22-99)
-Sec. 40-204. - Area regulations.
+#####   
+
 (a)
 Yard.
 (1)
@@ -4405,13 +4506,16 @@ lots the frontage may be measured at the front yard set back line.
 Lots occupied by two-family dwellings shall contain an area of not less than twenty-five hundred (2,500) square
 feet per family.
 (Ord. No. 20783, § 3(VIII(4)), 9-22-99; Ord. No. 24807 , § XXIV, 8-27-14)
-Sec. 40-205. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-80 of this chapter.
 (Ord. No. 24364, § XV, 11-7-12; Ord. No. 24807 , § XXV, 8-27-14)
-Sec. 40-206. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(VIII(5)), 9-22-99; Ord. No. 23330, § IV, 6-11-08; Ord. No. 24364, § XV, 11-7-12)
-Sec. 40-207. - Exterior wall materials.
+#####   
+
 (a)
 Residential dwellings.
 (1)
@@ -4425,20 +4529,23 @@ of this Code, except when the building is less than five hundred (500) square fe
 A variance may be granted for exterior wall materials under the provisions set forth in section 40-792 of this
 Code.
 (Ord. No. 24240, § VII, 3-28-12; Ord. No. 24364, § XV, 11-7-12)
-Sec. 40-208. - Landscaping standards.
+#####   
+
 The development site or campus of a nonresidential use shall be landscaped in accordance with section 40-84 of
 this chapter.
 (Ord. No. 24807 , § XXVI, 8-27-14)
 Secs. 40-209—40-215. - Reserved.
 ### ARTICLE XIII. - THREE- AND FOUR-FAMILY RESIDENTIAL DISTRICT RR-3
-Sec. 40-216. - Purpose.
+#####   
+
 The purpose of the RR-3 District is to provide areas for the location of multiple-family structures of low and
 intermediate density with proper design and landscape standards. The RR-3 District is intended to serve as a
 transition zone between high density and low density residential development, and between commercial and
 residential development. The RR-3 District should be accessible to public transportation and other necessary
 Parish services.
 (Ord. No. 20783, § 3(IX(1)), 9-22-99)
-Sec. 40-217. - Permitted uses.
+#####   
+
 In RR-3 Districts only the following uses of property shall be permitted, however, single-family residences in
 existence at the time of adoption of this ordinance shall be considered conforming uses:
 (1)
@@ -4605,10 +4712,12 @@ located on the same lot and not involving the conduct of a business.
 (Ord. No. 20783, § 3(IX(2)), 9-22-99; Ord. No. 20834, § 3, 12-1-99; Ord. No. 21734, § 6, 12-11-02; Ord. No.
 22962, § 11, 1-10-07; Ord. No. 23898, § 5, 10-13-10; Ord. No. 24364, § XVI, 11-7-12; Ord. No. 24807 , §
 XXVII, 8-27-14; Ord. No. 24823 , § VI, 9-17-14)
-Sec. 40-218. - Height regulations.
+#####   
+
 No building shall exceed thirty-five (35) feet in height.
 (Ord. No. 20783, § 3(IX(3)), 9-22-99)
-Sec. 40-219. - Area regulations.
+#####   
+
 (a)
 Yard.
 (1)
@@ -4689,15 +4798,18 @@ Maximum Height
 35 feet
 
 (Ord. No. 20783, § 3(IX(4)), 9-22-99; Ord. No. 24807 , § XXVIII, 8-27-14)
-Sec. 40-220. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-80 of this chapter.
 (Ord. No. 24364, § XVII, 11-7-12; Ord. No. 24807 , § XXIX, 8-27-14)
-Sec. 40-221. - Landscape standards.
+#####   
+
 The development site or campus of a nonresidential use shall be landscaped in accordance with section 40-84 of
 this chapter.
 (Ord. No. 20783, § 3(IX(6)), 9-22-99; Ord. No. 22670, § 5, 1-11-06; Ord. No. 23330, § V, 6-11-08; Ord. No.
 24807 , § XXX, 8-27-14)
-Sec. 40-222. - General design standards.
+#####   
+
 (a)
 Parking spaces shall be oriented so that no vehicle is able to back directly into a public right-of-way.
 (b)
@@ -4712,7 +4824,8 @@ The trash disposal area shall be screened by an opaque fence.
 (2)
 When dumpsters are utilized, the required fence shall be a minimum height of seven (7) feet.
 (Ord. No. 20783, § 3(IX(7)), 9-22-99; Ord. No. 24823 , § VII, 9-17-14)
-Sec. 40-223. - Exterior wall materials.
+#####   
+
 (a)
 Residential dwellings.
 (1)
@@ -4728,13 +4841,15 @@ Code.
 (Ord. No. 24240, § VIII, 3-28-12)
 Secs. 40-224—40-235. - Reserved.
 ### ARTICLE XIV. - MULTIPLE-FAMILY RESIDENTIAL DISTRICT R-3
-Sec. 40-236. - Description.
+#####   
+
 This district is composed of certain areas where it is desirable to recognize a higher density of residential use.
 Because of the greater density of population and concentration of vehicles these districts are situated where they
 may be more easily served by public and commercial services and have easier access to thoroughfares and
 collector streets.
 (Ord. No. 20783, § 3(X(1)), 9-22-99)
-Sec. 40-237. - Permitted uses.
+#####   
+
 In R-3 Districts only the following uses of property shall be permitted:
 (1)
 Any use permitted in an RR-3 Family District.
@@ -4819,7 +4934,8 @@ a.
 A sign pertaining to the permitted uses in this district not to exceed twenty (20) square feet in total area.
 (Ord. No. 20783, § 3(X(2)), 9-22-99; Ord. No. 22794, § 3, 7-19-06; Ord. No. 24364, § XVIII, 11-7-12; Ord. No.
 24807 , § XXXI, 8-27-14; Ord. No. 24823 , § VIII, 9-17-14; Ord. No. 25405 , § 49, 8-9-17)
-Sec. 40-238. - Height regulations.
+#####   
+
 (a)
 Maximum height allowed by right. The maximum height allowed by right is the width of the right-of-way of the
 street upon which the building or structure fronts. In no case shall the height of any building or structure exceed
@@ -5099,7 +5215,8 @@ A radio repeater shall be required for buildings that exceed one hundred (100) f
 Multiple radio repeaters shall be required for buildings that exceed two hundred (200) feet in height.
 (Ord. No. 20783, § 3(X(3)), 9-22-99; Ord. No. 22794, § 3, 7-19-06; Ord. No. 23330, § VI, 6-11-08; Ord. No.
 23292, § 7, 5-7-08; Ord. No. 24823 , § IX, 9-17-14; Ord. No. 25405 , § 50, 8-9-17; Ord. No. 25744 , § 4, 2-2719)
-Sec. 40-239. - Area regulations.
+#####   
+
 (a)
 Yard requirements for multiple-family dwellings that exceed the maximum height allowed by right are located in
 the height regulations section of this district.
@@ -5177,21 +5294,25 @@ Lot area per family regulations shall not apply to dormitory buildings, fraterni
 culinary facilities.
 (Ord. No. 20783, § 3(X(4)), 9-22-99; Ord. No. 22794, § 3, 7-19-06; Ord. No. 23292, § 8, 5-7-08; Ord. No.
 24807 , § XXXII, 8-27-14)
-Sec. 40-240. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-80 of this chapter.
 (Ord. No. 24364, § XIX, 11-7-12; Ord. No. 24807 , § XXXIII, 8-27-14)
-Sec. 40-241. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 
 (Ord. No. 20783, § 3(X(5)), 9-22-99; Ord. No. 22794, § 3, 7-19-06; Ord. No. 23330, § IV, 6-11-08; Ord. No.
 24364, § XIX, 11-7-12)
-Sec. 40-242. - Landscaping standards.
+#####   
+
 The development site or campus of a nonresidential use shall be landscaped in accordance with section 40-84 of
 this chapter.
 (Ord. No. 24807 , § XXXIV, 8-27-14)
 Secs. 40-243—40-250. - Reserved.
 ### ARTICLE XV. - TOWNHOUSES R-1TH
-Sec. 40-251. - Description.
+#####   
+
 For the purposes of this section, townhouses are family dwelling units constructed in a series of groups including
 more than two (2) units with some common walls. As such, they are a special type of single-family dwelling to
 be excluded from certain regulations relating to single-family dwellings and townhouses in R-2, Two-Family
@@ -5200,7 +5321,8 @@ in this ordinance, but subject to the requirements for single-family dwellings a
 generally with respect to permitted principal and accessory uses and structures, prohibited uses and structures,
 height, number of off-street parking spaces and signs.
 (Ord. No. 20783, § 3(X-A(1)), 9-22-99)
-Sec. 40-252. - Permitted uses.
+#####   
+
 In R-1 TH Districts any use permitted in an R-1 Single-Family Residential District and townhouses shall be
 permitted providing that the following regulations apply:
 (1)
@@ -5218,10 +5340,12 @@ No portion of a townhouse or accessory structure in or related to one (1) group 
 be closer than ten (10) feet to any portion of a townhouse or accessory structure related to another group and
 each dwelling unit shall be located on a separate lot of record.
 (Ord. No. 20783, § 3(X-A(2)), 9-22-99)
-Sec. 40-253. - Height regulations.
+#####   
+
 No building shall exceed thirty-five (35) feet in height.
 (Ord. No. 20783, § 3(X-A(3)), 9-22-99)
-Sec. 40-254. - Area regulations.
+#####   
+
 (a)
 Front yard. The front yard regulations for all buildings are the same as those in R-1A Single-Family Residential
 District.
@@ -5245,13 +5369,16 @@ Lots occupied by single-family dwellings. Lots occupied by single-family dwellin
 less than four thousand (4,000) square feet, a width of not less than forty (40) feet and a depth of not less than
 seventy-five (75) feet, except on cul-de-sac lots the frontage may be measured at the front yard set back line.
 (Ord. No. 20783, § 3(X-A(4)), 9-22-99; Ord. No. 24807 , § XXXV, 8-27-14)
-Sec. 40-255. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-80 of this chapter.
 (Ord. No. 24364, § XX, 11-7-12; Ord. No. 24807 , § XXXVI, 8-27-14)
-Sec. 40-256. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(X-A(5)), 9-22-99; Ord. No. 23330, § IV, 6-11-08; Ord. No. 24364, § XX, 11-7-12)
-Sec. 40-257. - Exterior wall materials.
+#####   
+
 (a)
 Residential dwellings.
 (1)
@@ -5265,13 +5392,15 @@ of this Code, except when the building is less than five hundred (500) square fe
 A variance may be granted for exterior wall materials under the provisions set forth in section 40-792 of this
 Code.
 (Ord. No. 24240, § IX, 3-28-12; Ord. No. 24364, § XX, 11-7-12)
-Sec. 40-258. - Landscaping standards.
+#####   
+
 The development site or campus of a nonresidential use shall be landscaped in accordance with section 40-84 of
 this chapter.
 (Ord. No. 24807 , § XXXVII, 8-27-14)
 Secs. 40-259—40-265. - Reserved.
 ### ARTICLE XVI. - CONDOMINIUMS R-1 CO
-Sec. 40-266. - Description.
+#####   
+
 For the purposes of this section, condominiums are a combination of two (2) kinds of actual ownership of real
 property. Ownership in fee simple of the townhouse or apartment and undivided ownership, in common with
 other purchases, of the common elements in the structure and including the land and its appurtenances. Common
@@ -5280,7 +5409,8 @@ pool and other recreational facilities, entrance lobbies, elevators, halls, heat
 part of each deed. Each owner is charged according to the value of his property in relation to the entire
 condominium.
 (Ord. No. 20783, § 3(X-B(1)), 9-22-99)
-Sec. 40-267. - Permitted uses.
+#####   
+
 In R-1 CO Districts only the following uses of property shall be permitted:
 (1)
 Any use permitted in an RR-3 Family District.
@@ -5289,7 +5419,8 @@ Any use permitted in an R-1 TH Townhouse District.
 (3)
 Condominiums.
 (Ord. No. 20783, § 3(X-B(2)), 9-22-99)
-Sec. 40-268. - Height regulations.
+#####   
+
 (a)
 Maximum height allowed by right. The maximum height allowed by right is the width of the right-of-way of the
 street upon which the building fronts, provided further that in no case shall the height of any building exceed
@@ -5569,7 +5700,8 @@ A radio repeater shall be required for structures that exceed one hundred (100) 
 Multiple radio repeaters shall be required for structures that exceed two hundred (200) feet in height.
 (Ord. No. 20783, § 3(X-B(3)), 9-22-99; Ord. No. 22794, § 4, 7-19-06; Ord. No. 23330, § VII, 6-11-08; Ord. No.
 23292, § 9, 5-7-08; Ord. No. 25405 , § 51, 8-9-17; Ord. No. 25744 , § 5, 2-27-19)
-Sec. 40-269. - Area regulations.
+#####   
+
 (a)
 Yard requirements for condominiums of multiple-family dwellings that exceed the maximum height allowed by
 right are located in the height regulations section of this district.
@@ -5636,7 +5768,8 @@ contain an area equal to that required by the R3 District lot area requirements.
 Sec. 40-269.5. - Sign regulations.
 Signs shall be permitted in accordance with section 40-80 of this chapter.
 (Ord. No. 24364, § XXI, 11-7-12; Ord. No. 24807 , § XXXIX, 8-27-14)
-Sec. 40-270. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(X-B(5)), 9-22-99; Ord. No. 22794, § 4, 7-19-06; Ord. No. 23330, § IV, 6-11-08)
 Sec. 40-270.1. - Landscape standards.
@@ -5650,10 +5783,12 @@ pertained to the Old Bucktown Mixed-Use Residential District (OBM-1). Provisions
 Bucktown Mixed-Use Residential District (OBM-1) are now set forth in §§ 33-3.51.1—33-3.51.6 of this Code.
 Secs. 40-271—40-280. - Reserved.
 ### ARTICLE XVII. - MEDICAL SERVICE DISTRICT H-1
-Sec. 40-281. - Description.
+#####   
+
 This district is composed of certain lands and structures used primarily in relation to hospitals.
 (Ord. No. 20783, § 3(XI(1)), 9-22-99)
-Sec. 40-282. - Permitted uses.
+#####   
+
 A building or land shall be used only for the following purposes:
 (1)
 Any use permitted in an R-1A Single-Family District.
@@ -5717,7 +5852,8 @@ Any facility requiring a variance to the landscaping and buffering requirements 
 variance to these provisions to the Jefferson Parish Council in accordance with Commercial Parkway Overlay
 Zone (CPZ), section 40-480, Site Plan Review.
 (Ord. No. 20783, § 3(XI(2)), 9-22-99; Ord. No. 25405 , § 52, 8-9-17)
-Sec. 40-283. - Sign regulations.
+#####   
+
 (a)
 Permitted signs.
 (1)
@@ -5735,11 +5871,13 @@ Electronic variable message signs.
 (3)
 Off-premises signs.
 (Ord. No. 20783, § 3(XI(3)), 9-22-99; Ord. No. 24364, § XXIII, 11-7-12)
-Sec. 40-284. - Height regulations.
+#####   
+
 No
 building shall exceed thirty-five (35) feet in height.
 (Ord. No. 20783, § 3(XI(4)), 9-22-99)
-Sec. 40-285. - Area regulations.
+#####   
+
 (a)
 Front yard. The front yard regulations for all buildings are the same as those in the R-1A, Single-Family
 Residential District.
@@ -5753,15 +5891,18 @@ Residential District.
 Lot area per family. The lot area regulations for dwellings are the same as those in the R-1A, Single-Family
 Residential District.
 (Ord. No. 20783, § 3(XI(5)), 9-22-99)
-Sec. 40-286. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XI(6)), 9-22-99; Ord. No. 23330, § IV, 6-11-08)
 Secs. 40-287—40-300. - Reserved.
 ### ARTICLE XVIII. - MEDICAL SERVICE DISTRICT H-2
-Sec. 40-301. - Description.
+#####   
+
 This district is composed of certain lands and structures used primarily in relation to hospitals.
 (Ord. No. 20783, § 3(XII(1)), 9-22-99)
-Sec. 40-302. - Permitted uses.
+#####   
+
 A building or land shall be used only for the following purposes:
 (1)
 Any use permitted in an R-3, Multiple-Family District.
@@ -5839,7 +5980,8 @@ Accessory buildings and uses customarily incidental to any of the above uses whe
 Multiple-family dwellings.
 (Ord. No. 20783, § 3(XII(2)), 9-22-99; Ord. No. 22670, § 6, 1-11-06; Ord. No. 22794, § 5, 7-19-06; Ord. No.
 23330, § VIII, 6-11-08; Ord. No. 24823 , § X, 9-17-14; Ord. No. 25405 , § 53, 8-9-17)
-Sec. 40-303. - Sign regulations.
+#####   
+
 (a)
 Permitted signs.
 (1)
@@ -5876,7 +6018,8 @@ Flashing signs and signs with animated and scintillating lights.
 (2)
 Off-premises signs.
 (Ord. No. 20783, § 3(XII(3)), 9-22-99; Ord. No. 22794, § 5, 7-19-06; Ord. No. 24364, § XXIV, 11-7-12)
-Sec. 40-304. - Height regulations.
+#####   
+
 (a)
 Maximum height allowed by right. The maximum height allowed by right is seventy-five (75) feet except as
 provided for in Sec. 40-737 and in this section with respect to multiple-family dwellings.
@@ -6158,7 +6301,8 @@ A radio repeater shall be required for structures that exceed one hundred (100) 
 Multiple radio repeaters shall be required for buildings that exceed two hundred (200) feet in height.
 (Ord. No. 20783, § 3(XII(4)), 9-22-99; Ord. No. 22794, § 5, 7-19-06; Ord. No. 23330, § IX, 6-11-08; Ord. No.
 23292, § 11, 5-7-08; Ord. No. 25405 , § 54, 8-9-17; Ord. No. 25744 , § 6, 2-27-19)
-Sec. 40-305. - Area regulations.
+#####   
+
 (a)
 Front yard. The front yard regulations for all buildings are the same as those in R-3, Multiple-Family Residential
 District.
@@ -6172,7 +6316,8 @@ Residential District.
 Lot area per family. The lot area regulations for dwellings are the same as those in the R-3, Multiple-Family
 Residential District.
 (Ord. No. 20783, § 3(XII(5)), 9-22-99)
-Sec. 40-306. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XII(5)), 9-22-99; Ord. No. 22794, § 5, 7-19-06; Ord. No. 23330, § IV, 6-11-08)
 Secs. 40-307—40-309. - Reserved.
@@ -6184,7 +6329,8 @@ Old Bucktown Mixed-Use Commercial District (OBM-2) are now set forth in §§ 33-
 Code.
 Secs. 40-310—40-320. - Reserved.
 ### ARTICLE XIX. - NEIGHBORHOOD COMMERCIAL DISTRICT C-1
-Sec. 40-321. - Description.
+#####   
+
 This district is composed of certain lands and structures used primarily to provide for the retailing of goods and
 the furnishing of selected services. Regulations for the district are intended to permit and encourage full
 development of the necessary commercial uses while at the same time protecting nearby residential areas from
@@ -6212,7 +6358,8 @@ That the need for such neighborhood commercial district is justified on the basi
 applicant, which clearly indicate that a present or potential market exists for the facilities and services proposed,
 and that existing zoned neighborhood commercial districts cannot adequately satisfy these needs.
 (Ord. No. 20783, § 3(XIII(1)), 9-22-99)
-Sec. 40-322. - Permitted uses.
+#####   
+
 In C-1 districts only the following uses of property shall be permitted:
 (1)
 Any existing stand-alone single-family, two-family, three-family, or four-family dwelling shall be recognized as
@@ -6459,7 +6606,8 @@ the more restrictive side and rear yard requirements of this article shall apply
 No. 22962, § 12, 1-10-07; Ord. No. 23330, § XI, 6-11-08; Ord. No. 23292, § 13, 5-7-08; Ord. No. 23954, § 4, 22-11; Ord. No. 24112, § II, 9-21-11; Ord. No. 24364, § XXVI, 11-7-12; Ord. No. 24823 , § XI, 9-17-14; Ord.
 No. 25405 , §§ 55, 56, 8-9-17; Ord. No. 25349 , § 5, 5-3-17; Ord. No. 25379 , § 3, 6-28-17; Ord. No. 25513 , §
 11, 2-21-18)
-Sec. 40-323. - Height regulations.
+#####   
+
 (a)
 Maximum height allowed by right. The maximum height allowed by right is forty-five (45) feet except as
 provided for in section 40-737 and in this section with respect to multiple dwelling units.
@@ -6744,7 +6892,8 @@ A radio repeater shall be required for buildings that exceed one hundred (100) f
 Multiple radio repeaters shall be required for buildings that exceed two hundred (200) feet in height.
 (Ord. No. 20783, § 3(XIII(3)), 9-22-99; Ord. No. 22794, § 6, 7-19-06; Ord. No. 23330, § XII, 6-11-08; Ord. No.
 23292, § 14, 5-7-08; Ord. No. 25405 , § 57, 8-9-17; Ord. No. 25744 , § 7, 2-27-19)
-Sec. 40-324. - Area regulations.
+#####   
+
 (a)
 Yard requirements for buildings with multiple dwelling units that exceed the maximum height allowed by right
 are located in the height regulations section of this district.
@@ -6784,7 +6933,8 @@ Multiple-Family Residential District.
 Lot area. When a lot is improved for a stand-alone residential use, or when living facilities are erected above or
 in connection with other uses, the lot area per family regulation shall be the same as those in the R-3, MultipleFamily Residential District.
 (Ord. No. 20783, § 3(XIII(4)), 9-22-99; Ord. No. 21715, § 2, 11-13-02; Ord. No. 22794, § 6, 7-19-06)
-Sec. 40-325. - Sign regulations.
+#####   
+
 (a)
 Permitted signs.
 (1)
@@ -6845,21 +6995,25 @@ Off-premises signs.
 Large development sites. When the area of C-1 zoning exceeds ten (10) acres, the requirements for C-2 zoning
 shall take effect except that off-premises signs shall still be prohibited.
 (Ord. No. 24364, § XXVII 11-7-12)
-Sec. 40-326. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIII(5)), 9-22-99; Ord. No. 22794, § 6, 7-19-06; Ord. No. 23330, § IV, 6-11-08; Ord. No.
 24364, § XXVII 11-7-12)
-Sec. 40-327. - Loading zone requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIII(6)), 9-22-99; Ord. No. 23330, § XIII, 6-11-08; Ord. No. 24364, § XXVII 11-7-12)
 Secs. 40-328—40-340. - Reserved.
 ### ARTICLE XX. - GENERAL OFFICES GO-1
-Sec. 40-341. - Description.
+#####   
+
 The purpose of this district is to create an environment especially suited to a group of professional, general
 administrative, and general sales offices, together with certain commercial uses primarily to serve employees in
 the district. The district regulations are such as to encourage compatibility with the residential surroundings.
 (Ord. No. 20783, § 3(XIII-A(1)), 9-22-99)
-Sec. 40-342. - Permitted uses.
+#####   
+
 In GO-1 Districts only the following uses of property shall be permitted:
 (1)
 One (1) or more dwelling units are allowed in the main structure containing nonresidential uses permitted in this
@@ -7041,7 +7195,8 @@ Tailor, milliner, alterationist or similar business employing not more than five
 which does not engage in the sale of ready-to-wear garments.
 (Ord. No. 20783, § 3(XIII-A(2)), 9-22-99; Ord. No. 21715, § 3, 11-13-02; Ord. No. 22794, § 7, 7-19-06; Ord.
 No. 23330, § XIV, 6-11-08; Ord. No. 23292, § 15, 5-7-08; Ord. No. 23906, § 1, 11-3-10; Ord. No. 23954, § 2, 22-11; Ord. No. 25405 , § 58, 8-9-17; Ord. No. 25349 , § 6, 5-3-17; Ord. No. 25513 , § 12, 2-21-18)
-Sec. 40-343. - Height regulations.
+#####   
+
 (a)
 Maximum height allowed by right. The maximum height allowed by right is sixty-five (65) feet except as
 provided for in section 40-737 and in this section with respect to multiple-family dwellings.
@@ -7324,7 +7479,8 @@ A radio repeater shall be required for buildings that exceed one hundred (100) f
 Multiple radio repeaters shall be required for buildings that exceed two hundred (200) feet in height.
 (Ord. No. 20783, § 3(XIII-A(3)), 9-22-99; Ord. No. 22794, § 7, 7-19-06; Ord. No. 23330, § XV, 6-11-08; Ord.
 No. 23292, § 16, 5-7-08; Ord. No. 25405 , § 59, 8-9-17; Ord. No. 25744 , § 8, 2-27-19)
-Sec. 40-344. - Area regulations.
+#####   
+
 (a)
 Yard requirements for multiple-family dwellings that exceed the maximum height allowed by right are located in
 the height regulations section of this district.
@@ -7364,7 +7520,8 @@ Multiple-Family Residential District.
 Lot area. When a lot is improved for a stand-alone residential use, or when living facilities are erected above or
 in connection with other uses, the lot area per family regulations shall be the same as those in the R-3 MultipleFamily Residential District.
 (Ord. No. 20783, § 3(XIII-A(4)), 9-22-99; Ord. No. 21715, § 4, 11-13-02; Ord. No. 22794, § 7, 7-19-06)
-Sec. 40-345. - Sign regulations.
+#####   
+
 (a)
 Permitted signs.
 (1)
@@ -7421,21 +7578,25 @@ Flashing signs and signs with animated and scintillating lights.
 (3)
 Off-premises signs.
 (Ord. No. 23906, § 2, 11-3-10; Ord. No. 24364, § XXVIII, 11-7-12)
-Sec. 40-346. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIII-A(5)), 9-22-99; Ord. No. 22794, § 7, 7-19-06; Ord. No. 23330, § IV, 6-11-08; Ord.
 No. 23906, § 2, 11-3-10)
-Sec. 40-347. - Loading zone requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIII-A(6)), 9-22-99; Ord. No. 23330, § XIII, 6-11-08; Ord. No. 23906, § 2, 11-3-10)
 Secs. 40-348—40-360. - Reserved.
 ### ARTICLE XXI. - GENERAL OFFICES GO-2
-Sec. 40-361. - Description.
+#####   
+
 The purpose of this district is to create an environment especially suited to a group of professional, general
 administrative, and general sales offices, together with certain commercial uses primarily to service employees
 in the district. The district regulations are such as to protect adjacent commercial and residential uses.
 (Ord. No. 20783, § 3(XIII-B(1)), 9-22-99)
-Sec. 40-362. - Permitted uses.
+#####   
+
 In GO-2 Districts only the following uses of property shall be permitted:
 (1)
 One (1) or more dwelling units are allowed only in the main structure containing nonresidential uses permitted
@@ -7586,10 +7747,12 @@ which does not engage in the sale of ready-to-wear garments.
 (Ord. No. 20783, § 3(XIII-B(2)), 9-22-99; Ord. No. 21715, § 5, 11-13-02; Ord. No. 22670, § 7, 1-11-06; Ord.
 No. 23330, § XVI, 6-11-08; Ord. No. 23906, § 3, 11-3-10; Ord. No. 23954, § 3, 2-2-11; Ord. No. 24823 , § XII,
 9-17-14; Ord. No. 25405 , §§ 60, 61, 8-9-17; Ord. No. 25513 , § 13, 2-21-18)
-Sec. 40-363. - Height regulations.
+#####   
+
 No building or structure shall exceed thirty-five (35) feet.
 (Ord. No. 20783, § 3(XIII-B(3)), 9-22-99)
-Sec. 40-364. - Area regulations.
+#####   
+
 (a)
 Yard.
 (1)
@@ -7627,7 +7790,8 @@ Lot area. When a lot is improved for a stand-alone residential use, or when livi
 in connection with other uses, the lot area per family regulations shall be the same as those required in the R-3
 Multiple-Family Residential District.
 (Ord. No. 20783, § 3(XIII-B(4)), 9-22-99; Ord. No. 21715, § 6, 11-13-02)
-Sec. 40-365. - Sign regulations.
+#####   
+
 (a)
 Permitted signs.
 (1)
@@ -7675,15 +7839,18 @@ Electronic variable message signs.
 (4)
 Off-premises signs.
 (Ord. No. 23906, § 4, 11-3-10; Ord. No. 24364, § XXIX, 11-7-12)
-Sec. 40-366. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIII-B(5)), 9-22-99; Ord. No. 23330, § IV, 6-11-08; Ord. No. 23906, § 4, 11-3-10)
-Sec. 40-367. - Loading zone requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIII-B(6)), 9-22-99; Ord. No. 23330, § XIII, 6-11-08; Ord. No. 23906, § 4, 11-3-10)
 Secs. 40-368—40-380. - Reserved.
 ### ARTICLE XXII. - CORE DISTRICT-RESIDENTIAL CD-R
-Sec. 40-381. - Purpose.
+#####   
+
 This district is designed to encompass residential neighborhoods on the fringes of the business core. A
 characteristic of this district is the prevalence of high density residential uses, which complement the adjacent
 business core by providing living accommodations convenient to nearby employment centers. The areas
@@ -7692,7 +7859,8 @@ infill development, or less developed lands near a growing business core which c
 density residential development. This district should have access to major thoroughfares and shall be found only
 in conjunction with BC-1 and BC-2, Business Core Districts.
 (Ord. No. 20783, § 3(XIII-C(1)), 9-22-99)
-Sec. 40-382. - Permitted uses.
+#####   
+
 In CD-R Districts only the following uses of property shall be permitted:
 (1)
 Board and care home provided all applicable requirements are met and approval is obtained in accordance with
@@ -7769,7 +7937,8 @@ and not involving the conduct of a business, including parking and storage garag
 a multiple-family dwelling, club or other building requiring provisions for off-street parking.
 (Ord. No. 20783, § 3(XIII-C(2)), 9-22-99; Ord. No. 22794, §§ 2, 8, 7-19-06; Ord. No. 24364, § XXX, 11-7-12;
 Ord. No. 24807 , § XLI, 8-27-14; Ord. No. 25405 , § 62, 8-9-17)
-Sec. 40-383. - Height regulations.
+#####   
+
 (a)
 Maximum height allowed by right. The maximum height allowed by right is sixty (60) feet except as provided in
 section 40-737 and in this section for multiple-family structures.
@@ -8045,7 +8214,8 @@ A radio repeater shall be required for buildings that exceed one hundred (100) f
 Multiple radio repeaters shall be required for buildings that exceed two hundred (200) feet in height.
 (Ord. No. 20783, § 3(XIII-C(3)), 9-22-99; Ord. No. 22794, § 8, 7-19-06; Ord. No. 23330, § XVII, 6-11-08; Ord.
 No. 23292, § 17, 5-7-08; Ord. No. 25405 , § 63, 8-9-17; Ord. No. 25744 , § 9, 2-27-19)
-Sec. 40-384. - Area regulations.
+#####   
+
 (a)
 Yard requirements for multiple-family dwellings that exceed the maximum height allowed by right are located in
 the height regulations section of this district.
@@ -8109,31 +8279,37 @@ Lots occupied by five-family dwellings or more shall contain an area of not less
 Lots occupied by multiple-family dwellings that exceed the height limit of the district shall contain an area equal
 to that required by the R3 District lot area requirements.
 (Ord. No. 20783, § 3(XIII-C(4)), 9-22-99; Ord. No. 22794, § 8, 7-19-06; Ord. No. 24807 , § XLII, 8-27-14)
-Sec. 40-385. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-80 of this chapter.
 (Ord. No. 24364, § XXXI, 11-7-12; Ord. No. 24807 , § XLIII, 8-27-14)
-Sec. 40-386. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIII-C(5)), 9-22-99; Ord. No. 22794, § 8, 7-19-06; Ord. No. 23330, § IV, 6-11-08; Ord.
 No. 24364, § XXXI, 11-7-12)
-Sec. 40-387. - Lighting requirements.
+#####   
+
 Arrangement of lighting will not cause serious annoyance to neighboring properties. Additional lighting
 requirements for multiple-family dwellings that exceed the maximum height allowed by right are located in the
 height regulations section of this district.
 (Ord. No. 20783, § 3(XIII-C(6)), 9-22-99; Ord. No. 22794, § 8, 7-19-06; Ord. No. 24364, § XXXI, 11-7-12)
-Sec. 40-388. - Landscaping standards.
+#####   
+
 The development site or campus of a nonresidential use shall be landscaped in accordance with section 40-84 of
 this chapter.
 (Ord. No. 24807 , § XLIV, 8-27-14)
 Secs. 40-389—40-400. - Reserved.
 ### ARTICLE XXIII. - BUSINESS CORE DISTRICT BC-1
-Sec. 40-401. - Purpose.
+#####   
+
 This district is designed to provide space for retail, wholesale and parking activities in support of the business
 core, and at the same time provide the surrounding residential neighborhood with essential commercial services
 and facilities. It will have a variety of commercial uses and will be found only adjacent to and in conjunction
 with BC-2, Business Core District.
 (Ord. No. 20783, § 3(XIII-D(1)), 9-22-99)
-Sec. 40-402. - Permitted uses.
+#####   
+
 In BC-1 Districts only the following uses of property shall be permitted:
 (1)
 Any existing stand-alone residential dwelling shall be considered as a conforming use. However, the existing
@@ -8208,7 +8384,8 @@ Multiple-family dwellings comprised of thirty (30) or more units.
 (Ord. No. 20783, § 3(XIII-D(2)), 9-22-99; Ord. No. 21715, § 7, 11-13-02; Ord. No. 22794, § 9, 7-19-06; Ord.
 No. 23330, § XVIII, 6-11-08; Ord. No. 23954, § 5, 2-2-11; Ord. No. 25349 , § 7, 5-3-17; Ord. No. 25513 , § 14,
 2-21-18)
-Sec. 40-403. - Height regulations.
+#####   
+
 (a)
 Maximum height allowed by right. The maximum height allowed by right is sixty (60) feet except as provided in
 section 40-737 and in this section for multiple-family dwellings.
@@ -8491,7 +8668,8 @@ A radio repeater shall be required for structures that exceed one hundred (100) 
 Multiple radio repeaters shall be required for structures that exceed two hundred (200) feet in height.
 (Ord. No. 20783, § 3(XIII-D(3)), 9-22-99; Ord. No. 22794, § 9, 7-19-06; Ord. No. 23330, § XIX, 6-11-08; Ord.
 No. 23292, § 18, 5-7-08; Ord. No. 25405 , § 64, 8-9-17; Ord. No. 25744 , § 10, 2-27-19)
-Sec. 40-404. - Area regulations.
+#####   
+
 (a)
 Yard requirements for multiple-family dwellings that exceed the maximum height allowed by right are located in
 the height regulations section of this district.
@@ -8518,7 +8696,8 @@ regulation shall be the same as those in the R-3, Multiple Family Residential Di
 (1)
 When a residential use occurs as permitted in section 40-402(1), the lot area requirements of Core DistrictResidential, CD-R shall apply.
 (Ord. No. 20783, § 3(XIII-D(4)), 9-22-99; Ord. No. 21715, § 8, 11-13-02; Ord. No. 22794, § 9, 7-19-06)
-Sec. 40-405. - Sign regulations.
+#####   
+
 (a)
 Permitted signs.
 (1)
@@ -8577,22 +8756,26 @@ Flashing signs and signs with animated and scintillating lights.
 (2)
 Off-premises signs.
 (Ord. No. 20783, § 3(XIII-D(5)), 9-22-99; Ord. No. 22794, § 9, 7-19-06; Ord. No. 24364, § XXXII, 11-7-12)
-Sec. 40-406. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIII-D(6)), 9-22-99; Ord. No. 22794, § 9, 7-19-06; Ord. No. 23330, § IV, 6-11-08)
-Sec. 40-407. - Loading zone requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIII-D(7)), 9-22-99; Ord. No. 23330, § XIII, 6-11-08)
 Secs. 40-408—40-420. - Reserved.
 ### ARTICLE XXIV. - BUSINESS CORE DISTRICT BC-2
-Sec. 40-421. - Purpose.
+#####   
+
 This district encompasses an area of high density and intensity development situated on principal thoroughfares
 and represents an urban mixed-use core. The areas of high intensity development contain office, retail, and
 service uses and represent a local and regional employment and shopping commercial center. They also contain
 dense residential development as single uses or mixed with commercial uses to create an urban environment
 with diverse choices for living and working.
 (Ord. No. 20783, § 3(XIII-E(1)), 9-22-99; Ord. No. 22794, § 10, 7-19-06)
-Sec. 40-422. - Permitted uses.
+#####   
+
 In BC-2 Districts only the following uses of property shall be permitted:
 (1)
 Any existing stand-alone one-, two-, three-, or four-family residential dwelling shall be considered as a
@@ -8817,7 +9000,8 @@ masonry, or brick fence with a minimum height of seven (7) feet.
 Ord. No. 23330, § XX, 6-11-08; Ord. No. 23954, § 6, 2-2-11; Ord. No. 24112, § III, 9-21-11; Ord. No. 24189, §
 X, 1-25-12; Ord. No. 24823 , § XIII, 9-17-14; Ord. No. 25405 , § 65, 8-9-17; Ord. No. 25349 , § 8, 5-3-17; Ord.
 No. 25513 , § 15, 2-21-18; Ord. No. 25562 , § 8, 4-25-18)
-Sec. 40-423. - Height regulations.
+#####   
+
 (a)
 Maximum height allowed by right. The maximum height allowed by right is sixty-five (65) feet.
 (b)
@@ -9196,7 +9380,8 @@ building codes, and all other applicable codes.
 (Ord. No. 20783, § 3(XIII-E(3)), 9-22-99; Ord. No. 22794, § 10, 7-19-06; Ord. No. 23330, § XXI, 6-11-08; Ord.
 No. 23292, § 19, 5-7-08; Ord. No. 24003, § IV, 5-11-11; Ord. No. 25405 , § 66, 8-9-17; Ord. No. 25744 , § 11,
 2-27-19)
-Sec. 40-424. - Area regulations.
+#####   
+
 The following regulations shall be for structures sixty-five (65) feet or less in height. Regulations for structures
 exceeding sixty-five (65) feet in height are stated in the site plan review section of this list.
 (1)
@@ -9241,7 +9426,8 @@ When a lot is improved for a stand-alone residential use, or when living facilit
 connection with other uses, the lot area per family regulation shall be the same as those in the R-3, Multiple
 Family Residential District.
 (Ord. No. 20783, § 3(XIII-E(4)), 9-22-99; Ord. No. 21715, § 10, 11-13-02; Ord. No. 22794, § 10, 7-19-06)
-Sec. 40-425. - Sign regulations.
+#####   
+
 (a)
 Permitted signs.
 (1)
@@ -9306,22 +9492,26 @@ Flashing signs and signs with animated and scintillating lights.
 (2)
 Off-premises signs.
 (Ord. No. 20783, § 3(XIII-E(5)), 9-22-99; Ord. No. 22794, § 10, 7-19-06; Ord. No. 24364, § XXXIII, 11-7-12)
-Sec. 40-426. - Off-street parking and clear vision area requirements.
+#####   
+
 Off-street parking shall be provided as set forth in Article XXXV, Off-Street Parking and Loading Regulations.
 (Ord. No. 20783, § 3(XIII-E(7)), 9-22-99; Ord. No. 22794, § 10, 7-19-06)
-Sec. 40-427. - Loading zone requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIII-E(8)), 9-22-99; Ord. No. 22794, § 10, 7-19-06; Ord. No. 23330, § XIII, 6-11-08; Ord.
 No. 22794, § 10, 7-19-06)
 Secs. 40-428—40-440. - Reserved.
 ### ARTICLE XXV. - MIXED USE CORRIDOR DISTRICT
-Sec. 40-441. - Purpose.
+#####   
+
 The purpose of the Mixed Use Corridor District (MUCD) is to provide a superior means for developing mixed
 land uses along arterial streets or collectors as identified on the Jefferson Parish Thoroughfare Plan, through
 landscape and buffer requirements, general design standards and sign regulations. The Mixed Use Corridor
 District offers flexibility, allowing selected permitted uses to be integrated into a unified plan.
 (Ord. No. 20783, § 3(XIII-F(1)), 9-22-99; Ord. No. 23292, § 20, 5-7-08)
-Sec. 40-442. - Definitions and district composition.
+#####   
+
 (a)
 Definitions. For the purpose of this article, certain words and terms are hereby defined:
 Support building(s) or structure(s) shall mean any building or structure that is not the principal building and is
@@ -9504,7 +9694,8 @@ any of the permitted uses or combination thereof listed in section 40-442(b).
 No. 22010, §§ 2—8, 10-8-03; Ord. No. 22670, § 9, 1-11-06; Ord. No. 22794, § 11, 7-19-06; Ord. No. 23330, §
 XXII, 6-11-08; Ord. No. 23292, § 21, 5-7-08; Ord. No. 23663, § 1, 10-14-09; Ord. No. 23938, § 2, 1-12-11; Ord.
 No. 24364, § XXXIV, 11-7-12; Ord. No. 25405 , § 67, 8-9-17; Ord. No. 25480 , § 17, 1-10-18)
-Sec. 40-443. - Height regulations.
+#####   
+
 (a)
 Maximum height allowed by right. The maximum height allowed by right is sixty-five (65) feet except as
 provided for in section 40-737 and in this section with respect to multiple-family dwellings.
@@ -9692,7 +9883,8 @@ Multiple radio repeaters shall be required for structures that exceed two hundre
 (Ord. No. 20783, § 3(XIII-F(3)), 9-22-99; Ord. No. 22794, § 11, 7-19-06; Ord. No. 23330, § XXIII, 6-11-08;
 Ord. No. 23292, § 22, 5-7-08; Ord. No. 23663, § 1, 10-14-09; Ord. No. 24823 , § XIV, 9-17-14; Ord. No. 25405
 , § 68, 8-9-17)
-Sec. 40-444. - Area regulations.
+#####   
+
 (a)
 Yard requirements for multiple-family dwellings that exceed the maximum height allowed by right are located in
 the height regulations section of this district.
@@ -9778,7 +9970,8 @@ feet. When two or more adjoining lots comprise a MUCD development site, such lot
 one lot of record, except as provided for in section 33-5.22 Group development of this Code.
 (Ord. No. 20783, § 3(XIII-F(4)), 9-22-99; Ord. No. 21388, § 2, 9-26-01; Ord. No. 22010, § 9, 10-8-03; Ord. No.
 22011, § 1, 10-8-03; Ord. No. 22794, § 11, 7-19-06; Ord. No. 23663, § 1, 10-14-09; Ord. No. 24955 , § 3, 6-1015; Ord. No. 25405 , § 69, 8-9-17; Ord. No. 25480 , § 18, 1-10-18)
-Sec. 40-445. - Parking requirements.
+#####   
+
 (a)
 Parking space requirements are listed in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area
 Regulations in the Zoning Ordinance.
@@ -9786,7 +9979,8 @@ Regulations in the Zoning Ordinance.
 Additionally, said parking spaces shall be oriented so that no vehicle is required to back directly into a street
 right-of-way.
 (Ord. No. 20783, § 3(XIII-F(5)), 9-22-99; Ord. No. 22794, § 11, 7-19-06; Ord. No. 23330, § XXIV, 6-11-08)
-Sec. 40-446. - Landscape and buffer standards.
+#####   
+
 (a)
 Section 33-6.25, Landscaping, buffering, and screening, shall apply, with the following additional provisions:
 (1)
@@ -9810,7 +10004,8 @@ Fences. Fences for the purposes of this ordinance shall not be considered struct
 (Ord. No. 20783, § 3(XIII-F(6)), 9-22-99; Ord. No. 21388, § 3, 9-26-01; Ord. No. 22010, § 10, 10-8-03; Ord.
 No. 22670, § 10, 1-11-06; Ord. No. 22794, § 11, 7-19-06; Ord. No. 23330, § XXV, 6-11-08; Ord. No. 23663, §
 1, 10-14-09; Ord. No. 24823 , § XV, 9-17-14; Ord. No. 24955 , § 4, 6-10-15; Ord. No. 25405 , § 70, 8-9-17)
-Sec. 40-447. - General design standards.
+#####   
+
 (a)
 Public service infrastructure and right-of-way.
 (1)
@@ -9950,7 +10145,8 @@ said temporary use.
 (Ord. No. 20783, § 3(XIII-F(7)), 9-22-99; Ord. No. 21941, § 1, 8-6-03; Ord. No. 22794, § 11, 7-19-06; Ord. No.
 23663, § 1, 10-14-09; Ord. No. 24823 , § XVI, 9-17-14; Ord. No. 24955 , § 5, 6-10-15; Ord. No. 25405 , § 71,
 8-9-17)
-Sec. 40-448. - Sign regulations.
+#####   
+
 (a)
 General. The following sign regulations supersede those of and take precedence over regulations specified in
 Article XXXVI General Sign Regulations of this chapter. However, for regulations on signs not addressed in this
@@ -10177,7 +10373,8 @@ nonconforming sign.
 (Ord. No. 20783, § 3(XIII-F(8)), 9-22-99; Ord. No. 23292, § 23, 5-7-08; Ord. No. 23643, §§ 1, 2, 9-23-09; Ord.
 No. 23663, § 1, 10-14-09; Ord. No. 23938, § 3, 1-12-11; Ord. No. 24364, § XXXV, 11-7-12; Ord. No. 25405 , §
 72, 8-9-17)
-Sec. 40-449. - Development review procedures in the Mixed Use Corridor District.
+#####   
+
 (a)
 General review procedures. Requests for development and redevelopment in the Mixed Use Corridor District
 shall be submitted to the Jefferson Parish Planning Department. Upon review of complete site plans, the
@@ -10389,7 +10586,8 @@ Code, shall apply to MUCD applications for site plan review.
 (Ord. No. 20783, § 3(XIII-F(9)), 9-22-99; Ord. No. 21388, § 4, 9-26-01; Ord. No. 22794, § 11, 7-19-06; Ord.
 No. 23330, § XXVI, 6-11-08; Ord. No. 23663, § 1, 10-14-09; Ord. No. 23938, § 4, 1-12-11; Ord. No. 24823 , §
 XVII, 9-17-14; Ord. No. 24989 , § XIII, 8-12-15; Ord. No. 24955 , § 6, 6-10-15; Ord. No. 25744 , § 12, 2-27-19)
-Sec. 40-450. - Site plan submittal.
+#####   
+
 The following minimum information shall be submitted to the planning department in the form of site plans for
 developments located in the Mixed Use Corridor District:
 (1)
@@ -10448,7 +10646,8 @@ Additional information as required by the department of inspection and code enfo
 planning advisory board, Jefferson Parish Council or other parish agency, depending on the nature and extent of
 the proposed development.
 (Ord. No. 20783, § 3(XIII-F(10)), 9-22-99; Ord. No. 22794, § 11, 7-19-06; Ord. No. 25405 , § 73, 8-9-17)
-Sec. 40-451. - Phased development.
+#####   
+
 (a)
 Phasing requirements.
 (1)
@@ -10522,19 +10721,23 @@ in Article XLVIII Changes and Amendments. The recommendations to the parish coun
 based on a finding from the planning department and the planning advisory board that unforeseen circumstances
 prevented completion within the approved time limitation.
 (Ord. No. 20783, § 3(XIII-F(11)), 9-22-99; Ord. No. 21388, § 5, 9-26-01; Ord. No. 22794, § 11, 7-19-06)
-Sec. 40-452. - Regulations, requirements or standards.
+#####   
+
 Regulations, requirements or standards set in the Mixed Use Corridor District are not subject to appeal to the
 board of zoning adjustments. All requests for variances to the regulations of this article shall be a part of Level 2
 site plan review.
 (Ord. No. 20783, § 3(XIII-F(12)), 9-22-99; Ord. No. 21734, § 8, 12-11-02; Ord. No. 23663, § 1, 10-14-09)
-Sec. 40-453. - Reserved.
+#####   
+
 Editor's note— Ord. No. 25744 , § 13, adopted Feb. 27, 2019, repealed § 40-453, which pertained to title
 restrictions and derived from Ord. No. 20783, § 3(XIII-F(13)), adopted Sept. 22, 1999.
-Sec. 40-454. - Applicable code regulations for development.
+#####   
+
 Development within a Mixed Use Corridor District shall meet all federal, state and local fire, safety and building
 codes, and all other applicable codes.
 (Ord. No. 20783, § 3(XIII-F(14)), 9-22-99; Ord. No. 23663, § 1, 10-14-09)
-Sec. 40-455. - Two-year limitation for petitions and amendments in Mixed Use Corridor District development.
+#####   
+
 Once an application for development in the Mixed Use Corridor District requiring Level 2 site plan review as
 defined in section 40-442(e), Site Plan Review, of this article, or an amendment to an approved site plan is filed
 and meets any of the following conditions:
@@ -10554,7 +10757,8 @@ days from the public hearing originally scheduled for the case in the event no a
 (Ord. No. 20783, § 3(XIII-F(15)), 9-22-99; Ord. No. 22322, § 2, 9-29-04)
 Secs. 40-456—40-470. - Reserved.
 ### ARTICLE XXVI. - COMMERCIAL PARKWAY OVERLAY ZONE
-Sec. 40-471. - Purpose.
+#####   
+
 The purpose of the Commercial Parkway Overlay Zone (CPZ) is to superimpose an overlay zone utilizing
 landscape and buffer standards to enhance the general quality of commercial and office development or
 structures located on arterial streets or collectors as delineated in the Jefferson Parish Thoroughfare Plan; by
@@ -10565,7 +10769,8 @@ Parkway Overlay Zone requirements are imposed in addition to the underlying zoni
 development and structures within the overlay zone must conform to the requirements of both the district and the
 overlay zone, or the more restrictive of the two (2).
 (Ord. No. 20783, § 3(XIII-G(1)), 9-22-99; Ord. No. 23292, § 24, 5-7-08)
-Sec. 40-472. - Definitions and permitted uses.
+#####   
+
 (a)
 Definitions. For the purpose of this article, certain words and terms are hereby defined:
 Canopy shall mean an attached or detached structural protective cover open on two (2) or more sides and
@@ -10584,10 +10789,12 @@ Permitted uses shall be those allowed in the underlying zoning district.
 All uses except single-family and two-family dwellings shall be required to comply with CPZ requirements.
 (Ord. No. 20783, § 3(XIII-G(2)), 9-22-99; Ord. No. 22010, § 11, 10-8-03; Ord. No. 23663, § 2, 10-14-09; Ord.
 No. 23938, § 5, 1-12-11; Ord. No. 25480 , § 19, 1-10-18)
-Sec. 40-473. - Height regulations.
+#####   
+
 Height regulations shall be in accordance with the underlying zoning district.
 (Ord. No. 20783, § 3(XIII-G(3)), 9-22-99)
-Sec. 40-474. - Area regulations.
+#####   
+
 (a)
 Area regulations concerning front, side and rear yard and lot area shall be in accordance with the underlying
 zoning district with the following exceptions:
@@ -10622,7 +10829,8 @@ such lots shall be resubdivided to create one (1) development site which conform
 requirements of the CPZ.
 (Ord. No. 20783, § 3(XIII-G(4)), 9-22-99; Ord. No. 22010, § 12, 10-8-03; Ord. No. 23663, § 2, 10-14-09; Ord.
 No. 24955 , § 7, 6-10-15; Ord. No. 25405 , § 74, 8-9-17)
-Sec. 40-475. - Parking requirements.
+#####   
+
 (a)
 Parking space requirements are listed in Article XXXV, Off Street Parking, Loading, and Clear Vision Area
 Regulations in the Zoning Ordinance.
@@ -10633,7 +10841,8 @@ and screening.
 Additionally, said parking spaces shall be oriented so that no vehicle is required to back directly into a street
 right-of-way.
 (Ord. No. 20783, § 3(XIII-G(5)), 9-22-99; Ord. No. 23330, § XXVII, 6-11-08; Ord. No. 25405 , § 75, 8-9-17)
-Sec. 40-476. - Landscape and buffer requirements.
+#####   
+
 (a)
 General. Landscaping standards in this section are minimum requirements intended to enhance the aesthetics of
 transportation corridors, reduce heat island effects, and provide effective buffering of all vehicular use areas
@@ -10691,7 +10900,8 @@ minimum height of seven (7) feet.
 (Ord. No. 20783, § 3(XIII-G(6)), 9-22-99; Ord. No. 22670, § 11, 1-11-06; Ord. No. 23330, § XXVIII, 6-11-08;
 Ord. No. 23663, § 2, 10-14-09; Ord. No. 24823 , § XVIII, 9-17-14; Ord. No. 24955 , § 8, 6-10-15; Ord. No.
 25405 , § 76, 8-9-17)
-Sec. 40-477. - Sign regulations.
+#####   
+
 (a)
 General. The following sign regulations shall apply to all signs on property within a designated CPZ, unless
 provisions in the underlying zoning district or otherwise stated in the Comprehensive Zoning Ordinance are
@@ -10849,7 +11059,8 @@ Off-premises signs.
 (Ord. No. 20783, § 3(XIII-G(7)), 9-22-99; Ord. No. 23292, § 25, 5-7-08; Ord. No. 23643, §§ 3, 4, 9-23-09; Ord.
 No. 23663, § 2, 10-14-09; Ord. No. 23938, § 6, 1-12-11; Ord. No. 24364, § XXXVI, 11-7-12; Ord. No. 24955 ,
 § 9, 6-10-15; Ord. No. 25405 , § 77, 8-9-17)
-Sec. 40-478. - Site plans.
+#####   
+
 (a)
 Procedure. Prior to the issuance of a building permit, site plans for the proposal shall be submitted to the
 planning department as specified in section 40-480, Site Plan Review, for review and determination if the
@@ -10962,7 +11173,8 @@ Other.
 IV.
 Grand total.
 (Ord. No. 20783, § 3(XIII-G(8)), 9-22-99; Ord. No. 24364, § XXXVII, 11-7-12; Ord. No. 25405 , § 78, 8-9-17)
-Sec. 40-479. - Compliance with Commercial Parkway Overlay Zone (CPZ).
+#####   
+
 (a)
 Generally. Except as provided for existing development, administrative site plan review shall apply to
 development which fully meets the requirements of the CPZ and the underlying zoning district pursuant to
@@ -11075,7 +11287,8 @@ If an approved site plan exists, the site plan must be amended to show the parki
 (Ord. No. 20783, § 3(XIII-G(9)), 9-22-99; Ord. No. 22010, §§ 13, 14, 10-8-03; Ord. No. 23663, § 2, 10-14-09;
 Ord. No. 24955 , § 10, 6-10-15; Ord. No. 25405 , § 79, 8-9-17; Ord. No. 25480 , § 20, 1-10-18; Ord. No. 25744 ,
 § 14, 2-27-19)
-Sec. 40-480. - Site plan review.
+#####   
+
 (a)
 Required site plan review. Site plan review that includes a request for a variance shall be in the form of public
 hearings before the planning advisory board and the parish council.
@@ -11218,28 +11431,33 @@ rights for new applications, in Article 4, Non-Conforming Situations/Vested Righ
 Code.
 (Ord. No. 20783, § 3(XIII-G(10)), 9-22-99; Ord. No. 23938, § 7, 1-12-11; Ord. No. 24364, § XXXVIII, 11-7-12;
 Ord. No. 24989 , § XIV, 8-12-15; Ord. No. 25744 , § 15, 2-27-19)
-Sec. 40-481. - [Appeal.]
+#####   
+]
 Regulations, requirements or standards applicable to developments on properties overlaid with CPZ including
 any standards established by the underlying zoning district are not subject to appeal to the board of zoning
 adjustments. All requested variances shall be part of site plan review before the planning advisory board and the
 parish council.
 (Ord. No. 20783, § 3(XIII-G(11)), 9-22-99; Ord. No. 21734, § 9, 12-11-02; Ord. No. 23663, § 2, 10-14-09)
-Sec. 40-482. - Reserved.
+#####   
+
 Editor's note— Ord. No. 25744 , § 16, adopted Feb. 27, 2019, repealed § 40-482, which pertained to title
 restrictions and derived from Ord. No. 20783, § 3(XIII-G(12), adopted Sept. 22, 1999.
-Sec. 40-483. - [Applicability of building codes, etc.]
+#####   
+]
 Development within a CPZ shall meet all federal, state and local fire, safety and building codes, and all other
 applicable codes.
 (Ord. No. 20783, § 3(XIII-G(13)), 9-22-99; Ord. No. 23663, § 2, 10-14-09)
 Secs. 40-484—40-495. - Reserved.
 ### ARTICLE XXVII. - GAMING AND ENTERTAINMENT DISTRICT
-Sec. 40-496. - Purpose.
+#####   
+
 The purpose of the Gaming and Entertainment District (GED) is to create a zoning district with regulations
 suited for gaming establishments and related activities. Said district is designed to ensure compatibility with
 surrounding land use and promote the health, safety and welfare of the present and future residents of Jefferson
 Parish.
 (Ord. No. 20783, § 3(XIII-H(1)), 9-22-99)
-Sec. 40-497. - Permitted uses.
+#####   
+
 (a)
 Casinos and gaming establishments, provided the following conditions and criteria are met.
 (1)
@@ -11256,10 +11474,12 @@ Thoroughfare Plan.
 (5)
 Approval is obtained from the Jefferson Parish Council in accordance with Article XL, Special Permitted Uses.
 (Ord. No. 20783, § 3(XIII-H(2)), 9-22-99; Ord. No. 23292, § 26, 5-7-08)
-Sec. 40-498. - Landscaping, buffering and screening.
+#####   
+
 Section 33-6.25, Landscaping, buffering, and screening, shall apply.
 (Ord. No. 20783, § 3(XIII-H(3)), 9-22-99; Ord. No. 25405 , § 80, 8-9-17)
-Sec. 40-499. - Submittal requirements.
+#####   
+
 (a)
 In addition to the requirements stated above, the following shall also be submitted.
 (1)
@@ -11299,7 +11519,8 @@ sufficient to meet the projections of the traffic impact analysis.
 Additional information as required by the Parish of Jefferson to appropriately detail the proposed gaming
 establishment.
 (Ord. No. 20783, § 3(XIII-H(4)), 9-22-99; Ord. No. 23330, § XXIX, 6-11-08; Ord. No. 25405 , § 81, 8-9-17)
-Sec. 40-500. - Parking.
+#####   
+
 (a)
 On-site parking shall be provided in accordance with provisions specified in Article XXXV, Off-Street Parking,
 Loading, and Clear Vision Area Regulations, section 40-662(16). On-site parking for accessory uses shall be
@@ -11309,18 +11530,22 @@ Regulations, section 40-662.
 Off-site parking may be permitted in addition to the minimum requirements specified in Article XXXV, OffStreet Parking, Loading, and Clear Vision Area Regulations, provided the satellite facility is located within onehalf (½) mile of the gaming establishment site and Council approval is obtained in accordance with Article XL,
 Special Permitted Uses.
 (Ord. No. 20783, § 3(XIII-H(5)), 9-22-99; Ord. No. 23330, § XXX, 6-11-08; Ord. No. 24189, § XI, 1-25-12)
-Sec. 40-501. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-448 of this chapter.
 (Ord. No. 20783, § 3(XIII-H(6)), 9-22-99; Ord. No. 24364, § XXXIX, 11-7-12)
-Sec. 40-502. - Height regulations.
+#####   
+
 The maximum building height shall be sixty-five (65) feet, unless otherwise approved by council in accordance
 with the provisions of this section.
 (Ord. No. 20783, § 3(XIII-H(7)), 9-22-99)
-Sec. 40-503. - Setback regulations.
+#####   
+
 All structures shall setback a minimum of twenty (20) feet from all property lines unless otherwise approved by
 council in accordance with the provisions of this section.
 (Ord. No. 20783, § 3(XIII-H(8)), 9-22-99)
-Sec. 40-504. - Accessory uses and special events.
+#####   
+
 (a)
 Any accessory uses not specifically approved by council in accordance with the provisions of the section shall
 be prohibited.
@@ -11330,21 +11555,25 @@ such events and activities, shall be prohibited unless otherwise authorized by c
 required parking spaces shall be used to satisfy the parking requirements for such events and activities, except
 those legally required parking spaces already available for permanent on-site structures and uses.
 (Ord. No. 20783, § 3(XIII-H(9)), 9-22-99)
-Sec. 40-505. - Additions.
+#####   
+
 Any addition to structures shall be required to receive council approval in accordance with the provisions of this
 section.
 (Ord. No. 20783, § 3(XIII-H(10)), 9-22-99)
-Sec. 40-506. - Fees.
+#####   
+
 Fees required to process and review applications for a zoning change to a gaming and entertainment district shall
 be five hundred dollars ($500.00) per acre or portion thereof.
 (Ord. No. 20783, § 3(XIII-H(11)), 9-22-99)
-Sec. 40-507. - Regulations, requirements or standards.
+#####   
+
 Regulations, requirements or standards set in this section area not subject to appeal to the board of zoning
 adjustments.
 (Ord. No. 20783, § 3(XIII-H(12)), 9-22-99; Ord. No. 21734, § 10, 12-11-02)
 Secs. 40-508—40-520. - Reserved.
 ### ARTICLE XXVIII. - GENERAL COMMERCIAL DISTRICT C-2
-Sec. 40-521. - Description.
+#####   
+
 This district is composed of certain land and structures used to provide for the retailing of goods and the
 furnishing of major services. This district characteristically occupies a larger area than the neighborhood
 commercial district since it is intended to serve a greater population and to offer a wider range of services. Full
@@ -11353,7 +11582,8 @@ serve its economic function. These districts are in general located along major 
 expansion should desirably occur as an increase in depth of the district rather than further strip-like extension
 along the thoroughfares.
 (Ord. No. 20783, § 3(XIV(1)), 9-22-99)
-Sec. 40-522. - Permitted uses.
+#####   
+
 In C-2 Districts only the following uses of property shall be permitted:
 (1)
 Any use permitted in a C-1 Neighborhood Commercial District. Any existing stand-alone single-, two-, three-,
@@ -11582,7 +11812,8 @@ the more restrictive side and rear yard requirements of this article shall apply
 22794, § 12, 7-19-06; Ord. No. 23292, § 27, 5-7-08; Ord. No. 23293, § 2, 5-7-08; Ord. No. 24112, § IV, 9-21-11;
 Ord. No. 24189, § XII, 1-25-12; Ord. No. 24364, § XL, 11-7-12; Ord. No. 24545, § 1, 4-14-13; Ord. No. 24823 ,
 § XIX, 9-17-14; Ord. No. 25405 , §§ 82, 83, 8-9-17; Ord. No. 25349 , § 9, 5-3-17; Ord. No. 25379 , § 4, 6-2817; Ord. No. 25513 , § 16, 2-21-18; Ord. No. 25562 , § 9, 4-25-18)
-Sec. 40-523. - Height regulations.
+#####   
+
 (a)
 Maximum height allowed by right. The maximum height allowed by right is sixty-five (65) feet in height except
 as provided for in section 40-737 and in this section with respect to multiple dwelling units.
@@ -11880,7 +12111,8 @@ Multiple radio repeaters shall be required for structures that exceed two hundre
 (Ord. No. 20783, § 3(XIV(3)), 9-22-99; Ord. No. 22794, § 12, 7-19-06; Ord. No. 23330, § XXXI, 6-11-08; Ord.
 No. 23292, § 28, 5-7-08; Ord. No. 24823 , § XX, 9-17-14; Ord. No. 25405 , § 84, 8-9-17; Ord. No. 25744 , § 17,
 2-27-19)
-Sec. 40-524. - Area regulations.
+#####   
+
 (a)
 Yard requirements for buildings with multiple dwelling units that exceed the maximum height allowed by right
 are located in the height regulations section of this district.
@@ -11928,7 +12160,8 @@ The lot area per family regulation for multiple-dwelling units, as permitted in 
 those in the R-3, Multiple-Family Residential District.
 (Ord. No. 20783, § 3(XIV(4)), 9-22-99; Ord. No. 21715, § 14, 11-13-02; Ord. No. 22794, § 12, 7-19-06; Ord.
 No. 23292, § 29, 5-7-08)
-Sec. 40-525. - Sign regulations.
+#####   
+
 (a)
 On-premises signs.
 (1)
@@ -11994,17 +12227,20 @@ Code.
 Off-premises signs. Off-premises signs meeting the standards in Article XXXVI. General Sign Regulations shall
 be permitted.
 (Ord. No. 24364, § XLI, 11-7-12)
-Sec. 40-526. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIV(5)), 9-22-99; Ord. No. 22794, § 12, 7-19-06; Ord. No. 23330, § IV, 6-11-08; Ord. No.
 24364, § XLI, 11-7-12)
-Sec. 40-527. - Loading zone requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIV(6)), 9-22-99; Ord. No. 22794, § 12, 7-19-06; Ord. No. 23330, § XIII, 6-11-08; Ord.
 No. 24364, § XLI, 11-7-12)
 Secs. 40-528—40-540. - Reserved.
 ### ARTICLE XXIX. - OFFICE-WAREHOUSE DISTRICT OW-1
-Sec. 40-541. - Description.
+#####   
+
 The purpose of this district is to provide sufficient space in appropriate locations for certain types of business
 and wholesaling relatively free from offense, in modern landscaped buildings, to make available more attractive
 locations for these businesses and industries, and to provide opportunities for employment closer to places of
@@ -12012,7 +12248,8 @@ residence with corresponding reduction of travel time from home to work. Certain
 permitted, primarily for service to employees in the district. Typical development in the district would be that
 which is commonly known as an Office-Warehouse Park.
 (Ord. No. 20783, § 3(XIV-A(1)), 9-22-99; Ord. No. 24364, § XLII, 11-7-12)
-Sec. 40-542. - Permitted uses.
+#####   
+
 In Office-Warehouse Districts only the following uses of property shall be permitted:
 (1)
 Any use permitted in a C-2 General Commercial District, except Elderly Housing and Assisted Living Facilities
@@ -12042,10 +12279,12 @@ Off-track wagering facilities with the criteria listed in article XXVIII, genera
 chapter.
 (Ord. No. 20783, § 3(XIV-A(2)), 9-22-99; Ord. No. 21715, § 15, 11-13-02; Ord. No. 22794, § 13, 7-19-06; Ord.
 No. 24545, § II, 4-14-13)
-Sec. 40-543. - Height regulations.
+#####   
+
 No building or structure shall exceed sixty-five (65) feet in height.
 (Ord. No. 20783, § 3(XIV-A(3)), 9-22-99)
-Sec. 40-544. - Area regulations.
+#####   
+
 (a)
 Yard.
 (1)
@@ -12074,24 +12313,29 @@ b.
 Rear yard regulations for residential uses as permitted in section 40-541(1) shall be the same as those in the R-3
 Multiple-Family Residential District.
 (Ord. No. 20783, § 3(XIV-A(4)), 9-22-99; Ord. No. 21715, § 16, 11-13-02)
-Sec. 40-545. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-525 of this chapter.
 (Ord. No. 24364, § XLIII, 11-7-12)
-Sec. 40-546. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIV-A(5)), 9-22-99; Ord. No. 23330, § IV, 6-11-08; Ord. No. 24364, § XLIII, 11-7-12)
-Sec. 40-547. - Loading zone requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XIV-A(6)), 9-22-99; Ord. No. 23330, § XIII, 6-11-08; Ord. No. 24364, § XLIII, 11-7-12)
 Secs. 40-548—40-560. - Reserved.
 ### ARTICLE XXX. - INDUSTRIAL DISTRICT M-1
-Sec. 40-561. - Description.
+#####   
+
 This district is composed of lands so situated as to be adapted to industrial development but where proximity to
 commercial and residential districts make it desirable to regulate and control the extent of industrial operations.
 The purpose of this district is to permit normal operations of industrial uses under such conditions as will protect
 adjacent industrial, commercial and residential uses.
 (Ord. No. 20783, § 3(XV(1)), 9-22-99)
-Sec. 40-562. - Permitted uses.F
+#####   
+F
 (a)
 All uses not otherwise prohibited by law except for those shown as permitted uses or special permitted uses in
 Article XXXI, Industrial District M-2, section 40-582; and Article XXXIV, Unrestricted Rural District (U-1R),
@@ -12319,13 +12563,15 @@ apply.
 (Ord. No. 20783, § 3(XV(2)), 9-22-99; Ord. No. 21715, § 17, 11-13-02; Ord. No. 21734, § 11, 12-11-02; Ord.
 No. 23330, § XXXII, 6-11-08; Ord. No. 23292, § 30, 5-7-08; Ord. No. 24189, § XIII, 1-25-12; Ord. No. 24545,
 § III, 4-14-13; Ord. No. 25020 , § XIII, 10-7-15; Ord. No. 25405 , §§ 85—87, 8-9-17; Ord. No. 25562 , § 10, 425-18)
-Sec. 40-563. - Height regulations.
+#####   
+
 No limit in height, except that when a building in an M-1 district adjoins or abuts upon a residential district such
 building shall not exceed the maximum height permitted in the residential district unless it is set back from all
 yard lines required in the following sections one (1) foot for each foot of additional height in excess of the height
 so permitted.
 (Ord. No. 20783, § 3(XV(3)), 9-22-99)
-Sec. 40-564. - Area regulations.
+#####   
+
 (a)
 Yard.
 (1)
@@ -12350,23 +12596,28 @@ No rear yard is required except where a lot abuts upon a residential district, i
 yard of not less than fifteen (15) feet. Where a rear yard, though not required, is provided such yard shall have a
 depth of not less than three (3) feet.
 (Ord. No. 20783, § 3(XV(4)), 9-22-99; Ord. No. 21715, § 18, 11-13-02)
-Sec. 40-565. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-525 of this chapter.
 (Ord. No. 24364, § XLIV, 11-7-12)
-Sec. 40-566. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XV(5)), 9-22-99; Ord. No. 23330, § IV, 6-11-08; Ord. No. 24364, § XLIV, 11-7-12)
-Sec. 40-567. - Loading zone requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XV(6)), 9-22-99; Ord. No. 23330, § XIII, 6-11-08; Ord. No. 24364, § XLIV, 11-7-12)
 Secs. 40-568—40-580. - Reserved.
 ### ARTICLE XXXI. - INDUSTRIAL DISTRICT M-2
-Sec. 40-581. - Description.
+#####   
+
 This district is composed of lands so situated as to be adapted to industrial development. The purpose of this
 district is to permit normal operations of industrial uses under such conditions as will protect adjacent industrial,
 commercial and residential uses.
 (Ord. No. 20783, § 3(XVI(1)), 9-22-99)
-Sec. 40-582. - Permitted uses.
+#####   
+
 In M-2, districts, only the following uses of property shall be permitted:
 (1)
 All uses not otherwise prohibited by law except for those shown as permitted in Article XXXIV, Unrestricted
@@ -12697,13 +12948,15 @@ apply.
 (Ord. No. 20783, § 3(XVI(2)), 9-22-99; Ord. No. 21715, § 19, 11-13-02; Ord. No. 21734, § 12, 12-11-02; Ord.
 No. 23330, § XXXIII, 6-11-08; Ord. No. 23292, § 31, 5-7-08; Ord. No. 24189, § XIV, 1-25-12; Ord. No. 24545,
 § IV, 4-14-13; Ord. No. 24823 , § XXI, 9-17-14; Ord. No. 25020 , § XIII, 10-7-15; Ord. No. 25405 , § 88, 8-917; Ord. No. 25562 , § 11, 4-25-18)
-Sec. 40-583. - Height regulations.
+#####   
+
 No limit in height, except that when a building in an M-2 district adjoins or abuts upon a residential district, such
 building shall not exceed the maximum height permitted in the residential district unless it is set back from all
 yard lines required in the following sections one (1) foot for each foot of additional height in excess of the height
 so permitted.
 (Ord. No. 20783, § 3(XVI(3)), 9-22-99)
-Sec. 40-584. - Area regulations.
+#####   
+
 (a)
 Yard.
 (1)
@@ -12728,23 +12981,28 @@ No rear yard is required except where a lot abuts upon a residential district, i
 yard of not less than fifteen (15) feet. Where a rear yard, though not required, is provided, such yard shall have a
 depth of not less than three (3) feet.
 (Ord. No. 20783, § 3(XVI(4)), 9-22-99; Ord. No. 21715, § 20, 11-13-02)
-Sec. 40-585. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-525 of this chapter.
 (Ord. No. 24364, § XLV, 11-7-12)
-Sec. 40-586. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XVI(5)), 9-22-99; Ord. No. 23330, § IV, 6-11-08; Ord. No. 24364, § XLV, 11-7-12)
-Sec. 40-587. - Loading zone requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XVI(6)), 9-22-99; Ord. No. 23330, § XIII, 6-11-08; Ord. No. 24364, § XLV, 11-7-12)
 Secs. 40-588—40-600. - Reserved.
 ### ARTICLE XXXII. - INDUSTRIAL DISTRICT M-3
-Sec. 40-601. - Purpose.
+#####   
+
 This district is intended solely for industrial and related activities which, by the nature of their operation, create
 conditions unsuitable for residential, retail and typical office uses. Whenever practical, this district should be
 buffered from nearby residential areas by more restrictive zoning districts.
 (Ord. No. 20783, § 3(XVI-A(1)), 9-22-99)
-Sec. 40-602. - Permitted uses.
+#####   
+
 In M-3, districts, only the following uses of property shall be permitted:
 (1)
 Any existing use shall be considered a conforming use and may continue to operate, provided it does not
@@ -13125,35 +13383,42 @@ Off-track wagering facilities with the criteria listed in article XXX, industria
 Ord. No. 21888, § 1, 6-4-03; Ord. No. 23330, § XXXIV, 6-11-08; Ord. No. 23292, § 32, 5-7-08; Ord. No. 24189,
 § XV, 1-25-12; Ord. No. 24545, § V, 4-14-13; Ord. No. 24823 , § XXII, 9-17-14; Ord. No. 25405 , § 89, 8-9-17;
 Ord. No. 25349 , § 10, 5-3-17; Ord. No. 25562 , § 12, 4-25-18)
-Sec. 40-603. - Height regulations.
+#####   
+
 No limitation on height.
 (Ord. No. 20783, § 3(XVI-A(3)), 9-22-99)
-Sec. 40-604. - Area regulations.
+#####   
+
 (a)
 Lot area.
 (1)
 Every lot shall contain a minimum lot area of ten thousand (10,000) square feet with a minimum lot depth of one
 hundred (100) feet.
 (Ord. No. 20783, § 3(XVI-A(4)), 9-22-99)
-Sec. 40-605. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-525 of this chapter.
 (Ord. No. 24364, § XLVI, 11-7-12)
-Sec. 40-606. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XVI-A(5)), 9-22-99; Ord. No. 23330, § IV, 6-11-08; Ord. No. 24364, § XLVI, 11-7-12)
-Sec. 40-607. - Loading zone requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XVI-A(6)), 9-22-99; Ord. No. 23330, § XIII, 6-11-08; Ord. No. 24364, § XLVI, 11-7-12)
 Secs. 40-608—40-610. - Reserved.
 ARTICLE XXXII.5. - INDUSTRIAL DISTRICT M-4
-Sec. 40-611. - Description.
+#####   
+
 This district is intended solely for industrial activities relating to or involving waste collection, handling and
 disposal facilities. The purpose of this district is to allow the normal operation of state permitted landfills and
 other waste handling, recycling and disposal establishments under such conditions as will protect adjacent land
 uses. Whenever practical, this district should be buffered from nearby residential areas by more restrictive
 zoning.
 (Ord. No. 21787, § 3, 2-26-03)
-Sec. 40-612. - Permitted uses.
+#####   
+
 (1)
 Any existing use shall be considered a conforming use and may continue to operate, provided it does not
 discontinue such use for a period of more than one (1) year.
@@ -13207,10 +13472,12 @@ codes, and all other applicable codes.
 Approval from the Jefferson Parish Council, as provided for in Article XL (Special Permitted Uses) shall not be
 required in the M-4 District for those uses described in section 40-612(2).
 (Ord. No. 21787, § 3, 2-26-03)
-Sec. 40-613. - Height regulations.
+#####   
+
 Height limits shall be in accordance with all applicable federal and state regulations.
 (Ord. No. 21787, § 3, 2-26-03)
-Sec. 40-614. - Area regulations.
+#####   
+
 (1)
 Setbacks.
 a.
@@ -13237,10 +13504,12 @@ Lot area.
 a.
 All uses shall have a minimum size of thirty (30) acres.
 (Ord. No. 21787, § 3, 2-26-03)
-Sec. 40-615. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-525 of this chapter.
 (Ord. No. 24364, § XLVII, 11-7-12)
-Sec. 40-616. - Landscape and buffer requirements.
+#####   
+
 (1)
 The first twenty (20) feet from any property line which abuts an improved public street shall be landscaped and
 buffered by trees, shrubs, earth berms, or a combination of the same. In no event shall such buffer be less than
@@ -13255,7 +13524,8 @@ within the required setback area.
 In the event any of the above regulations related to landscaping and buffering are in conflict with other local,
 state, or federal regulations, the more restrictive shall govern.
 (Ord. No. 21787, § 3, 2-26-03; Ord. No. 24364, § XLVII, 11-7-12)
-Sec. 40-617. - Site plan review.
+#####   
+
 (1)
 Variances to the requirements in section 40-616, landscape and buffer requirements, may be granted by the
 Jefferson Parish Council, upon recommendation by the planning department and planning advisory board,
@@ -13282,7 +13552,8 @@ e.
 Upon receipt of complete site plans, the planning department shall process the request in accordance with Article
 XLVIII, Changes and Amendments, for general procedures not specified in this section.
 (Ord. No. 21787, § 3, 2-26-03; Ord. No. 24364, §§ XLVII, XLVIII, 11-7-12)
-Sec. 40-618. - Compliance for uses existing at the time of passage of ordinance.
+#####   
+
 (1)
 Landfills and other uses permitted under the M-4 Industrial District that existed prior to the passage of the
 requirements in this ordinance shall be brought into compliance with all provisions of this ordinance under the
@@ -13290,19 +13561,23 @@ following condition:
 a.
 Application and receipt of a permit from any state or federal agency to expand existing operations.
 (Ord. No. 21787, § 3, 2-26-03; Ord. No. 24364, § XLVII, 11-7-12)
-Sec. 40-619. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 21787, § 3, 2-26-03; Ord. No. 23330, § IV, 6-11-08; Ord. No. 24364, § XLVII, 11-7-12)
-Sec. 40-620. - Loading zone requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 21787, § 3, 2-26-03; Ord. No. 23330, § XIII, 6-11-08; Ord. No. 24364, § XLVII, 11-7-12)
 ### ARTICLE XXXIII. - PENAL AND CRIMINAL CORRECTIONAL INSTITUTION DISTRICT P-1
-Sec. 40-621. - Description.
+#####   
+
 This district is composed of lands relating to or involving punitive institutions. The purpose of this district is to
 permit the normal operations of institutions of criminal confinement and punishment under such conditions as
 will protect adjacent land uses.
 (Ord. No. 20783, § 3(XVI-B(1)), 9-22-99)
-Sec. 40-622. - Permitted uses.
+#####   
+
 The following uses of property shall be permitted in P-1 District only.
 (1)
 Criminal correctional institutions;
@@ -13319,13 +13594,15 @@ Reform schools.
 (7)
 Accessory buildings and uses customarily incidental to the above uses.
 (Ord. No. 20783, § 3(XVI-B(2)), 9-22-99)
-Sec. 40-623. - Height regulations.
+#####   
+
 No limit to height, except that when a building in a P-1 District adjoins or abuts upon a residential district, such
 building shall not exceed the maximum height permitted in the residential district unless it is set back from all
 yard lines required in the following sections one (1) foot for each foot of additional height in excess of the height
 so permitted.
 (Ord. No. 20783, § 3(XVI-B(3)), 9-22-99)
-Sec. 40-624. - Area regulations.
+#####   
+
 (a)
 Yard.
 (1)
@@ -13360,10 +13637,12 @@ Lot area. When a lot contains a penal or criminal correctional institution, the 
 than twenty-five thousand (25,000) square feet. When a lot is improved for a residential use, the lot area per
 family regulations shall be the same as those required in the R-3 Multiple-Family Residential District.
 (Ord. No. 20783, § 3(XVI-B(4)), 9-22-99)
-Sec. 40-625. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XVI-B(5)), 9-22-99; Ord. No. 23330, § IV, 6-11-08)
-Sec. 40-626. - Loading zone requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XVI-B(6)), 9-22-99; Ord. No. 23330, § XIII, 6-11-08)
 Secs. 40-627—40-640. - Reserved.
@@ -13371,13 +13650,15 @@ Secs. 40-627—40-640. - Reserved.
 Footnotes:
 --- (6) --Editor's note— Ord. No. 25020 , § XIV, adopted Oct. 7, 2015, amended Art. XXXIV and in so doing changed
 the title of said article from "Unrestricted District U-1" to "Unrestricted Rural District (U-1R)," as set out herein.
-Sec. 40-641. - Description.
+#####   
+
 This district is composed of certain lands in the parish where it has been determined that development will be
 retarded due to the natural topography of the area. These districts may be rezoned upon determination by the
 planning director that changes have been accomplished which will allow development and use of the area
 proposed for rezoning.
 (Ord. No. 20783, § 3(XVII(1)), 9-22-99)
-Sec. 40-642. - Permitted uses.
+#####   
+
 In U-1R Districts, only the following uses of property shall be permitted, provided that any use located on the
 unprotected side of the Pontchartrain and Vicinity Hurricane Protection Levee, the West Bank and Vicinity
 Hurricane Protection Levee, the Mississippi River and Tributaries Flood Protection Levee and the Jefferson
@@ -13493,13 +13774,15 @@ Off-track wagering facilities with the criteria listed in article XXX, industria
 (Ord. No. 20783, § 3(XVII(2)), 9-22-99; Ord. No. 21787, § 4, 2-26-03; Ord. No. 23167, § 2, 11-14-07; Ord. No.
 24545, § VI, 4-14-13; Ord. No. 24823 , § XXIII, 9-17-14; Ord. No. 25020 , § XIV, 10-7-15; Ord. No. 25513 , §
 17, 2-21-18)
-Sec. 40-643. - Height regulations.
+#####   
+
 Unlimited, provided, however, that buildings erected or structurally altered exclusively for residential purposes
 shall comply with the height regulations of the R-3 Multiple-Family Residential District. Multiple-family
 dwellings, including Elderly Housing and Assisted Living Facilities with culinary facilities in each dwelling
 unit, shall not be permitted to exceed the height permitted by right in the R-3 district.
 (Ord. No. 20783, § 3(XVII(3)), 9-22-99; Ord. No. 22794, § 14, 7-19-06)
-Sec. 40-644. - Area regulations.
+#####   
+
 (a)
 Yard.
 (1)
@@ -13532,13 +13815,16 @@ District.
 Lot area. When a lot is improved for a residential use, the lot area per family regulations shall be the same as
 those required in the R-3 Multiple-Family Residential District.
 (Ord. No. 20783, § 3(XVII(4)), 9-22-99)
-Sec. 40-645. - Sign regulations.
+#####   
+
 Signs shall be permitted in accordance with section 40-525 of this chapter.
 (Ord. No. 24364, § XLIX, 11-7-12)
-Sec. 40-646. - Off-street parking and clear vision area requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XVII(5)), 9-22-99; Ord. No. 23330, § IV, 6-11-08; Ord. No. 24364, § XLIX, 11-7-12)
-Sec. 40-647. - Loading zone requirements.
+#####   
+
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(XVII(6)), 9-22-99; Ord. No. 23330, § XIII, 6-11-08; Ord. No. 24364, § XLIX, 11-7-12)
 Secs. 40-648—40-660. - Reserved.
@@ -13546,7 +13832,8 @@ Secs. 40-648—40-660. - Reserved.
 Footnotes:
 --- (7) --Editor's note— Ord. No. 23330, § XXXVI, adopted June 11, 2008, amended the title of Art. XXXV to read as
 herein set out. See also the Code Comparative Table.
-Sec. 40-661. - General requirements.
+#####   
+
 (a)
 Location of required parking spaces except as may otherwise be provided in this section, shall be located as
 provided below. For the purpose of this subsection (a), one-family, two-family, three-family, four-family
@@ -13847,7 +14134,8 @@ architect.
 (Ord. No. 20783, § 3(XVIII(1)), 9-22-99; Ord. No. 21224, § 3, 3-7-01; Ord. No. 21562, § 3, 5-8-02; Ord. No.
 22962, § 13, 1-10-07; Ord. No. 23292, § 33, 5-7-08; Ord. No. 23898, § 6, 10-13-10; Ord. No. 24587, § 8, 10-213; Ord. No. 24823 , § XXIV, 9-17-14; Ord. No. 25020 , § XV, 10-7-15; Ord. No. 25081 , § 1, 2-17-16; Ord. No.
 24860 , § 3, 11-5-14; Ord. No. 25411 , § 28, 8-23-17; Ord. No. 25562 , § 13, 4-25-18)
-Sec. 40-662. - Off-street parking requirements.
+#####   
+
 Off-street parking spaces shall be provided on any lot for which any of the following listed principal or
 accessory uses are hereafter established, subject to the following and the standards in the appendix of this
 chapter:
@@ -14155,7 +14443,8 @@ One (1) space for each dwelling unit.
 § 3, 5-7-08; Ord. No. 24189, § XVI, 1-25-12; Ord. No. 24587, § 9, 10-2-13; Ord. No. 24687, § III, 3-19-14; Ord.
 No. 25405 , § 90, 8-9-17; Ord. No. 25411 , § 29, 8-23-17; Ord. No. 25379 , § 5, 6-28-17; Ord. No. 25513 , § 18,
 2-21-18; Ord. No. 25562 , § 14, 4-25-18)
-Sec. 40-663. - Off-street loading requirements.
+#####   
+
 (a)
 Every hospital, institution, hotel, commercial or industrial building or use having a gross floor area in excess of
 seven thousand five hundred (7,500) square feet and requiring the receipt of distribution vehicle of materials and
@@ -14168,14 +14457,16 @@ thousand five hundred (7,500) square feet shall provide sufficient off-street lo
 berth if facility is shared by an adjacent establishment) so as not to hinder the free movement of pedestrians and
 vehicles over a sidewalk, street or alley.
 (Ord. No. 20783, § 3(XVIII(3)), 9-22-99)
-Sec. 40-664. - Shared parking.
+#####   
+
 See section 33-6.35.5, Shared parking, of this Code.
 (Ord. No. 25411 , § 30, 8-23-17)
 Editor's note— Ord. No. 25411 , § 30, adopted Aug. 23, 2017, repealed the former § 40-664 and enacted a new
 § 40-664 as set out herein. The former § 40-664 pertained to shared parking requirements for mixed use
 developments and derived from Ord. No. 20783, § 3(XVIII(4)), adopted Sept. 22, 1999; Ord. No. 21734, § 14,
 adopted Dec. 11, 2002; and Ord. No. 24189, § XVII, adopted Jan. 25, 2012.
-Sec. 40-665. - Clear vision area regulations.
+#####   
+
 (a)
 Purpose. Clear vision area regulations are designed to promote public safety by maintaining clear areas that
 provide cross-visibility among pedestrians, bicyclists, and motorists.
@@ -14436,7 +14727,8 @@ Footnotes:
 --- (8) --Editor's note— Ord. No. 24364, § L, adopted November 7, 2012, amended Art. XXXVI, in its entirety, to read
 as herein set out. Prior to inclusion of said ordinance, Art. XXXVI pertained to similar subject matter. See also
 the Code Comparative Table.
-Sec. 40-681. - Measurements.
+#####   
+
 (1)
 Sign spacing. Detached and off-premises sign spacing shall be measured radially as the shortest horizontal
 distance between any part of one (1) sign and any part of a second sign.
@@ -14516,7 +14808,8 @@ inspection and code enforcement or the director's designee, and a measurement sh
 
 Figure 40.681.3, Target area
 (Ord. No. 24364, § L, 11-7-12; Ord. No. 25231 , § 6, 10-5-16)
-Sec. 40-682. - Regulations of general applicability.
+#####   
+
 Requirements herein shall be applicable to both on- and off-premises signs.
 (1)
 Setback requirements. Unless otherwise specified in this Chapter, all signs shall comply with the yard
@@ -14689,7 +14982,8 @@ Signs of any size mounted on trailers.
 b.
 Other portable signs with an area on one (1) side in excess of ten (10) square feet.
 (Ord. No. 24364, § L, 11-7-12)
-Sec. 40-683. - On-premises sign regulations.
+#####   
+
 (a)
 Location. Detached signs in the following districts may be erected in the required front yard when located a
 minimum of seventy-five (75) feet from a 1-, 2-, 3-, or 4-family district:
@@ -14805,7 +15099,8 @@ and streamers pertaining to said period or events may be displayed on a temporar
 parish council.
 (Ord. No. 23096, § I, 7-18-07; Ord. No. 24364, §§ L, LV, 11-7-12; Ord. No. 25020 , § XVI, 10-7-15; Ord. No.
 25040 , § VIII, 11-4-15; Ord. No. 25231 , § 7, 10-5-16; Ord. No. 25411 , § 31, 8-23-17)
-Sec. 40-684. - Off-premises sign regulations.
+#####   
+
 (a)
 Location.
 (1)
@@ -14911,7 +15206,8 @@ No utilities shall be released in connection with the erection, construction, co
 been submitted to the department of inspection and code enforcement which shows that the sign complies with
 the requirements of this chapter and the Jefferson Parish Building Code.
 (Ord. No. 24364, § L, 11-7-12; Ord. No. 25020 , § XVII, 10-7-15)
-Sec. 40-685. - General sign permit and inspection regulations.
+#####   
+
 The following regulations apply generally to all signs and are in addition to the regulations contained elsewhere
 in this Code:
 (1)
@@ -14961,7 +15257,8 @@ code of the parish. No sign shall be approved for use unless it has been inspect
 permit and is found to be in compliance with all the requirements of this chapter and other applicable technical
 codes.
 (Ord. No. 24364, § L, 11-7-12)
-Sec. 40-686. - Exceptions from these provisions.
+#####   
+
 The following signs are exempt from the provisions of this chapter and may be erected or constructed without a
 permit when in accordance with the structural and safety requirements of the Building Code:
 (1)
@@ -14995,7 +15292,8 @@ feet in area.
 Directional signs limited in area to ten (10) square feet each shall be permitted and shall not be included in any
 calculation of sign area.
 (Ord. No. 24364, § L, 11-7-12)
-Sec. 40-687. - Temporary permits.
+#####   
+
 (a)
 The director of inspection and code enforcement, upon application as required in this section may issue
 temporary permits for the following signs and displays for a period of not exceeding thirty (30) days, when in
@@ -15013,17 +15311,20 @@ opening of a new business.
 (Ord. No. 24364, § L, 11-7-12)
 Secs. 40-688—40-695. - Reserved.
 ### ARTICLE XXXVII. - NONCONFORMING USES
-Sec. 40-696. - Purpose.
+#####   
+
 The purpose of nonconforming use regulations is to allow nonconforming uses while upholding the integrity of
 the district regulations described in this ordinance by carefully guiding nonconforming uses to have as little
 negative impact on conforming uses as possible.
 (Ord. No. 20783, § 3(XIX(1)), 9-22-99)
-Sec. 40-697. - Continuance.
+#####   
+
 Any lawful structure, building permit issue, or use existing on or prior to the date of adoption of Ordinance
 5687; or whenever a district shall be changed by amendment to this ordinance; may be continued even though
 such building, structure, or use does not conform to the regulations of the district in which it is located.
 (Ord. No. 20783, § 3(XIX(2)), 9-22-99)
-Sec. 40-698. - Extensions, additions and enlargements.
+#####   
+
 No extensions, additions, or enlargements shall be permitted to any legal nonconforming use, except as provided
 for in subsection (2). Nothing in this section shall be interpreted to exclude routine maintenance, repair, or
 renovation which does not extend, increase, or enlarge the nonconforming structure, building or use.
@@ -15055,7 +15356,8 @@ project, an addition to height may be permitted provided the extension is limite
 height that allows the message to be visible. The requirements of paragraphs a. and b. above shall not apply but
 the requirements of paragraphs c. and d. above shall apply.
 (Ord. No. 20783, § 3(XIX(3)), 9-22-99; Ord. No. 24364, § LI, 11-7-12)
-Sec. 40-699. - Change in use.
+#####   
+
 (a)
 Residential districts. For the purposes of protecting the integrity of residential neighborhoods, no change in use
 from one (1) nonconforming use to another nonconforming use shall be permitted in any residential zoning
@@ -15095,11 +15397,13 @@ district.
 (d)
 Once a nonconforming use is changed to a conforming use, the nonconforming use shall not be reestablished
 (Ord. No. 20783, § 3(XIX(4)), 9-22-99; Ord. No. 24823 , § XXV, 9-17-14)
-Sec. 40-700. - Change in occupancy.
+#####   
+
 A change in occupancy of a nonconforming use shall be permitted provided the regulations in section 40-699,
 Change in Use are met.
 (Ord. No. 20783, § 3(XIX(5)), 9-22-99)
-Sec. 40-701. - Restoration of nonconforming uses.
+#####   
+
 (a)
 Partial destruction and restoration. A nonconforming use, structure, or building may be restored after destruction
 by Act of God, war, or other local catastrophe if so destroyed to no more than seventy-five (75) percent of its
@@ -15172,28 +15476,33 @@ h.
 The applicant shall have one (1) year to obtain a building permit to restore the structure, building or use from the
 effective date of the ordinance approved by the council.
 (Ord. No. 20783, § 3(XIX(6)), 9-22-99; Ord. No. 24823 , § XXVI, 9-17-14)
-Sec. 40-702. - Vacancy of a nonconforming structure.
+#####   
+
 The discontinuance or suspension of a nonconforming use or associated activity for any reason shall constitute
 vacancy of a nonconforming structure, regardless of the intent of the owner or lessee of the premises to continue
 such nonconforming use or associated activity. Vacancy of a nonconforming for a period of one (1) year shall
 terminate the nonconforming use.
 (Ord. No. 20783, § 3(XIX(7)), 9-22-99)
-Sec. 40-703. - Limitation of nonconforming use of land.
+#####   
+
 Where a portion of the property occupied by a nonconforming structure is used as nonconforming, but the use
 does not include the entire lot or parcel, the portion not used shall not be deemed to be nonconforming and said
 use may not be extended.
 (Ord. No. 20783, § 3(XIX(8)), 9-22-99)
 Secs. 40-704—40-715. - Reserved.
 ### ARTICLE XXXVIII. - MANUFACTURED HOMES AND MOBILE HOMES
-Sec. 40-716. - General.
+#####   
+
 Manufactured homes and mobile homes shall be subject to the regulations of this section, unless elsewhere
 allowed as a permitted use in a zoning district.
 (Ord. No. 20783, § 3(XIX-A(1)), 9-22-99)
-Sec. 40-717. - Board of zoning adjustments; approval.
+#####   
+
 All applications for a manufactured home or mobile home shall be forwarded for approval by the board of
 zoning adjustments, following a public hearing, in accordance with the provisions of Article XLII, section 40794.
 (Ord. No. 20783, § 3(XIX-A(2)), 9-22-99; Ord. No. 21734, § 16, 12-11-02)
-Sec. 40-718. - Permanent installations.
+#####   
+
 The board of zoning adjustments may grant authority for the permanent installation of a manufactured home or
 mobile home for single-family residences in any zoning district in which such residences are permitted, provided
 that:
@@ -15208,11 +15517,13 @@ The applicant has a demonstrable hardship, does not meet the requirements of com
 board receives a report by the department of inspection and code enforcement investigating the alleged hardship
 or receives other proof substantiating the alleged hardship.
 (Ord. No. 20783, § 3(XIX-A(3)), 9-22-99; Ord. No. 21734, § 17, 12-11-02)
-Sec. 40-719. - Hardship.
+#####   
+
 Hardship as used in this section shall depend on the circumstances of each case and the board shall be governed
 by the standards in Article XLII, Zoning Appeals Board, section 40-793(2).
 (Ord. No. 20783, § 3(XIX-A(4)), 9-22-99)
-Sec. 40-720. - Compatibility.
+#####   
+
 Compatible as used herein shall mean the same or similar exterior finish, dimensions, roof pitch and floor area,
 more particularly:
 (1)
@@ -15227,7 +15538,8 @@ than eleven (11) feet six (6) inches as measured across the narrowest position.
 (4)
 The mobile home shall have a minimum floor area of seven hundred twenty (720) square feet.
 (Ord. No. 20783, § 3(XIX-A(5)), 9-22-99)
-Sec. 40-721. - Waiver of public hearing and fee.
+#####   
+
 The zoning appeals board may waive the requirements for a public hearing, notice, and all or part of the fee for
 appeal upon the applicant presenting a petition of "no objection" executed by one hundred (100) percent of the
 property owners on both sides of the street or road, within three hundred (300) feet of said property and all
@@ -15238,7 +15550,8 @@ and all abutting property owners.
 (Ord. No. 20783, § 3(XIX-A(6)), 9-22-99)
 Secs. 40-722—40-735. - Reserved.
 ### ARTICLE XXXIX. - EXCEPTIONS AND MODIFICATIONS
-Sec. 40-736. - General.
+#####   
+
 (a)
 The regulations herein set forth in this article qualify or supplement, as the case may be, the district regulations
 appearing elsewhere in this article.
@@ -15247,7 +15560,8 @@ Except as provided in section 40-792(2) or otherwise specifically provided in th
 modifications to the requirements of this chapter may be applied, without the review or approval of the council
 or board of zoning adjustments, when specified facts or circumstances are present.
 (Ord. No. 20783, § 3(XX(1)), 9-22-99; Ord. No. 22670, § 12, 1-11-06)
-Sec. 40-737. - Exceptions to height requirements.
+#####   
+
 The height regulations as stated in this ordinance shall not apply to the following uses. Additional exceptions to
 height regulations are located in the height requirements section of the Multiple-family Residential District R-3,
 the Condominium District R-1CO, the Medical Service District H-2, the Neighborhood Commercial District C1, the General Offices District GO-1, the Core District-Residential CD-R, the Business Core District BC-1, the
@@ -15560,7 +15874,8 @@ v.
 Upon request of the floodplain manager, any additional materials necessary to facilitate the determination.
 (Ord. No. 20783, § 3(XX(2)), 9-22-99; Ord. No. 22794, § 17, 7-19-06; ; Ord. No. 24860 , § 4, 11-5-14; Ord. No.
 25020 , § XVIII, 10-7-15)
-Sec. 40-738. - Exceptions to yard regulations.
+#####   
+
 (a)
 More than one (1) main institutional building, public or semi-public, multiple-family, commercial or industrial
 building may be located upon a lot or tract, provided no such building or portion thereof is located outside the
@@ -15601,7 +15916,8 @@ percent and when there is no other legal location for parking on site, as determ
 inspection and code enforcement.
 (Ord. No. 20783, § 3(XX(3)), 9-22-99; Ord. No. 21715, § 22, 11-13-02; Ord. No. 24860 , § 5, 11-5-14; Ord. No.
 25195 , § 1, 8-24-2016)
-Sec. 40-739. - Exceptions to area regulations.
+#####   
+
 (a)
 Where a lot, tract or parcel of land has an area or frontage of less than the minimum requirements for the district
 in which it is located, but was a lot of record in separate ownership from adjacent property at the time of passage
@@ -15638,13 +15954,15 @@ c.
 Dedication of lot area or parking shall contain a clause stating that said dedication shall be valid until revoked in
 writing by the director of inspection and code enforcement.
 (Ord. No. 20783, § 3(XX(4)), 9-22-99; Ord. No. 24807 , § XLV, 8-27-14)
-Sec. 40-740. - Sub-standard lots of record.
+#####   
+
 Where two (2) or more adjoining and vacant lots with continuous frontage are in a single ownership at the time
 of passage of Ordinance No. 5687, and such lots have a frontage or lot area less than is required by the district in
 which they are located, such lots shall be re-platted or re-subdivided so as to create one (1) or more lots which
 conform to the minimum lot area requirements of the district.
 (Ord. No. 20783, § 3(XX(5)), 9-22-99)
-Sec. 40-741. - Projections into open areas.
+#####   
+
 (a)
 Every part of a required yard shall be open to the sky except where necessary buildings are permitted in that
 portion of a rear or side yard and except for the ordinary projections of sills, belt course, cornices and
@@ -15674,7 +15992,8 @@ where otherwise provided herein.
 (d)
 [Reserved.]
 (Ord. No. 20783, § 3(XX(6)), 9-22-99; Ord. No. 23330, § XXXVII, 6-11-08; Ord. No. 24860 , § 6, 11-5-14)
-Sec. 40-742. - Exceptions and modifications to use regulation.
+#####   
+
 (a)
 Power plants, heating and refrigerating plants, or apparatus or machinery which are accessory to permitted uses
 in the S-1, Suburban District and in the R-1, R-2, RR-3 and R-3, Residential Districts shall be permitted in these
@@ -15703,7 +16022,8 @@ not apply if the gaming device(s) have been physically removed from the establis
 Incineration devices shall be prohibited within three hundred (300) feet of any residential zoned property.
 (Ord. No. 20783, § 3(XX(7)), 9-22-99; Ord. No. 21734, § 18, 12-11-02; Ord. No. 22670, § 13, 1-11-06; Ord. No.
 23330, § XXXVIII, 6-11-08; Ord. No. 23292, § 34, 5-7-08; Ord. No. 24823 , § XXVII, 9-17-14)
-Sec. 40-743. - Regulation of accessory buildings, structures, and uses.
+#####   
+
 Except as otherwise provided in this chapter:
 (a)
 Any accessory building that is not a part of the principal building may be built in a required side yard, provided
@@ -15876,7 +16196,8 @@ shall be enclosed by a feather-edge board fence, a solid masonry fence, or simil
 height of eight (8) feet, to completely screen the area from view from public rights-of-way and adjacent
 properties.
 (Ord. No. 24823 , § XXVIII, 9-17-14)
-Sec. 40-744. - Regulation of on-site potentially infectious biomedical waste treatment facilities.
+#####   
+
 (a)
 On-site potentially infectious biomedical waste treatment facilities shall meet fully all of the following criteria:
 (1)
@@ -16010,7 +16331,8 @@ ordinance which choose to rehabilitate or upgrade said facility and cannot meet 
 subsections (a)(1) and (3), concerning capacity and distance standards, above, may be granted variances by the
 Jefferson Parish Council, subject to Article XL, Special Permitted Uses.
 (Ord. No. 22039, § 5, 11-5-03)
-Sec. 40-745. - Community unit development.
+#####   
+
 Any authorized agency of the parish, state or federal government or the private owner or owners of any tract of
 land, containing an area of not less than four (4) acres, may submit to the council, through the planning
 department, a plan for the development of such tract of land, the design of which makes it desirable to apply
@@ -16039,7 +16361,8 @@ The approval granted by the council for any such development shall expire five (
 approval if the applicant has not completed construction of at least fifty (50) percent of the proposed
 development. The council may extend its approval for an additional two (2) years at the request of an applicant.
 (Ord. No. 20783, § 3(XX(10)), 9-22-99)
-Sec. 40-746. - Regulations for townhouse dwellings.
+#####   
+
 (a)
 Townhouse dwellings may be permitted in an R-2, Two-Family Residential District provided no more than two
 (2) townhouse units are grouped in one (1) building, in an RR-3, Three- and Four-Family Residential District
@@ -16070,7 +16393,8 @@ Provisions satisfactory to the Jefferson Parish Council shall be made to assure 
 common use and enjoyment of occupants of townhouses, but not in individual ownership by such occupants
 shall be maintained in a satisfactory manner without expense to the general taxpayer.
 (Ord. No. 20783, § 3(XX(11)), 9-22-99)
-Sec. 40-747. - Regulations for stadiums and athletic fields.
+#####   
+
 (a)
 General.
 (1)
@@ -16517,7 +16841,8 @@ altered; no parking lot shall be paved, added to, or structurally altered; and, 
 completeness shall be issued. Any deviation from the approved site plan is a violation of this Code.
 (Ord. No. 22962, § 15, 1-10-07; Ord. No. 23330, § XXXIX, 6-11-08; Ord. No. 23292, § 35, 5-7-08; Ord. No.
 25405 , § 91, 8-9-17; Ord. No. 25744 , § 18, 2-27-19)
-Sec. 40-748. - Regulations for public utility structures.
+#####   
+
 (a)
 Utility poles shall be limited as follows:
 (1)
@@ -16731,7 +17056,8 @@ exacerbate the soil subsidence of area properties and that approval by the depar
 citizens drainage advisory board has not been granted shall not be brought before the council for consideration
 as a special permitted use.
 (Ord. No. 20783, § 3(XX(13)), 9-22-99; Ord. No. 22962, § 15, 1-10-07; Ord. No. 24364, § LII, 11-7-12)
-Sec. 40-750. - Regulation of portable storage units (PSU).
+#####   
+
 PSU's are allowed in all zoning districts subject to the following requirements:
 (a)
 For all uses each PSU:
@@ -16777,7 +17103,8 @@ Shall be located entirely within the rear yard area of a site.
 d.
 Shall meet the screening requirements provided in section 40-661(g) (7) if located on a corner development site.
 (Ord. No. 24687, § II, 3-19-14)
-Sec. 40-751. - Reasonable accommodation for the handicapped.
+#####   
+
 Nothing in this ordinance shall be construed to prevent a reasonable accommodation for handicapped persons as
 defined by the Federal Fair Housing Act in accordance with federal, state and parish procedures. Application for
 reasonable accommodation shall be submitted to the department of inspection and code enforcement for review
@@ -16785,7 +17112,8 @@ and approval. Appeals from this process shall be to the Twenty-Fourth Judicial D
 (Ord. No. 20783, § 3(XX(14)), 9-22-99; Ord. No. 22962, § 15, 1-10-07)
 Editor's note— Ord. No. 24687, § II, adopted March 19, 2014, renumbered § 40-750 as § 40-751, as set out
 herein.
-Sec. 40-752. - Regulations for home occupations.
+#####   
+
 (a)
 Purposes.
 (1)
@@ -17010,7 +17338,8 @@ Trades; or
 (11)
 Business of any kind not herein prohibited.
 (Ord. No. 25513 , § 19, 2-21-18)
-Sec. 40-753. - Regulations for bed and breakfast.
+#####   
+
 (a)
 Manager must reside on premises.
 (b)
@@ -17032,7 +17361,8 @@ Offenses and Miscellaneous Provisions, and Chapter 35 Taxation of this Code.
 (Ord. No. 25513 , § 19, 2-21-18)
 Secs. 40-754—40-760. - Reserved.
 ### ARTICLE XL. - SPECIAL PERMITTED USES
-Sec. 40-761. - Application, procedure, and notice.
+#####   
+
 (a)
 Applications for special permitted uses shall be filed with the planning department and shall contain the
 following information:
@@ -17057,7 +17387,8 @@ exceed five thousand dollars ($5,000.00).
 Unless otherwise specified above, all other procedures and requirements shall be in conformance with article
 XLVIII, changes and amendments, of this chapter.
 (Ord. No. 20783, § 3(XX-A(1)), 9-22-99; Ord. No. 24003, § V, 5-11-11; Ord. No. 24576, § VII, 9-18-13)
-Sec. 40-762. - General criteria.
+#####   
+
 In deliberating on any application, the council shall not grant approval of any special use unless it makes
 findings based upon the evidence presented to it that each case shall indicate all of the following:
 (1)
@@ -17078,7 +17409,8 @@ vibration, light or glare or other nuisances.
 Only one (1) special permitted use shall be allowed per dwelling or lot, tract, plot or building site. A special
 permitted use may not be permitted on premises containing a home occupation, as defined in section 40-3.
 (Ord. No. 20783, § 3(XX-A(2)), 9-22-99)
-Sec. 40-763. - Approval.
+#####   
+
 (a)
 Approval of a special permitted use shall be by passage of an ordinance by the Jefferson Parish Council.
 (b)
@@ -17090,7 +17422,8 @@ Owners/applicant of properties designated for special permitted uses approved pr
 ordinance shall be notified by the planning department within one hundred twenty (120) days that they shall be
 subject to the provisions of paragraph (b) above.
 (Ord. No. 20783, § 3(XX-A(3)), 9-22-99)
-Sec. 40-764. - Renewal of special permitted use.
+#####   
+
 A special permitted use shall be renewed within two (2) years subject to the following provisions:
 (1)
 The applicant shall submit to the planning department an affidavit stating that there have been no changes listed
@@ -17126,7 +17459,8 @@ Footnotes:
 --- (10) --Editor's note— Ord. No. 21734, § 19, adopted Dec. 11, 2002, amended the title of Art. XLII to read as herein
 set out. Prior to inclusion of said ordinance, Art. XLII was entitled, "Zoning Appeals Board." See the Code
 Comparative Table.
-Sec. 40-791. - Created.
+#####   
+
 Pursuant to Sec. 4.06 of the Jefferson Parish Charter, the Board of Zoning Adjustments is hereby created. The
 word "board" when used in this section shall be construed to mean the board of zoning adjustments. The board
 shall consist of seven (7) members, who shall be appointed by the Jefferson Parish Council: one (1) member
@@ -17137,7 +17471,8 @@ who shall serve one (1) year or until he/she is re-elected or his/her successor 
 be the legal advisor for the board. The board shall not hold more than fifty-two (52) meetings in any calendar
 year.
 (Ord. No. 20783, § 3(XXII(1)), 9-22-99; Ord. No. 21734, § 20, 12-11-02; Ord. No. 23292, § 37, 5-7-08)
-Sec. 40-792. - Powers of the board.
+#####   
+
 The board of zoning adjustments shall have all the powers and duties prescribed by this ordinance, which are
 more particularly specified as follows:
 (1)
@@ -17344,7 +17679,8 @@ No. 23201, § 3, 12-12-07; Ord. No. 23330, § XL, 6-11-08; Ord. No. 23776, § 2,
 5-26-10; Ord. No. 23881, § 14, 9-22-10; Ord. No. 23898, § 7, 10-13-10; Ord. No. 24169, § VII, 12-7-11; Ord.
 No. 24240, § X, 3-28-12; Ord. No. 24364, § LIII, 11-7-12; Ord. No. 24823 , § XXIX, 9-17-14; ; Ord. No. 24860
 , § 8, 11-5-14; Ord. No. 24989 , § XV, 8-12-15; Ord. No. 25405 , § 92, 8-9-17)
-Sec. 40-793. - Limitation of powers and standards for board action.
+#####   
+
 The actions and decisions of the board of zoning adjustments shall be governed by the following standards and
 restrictions:
 (1)
@@ -17421,7 +17757,8 @@ c.
 [Reserved.]
 (Ord. No. 20783, § 3(XXII(3)), 9-22-99; Ord. No. 21734, § 22, 12-11-02; Ord. No. 22670, § 15, 1-11-06; Ord.
 No. 23201, § 3, 12-12-07; Ord. No. 23776, § 3, 3-24-10; Ord. No. 24240, § XI, 3-28-12)
-Sec. 40-794. - Appeals to the board.
+#####   
+
 (a)
 (1)
 Appellants. Appeals to the board may be taken by any party aggrieved, or by any officer, department, board,
@@ -17507,7 +17844,8 @@ Failure to strictly adhere to the discretionary forms of notification shall not 
 board action on any matter.
 (Ord. No. 20783, § 3(XXII(4)), 9-22-99; Ord. No. 21242, § 1, 3-21-01; Ord. No. 21734, § 23, 12-11-02; Ord.
 No. 22670, § 16, 1-11-06; Ord. No. 24576, § VIII, 9-18-13)
-Sec. 40-795. - Procedure; meetings.
+#####   
+
 (a)
 Rules of procedure. The board shall adopt rules of procedure not in conflict with any state act or parish
 ordinance.
@@ -17555,7 +17893,8 @@ Notice of the original hearing shall constitute notice of the rescheduled hearin
 disseminate notice of the cancellation and rescheduling through any available public information service during
 the emergency situation.
 (Ord. No. 20783, § 3(XXII(5)), 9-22-99; Ord. No. 22670, § 17, 1-11-06)
-Sec. 40-796. - Judicial review.
+#####   
+
 (a)
 
 Any person or persons jointly or severally aggrieved by a decision of the board of zoning adjustments, or any
@@ -17598,7 +17937,8 @@ decision brought up for review. Costs shall not be assessed against the parish u
 that the actions of the board constitute criminal, fraudulent, malicious, intentional, willful, outrageous, reckless,
 or flagrant misconduct, pursuant to La. R.S. 9:2798.1.
 (Ord. No. 20783, § 3(XXII(6)), 9-22-99; Ord. No. 21734, § 24, 12-11-02; Ord. No. 22670, § 18, 1-11-06)
-Sec. 40-797. - Filing fee for hearing before the board.
+#####   
+
 At the time the notice of appeal to the board is filed, a fee shall be paid to the director of inspection and code
 enforcement in accordance with the following schedule:
 (1)
@@ -17610,7 +17950,8 @@ dollars ($5,000.00);
 (3)
 All fees collected shall be credited to the general fund.
 (Ord. No. 20783, § 3(XXII(7)), 9-22-99; Ord. No. 21318, § 1, 7-18-01; Ord. No. 22670, § 19, 1-11-06)
-Sec. 40-798. - Salaries.
+#####   
+
 Members of the board shall receive a fee of one hundred fifty dollars ($150.00) per day for each day on which
 they may meet for serving as members of the board. The board shall not hold more than fifty-two (52) meetings
 in any calendar year.
@@ -17618,7 +17959,8 @@ in any calendar year.
 23200, § 2, 12-12-07)
 Secs. 40-799—40-810. - Reserved.
 ### ARTICLE XLIII. - ADMINISTRATION
-Sec. 40-811. - [Generally.]
+#####   
+]
 In accordance with section 33-1.12, Responsibilities for application of UDC, in Chapter 33, Unified
 Development Code, of this code, the administration of this chapter shall be the joint responsibility of the
 planning director, inspection and code enforcement director, and public works director, as applicable, and those
@@ -17627,7 +17969,8 @@ works department as so designated by him or her.
 (Ord. No. 20783, § 3(XXIII(1)), 9-22-99; Ord. No. 25405 , § 93, 8-9-17)
 Secs. 40-812—40-820. - Reserved.
 ### ARTICLE XLIV. - CERTIFICATES OF USE AND OCCUPANCY
-Sec. 40-821. - Certificates.
+#####   
+
 After the effective date of this chapter, except as specifically provided in section 40-696 hereof, no change in the
 use or occupancy in an existing building shall be made, nor shall any new building be occupied for any purpose
 until a certificate of use or occupancy has been issued by the inspection and code enforcement director. Every
@@ -17641,31 +17984,36 @@ temporary certificate shall not be issued except under such restrictions and pro
 the safety of the occupancy, provided that no certificates of use or occupancy be issued pending amendment or
 change of any district as provided further in Article XLVIII, Changes and Amendments, hereof.
 (Ord. No. 20783, § 3(XXIV(1)), 9-22-99)
-Sec. 40-822. - Issuance.
+#####   
+
 No permit for excavation for, or the erection or alteration of, any building shall be issued before the application
 has been made and approved for a certificate of use or occupancy, and compliance, and no building or premises
 shall be occupied or used until that certificate and permit are issued.
 (Ord. No. 20783, § 3(XXIV(2)), 9-22-99)
-Sec. 40-823. - Records.
+#####   
+
 A record of all certificates of use and occupancy shall be maintained by the inspection and code enforcement
 director. Persons having a proprietary or tenancy interest in land or a building affected by such certificates of use
 or occupancy may obtain copies upon request and payment of a fee of one dollar ($1.00) for each such copy.
 (Ord. No. 20783, § 3(XXIV(3)), 9-22-99)
-Sec. 40-824. - Refusal and cancellation.
+#####   
+
 It shall be the duty of the inspection and code enforcement director to refuse to issue any certificate of use or
 occupancy until all fees required have been paid. He shall further cancel any and all certificates of use or
 occupancy applied for or issued to any delinquent party and shall prevent any further construction, repairs,
 alterations, additions, maintenance, use or occupancy of buildings, structures or land anywhere within the Parish
 of Jefferson by such party until all delinquent fees and charges are paid in full.
 (Ord. No. 20783, § 3(XXIV(4)), 9-22-99)
-Sec. 40-825. - No change in use.
+#####   
+
 This section shall in no case be construed to require any party, in the event of a change in ownership or tenancy
 only, without a change in use, to obtain a certificate of use or occupancy for any existing residential unit or units,
 provided that no repairs, alterations, and/or additions are proposed for such residential unit or units.
 (Ord. No. 20783, § 3(XXIV(5)), 9-22-99)
 Secs. 40-826—40-835. - Reserved.
 ### ARTICLE XLV. - PLANS AND PLATS
-Sec. 40-836. - [Generally.]
+#####   
+]
 Specific requirements for site plans and plats are provided in other articles of this chapter and applicable sections
 of Chapter 8, Buildings and building regulations, and Chapter 33, Unified Development Code, of this code, as
 supplemented by application requirements of the planning department or inspections and code enforcement
@@ -17685,7 +18033,8 @@ director or the office of the planning director, as appropriate to the type of a
 (Ord. No. 20783, § 3(XXV), 9-22-99; Ord. No. 25405 , § 94, 8-9-17)
 Secs. 40-837—40-845. - Reserved.
 ### ARTICLE XLVI. - INTERPRETATION, PURPOSE AND CONFLICT
-Sec. 40-846. - Interpretation, purpose and conflict.
+#####   
+
 In interpreting the provisions of this chapter, these shall be held to be the minimum requirements for the
 promotion of the public safety, health, convenience, comfort, morals, prosperity and general welfare. Where this
 chapter imposes a greater restriction or higher standard than is imposed or required by any other provision or
@@ -17693,7 +18042,8 @@ regulation of this code, the provisions of this chapter shall govern.
 (Ord. No. 20783, § 3(XXVI), 9-22-99; Ord. No. 25405 , § 95, 8-9-17)
 Secs. 40-847—40-860. - Reserved.
 ### ARTICLE XLVII. - ENFORCEMENT, VIOLATION, PENALTY AND REMEDIES
-Sec. 40-861. - Enforcement.
+#####   
+
 It shall be the duty of the inspection and code enforcement director to enforce this chapter. It shall also be the
 duty of all officers and employees of the parish, and especially all members of the law enforcement and
 licensing agencies, to assist the director by reporting to him upon new construction, reconstruction, or land uses,
@@ -17701,7 +18051,8 @@ or upon seeming violation. Appeal from the decision of the inspection and code e
 application of these regulations may be made to the board of zoning adjustments as provided for in Article XLII,
 Board of Zoning Adjustments, hereof.
 (Ord. No. 20783, § 3(XXVII(1)), 9-22-99; Ord. No. 21734, § 25, 12-11-02)
-Sec. 40-862. - Violation.
+#####   
+
 Any firm, person or corporation who shall do anything prohibited by this chapter as it exists or may hereafter be
 amended or who shall fail to do anything as required by this chapter as it exists or may hereafter be amended is
 hereby declared to be guilty of a misdemeanor and shall be punished as provided by law. Each and every day
@@ -17709,7 +18060,8 @@ that such violation exists shall be deemed to be a separate offense. The law enf
 shall furnish, upon request by the inspection and code enforcement director, the necessary police personnel to
 carry out these orders.
 (Ord. No. 20783, § 3(XXVII(2)), 9-22-99)
-Sec. 40-863. - Penalty.
+#####   
+
 The owners, agent or person in charge of building or premises where a violation of any provisions of this chapter
 has been committed or shall exist, or the lessee or tenant of an entire building or entire premises where such
 violation has been committed or shall exist, or the owner, agency, person in charge, lessee or tenant of any part
@@ -17720,7 +18072,8 @@ punishable either by a fine of not less than ten dollars ($10.00) or more than o
 not more than thirty (30) days jail sentence, or both, for each and every day such a violation continues; each
 continuous day of violation shall constitute a separate and distinct offense.
 (Ord. No. 20783, § 3(XXVII(3)), 9-22-99)
-Sec. 40-864. - Remedy.
+#####   
+
 In case any building or structure is or is proposed to be erected, structurally altered, or maintained, or any
 building, structure, or land is used in violation of any provision of this chapter, any proper officer of Jefferson
 Parish or their duly authorized representatives or any adjacent or neighboring property owner who would be
@@ -17741,19 +18094,22 @@ derived from Ord. No. 20783, § 3(XXVIII(1)—(7)), adopted Sept. 22, 1999; Ord.
 20, 2000; Ord. No. 21396, § 1, adopted Oct. 10, 2001; Ord. No. 21459, § 1, adopted Dec. 12, 2001; Ord. No.
 22142, §§ 8—14, adopted March 17, 2004; Ord. No. 23881, §§ 12, 13, adopted Sept. 22, 2010; Ord. No. 24003,
 § VI, adopted May 11, 2011; and Ord. No. 24576, § IX, adopted Sept. 18, 2013.
-Sec. 40-876. - Changes and amendments.
+#####   
+
 See chapter 33 Unified Development Code, article 2 Procedures of this Code.
 ( Ord. No. 25891 , § 20, 11-6-19)
 Secs. 40-877—40-895. - Reserved.
 ### ARTICLE XLIX. - VALIDITY
-Sec. 40-896. - [Validity.]
+#####   
+]
 If any section, subsection, paragraph, sentence, clause or phrase of this chapter shall, for any reason, be held to
 be unconstitutional by any court of competent jurisdiction, such decision shall not affect the validity of the
 remaining portion of this chapter which shall continue in full force and effect.
 (Ord. No. 20783, § 3(XXIX), 9-22-99)
 Secs. 40-897—40-910. - Reserved.
 ### ARTICLE L. - REPEAL OF CONFLICTING ORDINANCES
-Sec. 40-911. - [Generally.]
+#####   
+]
 All zoning ordinances or parts of zoning ordinances in conflict herewith are repealed, provided, however, that all
 suits at law and/or all prosecutions resulting from the violation of any zoning ordinance heretofore in effect,
 which are now pending in any court of this state, or of the United States, shall not be abated or abandoned by
@@ -17765,7 +18121,8 @@ prosecuted.
 (Ord. No. 20783, § 3(XXX), 9-22-99)
 Secs. 40-912—40-920. - Reserved.
 ### ARTICLE LI. - EFFECTIVE DATE
-Sec. 40-921. - Effective date.
+#####   
+
 This chapter shall be effective ten (10) days after the adoption thereof. [Adopted September 22, 1999.]
 (Ord. No. 20783, § 3(XXXI), 9-22-99)
 APPENDIX A - RULES AND REGULATIONS PROMULGATED IN CONNECTION WITH THE PARISH

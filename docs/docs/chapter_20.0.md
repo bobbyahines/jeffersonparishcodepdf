@@ -5,15 +5,18 @@ and stockade facilities, and related services, § 1.01(5); to provide penalties 
 ordinances, § 2.01(8).
 Cross reference— Nuisances, Ch. 19; sheriff and law enforcement, Ch. 31; traffic and motor vehicles, Ch. 36.
 ### ARTICLE I. - IN GENERAL
-Sec. 20-1. - Reserved.
+#####   
+
 Editor's note— Ord. No. 20880, § 1, adopted Feb. 9, 2000, repealed § 20-1, which pertained to clairvoyants,
 fortunetellers, etc. See the Code Comparative Table.
-Sec. 20-2. - Prohibited literature in public buildings prohibited; exceptions.
+#####   
+
 It shall be unlawful to distribute political literature in public buildings of the parish, except for the installation of
 voting precincts in public buildings and the distribution of political literature at the voting precincts in
 compliance with the laws of the state.
 (Code 1961, § 12-32.3A)
-Sec. 20-3. - Conduct of passengers aboard public buses.
+#####   
+
 (a)
 It shall be unlawful for any person to smoke upon and while being conveyed on any bus operating on a fixed
 route.
@@ -29,7 +32,8 @@ It shall be unlawful to impede public transit operations by creating a public nu
 abusing the driver or other passengers, or interfering with the collection of fares or refusing to pay the required
 fare.
 (Ord. No. 15585, § 1, 6-15-83)
-Sec. 20-4. - Charitable bingo and/or keno session limit, supervision, and penalties.
+#####   
+
 (a)
 The total amount of prizes offered during the conduct of live bingo and/or keno shall not exceed thirty-five
 hundred dollars ($3,500.00) in value (cash or prizes) per session, except as specifically provided in R.S.
@@ -77,23 +81,27 @@ Sec. 20-4.1. - Reserved.
 Editor's note— Ord. No. 22629, § 1, adopted Nov. 16, 2005, repealed § 20-4.1, which pertained to Rent limits
 for commercial or non-commercial halls for the conduct of charitable games of chance, supervision, and
 penalties. See also the Code Comparative Table.
-Sec. 20-5. - Misrepresentation of zoning classification by vendor of real estate.
+#####   
+
 It shall be unlawful for any vendor of real estate located in the parish or his agents and assigns, to misrepresent
 the zoning classification of the property to the purchaser, or his agents and assigns.
 (Code 1961, § 12-37)
 Cross reference— Zoning, Ch. 40.
-Sec. 20-6. - Holidays; option for banks.
+#####   
+
 Pursuant to Act No. 111 of the Regular Session of the Louisiana Legislature of 1976, [R.S. 1:55], the parish
 council hereby declares that whenever December twenty-fifth, January first or July fourth falls on a Sunday, the
 next day is a holiday. When December twenty-fifth, January first or July fourth falls on a Saturday, the preceding
 Friday is a holiday. Such holidays shall be an optional holiday for banking institutions and each bank may, each
 at its option, remain open and exercise all of its regular banking functions.
 (Code 1961, § 12-47)
-Sec. 20-7. - Reserved.
+#####   
+
 Editor's note— Ord. No. 20914, § 2, adopted March 15, 2000, redesignated and amended the provisions of
 former section 20-7 as 35.5-64. Former section 20-7 pertained to telephone alarm systems; prohibition, penalty.
 See the Code Comparative Table.
-Sec. 20-8. - Service charge for wireless service subscribers for 911 emergency service.
+#####   
+
 (a)
 Service authorized. Wireless providers are authorized as agents of the parish for the limited purpose of offering
 911 emergency service, to the extent practicable, to their wireless service subscribers in the parish.
@@ -170,7 +178,8 @@ Cross reference— Emergency telephone service charge in communications district
 
 Editor's note— Ord. No. 17319, adopted Aug. 12, 1987, did not specifically amend this Code; hence inclusion
 of §§ 1—8 as § 20-8 was at the discretion of the editor.
-Sec. 20-9. - Docking of watercraft prohibited in certain areas.
+#####   
+
 (a)
 It shall be unlawful for any person to dock, moor or anchor any boat or other watercraft at the handicapped
 fishing pier in Lafitte, Louisiana. A sign notifying boaters of this prohibition shall be affixed to the pier by the
@@ -188,20 +197,23 @@ It shall be unlawful for any person to dock, moor or anchor any commercial, nonr
 watercraft at the Glisson Park boat launch in Crown Pointe, Louisiana. A sign notifying boaters of this
 prohibition shall be affixed to the pier by the department of traffic engineering.
 (Ord. No. 18193, § 1, 1-9-91; Ord. No. 24328, § 1, 9-19-12; 25943 , § 1, 1-29-20)
-Sec. 20-10. - Sale of spray paints to minors prohibited.
+#####   
+
 No person shall sell, furnish or dispense to a minor under the age of eighteen (18) years any paint or other
 indelible liquid substance which is dispensed by means of aerosol spray or from a pressurized container. Nothing
 in this section, however, shall prohibit a parent or legal guardian of a minor from allowing said minor to use an
 aerosol spray paint product under adult supervision, providing that said parent or legal guardian shall remain
 responsible for any damages caused by said minor from the use or misuse of said paint product.
 (Ord. No. 19239, § 1, 11-16-94)
-Sec. 20-11. - Laser pointers—Definitions.
+#####   
+
 (a)
 Class IIIA (1—5 mW) or greater devices defined by the ANSI Z136.1 standards.
 (b)
 Class II (<1 mW) lasers.
 (Ord. No. 20621, § 1, 3-10-99)
-Sec. 20-12. - Same—Transfer or sale to minor.
+#####   
+
 
 No person, firm or corporation shall sell to or provide a minor with a Class II or Class IIIA or greater laser
 pointer as described above unless the minor is accompanied by a parent or legal guardian at the time of purchase
@@ -211,12 +223,14 @@ express permission of the lawful owner or manager of the private property. Also,
 possession by a minor, under the direct supervision of the parent or guardian of such person in the privacy of the
 parent's or guardian's home, shall not be prohibited.
 (Ord. No. 20621, § 1, 3-10-99)
-Sec. 20-13. - Same—Prohibited conduct.
+#####   
+
 It shall be unlawful for any person to focus, point or shine a laser beam directly or indirectly upon another
 person or animal in such a manner as to reasonably cause harassment or annoyance or alarm to said person or
 animal.
 (Ord. No. 20621, § 1, 3-10-99)
-Sec. 20-14. - Sale of confetti canisters to minors prohibited.
+#####   
+
 No person shall sell, furnish or dispense to a minor under the age of eighteen (18) years any confetti canister or
 other device which contains metallic confetti streamers or other metallic string-like substance that is expelled or
 discharged under pressure into the air. Nothing in this section, however, shall prohibit a parent or legal guardian
@@ -224,7 +238,8 @@ of a minor from allowing said minor to use a confetti canister product under adu
 said parent or legal guardian shall remain responsible for any damages caused by said minor from the use or
 misuse of said confetti canister product.
 (Ord. No. 21275, § 1, 5-9-01)
-Sec. 20-15. - Interference with electric lines prohibited.
+#####   
+
 (a)
 It shall be unlawful for any person to discharge any confetti canister or otherwise throw or disburse any metallic
 confetti strands or any other metallic devices within two hundred (200) feet of any electrical distribution or
@@ -238,7 +253,8 @@ parish. For the purposes of this section, tampering with an electrical distribut
 include, but not be limited to, any action which creates a short circuit or otherwise disrupts electrical service
 furnished through said transmission or distribution line.
 (Ord. No. 21275, § 2, 5-9-01)
-Sec. 20-16. - Shopping carts—Definitions.
+#####   
+
 The following words, terms and phrases, when used in this article, shall have the meanings ascribed to them in
 this section, except where the context clearly indicates a different meaning:
 Cart means a hand-drawn or hand-propelled vehicle or wheeled container, made of metal, plastic or other
@@ -248,7 +264,8 @@ Street means a street, avenue, road, alley, lane, highway, boulevard (including 
 concourse, median, driveway, culvert, crosswalk, sidewalk, banquette, parking lot, parking area, or place used by
 the general public, including parks.
 (Ord. No. 22205, § 1, 5-12-04)
-Sec. 20-17. - Same—Responsibilities of merchants.
+#####   
+
 (a)
 Cart identification. No merchant, corporate or otherwise, shall provide shopping carts for use of its customers
 without first affixing thereto permanent, immovable identification setting forth the name of the merchant.
@@ -258,7 +275,8 @@ his customers to take such carts off the premises of such merchant shall be resp
 carts are abandoned or otherwise left on public streets, public property, or on private property, without the
 express consent of the owner or tenant thereof.
 (Ord. No. 22205, § 2, 5-12-04)
-Sec. 20-18. - Same—Impoundment of abandoned carts; redemption by owner.
+#####   
+
 (a)
 Any shopping cart found to be on any public property or private property outside the premises or parking area of
 a retail establishment shall be considered abandoned and therefore subject to immediate removal and disposal by
@@ -301,7 +319,8 @@ provisions of former §§ 20-23—20-26 were derived from §§ 7-21.1, 12-16, 12
 Cross reference— Administration, Ch. 2; courts, Ch. 10; sheriff and law enforcement, Ch. 31.
 State Law reference— Offenses affecting law enforcement, R.S. 14:108 et seq.; offenses affecting organized
 government, R.S.14:113 et seq.
-Sec. 20-23. - Definitions.
+#####   
+
 For the purposes of this article, the following terms, phrases, words and derivations shall have the meaning
 given herein, unless it shall be apparent from the context that a different meaning is intended:
 (1)
@@ -332,7 +351,8 @@ Law enforcement officer shall include: The Sheriff of the Parish of Jefferson or
 state or municipal law enforcement officer duly empowered with police authority; and any other law
 enforcement officer authorized to perform official duties in the unincorporated areas of the Parish of Jefferson.
 (Ord. No. 16312, § 1, 1-9-85; Ord. No. 20921, § 6, 3-15-00; Ord. No. 22896, § 1, 2-7-07)
-Sec. 20-24. - Interfering with law enforcement officers.
+#####   
+
 (a)
 It shall be unlawful for any person to obstruct or interfere with any law enforcement officer in the performance
 or discharge of his duties.
@@ -341,7 +361,8 @@ or discharge of his duties.
 "obstruction of" an officer's duties as defined in R.S. 14:108.
 (Ord. No. 16312, § 1, 1-9-85)
 State Law reference— Resisting an officer, R.S. 14:108.
-Sec. 20-25. - Monitoring, using police radio frequencies.
+#####   
+
 (a)
 Monitoring. It shall be unlawful for any person to monitor the radio frequency of signals of the office of the
 sheriff.
@@ -355,7 +376,8 @@ for the parish.
 Applicability. The provisions of this section shall not apply to the employees of the federal or state governments
 or to those persons who have the written consent of the sheriff.
 (Ord. No. 16312, § 1, 1-9-85)
-Sec. 20-26. - Interfering with firefighters.
+#####   
+
 (a)
 It shall be unlawful for any person to obstruct or interfere with any firefighter in the performance or discharge of
 his official duties.
@@ -366,17 +388,20 @@ to a fire and any other acts or actions which constitute "Obstructing a fireman"
 Cross reference— Fire prevention and protection; emergency services and communication and hazardous
 material, Ch. 13.
 State Law reference— Obstructing a fireman, R.S. 14:327.
-Sec. 20-27. - False fire alarm.
+#####   
+
 No person shall intentionally or maliciously turn in or cause to be turned in a false fire alarm.
 (Ord. No. 16312, § 1, 1-9-85)
 Cross reference— Fire prevention and protection; emergency services and communication and hazardous
 material, Ch. 13.
 State Law reference— Similar provisions, R.S. 14:59(2).
-Sec. 20-28. - Interfering with code enforcement officer.
+#####   
+
 It shall be unlawful for any person to obstruct or interfere with any code enforcement officer in the performance
 or discharge of his official duties.
 (Ord. No. 16312, § 1, 1-9-85)
-Sec. 20-29. - Interfering with activities at parks and playgrounds.
+#####   
+
 (a)
 It shall be unlawful for any person to interfere with any organized or sponsored activity conducted on any
 playground, park or public recreation facility in the Parish of Jefferson.
@@ -404,12 +429,14 @@ the area of team play or activity, including, but not limited to, public intoxic
 In addition to any penalties provided in section 20-32, any person violating this section is subject to being
 ejected from any park, playground or public recreation facility for a period of up to one (1) year.
 (Ord. No. 16312, § 1, 1-9-85; Ord. No. 17710, § 1, 3-15-89)
-Sec. 20-30. - Interfering with public officer and employees.
+#####   
+
 It shall be unlawful for any person to interfere with the Parish of Jefferson, its districts, agencies, departments in
 the performance or discharge of its official duties, and/or any officer or employee thereof while engaged in the
 duties of his office or employment.
 (Ord. No. 16312, § 1, 1-9-85)
-Sec. 20-31. - False impersonation.
+#####   
+
 (a)
 It shall be unlawful for any association, club, society, firm, partnership, or corporation to impersonate or
 represent itself as, without legal authority, an agency, department or district of the Parish of Jefferson or the
@@ -479,11 +506,13 @@ identification badge, permit, or re-entry certificate or any copy or imitation t
 any engraving, photograph, print, or impression in the likeness of any such badge, identification card, other
 insignia, permit, or re-entry certificate or any imitation thereof, not authorized by the Parish of Jefferson.
 (Ord. No. 22915, § 1, 11-15-06)
-Sec. 20-32. - Violations and penalties.
+#####   
+
 Any person violating any provision of this article shall be guilty of a misdemeanor, and upon conviction shall be
 punished as provided in section 1-10.
 (Ord. No. 16312, § 1, 1-9-85)
-Sec. 20-33. - Misuse of 911 enhanced emergency phone system; penalty therefor.
+#####   
+
 (a)
 It shall be unlawful for any adult person, without proper cause, to dial into and use the parish enhanced
 emergency phone system (911) for any purpose other than requesting police, fire or emergency medical service.
@@ -514,7 +543,8 @@ named in the complaint was, at the time of such violation, the registered owner 
 considered only presumptive evidence that the registered owner of such home was the person who placed such
 call without proper cause at the time such violation occurred.
 (Ord. No. 16386, § 1, 3-27-85; Ord. No. 16427, §§ 1, 2, 5-8-85; Ord. No. 16911, § 1, 6-4-86)
-Sec. 20-34. - Non-governmental agencies raising funds for parish operations or occupying parish facilities.
+#####   
+
 (a)
 No person shall solicit funds from any third party or otherwise solicit or raise funds from the general public with
 the representation that the proceeds of such solicitation or donation will benefit or be used for the operation,
@@ -562,17 +592,20 @@ Secs. 20-35—20-42. - Reserved.
 ### ARTICLE III. - OFFENSES AGAINST PROPERTY
 Footnotes:
 --- (3) --State Law reference— Offenses against property, R.S. 14:51 et seq.
-Sec. 20-43. - Injury to or destruction of parish property prohibited.
+#####   
+
 It shall be unlawful for any person to willfully, maliciously, wantonly, negligently or otherwise injure, deface or
 destroy real property, or improvements thereon, or movable or personal property, belonging to or leased to the
 parish, its districts, agencies, and/or departments.
 (Code 1961, § 12-25.1.)
 State Law reference— Criminal damage to property, R.S. 14:55 et seq.
-Sec. 20-44. - Malicious damage to telephone emergency system.
+#####   
+
 It shall be unlawful for any person to willfully or maliciously damage or destroy any installation or equipment of
 the telephone emergency system in the parish.
 (Code 1961, § 12-35)
-Sec. 20-45. - Trespass on public facility.
+#####   
+
 (a)
 It shall be unlawful for any person to commit a trespass on any public facility.
 (b)
@@ -629,7 +662,8 @@ Any vehicle found to be in violation of a trespass defined hereinabove is subjec
 expense of the owner. Further, any person violating any provision of this section may be subject to the additional
 penalty provisions of section 1-10 and/or 1-11 of this Code.
 (Ord. No. 16560, § I, 8-21-85; Ord. No. 24121, §§ 1, 2, 9-21-11)
-Sec. 20-46. - Unauthorized entry into Courthouse annex building and stairways.
+#####   
+
 (a)
 It shall be unlawful for any person to enter or exit the stairways or stairwells of the parish Courthouse annex
 building, except in the case of emergencies.
@@ -656,7 +690,8 @@ indicate that unauthorized entry except in the case of emergencies is prohibited
 Any person violating any provision of this section shall be guilty of a misdemeanor and, upon conviction, shall
 be punished as provided in section 1-10.
 (Ord. No. 18110, § 1, 10-10-90)
-Sec. 20-47. - Skateboarding in veterans memorial square prohibited.
+#####   
+
 (a)
 It shall be unlawful for any person to engage in skateboarding or ride upon, or propel any skateboard in Veterans
 Memorial Square.
@@ -695,7 +730,8 @@ Footnotes:
 --- (4) --Cross reference— Use of profanity in council meetings, § 2-38.
 State Law reference— Offenses affecting the public morals, R.S. 14:80 et seq.
 #### DIVISION 1. - GENERALLY
-Sec. 20-61. - Prostitution—Loitering by women of ill repute.
+#####   
+
 Public prostitutes, notoriously or apparently lewd and abandoned women and girls are forbidden to frequent any
 bars or cocktail lounges or to drink therein, or to stand or in any manner obstruct or be conspicuous in any street
 or public road or in any manner accost, call or stop any person passing by, or to stroll about the streets, public
@@ -712,7 +748,8 @@ state and parish laws, are committed within the premises of any house or other s
 house or other structure shall be declared to be a public nuisance, and any person occupying or visiting such
 house or other structure shall be guilty of a misdemeanor.
 (Code 1961, § 12-27; Ord. No. 23978, § 1, 3-16-11)
-Sec. 20-63. - Hypodermic needles, syringes, etc.
+#####   
+
 (a)
 No person not being a dentist, funeral director, physician, podiatrist, nurse or veterinarian, registered or licensed
 under the laws of this state or the state where he resides or a manufacturer or dealer in embalming supplies,
@@ -736,7 +773,8 @@ prescription to purchase any of these instruments specified in subsection (a). T
 regulation, prescribe a form prescription that the physician shall use and the records and information that shall
 be kept by the physician and by the pharmacist filling such prescription.
 (Code 1961, § 12-20.6)
-Sec. 20-64. - Minors prohibited from riverboat casinos.
+#####   
+
 (a)
 No person under the age of twenty-one (21) years shall enter, attempt to enter or be present in the licensed
 gaming premises of any riverboat casino within the unincorporated area of Jefferson Parish.
@@ -756,7 +794,8 @@ Whoever violates the provisions of this section shall be punished by a fine not 
 ($500.00) or imprisonment for a term not exceeding six (6) months, or by both such fine and imprisonment,
 within the discretion of the court.
 (Ord. No. 20437, § 1, 8-19-98)
-Sec. 20-65. - Hourly rental of hotel and motel rooms prohibited.
+#####   
+
 (a)
 It shall be unlawful for any owner, operator, or employee of any hotel, motel, bed and breakfast, short-term
 rental, or other establishment which provides guest rooms for lodging or sleeping purposes to rent, let, lease or
@@ -792,7 +831,8 @@ Secs. 20-66—20-74. - Reserved.
 #### DIVISION 2. - OBSCENE MATERIAL
 Footnotes:
 --- (5) --State Law reference— Obscenity, R.S. 14:106.
-Sec. 20-75. - Definitions.
+#####   
+
 For the purpose of this division, the following words shall have the following meanings:
 Child pornography means images containing a visual representation of a minor child under eighteen (18) years
 of age engaging in sexually explicit conduct, as defined herein, in 18 U.S.C. § 2256 or in LA. R.S. 14:81.1.
@@ -880,7 +920,8 @@ state of sexual stimulation, or the sensual experiences of humans engaging in or
 nudity.
 (Code 1961, § 12-61; Ord. No. 21106, § 1, 10-18-00)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-Sec. 20-76. - Production, publication, sale, possession, etc., of obscene items.
+#####   
+, of obscene items.
 It is unlawful for a person knowingly to:
 (1)
 Prepare any obscene item for the purpose of sale or distribution; or
@@ -892,35 +933,42 @@ sexual material, or to offer to do any of these things; or
 (4)
 Have in his possession with intent to sell, rent, lend, transport, or distribute any obscene item.
 (Code 1961, § 12-62)
-Sec. 20-77. - Distributing obscene items to minors.
+#####   
+
 It is unlawful for a person knowingly to distribute obscene items or explicit sexual material or material that
 depicts nudity, sexual conduct, sexual excitement or sado-masochistic abuse to a minor.
 (Code 1961, § 12-63)
-Sec. 20-78. - Displaying obscene items to minors.
+#####   
+
 It is unlawful for a person knowingly to permit a minor who is not accompanied by his parent or lawful guardian
 to enter to remain on premises owned or controlled by him if in that part of the premises where the minor is
 permitted to be, there is visibly displayed any obscene item or explicit sexual material or material that depicts
 nudity, sexual conduct, sexual excitement or sado-masochistic abuse.
 (Code 1961, § 12-64)
-Sec. 20-79. - Exhibiting obscene live conduct to a minor.
+#####   
+
 It is unlawful for a person knowingly to engage in or participate in, manage, produce, sponsor, present or exhibit
 obscene live conduct or conduct involving a state of nudity or sexual conduct, sexual excitement or sadomasochistic abuse to a minor.
 (Code 1961, § 12-65)
-Sec. 20-80. - Displaying obscene materials generally.
+#####   
+
 It is unlawful for a person knowingly to permit or authorize the public display of any obscene items, explicit
 sexual material, or material depicting nudity, sexual conduct, sexual excitement, or sado-masochistic abuse.
 (Code 1961, § 12-66)
-Sec. 20-81. - Removing obscene materials from public display.
+#####   
+
 It is unlawful for a person knowingly to fail to promptly remove from public display, from property in his
 possession or under his control, any explicit sexual material, obscene items or material that depicts nudity,
 sexual conduct, sexual excitement or sado-masochistic abuse.
 (Code 1961, § 12-67)
-Sec. 20-82. - Nude conduct.
+#####   
+
 It is unlawful for a person knowingly to, voluntarily, and intentionally appear in public or in a public place or in
 a place open to the public or open to public view in a state of nudity, or to employ, encourage, or procure another
 person to so appear.
 (Code 1961, § 12-68)
-Sec. 20-83. - Obscene live conduct.
+#####   
+
 It is unlawful for a person knowingly to, voluntarily, and intentionally engage in an act of obscene live conduct
 in a public place or a place open to the public or open to public view, or to employ, encourage, or procure
 another to so appear.
@@ -961,7 +1009,8 @@ Whoever violates the provisions of this section shall be punished by a fine not 
 ($500.00) or imprisonment for a term not exceeding six (6) months, or by both such fine and imprisonment,
 within the discretion of the court.
 (Ord. No. 21106, § 2, 10-18-00)
-Sec. 20-84. - Exceptions to the application of the division.
+#####   
+
 (a)
 Nothing contained in this division shall be construed to apply to:
 (1)
@@ -986,7 +1035,8 @@ Secs. 20-85—20-100. - Reserved.
 ### ARTICLE V. - OFFENSES AGAINST PUBLIC PEACE
 Footnotes:
 --- (6) --State Law reference— Offenses affecting the general peace and order, R.S. 14:103 et seq.
-Sec. 20-101. - Loitering.
+#####   
+
 (a)
 In this section the following words and phrases shall have the meanings respectively ascribed to them:
 Loiter or loitering shall mean remaining in essentially one (1) location for no obvious reason, to linger, to stay, to
@@ -1019,7 +1069,8 @@ committing any of the conditions in this section which constitute loitering afte
 enforcement officer to move on or to disburse; any person who fails or refuses to obey such orders of a law
 enforcement officer shall be guilty of a violation of this section.
 (Code 1961, § 12-22.01; Ord. No. 20805, § 1, 11-3-99)
-Sec. 20-102. - Noise.
+#####   
+
 (a)
 Scope. The provisions of this section shall apply to the control of all sound originating within geographical
 limits of the parish and excluding the municipalities located therein.
@@ -1270,7 +1321,8 @@ this Code.
 No. 22518, §§ 1—3, 6-8-05; Ord. No. 23585, § 1, 7-22-09; Ord. No. 24527, § 1, 7-24-13; Ord. No. 25766 , § 1,
 4-3-19)
 Cross reference— Railroad whistles, horns, etc., § 28-9.
-Sec. 20-103. - Possession of open alcoholic beverages in certain locations.
+#####   
+
 (a)
 It shall be unlawful for any person to possess an open alcoholic beverage container, or to consume an alcoholic
 beverage, on the premises of any commercial retail establishment that does not possess an alcoholic beverage
@@ -1288,7 +1340,8 @@ Secs. 20-104—20-118. - Reserved.
 Footnotes:
 --- (7) --State Law reference— Offenses affecting the public safety, R.S. 14:94 et seq.
 #### DIVISION 1. - GENERALLY
-Sec. 20-119. - Open glass and metal containers in Fat City.
+#####   
+
 (a)
 Definitions. The following words and phrases shall apply in this section:
 (1)
@@ -1325,7 +1378,8 @@ Fat City area, shall post two (2) copies of this section in his establishment.
 Additional standards. These regulations shall apply in addition to provisions for alcoholic beverages in Fat City
 established in both Chapters 4 and 33 of this Code.
 (Code 1961, § 12-49; Ord. No. 24898 , § II, 2-11-15)
-Sec. 20-120. - Use of phenoxy-based compounds restricted.
+#####   
+
 (a)
 Within two hundred (200) feet of any residential area, the use of monosodium salt methane arsenate acid M.S.M.A.), dichlorophenoxyacetic acid (2-4-D) and other phenoxy-based compounds by all users other than
 residential within the confines of their immediate residential property shall be restricted as follows:
@@ -1450,7 +1504,8 @@ title of said section from "Smoking prohibited in court-house annex and First Pa
 "Smoking prohibited in the General Government Complex (General Government Building, District Attorney
 Building and the Thomas Donelon 24th Judicial Court Building), Juvenile Justice Center, First Parish Court and
 Second Parish Court buildings," as set out herein.
-Sec. 20-122. - Smoking in parish buildings prohibited; exceptions.
+#####   
+
 (1)
 As used in this section, the following terms shall have the following meanings unless the context clearly
 indicates a different meaning is intended:
@@ -1635,18 +1690,21 @@ designated as temporarily closed for recreational purposes in accordance with la
 It is the purpose of this ordinance to provide safe streets in order that the health, safety, and welfare of all
 persons in Jefferson Parish may be protected.
 (Ord. No. 23649, § 1, 9-23-09)
-Sec. 20-123. - Jumping or diving from bridges—Prohibited.
+#####   
+
 It shall be unlawful for any person to jump or dive from any bridge across a canal or other body of water,
 including viaducts or road grade separations.
 (Ord. No. 18583, § 1, 9-2-92)
-Sec. 20-124. - Same—Penalty.
+#####   
+
 Any person violating this provision shall be subject to a fine not to exceed one hundred dollars ($100.00) or
 imprisonment for a term not to exceed one (1) month, or both such fine and imprisonment within the discretion
 of the court. Each day in which the provisions of section 20-123 are violated shall constitute a separate offense.
 Any minor found guilty of violating the provisions of section 20-123 shall be subject to the laws and procedures
 set forth in the Louisiana Childrens' Code Articles 100, et seq.
 (Ord. No. 18583, § 2, 9-2-92)
-Sec. 20-125. - Chemical compounds prohibited for human consumption.
+#####   
+
 (a)
 Manufacture or distribution. It shall be unlawful for any person to knowingly or intentionally produce,
 manufacture, sell, distribute or dispense gamma butyrolactone (commonly known as GBL but also known by the
@@ -1665,7 +1723,8 @@ contains the aforementioned chemical and is possessed with the intent for human 
 Penalties. Any person who violates any provision of this section shall be punished as set forth in section 1-10 of
 this Code.
 (Ord. No. 20760, § 1, 9-1-99)
-Sec. 20-126. - Pedestrian traffic on Causeway Boulevard Overpass prohibited; penalty.
+#####   
+
 (a)
 It shall be unlawful for pedestrian(s) to cross, attempt to cross, or stand on the Causeway Boulevard Overpass
 crossing over Veterans Boulevard.
@@ -1680,7 +1739,8 @@ Secs. 20-127—20-131. - Reserved.
 #### DIVISION 2. - PYROTECHNICS
 Footnotes:
 --- (8) --State Law reference— Fireworks, R.S. 51:650 et seq.
-Sec. 20-132. - Definitions.
+#####   
+
 The following words and phrases, when used in this division, shall have the meanings respectively ascribed to
 them:
 Discharge shall mean exploding, setting off, firing, igniting or otherwise handling for use other than construction
@@ -1690,13 +1750,15 @@ fireworks, shell explosives or other devices or compositions used to obtain visi
 display.
 (Code 1961, § 12-20)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-Sec. 20-133. - Possession, sale, etc., deemed unlawful.
+#####   
+, deemed unlawful.
 It shall be unlawful for any person to have, keep, store, use, manufacture, sell, offer to sell, handle or transport
 any pyrotechnics within the parish except as provided in section 20-134, it being the intention of this section to
 prohibit the sale of, distribution of, or discharge of pyrotechnics of any kind or description whatsoever within the
 parish.
 (Code 1961, § 12-20.1)
-Sec. 20-134. - Exceptions.
+#####   
+
 Nothing in this division shall be held to apply:
 (1)
 Signaling devices. To the possession or use of signaling devices for current daily consumption by railroads,
@@ -1736,7 +1798,8 @@ Secs. 20-135—20-145. - Reserved.
 Footnotes:
 --- (9) --State Law reference— Illegal carrying and discharge of weapons, R.S. 14:94 et seq.; weapons generally, R.S.
 40:1751 et seq.
-Sec. 20-146. - Definitions.
+#####   
+
 The following words and phrases, when used in this division, shall have the meanings respectively ascribed to
 them:
 Crime of violence means murder, manslaughter, except negligent homicide arising out of a traffic accident, rape,
@@ -1758,7 +1821,8 @@ Weapon means any instrument, by whatever name known, which is designed to expel 
 by the action of any explosive.
 (Code 1961, § 12-17)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-Sec. 20-147. - Sale prohibited to felons.
+#####   
+
 (a)
 All dealers in firearms, prior to delivering any firearm, will ascertain from the sheriff's office that the purchaser
 is not a convicted felon and is not charged as a felon.
@@ -1777,7 +1841,8 @@ United States authorized by law to possess firearms of any kind; nor shall same 
 and equipment of the militia, any firearm which is unserviceable and which is transferred as a curiosity or
 ornament, nor shall same apply to a licensed authorized dealer in firearms.
 (Code 1961, §§ 12-17.1, 12-18.4)
-Sec. 20-148. - Qualifying to use firearms in course of employment.
+#####   
+
 (a)
 The sheriff is hereby authorized to develop a program to qualify all persons who use firearms during the course
 and scope of their employment.
@@ -1797,12 +1862,14 @@ effect under the laws of the state and/or the ordinances of the parish.
 (g)
 Such program before being initiated shall be accepted by the parish council.
 (Code 1961, § 12-18.6)
-Sec. 20-149. - Firearms or dangerous instrumentalities within five hundred feet of certain installations.
+#####   
+
 It shall be unlawful for any person to discharge firearms, weapons and/or place, throw or use any dangerous
 instrumentalities within five hundred (500) feet of any gas or oil installation or public utility installation within
 the parish.
 (Code 1961, § 12-19)
-Sec. 20-150. - Discharge of slingshots, arrows, air rifles, firearms and other weapons.
+#####   
+
 (a)
 Discharge of slingshots, arrows, air rifles, etc., within five hundred (500) feet of public places. It shall be
 unlawful for any person to fire or discharge any slingshot, blank pistol, blank cartridge, shotgun, fowling piece,
@@ -1837,7 +1904,8 @@ duties;
 To the sheriff, his deputies or any other duly legally constituted officer of the law or law enforcement officer
 while acting in his or their official capacity.
 (Code 1961, § 12-19.1; Ord. No. 18887, §§ 1, 2, 10-27-93)
-Sec. 20-151. - Air rifles on parks and playgrounds.
+#####   
+
 It shall be unlawful for any person to have in his possession or under his control an air rifle or air pistol,
 sometimes referred to as BB guns, while on the premises of any park or playground located in the
 unincorporated area of Jefferson Parish.
@@ -1892,7 +1960,8 @@ Secs. 20-152—20-166. - Reserved.
 ### ARTICLE VII. - CURFEW FOR MINORS
 Footnotes:
 --- (11) --Cross reference— Minors under twelve restricted during certain hours in amusement places, § 6-18.
-Sec. 20-167. - Duty of minors; exceptions.
+#####   
+
 (a)
 It shall be unlawful for any minor under the age of seventeen (17) years to loiter, idle, wander, stroll, or play in
 or upon the public streets, highways, roads, alleys, parks, playgrounds, wharves, docks, or other public grounds,
@@ -1904,7 +1973,8 @@ The provisions of this section do not apply to a minor accompanied by his or her
 person having the care and custody of the minor, or when the minor is upon an emergency errand or legitimate
 purpose directed by his or her parent, guardian or other adult person having the care and custody of the minor.
 (Code 1961, § 12-8(a), (b); Ord. No. 17643, § 1, 11-30-88)
-Sec. 20-168. - Duty of parent, guardian, etc.; exceptions.
+#####   
+; exceptions.
 (a)
 It shall be unlawful for the parent, guardian, or other adult person having the care and custody of a minor under
 the age of seventeen (17) years to permit such minor to loiter, idle, wander, stroll, or play in or upon public
@@ -1917,7 +1987,8 @@ The provisions of this section do not apply to a minor accompanied by his or her
 person having the care and custody of the minor, or when the minor is upon an emergency errand or legitimate
 purpose directed by his or her parent, guardian or other adult person, having the care, and custody of the minor.
 (Code 1961, § 12-9; Ord. No. 17643, § 2, 11-30-88)
-Sec. 20-169. - Duty of operators of amusement and other places.
+#####   
+
 (a)
 It shall be unlawful for any person, operating or in charge of any place of amusement, entertainment or
 refreshment, in the parish, to permit any minor under the age of seventeen (17) years to remain in such place
@@ -1926,7 +1997,8 @@ during the hours prohibited by section 20-167.
 The provisions of this section shall not apply when such minor is accompanied by his or her rent, guardian or
 other adult person having the care and custody of the minor.
 (Code 1961, § 12-10)
-Sec. 20-170. - Exceptions for school nights and entertainment nights.
+#####   
+
 (a)
 Upon the request of the proper authorities of parochial and public schools of the parish, and upon request of the
 officers of social and fraternal organizations of the parish, council may designate certain nights during the year
@@ -1939,7 +2011,8 @@ The provisions of sections 20-167 and 20-168 shall not apply to any student unde
 years or to his parent, guardian, or other adult having the care and custody of such minor who is lawfully going
 to, attending or returning from any such duly designated school night or entertainment night.
 (Code 1961, § 12-8(c), (d))
-Sec. 20-171. - Violations.
+#####   
+
 (a)
 Any minor violating the provisions of sections 20-167 shall be dealt with in accordance with Juvenile Court Law
 and Procedure as set out in CJP 1 et seq.

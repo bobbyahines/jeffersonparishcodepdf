@@ -59,8 +59,8 @@ class Charter
 
     private function titleAllChapterSections(string $text): string
     {
-        $regExPattern = '/((Sec\.\s\d+\.\d*-\d*\.)(\s-\s)(.+?\.))/';
         $levelFiveHeader = '##### ';
+        $regExPattern = '/((Sec\.\s\d+\.\d*-\d*\.)(\s-\s)(.+?\.))|((Sec\.\s\d+-\d*\.)(\s-\s)(.+?\.))/';
 
         return preg_replace($regExPattern, $levelFiveHeader . '${1}' . '  ' . PHP_EOL, $text);
     }

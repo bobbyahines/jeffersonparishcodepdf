@@ -10,7 +10,8 @@ Footnotes:
 --- (2) --Editor's note— Ord. No. 22100, § 1, adopted Jan. 21, 2004, amended Art. I, in its entirety, to read as herein set
 out. Prior to inclusion of said ordinance, Art. I pertained to similar subject matter. See also the Code
 Comparative Table.
-Sec. 16-1. - Purpose and scope.
+#####   
+
 (a)
 Purpose. It is the purpose of this chapter and it is hereby declared to be the policy of the parish to implement a
 comprehensive solid waste management system to regulate the storage, collection, transportation, processing and
@@ -29,7 +30,8 @@ Enhance the beauty and quality of the environment.
 Scope. This chapter is applicable to all solid waste storage, collection, transportation, processing and disposal
 operations within the parish.
 (Ord. No. 22100, § 1, 1-21-04)
-Sec. 16-2. - Definitions.
+#####   
+
 The following words and phrases, when used in this chapter, shall have the meanings respectively ascribed to
 them:
 Bulk waste container means any container used for the collection and/or disposal of solid waste that is
@@ -167,7 +169,8 @@ water heaters.
 Yard waste means vegetative matter resulting from landscaping, or maintenance or land clearing operations,
 including tree and shrubbery leaves and limbs, grass clippings and flowers.
 (Ord. No. 22100, § 1, 1-21-04; Ord. No. 22352, § 1, 11-17-04; Ord. No. 25191 , § 1, 8-10-16)
-Sec. 16-3. - Responsibility.
+#####   
+
 (a)
 The owner, his agent and occupant of any property shall maintain the premises in a sanitary and litter-free
 condition.
@@ -181,7 +184,8 @@ The owner, his agent and occupant of any premises, and other persons having resp
 herein, shall be responsible for the proper storage, collection, transportation and final disposal of all refuse
 originating on the premises, by a method or methods described in this chapter.
 (Ord. No. 22100, § 1, 1-21-04)
-Sec. 16-4. - Solid waste storage.
+#####   
+
 (a)
 General.
 (1)
@@ -538,7 +542,8 @@ apartments in section 16-4(e)(1)a., all provisions of this section may be enforc
 environmental affairs.
 (Ord. No. 22100, § 1, 1-21-04; Ord. No. 23297, §§ 1—3, 5-7-08; Ord. No. 23609, §§ 1—6, 8-12-09; Ord. No.
 24349, § 1, 10-10-12; Ord. No. 22807, § 9, 7-19-06; Ord. No. 25191 , §§ 2—5, 8-10-16; Ord. No. 25411 , § 1, 823-17)
-Sec. 16-5. - Solid waste collection.
+#####   
+
 (a)
 Parish responsibility; criteria for parish collection. The parish, through the use of municipal forces or by
 employment of fully qualified, experienced and responsible contractors, is responsible for the collection of
@@ -631,7 +636,8 @@ Persons generating all other solid waste shall dispose of such at their own expe
 The provisions of this section may be enforced by the Jefferson Parish Department of Environmental Affairs or
 Jefferson Parish Sheriff's Deputies.
 (Ord. No. 22100, § 1, 1-21-04; Ord. No. 22352, §§ 2—4, 11-17-04; Ord. No. 25191 , §§ 6—8, 8-10-16)
-Sec. 16-6. - Solid waste transportation.
+#####   
+
 (a)
 Vehicle/container requirements.
 (1)
@@ -669,14 +675,16 @@ No person or commercial waste hauler shall service a bulk waste container betwee
 This section may be enforced by the Jefferson Parish Department of Environmental Affairs, Jefferson Parish
 Sheriff's Deputies, and state or federal enforcement officials.
 (Ord. No. 22100, § 1, 1-21-04)
-Sec. 16-7. - Salvaging and scavenging.
+#####   
+
 Scavenging is strictly prohibited at any location under any circumstances. Salvaging shall be unlawful for any
 person except by specific permission of the owner of the premises on which salvaging is or is to be conducted.
 This section may be enforced on public property by the Parish Department of Environmental Affairs or Jefferson
 Parish Sheriff's Deputies; this section may be enforced on private property only by Jefferson Parish Sheriff's
 Deputies.
 (Ord. No. 22100, § 1, 1-21-04)
-Sec. 16-8. - Littering; violations, presumptions, jurisdiction, and penalties.
+#####   
+
 (a)
 No person, firm, or corporation shall throw, drop, discard, permit the intentional or accidental ejection, emission,
 escape of, or otherwise dispose of litter on any public property, or upon private property without permission of
@@ -753,7 +761,8 @@ Upon fourth or subsequent violations, an offender shall be fined five hundred do
 to serve forty-eight (48) hours of community service in a trash and litter abatement work detail as assigned by
 the court or other adjudicatory officer.
 (Ord. No. 22100, § 1, 1-21-04)
-Sec. 16-9. - Littering in drainage ditches and on public streets.
+#####   
+
 (a)
 It shall be unlawful for any person to dump, throw, place or otherwise dispose of cut grass, weeds, trees or tree
 limbs, trash, garbage or other debris in any drainage ditch, canal or drainage catch basin or pedestrian walkway
@@ -806,7 +815,8 @@ This section may be enforced by parish department of inspection and code enforce
 Department of Environmental Affairs Inspectors, Jefferson Parish Sheriff's Deputies, or state or federal
 enforcement officials.
 (Ord. No. 22100, § 1, 1-21-04)
-Sec. 16-10. - Disposal by burning prohibited.
+#####   
+
 (a)
 No person shall kindle or set fire to any combustible material upon any public or private premises for the
 purpose of disposing of solid waste material unless he has obtained all permits required by the applicable
@@ -815,7 +825,8 @@ federal, state and/or local laws for such burning.
 This section may be enforced by the Jefferson Parish Departments of Fire and Environmental Affairs, Jefferson
 Parish Sheriff's Deputies, and state or federal enforcement officials.
 (Ord. No. 22100, § 1, 1-21-04)
-Sec. 16-11. - Solid waste disposal sites.
+#####   
+
 (a)
 No person shall dispose of solid waste at any site or facility for which a permit for solid waste disposal has not
 been issued by the state department of environmental quality.
@@ -828,7 +839,8 @@ Illegal dumping of any solid wastes within the parish is strictly prohibited.
 This section may be enforced by Jefferson Parish Department of Environmental Affairs, Jefferson Parish
 Sheriff's Deputies, and state or federal enforcement officials.
 (Ord. No. 22100, § 1, 1-21-04)
-Sec. 16-12. - Authority to issue and adjudicate citations and summons; penalties.
+#####   
+
 (a)
 With the exception of the responsibilities reserved herein to Jefferson Parish Department of Inspection and Code
 Enforcement relative to Bulk Waste Containers in section 16-4(d) and the bulk waste container requirement for
@@ -840,7 +852,8 @@ Any violation of this article may be heard by the administrative hearing officer
 administrative adjudication or by a court of competent jurisdiction and a maximum fine of five hundred dollars
 ($500.00) per violation may be imposed for each violation, unless a higher fine is allowed by state statute.
 (Ord. No. 22100, § 1, 1-21-04)
-Sec. 16-13. - Penalties.
+#####   
+
 (a)
 In addition to penalties otherwise provided, a person found liable or convicted under any of the provisions of this
 article shall:
@@ -891,7 +904,8 @@ Charter reference— Authority to establish special districts within which may b
 collection and disposal facilities, § 2.01(A)(7).
 Cross reference— Governing body and domicile of special districts, § 2-19; taxation, Ch. 35.
 State Law reference— Authority to create garbage districts, R.S. 33:8001 et seq.
-Sec. 16-26. - Garbage district no. 1.
+#####   
+ 1.
 (a)
 Creation. There is hereby created the Consolidated Garbage District No. 1 of the Parish of Jefferson, State of
 Louisiana, comprising, embracing and including all of that territory within the following boundaries:
@@ -929,7 +943,8 @@ Editor's note— Ord. No. 21058, §§ 7, 8, adopted Aug. 23, 2000, repealed §§
 to consolidated garbage district no. 2. and garbage district no. 6. See the Code Comparative Table.
 Secs. 16-29—16-40. - Reserved.
 ### ARTICLE III. - FEES
-Sec. 16-41. - Fees, billing and collection of delinquent accounts.
+#####   
+
 (a)
 Charges for collection of solid waste and recyclable materials.
 (1)
@@ -964,7 +979,8 @@ collection of a parish claim.
 (Code 1961, § 8-49; Ord. No. 16308, § 1, 1-9-85; Ord. No. 18970, § 1, 1-26-94; Ord. No. 20354, § 1, 5-13-98;
 Ord. No. 20420, § 1, 8-5-98; Ord. No. 20921, §§ 1, 2, 3-15-00; Ord. No. 21019, § 1, 7-26-00; Ord. No. 21058, §
 9, 8-23-00; Ord. No. 21283, § 1, 5-23-01; Ord. No. 21297, § 1, 6-6-01; Ord. No. 24722, § 1, 4-9-14)
-Sec. 16-42. - Exemption for certain apartment complexes.
+#####   
+
 (a)
 Those apartment complexes with five (5) or more units at a single location which do not or cannot use the
 garbage and trash collection services provided by the parish are hereby exempt from the payment of the monthly
@@ -985,16 +1001,19 @@ Reimbursement of the garbage service charge can be retroactive up to one thousan
 Reimbursement of the garbage service charge can be retroactive up to ten (10) years at the discretion of the
 director of said department, when it can be proven that the parish was in error.
 (Code 1961, § 8-49.1; Ord. No. 20573, §§ 1—3, 1-27-99; Ord. No. 25191 , § 9, 8-10-16)
-Sec. 16-43. - Chapter not to affect district millage.
+#####   
+
 Nothing contained in this chapter shall in any way affect the collection or status of the millage of the particular
 garbage district affected by the imposition of the service charge.
 (Code 1961, § 8-50)
-Sec. 16-44. - Reserved.
+#####   
+
 Editor's note— Ord. No. 24722, § 2, adopted April 9, 2014, repealed § 16-44, which pertained to recycling
 fees, billing and collection of delinquent accounts and derived from Ord. No. 18738, § 1, adopted April 14,
 1993; Ord. No. 20590, § 1, adopted Feb. 10, 1999; Ord. No. 21029, § 1, adopted July 26, 2000; and Ord. No.
 21297, § 2, adopted June 6, 2001.
-Sec. 16-45. - Reserved.
+#####   
+
 Editor's note— Ord. No. 24722, § 2, adopted April 9, 2014, repealed § 16-45, which pertained to exemption
 from service charge if dwelling unit is occupied by citizens sixty-five years or over and derived from Ord. No.
 18767, § 1, adopted May 26, 1993; Ord. No. 20707, §§ 1, 2, adopted June 9, 1999; and Ord. No. 21439, § 4,
@@ -1003,10 +1022,12 @@ Secs. 16-46—16-55. - Reserved.
 ### ARTICLE IV. - INCINERATORS
 Footnotes:
 --- (4) --Cross reference— Fire prevention and protection, Ch. 13.
-Sec. 16-56. - Purpose.
+#####   
+
 The purpose of this article is the prevention and amelioration of nuisances caused by incinerators in the parish.
 (Code 1961, § 8-113)
-Sec. 16-57. - Definitions.
+#####   
+
 For the purposes of this article, the following terms are defined:
 Incinerator means any device or retort or container which is maintained or constructed or used for the purpose of
 burning waste materials.
@@ -1015,7 +1036,8 @@ burning potentially infectious waste, bandages, discarded medical supplies, part
 cetera, from hospital clinics, veterinary clinics, mortuaries, and research or commercial laboratories.
 (Code 1961, § 8-112)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-Sec. 16-58. - Proximity to residential property regulated; exemption; applicability to existing incinerators.
+#####   
+
 (a)
 No person shall install, locate, construct or operate an incineration device at a distance of less than three hundred
 (300) feet from a parcel of residential property zoned R-1 and R-2 (as per the parish zoning code). Pathological
@@ -1025,35 +1047,42 @@ Incinerators or incineration devices in operation on May 13, 1976 and not meetin
 (a) may be operated provided all other sections of this article are continuously adhered to. If the permit provided
 for in section 16-65 is revoked for noncompliance, subsection (a) will be in force.
 (Code 1961, §§ 8-114, 8-115)
-Sec. 16-59. - Creation of nuisance due to emissions.
+#####   
+
 No incinerator or incineration device shall create an unsightly nuisance as defined by the emission of smoke
 and/or ash with an equivalent opacity of twenty (20) percent (on Ringelmann Chart No. 1) for more than four (4)
 minutes at a time and shall not exceed an equivalent opacity of twenty (20) percent (on Ringelmann Chart No. 1)
 more than twice in any one (1) calendar day.
 (Code 1961, § 8-116)
-Sec. 16-60. - Emission of unburned materials prohibited.
+#####   
+
 No incinerator or incineration device shall emit from its stack or other appurtenance unburned or partially
 burned material such that it becomes airborne.
 (Code 1961, § 8-117)
-Sec. 16-61. - Approval of air control commission required.
+#####   
+
 All incinerators or incineration devices shall be approved by the state environmental control commission or their
 authorized representatives. This includes presently existing facilities and equipment as well as new facilities and
 equipment. In the case of new installations, approval of the state environmental control commission or their
 authorized representatives shall be obtained prior to installation or construction.
 (Code 1961, § 8-118)
-Sec. 16-62. - Operating procedures to be posted.
+#####   
+
 At each incineration facility the operating procedures shall be posted in a conspicuous manner.
 (Code 1961, § 8-119)
-Sec. 16-63. - Cleanliness of surrounding area; offensive odors prohibited; compliance with state sanitary code.
+#####   
+
 The area around the incinerator or incineration device shall be kept clean and the operations shall generate no
 offensive odors. The facility shall meet all provisions of the state sanitary code.
 (Code 1961, § 8-120)
-Sec. 16-64. - Types of burnable material; feed rate.
+#####   
+
 No material shall be burned in an incinerator or incineration device which is not suitable to the design of the
 incinerator or incineration device, in such a manner as to create a nuisance, either directly or indirectly. Both the
 proper type of material as well as the proper feed rate must be adhered to.
 (Code 1961, § 8-121)
-Sec. 16-65. - Permit required; fees.
+#####   
+
 (a)
 An annual permit shall be obtained from the department of inspection and code enforcement for the operation of
 each incinerator or incineration device.
@@ -1065,11 +1094,13 @@ permit.
 In the case of existing facilities, a permit must be obtained immediately. In the case of new facilities, the permit
 shall be obtained prior to installation of the incinerator.
 (Code 1961, § 8-122)
-Sec. 16-66. - Facilities subject to inspection.
+#####   
+
 Incineration facilities shall be subject to inspection by the parish at all times and the permit issued by the parish
 will be kept on the premises at all times during which the incineration facility is operating.
 (Code 1961, § 8-124)
-Sec. 16-67. - Persons responsible for compliance.
+#####   
+
 The compliance with this article is the responsibility of each and all of the following:
 (1)
 The owner of the property on which the facility is located;
@@ -1080,7 +1111,8 @@ The operator of the incineration facility;
 (4)
 The manager of the business which uses and/or operates the incineration facility.
 (Code 1961, § 8-125)
-Sec. 16-68. - Violations.
+#####   
+
 (a)
 Any person who violates any section of this article will be subject to the penalties of section 1-10.
 (b)
@@ -1094,10 +1126,12 @@ Footnotes:
 --- (5) --Editor's note— Ordinance No. 17878, adopted Nov. 29, 1989, pertaining to medical waste regulations, did not
 specifically amend the Code. Inclusion of §§ 1—8 as §§ 16-101—16-108 was at the editor's discretion.
 Cross reference— Health and sanitation, Ch. 17.
-Sec. 16-101. - Short title.
+#####   
+
 This article may be cited as the "Jefferson Parish Medical Waste Disposal Law."
 (Ord. No. 17878, § 1, 11-29-89)
-Sec. 16-102. - Definitions.
+#####   
+
 Unless the context specifically indicates otherwise, the following terms shall be defined as follows:
 Health care facilities include, but are not limited to, hospitals, clinics, physicians' offices, outpatient surgery
 centers, nursing and extended care facilities, podiatry offices, dental offices and clinics, veterinary medical
@@ -1108,7 +1142,8 @@ limited to, contaminated dressings; blood collection bags and vials; surgical, o
 and needles, hypodermic syringes, and other "sharps."
 Sharps refers to needles, syringes, scalpels and other instruments capable of puncturing or lacerating skin.
 (Ord. No. 17878, § 2, 11-29-89)
-Sec. 16-103. - Health care facilities.
+#####   
+
 (a)
 Medical wastes shall be handled and treated in accordance with the Sanitary Code of the state, promulgated in
 accordance with LSA-R.S. 49:951 et seq., March 20, 1984.
@@ -1124,7 +1159,8 @@ Through the services of a medical waste transporter approved and permitted by th
 (2)
 By other methods authorized by the state or the federal government.
 (Ord. No. 17878, § 3, 11-29-89)
-Sec. 16-104. - Medical waste transporter permits.
+#####   
+
 (a)
 Required.
 (1)
@@ -1155,7 +1191,8 @@ result in revocation of such permit.
 Availability of list. A current list of persons permitted to transport medical wastes shall be provided to all
 interested professional associations and societies with membership in Jefferson Parish.
 (Ord. No. 17878, § 4, 11-29-89; Ord. No. 20921, § 5, 3-15-00)
-Sec. 16-105. - Transportation and disposal.
+#####   
+
 (a)
 Medical wastes containing sharps transported from health care facilities shall be confined to sharps containers.
 This provision shall not apply to wastes described in section 16-106.
@@ -1164,7 +1201,8 @@ The disposal of medical wastes in any manner which may adversely affect public h
 Disposal of medical wastes shall be accomplished at facilities authorized for such disposal by the state and/or the
 federal government.
 (Ord. No. 17878, § 5, 11-29-89)
-Sec. 16-106. - Residential medical wastes.
+#####   
+
 (a)
 In order to prevent the loss and scattering of sharps used by diabetics, allergy patients, and others who use
 needles and syringes at home, residential users of sharps shall place used items in containers with secure lids
@@ -1174,7 +1212,8 @@ not be used.
 (b)
 Securely closed containers of used sharps may be disposed of with normal household trash.
 (Ord. No. 17878, § 6, 11-29-89)
-Sec. 16-107. - Violations.
+#####   
+
 (a)
 Any person who willfully or negligently violates this article or any condition of a permit issued under this article
 shall, upon conviction, be punished by a fine of not more than five hundred dollars ($500.00) or by
@@ -1184,14 +1223,16 @@ offense.
 These penalties are in addition to other penalties provided by this article and other ordinances, and such
 remedies do not exclude or supersede penalties provided by state and federal law.
 (Ord. No. 17878, § 7, 11-29-89)
-Sec. 16-108. - Construction of article provisions.
+#####   
+
 Nothing contained herein shall be construed as a regulation of "hazardous waste" as defined in R.S. 30:2173 or
 "infectious waste" as defined in R.S. 30:2180; or any other materials, the regulations of which are preempted by
 the state.
 (Ord. No. 17878, § 8, 11-29-89)
 Secs. 16-109, 16-110. - Reserved.
 ### ARTICLE VI. - RECYCLING REGULATIONS
-Sec. 16-111. - Definitions.
+#####   
+
 As used in this article, the following terms shall have the following meanings, unless the context clearly
 indicates that a different meaning is intended:
 Authorized recycling contractors means a person, firm, partnership, corporation or other entity authorized under
@@ -1207,38 +1248,45 @@ Recycling means the process of collecting used materials for the purpose of reus
 remanufacturing them.
 Recycling bin means a container provided to the residents for the purpose of containing materials to be recycled.
 (Ord. No. 19114, § 1, 6-8-94)
-Sec. 16-112. - Ownership of recyclable waste materials properly placed in a recycling bin.
+#####   
+
 Upon the placement of recyclable waste material in the collection bin at designated collection site in accordance
 with the requirements of this article, any recyclable materials shall become the property of the Parish of
 Jefferson. It shall be a violation of this article for any person not authorized by the Parish of Jefferson to collect
 or pick up or cause to be collected or picked up any of such recyclable materials. Recyclable collection bins are
 the property of the Parish of Jefferson.
 (Ord. No. 19114, § 2, 6-8-94)
-Sec. 16-113. - Unauthorized collection prohibited.
+#####   
+
 During the twenty-four-hour period commencing at 6:00 p.m. on any day preceding a day designated for
 collection of recyclable waste material, no person, other than an authorized recycling contractor, shall remove
 recyclable waste material and/or recycling bins which have been placed at a designated recycling collection
 location. Each such unauthorized collection from one (1) or more designated recycling collection locations shall
 constitute a separate and distinct offense.
 (Ord. No. 19114, § 3, 6-8-94)
-Sec. 16-114. - Theft or unauthorized use of recycling bins prohibited.
+#####   
+
 The theft or unauthorized use of recycling bins is prohibited.
 (Ord. No. 19114, § 4, 6-8-94)
-Sec. 16-115. - Sale or donation of recyclables.
+#####   
+
 It is the intent of this article to regulate the throwing away of recyclable materials. Nothing herein shall be
 deemed to prohibit any person, firm or corporation from selling or donating recyclable materials when such
 materials are not put out for collection as waste.
 (Ord. No. 19114, § 5, 6-8-94)
-Sec. 16-116. - Enforcement; authority.
+#####   
+
 The director of the department of environmental affairs and persons authorized to act therein shall have the
 authority to enforce the provisions of this article. This authority shall be in addition to the authority granted to
 police officers by
 (Ord. No. 19114, § 6, 6-8-94; Ord. No. 25191 , § 10, 8-10-16)
-Sec. 16-117. - Civil action by authorized recycling contractor.
+#####   
+
 An authorized recycling contractor may bring a civil action against any person who violates this article. This
 shall be in addition to all other remedies and penalties.
 (Ord. No. 19114, § 7, 6-8-94)
-Sec. 16-118. - Penalty.
+#####   
+
 Any person, firm or corporation violating any provision of this article shall be fined not less than one hundred
 dollars ($100.00) nor more than five hundred dollars ($500.00) for each offense, and a separate offense shall be
 deemed committed on each day during or on which a violation occurs or continues.

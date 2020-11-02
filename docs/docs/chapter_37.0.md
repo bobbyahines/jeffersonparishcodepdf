@@ -1,6 +1,7 @@
 ## Chapter 37 - VEGETATION
 ### ARTICLE I. - IN GENERAL
-Sec. 37-1. - Trimming of trees or shrubs in residential areas with power equipment prohibited.
+#####   
+
 (a)
 The trimming of trees or shrubs with any "bush hog" -type motorized rotary cutter operated in a vertical position
 within five hundred (500) feet of any building or structure occupied or capable of habitation is hereby
@@ -17,7 +18,8 @@ Footnotes:
 --- (1) --Editor's note— Ord. No. 21243, § 1, adopted March 21, 2001, amended Art. II, in its entirety, to read as herein
 set out in §§ 37-16—37-28. Prior to inclusion of said ordinance, Art. II pertained to similar subject matter. See
 the Code Comparative Table.
-Sec. 37-16. - Definitions.
+#####   
+
 For the purposes of this article the following definitions shall apply.
 Contractor means any person or entity that performs work for another person or entity, including contractors
 who have contracts to perform work for the parish.
@@ -31,10 +33,12 @@ works including, but not limited to, sidewalks, parkways, rights-of-way, highway
 parks, as well as other public places under the jurisdiction of the parish.
 Vegetation means plant life, including but not limited to, trees, shrubs, flowing and non-flowing plants.
 (Ord. No. 21243, § 1, 3-21-01)
-Sec. 37-17. - Designation of type of plantings.
+#####   
+
 The department of parkway shall designate the type of vegetation for all public property.
 (Ord. No. 21243, § 1, 3-21-01)
-Sec. 37-18. - Damage to, or removal of, any tree or other vegetation on public property.
+#####   
+
 Except as otherwise provided in this article, it shall be unlawful for a person or contractor to perform any of the
 following acts regarding trees or other vegetation on or in public property:
 (1)
@@ -134,7 +138,8 @@ If the department of parkway refuses to grant a permit, the permit applicant may
 reconsidered by the director of the department of public works within thirty (30) days from the date on which the
 written refusal was issued.
 (Ord. No. 21243, § 1, 3-21-01; Ord. No. 21582, § 1, 5-22-02)
-Sec. 37-20. - Parish license for tree service operators and for landscapers.
+#####   
+
 (a)
 Except as otherwise provided in this article, only a parish-licensed tree service operator shall trim or remove
 trees from public property. In order to qualify for such a parish license, a tree service operator shall be licensed
@@ -276,7 +281,8 @@ for each policy term.
 (3)
 Paying the annual license fee of thirty-five dollars ($35.00).
 (Ord. No. 21243, § 1, 3-21-01; Ord. No. 21582, § 2, 5-22-02)
-Sec. 37-21. - Tree trimming, removal, etc. by public utilities.
+#####   
+ by public utilities.
 (a)
 Public utilities serving unincorporated areas of the parish may be granted special area permits by the parish
 based on area and route plans submitted by the public utility to, and approved by, the department of parkway, to
@@ -357,7 +363,8 @@ Notwithstanding the above, except for the removal of a tree from pubic property,
 by a public utility in connection with providing a service line or drop in the provision of utility service provided
 at the request of any of its customers.
 (Ord. No. 21243, § 1, 3-21-01)
-Sec. 37-22. - Obligations of contractors.
+#####   
+
 (a)
 During the erection or repair of any building or structure, the owner, the builder, or contractor thereof shall place
 such guards as necessary around all the nearby trees on public property to effectively prevent injury to the trees.
@@ -367,7 +374,8 @@ public property shall apply to all construction projects, including public works
 projects are obligated to protect trees and shrubs and to obtain permits for the removal, transplanting, pruning or
 trimming of trees; however, no permit fee shall be due for such permits.
 (Ord. No. 21243, § 1, 3-21-01)
-Sec. 37-23. - Electrical wiring prohibited on or in vegetation.
+#####   
+
 (a)
 No person shall attach any electric wire insulator or any device for the holding of any electric wire to any tree
 growing upon any public property of the parish.
@@ -375,7 +383,8 @@ growing upon any public property of the parish.
 Every person having any wire charged with electricity running through public property shall securely fasten such
 wire, so that it shall not come in contact with any tree therein.
 (Ord. No. 21243, § 1, 3-21-01)
-Sec. 37-24. - Notice of damage; repairs and replacement; suit for damages.
+#####   
+
 (a)
 Any person who injures, damages or destroys any tree, or other vegetation or property on public property under
 the care of the department of parkway, shall promptly notify the department of parkway of such fact and that
@@ -390,13 +399,15 @@ Establishing Values of Trees and Other Plants", published by the Council of Tree
 current edition, shall form the basis for establishing any monetary damages due for damage or destruction to the
 tree.
 (Ord. No. 21243, § 1, 3-21-01)
-Sec. 37-25. - Interference with department workmen.
+#####   
+
 No person shall prevent, delay or interfere with the department of parkway or its employees or the employees of
 any other parish department in the planting, pruning, spraying or removal of a tree, shrub or plant in or on public
 property, or in the removal of stone, cement, or other substance about the trunk of a tree or other vegetation in or
 on public property.
 (Ord. No. 21243, § 1, 3-21-01)
-Sec. 37-26. - Penalty for violation of article.
+#####   
+
 (a)
 Any person violating any of the provisions of this article shall, upon conviction, be fined no more than five
 hundred dollars ($500.00), or be imprisoned no more than thirty (30) days, or both.
@@ -409,11 +420,13 @@ this article or under a parish license or permit may be required to pay to the p
 shrub that was removed plus the cost of the replacement of the removed tree with a tree or shrub of equal value
 including the labor for such a replacement.
 (Ord. No. 21243, § 1, 3-21-01)
-Sec. 37-27. - Adjudication of violations.
+#####   
+
 Any violations of this chapter may be heard by the parish administration hearing officer or by a court of
 competent jurisdiction.
 (Ord. No. 21243, § 1, 3-21-01)
-Sec. 37-28. - Administrative rules.
+#####   
+
 All parish departments will comply with the provisions of this article. The department of parkway is authorized
 to adopt administrative rules and or guidelines necessary to implement this article.
 (Ord. No. 21243, § 1, 3-21-01)

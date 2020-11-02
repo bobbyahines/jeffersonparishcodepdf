@@ -5,7 +5,8 @@ pertained to swimming pools and enacted provisions designated as a new Ch. 34, �
 out. See the Code Comparative Table.
 Cross reference— Department of inspection and code enforcement, § 2-196 et seq.; buildings and building
 regulations, Ch. 8; unprotected swimming pools and excavations, § 19-41 et seq.
-Sec. 34-1. - Technical code adopted by reference.
+#####   
+
 (a)
 The Standard Swimming Pool Code - 1991 Edition is hereby adopted by reference as though is was copied
 herein fully and is applicable in the unincorporated area of Jefferson Parish.

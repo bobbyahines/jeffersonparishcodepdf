@@ -9,10 +9,12 @@ Secs. 3-1—3-10. - Reserved.
 Footnotes:
 --- (2) --Cross reference— Zoning generally, Ch. 40.
 State Law reference— Airport zoning, R.S. 2:381 et seq.
-Sec. 3-11. - Short title.
+#####   
+
 This article shall be known and may be cited as "New Orleans International Airport Hazard Zoning Ordinance."
 (Code 1961, § 2A-21)
-Sec. 3-12. - Definitions.
+#####   
+
 The following words and phrases, when used in this article, shall have the meanings respectively ascribed to
 them:
 Airport means the New Orleans International Airport.
@@ -73,7 +75,8 @@ twelve thousand five hundred (12,500) pounds maximum gross weight and less.
 Visual runway means a runway intended solely for the operation of aircraft using visual approach procedures.
 (Code 1961, § 2A-22)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-Sec. 3-13. - Airport zones.
+#####   
+
 In order to carry out the provisions of this article, there are hereby created and established certain zones which
 include all of the land lying beneath the approach surfaces, transitional surfaces, horizontal surfaces and conical
 surfaces as they apply to the airport. Such zones are shown on the airport zoning map prepared by VTN
@@ -122,7 +125,8 @@ tangent to those arcs. The horizontal zone does not include the approach and tra
 Conical zone: The conical zone is established as the area that commences at the periphery of the horizontal zone
 and extends outward therefrom a horizontal distance of four thousand (4,000) feet.
 (Code 1961, § 2A-23)
-Sec. 3-14. - Airport zone height limitations.
+#####   
+
 (a)
 Except as otherwise provided in this article, no structure shall be erected, altered or maintained, and no tree shall
 be allowed to grow in any zone created by this article to a height in excess of the applicable height limit herein
@@ -177,7 +181,8 @@ fifty (350) feet above the airport elevation.
 Nothing in this article shall be construed as prohibiting the construction or maintenance of any structure, or
 growth of any tree to a height up to fifty (50) feet above the surface of the land.
 (Code 1961, § 2A-24)
-Sec. 3-15. - Use restrictions.
+#####   
+
 Notwithstanding any other provisions of this article, no use may be made of land or water within any zone
 established by this article in such a manner as to create electrical interference with navigational signals or radio
 communication between the airport and aircraft, make it difficult for pilots to distinguish between airport lights
@@ -185,7 +190,8 @@ and others, result in glare in the eyes of pilots using the airport, impair visi
 create bird strike hazards, or otherwise in any way endanger or interfere with the landing, takeoff, or
 maneuvering of aircraft intending to use the airport.
 (Code 1961, § 2A-25)
-Sec. 3-16. - Nonconforming uses.
+#####   
+
 (a)
 Regulations not retroactive. The regulations prescribed by this article shall not be construed to require the
 removal, lowering, or other change or alteration of any structure or tree not conforming to the regulations as of
@@ -200,7 +206,8 @@ shall be deemed necessary by the director of aviation to indicate to the operato
 airport the presence of such airport obstruction. Such markers and lights shall be installed, operated and
 maintained at the expense of the New Orleans Aviation Board.
 (Code 1961, § 2A-26)
-Sec. 3-17. - Permits.
+#####   
+
 (a)
 Future uses. Except as specifically provided in subsections (a)(1), (a)(2) and (a)(3), no material change shall be
 made in the use of land, no structure shall be erected or otherwise established, and no tree shall be planted in any
@@ -258,13 +265,15 @@ and lights as may be necessary. If deemed proper by the aviation board of adjust
 modified to require the owner to permit the New Orleans Aviation Board at its own expense, to install, operate
 and maintain the necessary-markings and lights.
 (Code 1961, § 2A-27)
-Sec. 3-18. - Enforcement.
+#####   
+
 It shall be the duty of the director of aviation to administer and enforce the regulations prescribed in this article.
 Applications for permits and variances shall be made to the director of aviation upon a form published for that
 purpose. Applications required by this article to be submitted to the director of aviation shall be promptly
 considered and granted or denied.
 (Code 1961, § 2A-28)
-Sec. 3-19. - Aviation board of adjustment.
+#####   
+
 (a)
 There is hereby created a board of adjustment to have and exercise the following powers:
 (1)
@@ -305,7 +314,8 @@ reverse any order, requirement, decision or determination of the director of avi
 applicant on any matter upon which it is required to pass under this article, or to effect variation to this article.
 (Code 1961, § 2A-29)
 Cross reference— Administration, Ch. 2; boards, commissions and committees generally, § 2-516 et seq.
-Sec. 3-20. - Appeals.
+#####   
+
 (a)
 Any person aggrieved, or any taxpayer affected, by any decision of the director of aviation and the aviation
 board of adjustment made in the administration of this article, may appeal and request appearance before the
@@ -330,11 +340,13 @@ The aviation board of adjustment may, in conformity with the provisions of this 
 whole or in part, or modify the order, requirement, decision or determination appealed from and may make such
 order, requirement, decision, or determination as may be appropriate under the circumstances.
 (Code 1961, § 2A-30)
-Sec. 3-21. - Judicial review.
+#####   
+
 Any person aggrieved, or any taxpayer affected, by any decision of the aviation board of adjustment, may appeal
 to the district court as provided in R.S. 2:387.
 (Code 1961, § 2A-31)
-Sec. 3-22. - Conflicting regulations.
+#####   
+
 Where there exists a conflict between any of the regulations or limitations prescribed in this article and any other
 regulations applicable to the same area, whether the conflict be with respect to the height of structures or trees,
 and the use of land, or any other matter, the more stringent limitation or requirement shall govern and prevail.
