@@ -3799,7 +3799,7 @@ Sec. 8-4-114.1.8. - Exam fees.
 The fees for each examination and re-examination for a residential home improvement contractor license shall
 be seventy-five dollars ($75.00) and shall be payable upon application. Such fee shall be non-refundable.
 (Ord. No. 22756, § 4, 5-17-06)
-##### Sec. 8-114.1.9. - Examinations.
+Sec. 8-114.1.9. - Examinations.
 1.
 Practical questions of homebuilding .....50%
 2.

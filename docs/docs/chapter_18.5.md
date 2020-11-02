@@ -4,7 +4,8 @@ Footnotes:
 state act does not affect local regulations unrelated to massage therapy as performed by state licensed massage
 therapists, R.S. 37:3567.
 ### ARTICLE I. - IN GENERAL
-Sec. 18.5-1. - Definitions.
+##### Sec. 18.5-1. - Definitions.  
+
 The following words and phrases, when used in this chapter, shall have the meanings respectively ascribed to
 them:
 Massage shall mean any process or procedure upon any parts of the body of a patron consisting of rubbing,
@@ -29,7 +30,8 @@ located. A school offering a correspondence course not requiring actual class at
 recognized school.
 (Code 1961, § 11A-61; Ord. No. 18613, § 1, 10-21-92)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-Sec. 18.5-2. - Exemptions.
+##### Sec. 18.5-2. - Exemptions.  
+
 The following are exempt from the provisions of this chapter:
 (1)
 Hospitals, nursing homes, sanitariums or other health care facilities licensed under the state, and physicians,
@@ -45,7 +47,8 @@ employment;
 (4)
 Trainers of any amateur, semiprofessional or professional athlete or athletic team.
 (Code 1961, § 11A-68)
-Sec. 18.5-3. - Facilities.
+##### Sec. 18.5-3. - Facilities.  
+
 Every massage establishment shall maintain facilities meeting the following requirements:
 (1)
 Every massage establishment shall comply with all other applicable state laws, the requirements of the
@@ -82,7 +85,8 @@ the floor beneath. Such tables may be equipped with either nondisposable pads or
 coverings not more than two and one-half (2½) inches thick. Nondisposable pads or coverings shall be
 removable, impervious and cleanable.
 (Code 1961, § 11A-69)
-Sec. 18.5-4. - Operation.
+##### Sec. 18.5-4. - Operation.  
+
 Every massage establishment and every massage technician shall comply with the following operating
 requirements. These requirements shall be prominently and publicly displayed in a conspicuous place upon
 every premises licensed under the provisions of this chapter:
@@ -124,7 +128,8 @@ massage establishment.
 (Code 1961, § 11A-70; Ord. No. 15848, § 1, 1-18-84)
 Secs. 18.5-5—18.5-15. - Reserved.
 ### ARTICLE II. - PERMITS
-Sec. 18.5-16. - Massage establishment permit.
+##### Sec. 18.5-16. - Massage establishment permit.  
+
 (a)
 Required. No person shall carry on the business of operating a massage establishment at any place within the
 unincorporated areas of the parish unless he has a valid permit issued pursuant to the provisions of this article for
@@ -214,7 +219,8 @@ partners, including limited partners, if the applicant is a partnership, is eigh
 (9)
 The applicant, if a corporation, is licensed to do business and in good standing in the state.
 (Code 1961, § 11A-62; Ord. No. 15992, § 1, 4-11-85)
-Sec. 18.5-17. - Massage technician permit.
+##### Sec. 18.5-17. - Massage technician permit.  
+
 (a)
 Required. No person shall manage a massage establishment, practice or administer massages unless he has a
 valid permit issued pursuant to the provisions of this article.
@@ -279,7 +285,8 @@ application;
 (9)
 The applicant is over eighteen (18) years of age.
 (Code 1961, § 11A-63; Ord. No. 15848, § 2, 1-18-84; Ord. No. 15913, § 1, 2-29-84; Ord. No. 15992, § 1, 4-1184; Ord. No. 16398, § 1, 4-10-85; Ord. No. 16538, §§ I—III, 8-7-85)
-Sec. 18.5-18. - Suspension or revocation.
+##### Sec. 18.5-18. - Suspension or revocation.  
+
 (a)
 No permit under this article may be suspended or revoked until after due notice and hearing before a review
 committee appointed by the parish council to determine if grounds for such revocation exist. Notice of such
@@ -303,7 +310,8 @@ first place.
 If there is an appeal from a denial of the issuance of a permit under this article by the department of inspection
 and code enforcement, the review committee shall have the authority to grant such a permit.
 (Code 1961, § 11A-64; Ord. No. 15992, § 1, 4-11-84)
-Sec. 18.5-19. - Grounds for suspension and revocation.
+##### Sec. 18.5-19. - Grounds for suspension and revocation.  
+
 The following acts or omissions are declared to be in violation of this chapter and constitute grounds for
 suspension or revocation of a permit issued under this article:
 (1)
@@ -329,12 +337,14 @@ Violation of any of the provisions of this chapter;
 The presence of a person on the massage establishment premises who administers massages and does not have a
 valid massage technician permit.
 (Code 1961, § 11A-65)
-Sec. 18.5-20. - Sale or transfer.
+##### Sec. 18.5-20. - Sale or transfer.  
+
 Upon the sale or transfer of any interest in a massage establishment, the permit therefor shall be null and void.
 Any person desiring to continue to operate such massage establishment following sale or transfer shall make
 application therefor pursuant to section 18.5-16.
 (Code 1961, § 11A-66)
-Sec. 18.5-21. - Expiration.
+##### Sec. 18.5-21. - Expiration.  
+
 All permits issued pursuant to the provisions of this article shall expire one (1) calendar year from the date of
 issuance, unless previously revoked.
 (Code 1961, § 11A-67)

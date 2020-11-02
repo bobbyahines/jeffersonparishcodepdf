@@ -14,12 +14,12 @@ planning and development, Ch. 25; subdivisions, Ch. 33; zoning, Ch. 40.
 State Law reference— Local governments to comply with Federal Flood Insurance Act, R.S. 38:84; hurricane
 protection and flood control in Jefferson Parish, R.S. 38:85.
 ### ARTICLE I. - (14-1) INTRODUCTORY PROVISIONS
-##### Sec. 14-1.1. - Statutory authorization.
+Sec. 14-1.1. - Statutory authorization.
 R.S. 38:84 delegates responsibility to local governmental units to adopt regulations designed to minimize flood
 losses to comply with the Federal Flood Insurance Act. In the event of conflict between these regulations and
 state or federal laws or regulations the more restrictive requirement shall take precedence.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-1.2. - Findings of fact.
+Sec. 14-1.2. - Findings of fact.
 (1)
 The special flood hazard areas and local flood hazard areas of the parish are subject to periodic inundation which
 results in loss of life and property, health and safety hazards, disruption of commerce and governmental service,
@@ -30,7 +30,7 @@ Flood losses may be avoided by development standards described in this chapter i
 construction safely above the recognized flood hazard and minimizing cumulative effect of encroachments in
 special and local flood hazard areas, which may increase flood heights and velocities.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-1.3. - Statement of purpose.
+Sec. 14-1.3. - Statement of purpose.
 It is the principal purpose of this section to prescribe minimum requirements for land use and control measures
 for flood-prone areas in the parish as determined by the Federal Insurance Administration (FIA) of the Federal
 Emergency Management Agency (FEMA). These regulations are based upon relevant technical storm data
@@ -61,7 +61,7 @@ chapter; and
 Ensure that those who develop special flood hazard areas or local flood hazard areas assume responsibility for
 their actions.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-1.4. - Methods of reducing flood losses.
+Sec. 14-1.4. - Methods of reducing flood losses.
 In order to accomplish its purposes, this chapter includes methods and provisions to:
 (1)
 Restrict or prohibit development which is dangerous to health, safety, and property due to flood hazards, or
@@ -79,7 +79,7 @@ Prevent or regulate the construction of flood barriers which will unnaturally di
 increase flood hazards in other areas.
 (Ord. No. 25457 , § 1, 11-15-17)
 ### ARTICLE II. - (14-2) DEFINITIONS
-##### Sec. 14-2.1. - [Definitions.]
+Sec. 14-2.1. - [Definitions.]
 As used in this chapter, the following words and phrases shall have the meaning given in this article:
 Adverse impact. Causing increased flood stages, increased flood velocity, or increased flows in or near a special
 or local flood hazard area, to an extent including to but not limited to an increase in base flood elevation equal or
@@ -312,11 +312,11 @@ Zone X, X-Protected by Levee, and 0.2% Chance. A Local Flood Hazard Area as show
 Insurance Study and depicted on the FIRM.
 (Ord. No. 25457 , § 1, 11-15-17)
 ### ARTICLE III. - (14-3) GENERAL PROVISIONS
-##### Sec. 14-3.1. - Lands to which this chapter applies.
+Sec. 14-3.1. - Lands to which this chapter applies.
 This chapter shall apply to all special flood hazard areas (SFHAs) and local flood hazards within the jurisdiction
 of unincorporated Jefferson Parish.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-3.2. - Basis for establishing the areas of special flood hazard.
+Sec. 14-3.2. - Basis for establishing the areas of special flood hazard.
 The special flood hazard areas represented as zone AE and zone VE identified by the Federal Insurance
 Administration (FIA) of the Federal Emergency Management Agency (FEMA) in the most recent effective
 Flood Insurance Study (FIS) dated February 2, 2018 for the Parish of Jefferson and accompanying Flood
@@ -324,27 +324,27 @@ Insurance Rate Maps and their subsequent amendments and/or revisions, are hereby
 declared a part of this chapter. This FIS and FIRM are the minimum area of applicability of this chapter. Current
 and historic maps are on file with the department of floodplain management and hazard mitigation.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-3.3. - Basis for establishing the areas of local flood hazard.
+Sec. 14-3.3. - Basis for establishing the areas of local flood hazard.
 The areas of local flood hazard are represented by Zones X, X-Protected by Levee, and 0.2% Chance of
 Flooding by the Federal Insurance Administration (FIA) of the Federal Emergency Management Agency
 (FEMA) in the most recent effective Flood Insurance Study (FIS) dated February 2, 2018 for the Parish of
 Jefferson and accompanying Flood Insurance Rate Maps and their subsequent amendments and/or revisions.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-3.4. - Compliance.
+Sec. 14-3.4. - Compliance.
 No structure or land shall hereafter be filled, graded, developed, constructed, reconstructed, rehabilitated, or
 altered without complying with the terms of this chapter and 44 CFR Part 60.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-3.5. - Abrogation and greater restrictions.
+Sec. 14-3.5. - Abrogation and greater restrictions.
 This chapter is not intended to repeal, abrogate, or impair any existing easements, covenants, deed restrictions or
 ordinances. Where this chapter and another ordinance, easement, covenant, or deed restriction conflict or
 overlap, whichever imposes the more stringent restrictions shall prevail.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-3.6. - Interpretation.
+Sec. 14-3.6. - Interpretation.
 In the interpretation and application of this chapter, all provisions shall be considered as minimum requirements
 and shall be liberally construed in favor of the parish and shall not be deemed to limit or repeal any other powers
 granted by state statutes.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-3.7. - Warning and disclaimer or liability.
+Sec. 14-3.7. - Warning and disclaimer or liability.
 The degree of flood protection required by this chapter is considered reasonable for regulatory purposes and is
 based on scientific and engineering considerations. Larger floods can and will occur on rare occasions. Flood
 heights may be increased by man-made or natural causes. This chapter does not imply that land outside of areas
@@ -354,13 +354,13 @@ any officer or employee thereof, for any damages or injuries that result from re
 administrative decision lawfully made hereunder.
 (Ord. No. 25457 , § 1, 11-15-17)
 ### ARTICLE IV. - (14-4) FLOODPLAIN ADMINISTRATORS
-##### Sec. 14-4.1. - Designation of the floodplain administrator.
+Sec. 14-4.1. - Designation of the floodplain administrator.
 The director of the department of floodplain management and hazard mitigation or designee is hereby appointed
 the floodplain administrator, to administer and implement this chapter. The director of the department of
 inspection and code enforcement or designee is authorized to enforce such rules or regulations consistent with
 and necessary to implement the purposes, intent and express terms of this chapter.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-4.2. - Responsibilities of the floodplain administrator.
+Sec. 14-4.2. - Responsibilities of the floodplain administrator.
 The duties and responsibilities of the floodplain administrator shall include, but not be limited to the following:
 (1)
 Director of the department of floodplain management and hazard mitigation or designee shall:
@@ -412,7 +412,7 @@ Prior to the issuance of a completion certificate a final elevation certificate 
 elevation standards of this chapter.
 (Ord. No. 25457 , § 1, 11-15-17)
 ### ARTICLE V. - (14-5) FLOODPLAIN MANAGEMENT PERMITS
-##### Sec. 14-5.1. - Securing a permit.
+Sec. 14-5.1. - Securing a permit.
 (a)
 In unincorporated Jefferson Parish, it shall be unlawful to proceed with any new development, construction,
 substantial improvement, to include "repetitive loss" and "substantial damaged structures", or manufactured
@@ -427,7 +427,7 @@ All necessary permits must be received from those governmental agencies from whi
 federal or state law, including Section 404 of the Federal Pollution Control Act Amendments of 1973, 33 U.S.C.
 1334.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-5.2. - Permit application.
+Sec. 14-5.2. - Permit application.
 
 Application for a floodplain development building permit shall be presented to the department of inspection and
 code enforcement on forms furnished by the department and may include, but not be limited to:
@@ -443,7 +443,7 @@ proposed development; and
 (4)
 Maintain a record of all such information in accordance with this chapter.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-5.3. - Permit review.
+Sec. 14-5.3. - Permit review.
 Approval or denial of a floodplain development building permit by the department of inspection and code
 enforcement shall be based on all of the provisions of this chapter and may consider the following relevant
 factors:
@@ -471,7 +471,7 @@ The necessity to the facility of a waterfront location, where applicable; and
 The availability of alternative locations, not subject to flooding or erosion damage, for the proposed use.
 (Ord. No. 25457 , § 1, 11-15-17)
 ### ARTICLE VI. - (14-6) STANDARDS OF CONSTRUCTION
-##### Sec. 14-6.1. - General standards.
+Sec. 14-6.1. - General standards.
 In all areas of special flood hazards, the following provisions for permits are required for all new construction
 and substantial damage/improvement to ensure sites are reasonably safe from flooding:
 (1)
@@ -515,7 +515,7 @@ space may only be used as limited storage, building access, and vehicle parking.
 restriction shall be in a form acceptable to the floodplain administrator and Parish Attorney's Office. The
 floodplain administrator shall have the right to inspect annually for conversion with 72-hour notice.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-6.2. - Elevation standards.
+Sec. 14-6.2. - Elevation standards.
 In all areas of special flood hazards (Zone AE and VE) and areas of local flood hazard (Zone X, X Protected by
 Levee, and 0.2% Annual Chance), the following higher regulatory provisions for permits are required for all new
 construction and substantial damage/improvement (as further denied below) to ensure sites are reasonably safe
@@ -524,7 +524,7 @@ basement, mechanical and utility equipment, and ductwork. A registered professio
 surveyor shall submit a certification to the department of inspection and code enforcement that the standard of
 this chapter is satisfied.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-6.2.1 - Residential elevation—New construction.
+Sec. 14-6.2.1 - Residential elevation—New construction.
 Permits issued for new construction of any residential structure, must have the required NAVD 88 elevation of
 the lowest floor or lowest horizontal portion of the structural member and the base flood elevation noted on the
 permit.
@@ -563,7 +563,7 @@ floor area of any enclosed area below the BFE shall not exceed two hundred ninet
 including breakaway walls; and
 c.
 Fill shall not be used for structural support of buildings.
-##### Sec. 14-6.2.2. - Residential elevation—Substantial damage/improvement.
+Sec. 14-6.2.2. - Residential elevation—Substantial damage/improvement.
 Permits issued for substantial damage/improvement of any residential structure, must have the required NAVD
 88 elevation of the lowest floor (including basement) and the base flood elevation noted on the permit.
 (1)
@@ -593,7 +593,7 @@ including breakaway walls; and
 c.
 Fill shall not be used for structural support of buildings.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-6.2.3. - Non-residential elevation and/or floodproofing—New construction.
+Sec. 14-6.2.3. - Non-residential elevation and/or floodproofing—New construction.
 Permits issued for new construction of any non-residential structure including accessory structure greater than
 one thousand (1,000) square feet, must have the required NAVD 88 elevation of the lowest floor or lowest
 horizontal portion of the structural members and the base flood elevation noted on the permit. In lieu of meeting
@@ -630,7 +630,7 @@ floor area of any enclosed area below the BFE shall not exceed two hundred ninet
 including breakaway walls; and
 c.
 Fill shall not be used for structural support of buildings.
-##### Sec. 14-6.2.4. - Non-residential elevation and/or floodproofing—Substantial damage/improvement.
+Sec. 14-6.2.4. - Non-residential elevation and/or floodproofing—Substantial damage/improvement.
 Permits issued for substantial damage/improvement of any non-residential structure including accessory
 structure greater than one thousand (1,000) square feet, must have the required NAVD 88 elevation of the lowest
 floor or lowest horizontal portion of the structural members and the base flood elevation noted on the permit. In
@@ -660,7 +660,7 @@ including breakaway walls; and
 c.
 Fill shall not be used for structural support of buildings.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-6.3. - Enclosure standards.
+Sec. 14-6.3. - Enclosure standards.
 New construction and substantial damage/improvement, with fully enclosed areas below the lowest floor that are
 usable solely for parking of vehicles, building access, or storage in an area other than a basement and which are
 subject to flooding shall be designed to automatically equalize hydrostatic flood forces on exterior walls by
@@ -678,7 +678,7 @@ In areas outside the Hurricane Storm Damage Risk Reduction System (HSDRRS), the 
 enclosed area below the BFE of a residential structure shall not exceed two hundred ninety-nine (299) square
 feet, including breakaway walls.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-6.4. - Standards for subdivision proposals.
+Sec. 14-6.4. - Standards for subdivision proposals.
 All subdivision development proposals including the placement of manufactured home parks and subdivisions
 shall:
 (1)
@@ -739,7 +739,7 @@ g.
 Any denial of a variance request by the board of standards and appeals may be appealed to the parish council for
 final resolution.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-6.5. - Standards for manufactured homes.
+Sec. 14-6.5. - Standards for manufactured homes.
 Require that all new or substantial damage/improvement manufactured homes within the special flood hazard
 area outside of a manufactured home park or subdivision, in a new or existing manufactured home park or
 subdivision, in an expansion to an existing manufactured home park or subdivision, shall be installed using
@@ -780,7 +780,7 @@ professional engineer or surveyor, and verified by the community building-inspec
 No new manufactured home shall be placed in a coastal high hazard area, except in an existing manufactured
 home park or subdivision.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-6.6. - Standards for recreational vehicles.
+Sec. 14-6.6. - Standards for recreational vehicles.
 All new recreational vehicle parks or additions to parks in a special flood hazard area shall clearly post the
 hazard and methods of flood warning. All recreational vehicles placed on sites within special flood hazard areas
 shall:
@@ -794,7 +794,7 @@ Have no attached additions on adjoining foundation; or
 (4)
 Meet the anchoring and elevation requirements for manufactured homes of this chapter.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-6.7. - Certification requirements.
+Sec. 14-6.7. - Certification requirements.
 When development occurs on property that has been identified by the floodplain administrator as being located
 in a special flood hazard area or local flood hazard area, the following shall be certified by a registered civil
 engineer or licensed land surveyor and provided to the department of inspection and code enforcement:
@@ -819,7 +819,7 @@ and
 Calculation of vent space for crawlspaces.
 (Ord. No. 25457 , § 1, 11-15-17)
 ### ARTICLE VII. - (14-7) ADMINISTRATION
-##### Sec. 14-7.1. - Variances.
+Sec. 14-7.1. - Variances.
 The board of standards and appeals, as established by the community, shall hear and render judgment on
 requests for variances from the requirements of this chapter.
 (1)
@@ -891,7 +891,7 @@ In those instances where a variance is granted, the appellate shall be given a w
 with the lowest floor elevation below the BFE will then have the cost of flood insurance commensurate with the
 increased risk resulting from the reduced lowest floor elevation.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-7.2. - Appeals.
+Sec. 14-7.2. - Appeals.
 If the applicant for a permit, the permittee, or other persons whose property rights may be affected, is dissatisfied
 with any determination made by the floodplain administrator or board of standards and appeals such person may
 appeal to the Jefferson Parish Council. Any such appeal shall be in writing, shall state the specific reasons
@@ -899,14 +899,14 @@ therefore and grounds asserted for relief, and shall be filed with the clerk of 
 that the proposed variance may negatively affect the parish's standing in the National Flood Insurance Program,
 adequate public notice and public hearing shall be required before the parish council may act on the proposal.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-7.3. - Recording of a variance affidavit.
+Sec. 14-7.3. - Recording of a variance affidavit.
 Any applicant whose variance from the base flood elevation is approved by the board of standards and appeals
 or the parish council shall record in the conveyance records of the Clerk of Court of Jefferson Parish an affidavit
 indicating that the applicant's property does not meet the required base flood elevation of the parish. Verification
 of the applicant's recorded affidavit shall be presented to the department of inspection and code enforcement
 prior to the issuance of a use and occupancy certificate.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-7.4. - Penalties for non-compliance.
+Sec. 14-7.4. - Penalties for non-compliance.
 Under the authority of the Building Code of Jefferson Parish, the director of the department of inspection and
 code enforcement is authorized to enforce the provisions of the current adopted technical codes. No structure or
 land shall hereafter be constructed, located, extended, converted, or altered without full compliance with the
@@ -916,7 +916,7 @@ the general agent, architect, building contractor, or any other person who assis
 flood regulations or who maintains any building or premises in which the violation exists shall be punished as
 provided in chapter 1, section 1-10, "Penalty: maximum: continuing violations" of this Code.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-7.5. - Adjoining communities.
+Sec. 14-7.5. - Adjoining communities.
 (1)
 Consideration of overall flood management in the Metropolitan New Orleans area shall be given to individual
 floodplain management programs in:
@@ -930,7 +930,7 @@ The parishes of Orleans, Plaquemines, and St. Charles.
 In riverine situations, adjacent communities and the state coordinating office will be notified prior to any
 alteration or relocation of a watercourse, and copies of such notification will be submitted to FIA. The floodcarrying capacity of altered or relocated portions of any watercourse will be maintained.
 (Ord. No. 25457 , § 1, 11-15-17)
-##### Sec. 14-7.6. - Priority of flood-prone area regulations.
+Sec. 14-7.6. - Priority of flood-prone area regulations.
 All regulations described in this chapter represent minimum standards and supersede all existing ordinances
 which require lower standards.
 (Ord. No. 25457 , § 1, 11-15-17)

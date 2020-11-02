@@ -1,5 +1,6 @@
 ## Chapter 8.5 - BASIC CABLE SERVICE RATE REGULATION
-Sec. 8.5-1. - Definitions.
+##### Sec. 8.5-1. - Definitions.  
+
 For purposes of this chapter, the following terms have the respective meanings ascribed to them in this section,
 unless a different meaning clearly applies from the context:
 Act shall mean the Communications Act of 1934, as amended (and specifically as amended by the Cable
@@ -19,7 +20,8 @@ Increase in rates shall mean any increase in rates, a decrease in programming or
 reduction in number or quality of television channels carried in the basic cable services.
 Parish shall mean the Parish of Jefferson.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-2. - Purpose; interpretation.
+##### Sec. 8.5-2. - Purpose; interpretation.  
+
 The purpose of this chapter is to:
 (1)
 Adopt regulations consistent with the Act and the FCC Rules with respect to basic cable service rate regulation;
@@ -32,7 +34,8 @@ or more of the FCC Rules referred to herein, or provisions of the Act referred t
 deleted or revised (including section numbers), this chapter shall be interpreted under the then prevailing Act,
 Rules and interpretations.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-3. - Filing; additional information; burden of proof.
+##### Sec. 8.5-3. - Filing; additional information; burden of proof.  
+
 (a)
 A cable operator shall submit its schedule of rates for the basic service tier and associated equipment or a
 proposed increase in such rates in accordance with the Act and the FCC Rules. Except as may be contrary to the
@@ -100,7 +103,8 @@ there is no misstatement of fact or material fact related to rates and/or channe
 The person certifying shall also attest under oath that the franchise is in full compliance with the FCC rules and
 the Act.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-4. - Proprietary information.
+##### Sec. 8.5-4. - Proprietary information.  
+
 If this chapter, any rules or regulations adopted by the parish, or any request for information requires the
 production of proprietary information, the cable operator shall produce the information. However, at the time the
 allegedly proprietary information is submitted, a cable operator may request that specific, identified portions of
@@ -115,7 +119,8 @@ requesting party shall notify the cable operator of any such request. The parish
 considerations favoring nondisclosure against the reasons cited for permitting inspection in light of the facts of
 the particular case.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-5. - Public notice; initial review of rates.
+##### Sec. 8.5-5. - Public notice; initial review of rates.  
+
 (a)
 Within five (5) days after a cable operator files a notice of intent to increase its rates and the supporting materials
 specified, the cable operator shall publish a public notice in the official journal of the parish, which shall state
@@ -146,7 +151,8 @@ consider the schedule of rates or the proposed increase. This notice shall be ma
 five (5) days before the meeting at which the Jefferson Parish Council shall first consider the schedule of rates or
 the proposed increase, unless the cable operator waives such notice.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-6. - Tolling order.
+##### Sec. 8.5-6. - Tolling order.  
+
 After a cable operator has filed its existing schedule of rates or a proposed increase in these rates, the existing
 schedule of rates will remain in effect or the proposed increase in rates will become effective after thirty (30)
 days from the date of filing unless the Jefferson Parish Council (or a designated official acting under delegated
@@ -157,12 +163,14 @@ The Jefferson Parish Council may toll the thirty-day deadline for an additional 
 involving cost of service showings and for an additional one hundred fifty (150) days in cases involving cost-ofservice showings, or such other periods of time as may be not longer than those allowed by the FCC, the FCC
 Rules, the Act, or prevailing precedent.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-7. - Submission of additional information.
+##### Sec. 8.5-7. - Submission of additional information.  
+
 Whether or not a written order has been issued to toll the effective date of existing rates for the basic cable
 service tier and associated equipment or a proposed increase in these rates, the cable operator shall submit to the
 parish any additional information required or requested.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-8. - Cable management contractor report; written response.
+##### Sec. 8.5-8. - Cable management contractor report; written response.  
+
 Following the public hearing, the parish may determine to cause a report to be prepared by one (1) or more
 consultant(s) for the Jefferson Parish Council or by the council's staff which shall (based on the filing of the
 cable operator, the comments or objections of interested parties, information requested from the cable operator
@@ -170,7 +178,8 @@ and its response(s), and the review by the consultants (if any), and other appro
 recommendation for the decision of the Jefferson Parish Council unless the Jefferson Parish Council directs
 otherwise.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-9. - Tentative orders.
+##### Sec. 8.5-9. - Tentative orders.  
+
 The Jefferson Parish Council may, but need not, issue a tentative order at least fifteen (15) days prior to the date
 specified in this chapter for the issuance of its order. If a tentative order is released, and if the cable operator
 disagrees with the tentative order, the cable operator shall, within ten (10) days of the release thereof, file with
@@ -184,7 +193,8 @@ Issue an order, which shall be the decision of the parish, which may, in the dis
 not the same as the tentative order, if one was issued, shall be issued within the time permitted by the FCC Rules
 and the Act.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-10. - Rate decisions and orders.
+##### Sec. 8.5-10. - Rate decisions and orders.  
+
 (a)
 Within the time permitted by the then extant FCC Rules, including any permitted extension of time, the council
 will make its determination as to whether the rates specified by the franchisee are justified and issue a tentative
@@ -206,32 +216,38 @@ Rule or as otherwise provided by FCC Rule, the Act, or by law.
 In any order of the council requiring a refund, the council shall specify how, and over what period of time, such
 refund shall be effectuated.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-11. - Effective date of orders.
+##### Sec. 8.5-11. - Effective date of orders.  
+
 Any order of the Jefferson Parish Council shall be effective upon adoption by the Jefferson Parish Council or
 such order date as it may lawfully adopt, and shall be deemed released to the public upon adoption. The
 Jefferson Parish Council Clerk shall mail a copy of the text of the written decision to the cable operator by firstclass mail.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-12. - Rules and regulations.
+##### Sec. 8.5-12. - Rules and regulations.  
+
 In addition to rules promulgated, the Jefferson Parish Council may, by resolution or otherwise, adopt rules and
 regulations for basic cable service rate regulation proceedings (including, without limitation, the conduct of
 hearings), consistent with the Act and FCC Rules.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-13. - Failure to give notice.
+##### Sec. 8.5-13. - Failure to give notice.  
+
 The failure of the Jefferson Parish Council Clerk to give the notices or to mail copies of reports as required by
 this chapter shall not invalidate the decisions or proceedings of the Jefferson Parish Council.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-14. - Additional hearings.
+##### Sec. 8.5-14. - Additional hearings.  
+
 In addition to those provided for in this chapter, the Jefferson Parish Council may hold additional public
 hearings upon such reasonable notice as the Jefferson Parish Council, in its sole discretion, shall prescribe.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-15. - Additional powers.
+##### Sec. 8.5-15. - Additional powers.  
+
 The parish shall possess all powers conferred by its charter, the Act, the FCC Rules, the cable operator's
 franchise, and all other applicable law. The powers exercised pursuant to the Act, the FCC Rules, and this
 chapter shall be in addition to powers conferred by law or otherwise. The parish may take any action not
 prohibited by the Act and the FCC Rules to protect the public interest in connection with basic cable service rate
 regulation.
 (Ord. No. 19487, § 1, 9-13-95)
-Sec. 8.5-16. - Failure to comply; remedies.
+##### Sec. 8.5-16. - Failure to comply; remedies.  
+
 The parish may pursue any and all legal equitable remedies against the cable operator (including, without
 limitation, all remedies provided under a cable operator's franchise with the parish) for failure to comply with
 the Act, the FCC Rules, any orders or determinations of the parish pursuant to this chapter, any requirements of

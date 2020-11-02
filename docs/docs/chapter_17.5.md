@@ -5,7 +5,8 @@ repealing and reenacting said chapter, §§ 17.5-1—17.5-13, as set out herein.
 and motels and derived from Ord. No. 24794 , § 1, adopted Aug. 6, 2014.
 Cross reference— Hourly rental of hotel and motel rooms prohibited, § 20-65.
 
-Sec. 17.5-1. - Applicability.
+##### Sec. 17.5-1. - Applicability.  
+
 (a)
 This chapter shall apply to bed and breakfast accommodations, hotels, motels, and short-term rentals, except the
 following short-term rentals:
@@ -24,7 +25,8 @@ Nothing in this chapter is intended to apply to or prohibit the long-term rental
 more consecutive days and where typically the method of rental involves an extended period of time and tenant
 obligations such as payment of utility bills in the name of the tenant.
 (Ord. No. 25513 , § 1, 2-21-18)
-Sec. 17.5-2. - Guest room minimum requirements.
+##### Sec. 17.5-2. - Guest room minimum requirements.  
+
 No person or lodging accommodation may offer for rent, use, or occupancy any guest room or dwelling unit that
 does not meet or exceed all applicable building codes, property maintenance laws and state health laws,
 including but not limited to the following:
@@ -55,7 +57,8 @@ and the designated local responsible party. The brochure also shall provide info
 neighborhood where the short-term rental is located, including, but not limited to, restrictions on parking, noise,
 trash, the trash collection schedule, and a fire evacuation route.
 (Ord. No. 25513 , § 1, 2-21-18)
-Sec. 17.5-3. - Operational standards.
+##### Sec. 17.5-3. - Operational standards.  
+
 (a)
 Bed and breakfasts, hotels, and motels.
 (1)
@@ -131,11 +134,13 @@ information.
 The bed and breakfast, hotel, motel, or short-term rental shall meet the provisions set forth in section 20-65 of
 chapter 20—offenses and miscellaneous provisions of the Jefferson Parish Code of Ordinances.
 (Ord. No. 25513 , § 1, 2-21-18)
-Sec. 17.5-4. - Inspection of facilities.
+##### Sec. 17.5-4. - Inspection of facilities.  
+
 PMZ and the Jefferson Parish Sheriff's Office shall be authorized to conduct inspections of all bed and
 breakfasts, hotels, motels, or short-term rentals subject to the regulations in this Code.
 (Ord. No. 25513 , § 1, 2-21-18)
-Sec. 17.5-5. - License required for a bed and breakfast, hotel, motel, or short-term rental; annual renewals.
+##### Sec. 17.5-5. - License required for a bed and breakfast, hotel, motel, or short-term rental; annual renewals.  
+
 (a)
 No bed and breakfast, hotel, motel, or short-term rental shall engage in the business of rental of room or rooms,
 and facilities without first filing application, initial or renewal, with ICE and obtaining a lodging accommodation
@@ -160,7 +165,8 @@ from and in addition to the license requirements for the Jefferson Parish Occupa
 VI of chapter 35 of this Code of Ordinances. The required lodging accommodation license under this article is a
 regulatory license and not a revenue license.
 (Ord. No. 25513 , § 1, 2-21-18)
-Sec. 17.5-6. - Application, fees and requirements.
+##### Sec. 17.5-6. - Application, fees and requirements.  
+
 (a)
 Any person desiring to operate a bed and breakfast, hotel, motel, or short-term rental shall obtain an initial
 lodging accommodation license or renew a previously issued and unrevoked license and shall submit an
@@ -305,13 +311,15 @@ then the operator shall have sixty (60) days from the date notice is sent to app
 fails to send a renewal notice, then the operator shall have sixty (60) days from the expiration date to apply for
 renewal.
 (Ord. No. 25513 , § 1, 2-21-18)
-Sec. 17.5-7. - Display of license.
+##### Sec. 17.5-7. - Display of license.  
+
 Any lodging accommodation license issued by ICE shall be conspicuously displayed in the office or lobby, or
 other conspicuous location, of the licensed establishment. In the case of short-term rental, the license number
 shall be shown clearly on the face of any advertisement, including on-line listings, or act of drawing the public's
 attention to the short-term rental in order to promote the availability of the short-term rental.
 (Ord. No. 25513 , § 1, 2-21-18)
-Sec. 17.5-8. - Lodging accommodation license—Suspension or revocation.
+##### Sec. 17.5-8. - Lodging accommodation license—Suspension or revocation.  
+
 The lodging accommodation license shall be subject to suspension or revocation upon good cause shown at a
 hearing conducted by either the lodging accommodation review committee or the parish council, within one
 hundred and eighty (180) days from the date of the last qualifying occurrence, as documented by ICE or PMZ,
@@ -349,7 +357,8 @@ the arrest or verified call for service.
 (8)
 Failure to timely apply for, renew, or post the lodging accommodation license.
 (Ord. No. 25513 , § 1, 2-21-18; Ord. No. 25599 , § 1, 6-27-18)
-Sec. 17.5-9. - Procedure for and effect of suspension, revocation.
+##### Sec. 17.5-9. - Procedure for and effect of suspension, revocation.  
+
 (a)
 Committee. There is hereby created a committee to be known as the lodging accommodation review committee
 that shall function substantially similar to the alcoholic beverage permit review committee as set forth in article
@@ -426,17 +435,20 @@ When a lodging accommodation license has been suspended by the parish council or
 new lodging accommodation license shall be issued for the same property for a period of fourteen (14) days
 beginning from the last day of the suspension.
 (Ord. No. 25513 , § 1, 2-21-18; Ord. No. 25599 , § 2, 6-27-18)
-Sec. 17.5-10. - Notice of revocation or suspension of lodging accommodation license.
+##### Sec. 17.5-10. - Notice of revocation or suspension of lodging accommodation license.  
+
 The Jefferson Parish Sheriff's Office shall post a copy or copies of the notice of revocation or suspension of the
 license to operate the bed and breakfast, hotel, motel, or short-term rental.
 (Ord. No. 25513 , § 1, 2-21-18)
-Sec. 17.5-11. - Lodging accommodation license—surrender following revocation.
+##### Sec. 17.5-11. - Lodging accommodation license—surrender following revocation.  
+
 Whenever a lodging accommodation license has been revoked pursuant to the provisions of this chapter, the
 owner or operator of the establishment for which the lodging accommodation license was issued shall surrender
 the license to the parish forthwith. The lodging accommodation operation shall cease within seventy-two (72)
 hours of the posting of the notice of revocation of the lodging accommodation license.
 (Ord. No. 25513 , § 1, 2-21-18)
-Sec. 17.5-12. - Violation—penalty.
+##### Sec. 17.5-12. - Violation—penalty.  
+
 It is unlawful to advertise or operate a bed and breakfast, hotel, motel, or short-term rental without a valid
 lodging accommodation license. Whoever violates the provisions of this section shall be punished by a fine not
 exceeding five hundred dollars ($500.00) or imprisonment for a term not exceeding six (6) months, or by both

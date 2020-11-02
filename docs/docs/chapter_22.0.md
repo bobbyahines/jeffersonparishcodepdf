@@ -11,23 +11,23 @@ Secs. 22-1—22-15. - Reserved.
 Footnotes:
 --- (2) --State Law reference— License of peddlers and itinerant vendors, R.S. 37:359.C.
 #### DIVISION 1. - GENERALLY
-##### Sec. 22-16. - Hours.
+Sec. 22-16. - Hours.
 Even after the obtaining of the permit, no permittee under this article shall solicit and/or peddle door to door
 and/or conduct any house to house canvassing or solicitation between the hours of 8:00 p.m. and 8:00 a.m.,
 except as made by appointment.
 (Code 1961, § 12A-3)
 Secs. 22-17—22-27. - Reserved.
 #### DIVISION 2. - PERMIT
-##### Sec. 22-28. - Required.
+Sec. 22-28. - Required.
 No house to house canvassing or salesmen or salesladies shall solicit and/or peddle door to door without first
 having obtained from the sales tax division of the sheriffs office a permit for such solicitation and/or peddling or
 canvassing.
 (Code 1961, § 12A-1(a))
-##### Sec. 22-29. - Fee.
+Sec. 22-29. - Fee.
 The permit fee under this division shall be two dollars ($2.00) for each partnership, company, corporation or
 individual operating a sole proprietorship.
 (Code 1961, § 12A-1(b))
-##### Sec. 22-30. - Revocation.
+Sec. 22-30. - Revocation.
 Should any person having obtained such a permit, solicit and/or peddle door to door and/or conduct any houseto-house canvassing or solicitation between the hours of 8:00 p.m. and 8:00 a.m., except as made by
 appointment, the permit shall be revoked and thereafter the solicitor, salesman, saleslady and/or canvasser shall
 not be able to obtain another permit.
@@ -35,7 +35,7 @@ not be able to obtain another permit.
 Secs. 22-31—22-46. - Reserved.
 ### ARTICLE III. - SALE FROM TEMPORARY STANDS OR VEHICLES
 #### DIVISION 1. - GENERALLY
-##### Sec. 22-47. - Sales from temporary outdoor stand or vehicles generally prohibited.
+Sec. 22-47. - Sales from temporary outdoor stand or vehicles generally prohibited.
 Except as permitted under Chapter 6, Chapter 30, Chapter 33, or other applicable provisions of the Jefferson
 Parish Code of Ordinances, it shall be unlawful for any person to sell any merchandise, wares, goods, food, food
 products, plants, flowers, paintings, mirrors, or any artifact or saleable product from any truck, automobile,
@@ -45,7 +45,7 @@ public rights-of-way such as a street, boulevard, highway, roadway, emergency la
 of a road which is used for vehicular traffic or any other public property dedicated for specific use; or 2) on any
 private property unless specifically authorized by this article.
 (Ord. No. 23082, § 1, 6-20-07; Ord. No. 24709 , § I, 4-9-14)
-##### Sec. 22-48. - Outdoor sales on private property.
+Sec. 22-48. - Outdoor sales on private property.
 (a)
 Temporary outdoor sales of merchandise other than food items and not otherwise permitted under Chapter 6,
 Chapter 30, or other applicable provisions of the Jefferson Parish Code of Ordinances may be permitted by
@@ -69,27 +69,27 @@ building, portable or moveable container or display case, whether closed or encl
 permanent, temporary or seasonal basis shall also be governed by and must comply with the provisions of
 Division 3 of this Article and Title 51, Part VI of the Louisiana Administrative Code.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-49. - Placard required.
+Sec. 22-49. - Placard required.
 Prior to the conducting of the business activity under this article the permittee must submit to the department of
 planning the permit secured from the sheriff and secure from the department a permit placard which will contain
 the trade name of the vendor, the authorized location, and the year of authorization together with the parish
 authorization to conduct such business activity which placard must be displayed conspicuously at the location at
 all times during the conduct of business.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-50. - Prices to be posted.
+Sec. 22-50. - Prices to be posted.
 All vendors under this article must have the minimum and maximum price of the merchandise, wares, goods,
 food, food products, seafood of any kind, beverages, plants, flowers, paintings, minors, or any artifact or
 saleable product whatsoever posted conspicuously on a sign no larger than six (6) square feet. No other signs,
 except one (1) permit placard supplied.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-51. - Area to be kept clean.
+Sec. 22-51. - Area to be kept clean.
 All vendors under this article must keep the area upon which they conduct the sale of products and those areas
 immediately adjacent thereto free from all refuse, litter and trash attributable to their business activity.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-52. - Harassment of public prohibited.
+Sec. 22-52. - Harassment of public prohibited.
 At no time shall any vendor under this article harass the public to purchase his merchandise.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-53. - Change of location.
+Sec. 22-53. - Change of location.
 Any vendor selling food, food products, seafood of any kind, or beverages under this article from a temporary
 facility may not change location without obtaining a permit for the new location. Any vendor selling
 merchandise under this article from a mobile facility may change location without a new or separate permit,
@@ -97,7 +97,7 @@ provided said vendor does not sell or dispense at a single location for more tha
 twenty-four-hour period. Whether a permit is issued for one (1) or more than one (1) location, the vendor must
 comply with all other applicable provisions of this article.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-54. - Compliance with laws and ordinances and reports.
+Sec. 22-54. - Compliance with laws and ordinances and reports.
 (a)
 All vendors under this article must also comply with all pertinent parish ordinances and regulations, including,
 but not limited to, zoning requirements, parking requirements and all pertinent state laws and regulations, and
@@ -108,13 +108,13 @@ kind, or beverages from any mobile catering vehicle or mobile food dispensing ve
 (MUCD) or Commercial Parkway Overlay Zone (CPZ) or any area governed by section 40-441 through 40-495
 of the Code of Ordinances.
 (Ord. No. 23082, § 1, 6-20-07; Ord. No. 24709 , § II, 4-9-14)
-##### Sec. 22-55. - Exemption for stationary buildings on parish-owned property.
+Sec. 22-55. - Exemption for stationary buildings on parish-owned property.
 The provisions of this article shall not apply to any parish-owned property which is under lease and where there
 is erected a stationary building or structure of a permanent nature.
 (Ord. No. 23082, § 1, 6-20-07)
 Secs. 22-56—22-66. - Reserved.
 #### DIVISION 2. - PERMIT
-##### Sec. 22-67. - Permit required.
+Sec. 22-67. - Permit required.
 The sale of any merchandise, wares, goods, food, food products, seafood of any kind, beverages, plants, flowers,
 paintings, mirrors, or any artifact or saleable product from any truck, automobile, motor vehicle, mobile unit,
 cart, stand, table, temporary building, portable or moveable container or display case, whether closed or
@@ -123,7 +123,7 @@ conducted from privately-owned property provided the person desiring to conduct 
 provided in this article and further provided that the sale meets the requirements of section 22-48 and other
 applicable provisions of this article.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-68. - Application.
+Sec. 22-68. - Application.
 Application must be made with the sheriff for a permit under this division to conduct the sale of any
 merchandise, wares, goods, food, food products, seafood of any kind, beverages, plants, flowers, paintings,
 mirrors, or any artifact or saleable product whatsoever. The application must be accompanied by the following:
@@ -138,11 +138,11 @@ State and parish occupational license and sales tax number;
 A letter of approval by the planning and zoning department showing that the property is properly zoned for the
 intended use by the applicant.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-69. - Fee.
+Sec. 22-69. - Fee.
 In addition to any other fees that may be charged, each vendor shall pay an annual fee of fifty dollars ($50.00)
 for the conduction of his business for each location.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-70. - Term; renewal.
+Sec. 22-70. - Term; renewal.
 (a)
 A permit issued under this division for the sale of any merchandise, wares, goods, plants, flowers, paintings,
 mirrors, or any artifact or saleable product whatsoever, except food, food products, seafood of any kind, or
@@ -155,19 +155,19 @@ valid for up to one (1) calendar year. Application for renewal of calendar year 
 food products, seafood of any kind, or beverages cannot be made prior to September first of the year preceding
 that for which the permit will be valid, and such permits shall be renewed annually.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-71. - Suspension and/or revocation.
+Sec. 22-71. - Suspension and/or revocation.
 Any vendor who secures a permit under the regulations of this division but otherwise fails to abide by this article
 shall be subject to suspension and/or revocation of the permit.
 (Ord. No. 23082, § 1, 6-20-07)
 Secs. 22-72—22-74. - Reserved.
 #### DIVISION 3. - SALE OF FOOD, FOOD PRODUCT, BEVERAGES
-##### Sec. 22-75. - Generally.
+Sec. 22-75. - Generally.
 The sale of any food, food products, or seafood of any kind, or beverages, from any truck, automobile, motor
 vehicle, mobile unit, cart, stand, table, temporary building, portable or moveable container or display case,
 whether closed or enclosed, or operating on a permanent, temporary or seasonal basis shall comply with the
 provisions of this division and with all applicable provisions of Chapter 15.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-76. - Definitions.
+Sec. 22-76. - Definitions.
 Mobile catering vehicle means a motor vehicle, including trailers, that dispenses food, foodstuffs, seafood of any
 kind, or beverages, whether refrigerated or unrefrigerated, including potentially hazardous food, that requires
 cooking, heating or other like preparation by the vendor, either within the vehicle or within twelve (12) hours
@@ -185,7 +185,7 @@ Prepackaged means food, food product, or beverage packaged and sealed in a sanit
 licensed and approved permanent food or beverage processing facility other than the vehicle or depot, and
 packaged and stored in a manner approved by the state division of health.
 (Ord. No. 23082, § 1, 6-20-07; Ord. No. 23847, § 1, 6-30-10)
-##### Sec. 22-77. - Depot requirements.
+Sec. 22-77. - Depot requirements.
 (a)
 All vendors under this article dispensing food or food products, seafood of any kind, are required to provide a
 depot or processing plant for adequate storage, proper refrigeration and proper cleaning and sanitizing of
@@ -196,7 +196,7 @@ shall be made to verify compliance of the depot with this section and with all a
 state laws and regulations, including but not limited to division of health regulations governing depots for
 potentially hazardous food vendors.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-78. - Sale of potentially hazardous food.
+Sec. 22-78. - Sale of potentially hazardous food.
 (a)
 Excepting seafood vendors and mobile snowball vendors who do not sell and other food, any mobile food
 dispensing vehicle or mobile catering vehicle which sells or dispenses merchandise for consumption by the
@@ -208,7 +208,7 @@ food products or seafood of any kind must be properly stored in the depot and in
 contamination, spoilage, adulteration, and to prevent such merchandise from becoming infested with vermin or
 pests or to otherwise becoming injurious to the health of humans.
 (Ord. No. 23082, § 1, 6-20-07; Ord. No. 23847, § 2, 6-30-10)
-##### Sec. 22-79. - Other requirements.
+Sec. 22-79. - Other requirements.
 (a)
 Any mobile food dispensing vehicle or mobile catering vehicle which sells or dispenses merchandise for
 consumption by the public, either on the same site as the vehicle or on public property within five hundred (500)
@@ -228,14 +228,14 @@ article from a mobile facility at a single location for more than thirty (30) mi
 period shall be required to have electrical, water and sewer connections in accordance with the all applicable
 building and building regulation provisions in Chapter 8.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-80. - Exclusions
+Sec. 22-80. - Exclusions
 The provisions of section 22-79 shall not be applicable to any mobile food dispensing vehicle or mobile catering
 vehicle which exclusively sells or dispenses snowballs or snow cones for consumption by the public. For the
 purposes of this section a "snowball" or "snow cone" is a dessert item made of compacted shaved or powdered
 ice, flavored with a colored sugary syrup, and served in a cup with a spoon or straw, and meant to be eaten like
 an ice cream cone.
 (Ord. No. 23082, § 1, 6-20-07)
-##### Sec. 22-81. - Mobile food vendors—Special event.
+Sec. 22-81. - Mobile food vendors—Special event.
 Mobile catering vehicles or mobile food dispensing vehicles shall comply with the provisions of this chapter,
 article III, divisions 1—3 of this Code, with the following modifications:
 (1)
@@ -305,7 +305,7 @@ Secs. 22-82—22-87. - Reserved.
 Footnotes:
 --- (3) --State Law reference— Transient merchants, R.S. 37:1901 et seq.
 #### DIVISION 1. - GENERALLY
-##### Sec. 22-88. - Defined.
+Sec. 22-88. - Defined.
 The words "transient vendors, canvassers, solicitors and merchants" as used in this article shall be defined as
 meaning all persons engaging in the sale at retail of goods, wares and merchandise within the unincorporated
 limits of the parish and who, for the purpose of carrying on such business, hire, lease or occupy, either in whole
@@ -314,12 +314,12 @@ such goods, wares and merchandise, and with the intention to close out or discon
 period of the time stated for the sale.
 (Code 1961, § 12A-6(a))
 Cross reference— Definitions and rules of construction generally, § 1-2.
-##### Sec. 22-89. - Compliance required.
+Sec. 22-89. - Compliance required.
 It shall be unlawful for any transient vendor, canvasser, solicitor or merchant to sell at retail or offer for sale at
 retail within the unincorporated limits of the parish any goods, wares or merchandise except in accordance with
 the provisions of this article.
 (Code 1961, § 12A-6(b))
-##### Sec. 22-90. - Inspection.
+Sec. 22-90. - Inspection.
 Immediately upon issuing any permit provided for in division 2 of this article, the sheriff or any of his deputies
 shall at any time thereafter and at reasonable hours make an inspection of the place of business as provided in
 the permit and shall determine whether or not such business is carried on or conducted by the person and in the
@@ -329,13 +329,13 @@ observed in the carrying on of such business.
 (Code 1961, § 12A-6(f))
 Secs. 22-91—22-101. - Reserved.
 #### DIVISION 2. - PERMIT
-##### Sec. 22-102. - Required.
+Sec. 22-102. - Required.
 It shall be unlawful for any transient vendor, solicitor, canvasser or merchant to engage in business until he shall
 have first applied for and obtained a permit to engage in business in accordance with the provisions of this
 division and has paid all taxes and fees required by law for the transaction of such business in the unincorporated
 limits of the parish.
 (Code 1961, § 12A-6(d))
-##### Sec. 22-103. - Application.
+Sec. 22-103. - Application.
 Every transient vendor, canvasser, solicitor or merchant, before selling at retail, or offering for sale at retail,
 within the unincorporated limits of the parish any goods, wares or merchandise, either from stock or by sample,
 shall make application with the sheriff for a permit to carry on such business in the parish. Such application shall
@@ -382,23 +382,23 @@ the applicant has been arrested or convicted, if any;
 To the application must be appended a letter from the firm for which the applicant purports to do business,
 authorizing the applicant to act as its representative.
 (Code 1961, § 12A-6(c))
-##### Sec. 22-104. - Fee.
+Sec. 22-104. - Fee.
 In order to defray the cost and expense of the enforcing of this article, every transient vendor, canvasser, solicitor
 or merchant shall, in addition to all taxes, privileges and fees required by law to be paid for the transacting of
 such business in the city, pay a permit fee of five hundred dollars ($500.00), which shall be paid to the sheriff.
 (Code 1961, § 12A-6(g))
-##### Sec. 22-105. - Bond required.
+Sec. 22-105. - Bond required.
 In order to insure the payment of all taxes, fees and other expenses and costs incurred in the operation of its
 business activities, in addition to all other requirements herein set forth each transient vendor, canvasser,
 solicitor, and merchant shall post a cash bond or a security bond in the sum of ten thousand dollars ($10,000.00)
 with the sheriff.
 (Code 1961, § 12A-6(h))
-##### Sec. 22-106. - Thirty-day waiting period before issuance.
+Sec. 22-106. - Thirty-day waiting period before issuance.
 No permit shall be issued until the expiration of thirty (30) days from date of application and after proper
 investigation of the applicant and provided the applicant meets all requirements herein set forth and has
 complied with all other applicable ordinances.
 (Code 1961, § 12A-6(i))
-##### Sec. 22-107. - Issuance; posting.
+Sec. 22-107. - Issuance; posting.
 The sheriff shall issue a permit under this division in writing which shall state the date same is issued, the nature
 of the business authorized to be carried on and the expiration date of such permit, the place where such business
 may be carried on under such permit, and the name of the person authorized to carry on the same, which permit
@@ -407,10 +407,10 @@ therein. If the person applying for such permit shall desire to do business in m
 separate permits shall be applied for and issued for each place of business, and shall be posted conspicuously in
 each place of business, and the fee herein provided for shall be paid for each permit.
 (Code 1961, § 12A-6(d))
-##### Sec. 22-108. - Term.
+Sec. 22-108. - Term.
 The permit issued shall be valid for a period of duration of the sale.
 (Code 1961, § 12A-6(i))
-##### Sec. 22-109. - Forfeiture.
+Sec. 22-109. - Forfeiture.
 
 The violation of any of the provisions of this article or the doing of business otherwise than as provided in the
 application and permit issued thereon shall constitute a forfeiture of the permit and the parish council may
@@ -427,7 +427,7 @@ Footnotes:
 out in §§ 22-121—22-125. Prior to inclusion of said ordinance, Art. V pertained to similar subject matter. See
 the Code Comparative Table.
 Cross reference— Employees of parish not to solicit funds for political purposes, § 23-4.
-##### Sec. 22-121. - Definitions.
+Sec. 22-121. - Definitions.
 The following definitions shall govern in the use and interpretation of this article unless the context clearly
 indicates otherwise:
 Charitable organization shall mean any veterans, eleemosynary, benevolent, educational, religious, fraternal,
@@ -448,29 +448,29 @@ Streets shall mean all public streets, roads, thoroughfares, highways, bridges, 
 medians, curbs and shoulders of the road.
 (Ord. No. 19036, § 1, 4-6-94; Ord. No. 22232, § 1, 6-9-04; Ord. No. 22272, § 1, 7-14-04; Ord. No. 25469 , § 1,
 12-6-17)
-##### Sec. 22-122. - Solicitation prohibited.
+Sec. 22-122. - Solicitation prohibited.
 
 No person shall stand, sit, or remain next to the traveled part of any street for the purpose of soliciting, or
 otherwise requesting contributions from, appealing for employment from, or selling any item to, the occupants
 of vehicles using the street. An exception shall be made for charitable organizations who comply fully with the
 permitting process set forth in section 22-141 and section 22-142.
 (Ord. No. 19036, § 1, 4-6-94; Ord. No. 25469 , § 2, 12-6-17)
-##### Sec. 22-123. - Distribution prohibited.
+Sec. 22-123. - Distribution prohibited.
 No person shall stand, sit or remain next to the traveled part of any street, for the purpose of distributing or
 otherwise circulating any handbill, written advertisements or publication to the drivers or passengers of vehicles
 using the street.
 (Ord. No. 19036, § 1, 4-6-94)
-##### Sec. 22-124. - Drive-in business not affected.
+Sec. 22-124. - Drive-in business not affected.
 Nothing in this article shall be interpreted as affecting any business that solicits business by inviting drivers of
 vehicles to leave the traveled portion of the street and enter a parking lot or driveway for service.
 (Ord. No. 19036, § 1, 4-6-94)
-##### Sec. 22-125. - Penalty.
+Sec. 22-125. - Penalty.
 Any person, firm, or corporation violating any provision of this article shall be deemed guilty of a misdemeanor
 and upon conviction thereof shall be fined not less than one hundred dollars ($100.00) nor more than thirty (30)
 days or may be punished by both fine and imprisonment.
 (Ord. No. 19036, § 1, 4-6-94)
 Secs. 22-126—22-129. - Reserved.
-##### Sec. 22-130. - Deceptive practices prohibited.
+Sec. 22-130. - Deceptive practices prohibited.
 (a)
 It shall be unlawful for any person or organization, solicitor or agent therefor, to solicit funds from anyone in
 Jefferson Parish using fraudulent or false information.
@@ -483,7 +483,7 @@ punished as set forth in section 1-10 of this Code and shall further be subject 
 (Ord. No. 20498, § 1, 11-4-98)
 Secs. 22-131—22-139. - Reserved.
 ### ARTICLE VI. - SOLICITATIONS FOR LAW ENFORCEMENT AGENCIES
-##### Sec. 22-140. - Prohibitions.
+Sec. 22-140. - Prohibitions.
 (a)
 It shall be unlawful for any person or organization, solicitor or agent therefor, to solicit funds for or on behalf of
 any law enforcement agency from anyone in Jefferson Parish using fraudulent or false information.
@@ -492,7 +492,7 @@ It shall be unlawful for any person, organization, solicitor or agent therefor, 
 any law enforcement agency to engage in unfair or deceptive practices or misrepresentations regarding the
 purposes for which funds are being solicited.
 (Ord. No. 20498, § 1, 11-4-98)
-##### Sec. 22-141. - Permit required.
+Sec. 22-141. - Permit required.
 (a)
 It shall be unlawful for any person or organization, solicitor or agent therefor, to collect or solicit funds for or on
 behalf of any law enforcement agency without first obtaining a special permit at least fifteen (15) days before
@@ -519,7 +519,7 @@ association or organization.
 An annual report, to be filed not later than March 31 of each year for the preceding calendar year, listing all
 amounts collected, all expenses incurred, and a detailed breakdown of all funds disbursed.
 (Ord. No. 20498, § 1, 11-4-98)
-##### Sec. 22-142. - Application.
+Sec. 22-142. - Application.
 Application must be made with the sheriff, on forms provided, for a permit under this article. The application
 shall be accompanied by the following:
 (1)
@@ -538,7 +538,7 @@ regulations in connection therewith. The Jefferson Parish Sheriff's Office shall
 providing the application forms necessary for the issuance of permits, and may require any additional
 information from the applicant that it deems necessary for full compliance with the provisions of this article.
 (Ord. No. 20498, § 1, 11-4-98)
-##### Sec. 22-143. - Definitions.
+Sec. 22-143. - Definitions.
 The following definitions shall govern in the use and interpretation of this article unless the context clearly
 indicates otherwise:
 Law enforcement agency shall mean any state, parish, municipal, or local governmental agency, department or
@@ -559,7 +559,7 @@ enforcement agency on a voluntary basis and receives no remuneration for his ser
 intrastate solicitations from Louisiana or making interstate solicitations into Louisiana for charitable
 organizations are deemed to be solicitors for the purposes of this article.
 (Ord. No. 20498, § 1, 11-4-98)
-##### Sec. 22-144. - Penalties and enforcement.
+Sec. 22-144. - Penalties and enforcement.
 (a)
 Any person or organization, solicitor or agent therefor who violates the provisions of this article shall be
 punished as set forth in section 1-10 of this Code.

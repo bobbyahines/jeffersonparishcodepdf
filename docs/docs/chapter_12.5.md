@@ -8,7 +8,8 @@ Secs. 12.5-1—12.5-10. - Reserved.
 Footnotes:
 --- (2) --Editor's note— Ord. No. 18374, adopted Oct. 2, 1991, was not enacted as a specific amendment or addition to
 the Code; hence, codification herein as Art. II to a new Ch. 12.5 has been at the editor's discretion.
-Sec. 12.5-11. - Purpose and scope.
+##### Sec. 12.5-11. - Purpose and scope.  
+
 (a)
 Purpose. It is the purpose of this article to establish a uniform procedure for permitting the installation of
 monitor wells or other water wells on parish-owned property within the unincorporated areas of Jefferson Parish.
@@ -33,7 +34,8 @@ Cathodic protection wells; and
 (7)
 Engineering test holes.
 (Ord. No. 18374, § 1, 10-2-91)
-Sec. 12.5-12. - Definitions.
+##### Sec. 12.5-12. - Definitions.  
+
 For the purposes of this article, unless the context otherwise requires:
 Applicant: Any person, including owner, lessor, occupant or their authorized representative, who has applied for
 a permit to install a regulated well.
@@ -78,17 +80,20 @@ affects either the suitability of such waters for beneficial uses or the facilit
 beneficial uses.
 Well: Includes any well or monitoring device regulated by this article.
 (Ord. No. 18374, § 2, 10-2-91)
-Sec. 12.5-13. - Permit required.
+##### Sec. 12.5-13. - Permit required.  
+
 No person shall construct, repair, modify or destroy any regulated well on parish property or right-of-way within
 the unincorporated portion of Jefferson Parish unless such work is done pursuant to and in compliance with a
 permit for such work issued by the department as provided in this article.
 (Ord. No. 18374, § 3, 10-2-91)
-Sec. 12.5-14. - License and registration required of persons performing permitted work.
+##### Sec. 12.5-14. - License and registration required of persons performing permitted work.  
+
 No person shall perform any work, either on such person's own property or on the property of another, for which
 a permit is required by this article unless such person is in possession of a valid water well contractor's license
 issued by the Louisiana Department of Transportation and Development.
 (Ord. No. 18374, § 4, 10-2-91)
-Sec. 12.5-15. - Suspension or termination of permit.
+##### Sec. 12.5-15. - Suspension or termination of permit.  
+
 (a)
 Generally. Any permit issued pursuant to this article is subject to suspension or termination prior to expiration as
 provided in this section or in the permit agreement.
@@ -104,17 +109,20 @@ Notice. To initiate proceedings to terminate a permit, the director shall send w
 the permit was issued. The notice shall briefly describe the suspected occurrence which constitutes a ground for
 termination.
 (Ord. No. 18374, § 5, 10-2-91)
-Sec. 12.5-16. - Permit requirements and standards.
+##### Sec. 12.5-16. - Permit requirements and standards.  
+
 Standards for the construction, repair, modification or destruction of wells shall be those set forth in the "Water
 Well Rules, Regulations, and Standards, State of Louisiana, Department of Transportation and Development"
 (November, 1985); applicable Louisiana Department of Environmental Quality standards for the construction of
 groundwater monitor wells; and such special conditions as are deemed appropriate by the director.
 (Ord. No. 18374, § 6, 10-2-91)
-Sec. 12.5-17. - Corrective actions.
+##### Sec. 12.5-17. - Corrective actions.  
+
 Upon receipt of written notice from the director, any permittee or well owner may be required to take corrective
 action with respect to the well.
 (Ord. No. 18374, § 7, 10-2-91)
-Sec. 12.5-18. - Fees.
+##### Sec. 12.5-18. - Fees.  
+
 The department shall charge and collect nonrefundable fees for the processing of any application for a permit or
 extension of a permit pursuant to this article. The payment of such fee shall accompany the application to which
 it pertains. If the application is withdrawn before issuance of the permit, the fee will not be refunded. The fee
@@ -135,8 +143,10 @@ The fee for processing an application to extend a permit prior to well construct
 ($25.00). No fees shall be charged for extension of an approved permit for a well which has been permitted and
 constructed and remains in place until the expiration date of the permit.
 (Ord. No. 18374, § 8, 10-2-91)
-Sec. 12.5-19. - Reserved.
-Sec. 12.5-20. - Abatement.
+##### Sec. 12.5-19. - Reserved.  
+
+##### Sec. 12.5-20. - Abatement.  
+
 If any corrective action required by an order issued pursuant to this article is not taken in full compliance with
 such order, the director may cause the corrective action to be taken by the parish and all persons required to take
 such corrective actions shall be jointly and severally liable to the parish for the cost of such action. In cases
@@ -145,14 +155,16 @@ corrective action to be taken by the parish without a prior order or notice, and
 the well shall be jointly and severally liable to the parish for the cost of such action.
 (Ord. No. 18374, § 10, 10-2-91)
 12.6 - FAIR HOUSING
-Sec. 12.6-1. - Policy.
+##### Sec. 12.6-1. - Policy.  
+
 That persons in this parish who seek a place to live should be able to find such housing whenever it is available.
 All persons should be able to compete for available housing on an open, fair, and equitable basis, regardless of
 race, color, religion, sex, disability, familial status, or national origin.
 There is a legitimate governmental interest in protecting the welfare of the people of Jefferson Parish by
 enacting an equal housing opportunity act to discourage discriminatory housing practices.
 (Ord. No. 25063 , § 2, 12-9-15)
-Sec. 12.6-2. - Definitions.
+##### Sec. 12.6-2. - Definitions.  
+
 (a)
 "Aggrieved person" includes any person who: claims to have been injured by a discriminatory housing practice;
 or believes that he/she will be injured by a discriminatory housing practice that is about to occur.
@@ -210,7 +222,8 @@ shall be joined in the complaint.
 "To rent" includes to lease, to sublease, to let, and otherwise to grant for a consideration the right to occupy
 premises owned by the occupant.
 (Ord. No. 25063 , § 3, 12-9-15)
-Sec. 12.6-3. - Prohibitions; applicability; exceptions.
+##### Sec. 12.6-3. - Prohibitions; applicability; exceptions.  
+
 (a)
 Subject to the provisions of subsection (b) of this section and section 12.6-4, the prohibitions against
 discrimination in the sale or rental of housing set forth in section 12.6-5 shall apply to:
@@ -272,7 +285,8 @@ sale or rental of any dwelling or any interest therein.
 He is the owner of any dwelling designed or intended for occupancy by, or occupied by, five (5) or more
 families.
 (Ord. No. 25063 , § 4, 12-9-15)
-Sec. 12.6-4. - Exceptions.
+##### Sec. 12.6-4. - Exceptions.  
+
 (a)
 Nothing in this chapter shall prohibit a religious organization, association, or society, or any nonprofit institution
 or organization operated, supervised, or controlled by or in conjunction with a religious organization,
@@ -301,7 +315,8 @@ manager to provide housing for persons fifty-five (55) years or older; or
 (2)
 Intended for and occupied solely by persons sixty-two (62) years of age or older.
 (Ord. No. 25063 , § 5, 12-9-15)
-Sec. 12.6-5. - Discrimination in sale or rental of housing and other prohibited practices.
+##### Sec. 12.6-5. - Discrimination in sale or rental of housing and other prohibited practices.  
+
 (a)
 As made applicable by section 12.6-3, and except as exempted by subsection (b) thereof and section 12.6-4, it is
 unlawful:
@@ -391,7 +406,8 @@ Nothing in this section requires that a dwelling be made available to an individ
 constitute a direct threat to the health or safety of other individuals or whose tenancy would result in substantial
 physical damage to the property of others.
 (Ord. No. 25063 , § 6, 12-9-15)
-Sec. 12.6-6. - Discrimination in residential real estate related transactions.
+##### Sec. 12.6-6. - Discrimination in residential real estate related transactions.  
+
 (a)
 It is unlawful for any person or other entity whose business includes engaging in residential real estate related
 transactions to discriminate against any person in making available such a transaction, or in the terms or
@@ -411,18 +427,21 @@ The selling, brokering, or appraising of residential real property.
 Nothing in this chapter prohibits a person engaged in the business of furnishing appraisals of real property to
 take into consideration factors other than race, color, religion, national origin, sex, disability, or familial status.
 (Ord. No. 25063 , § 7, 12-9-15)
-Sec. 12.6-7. - Discrimination in provision of brokerage services.
+##### Sec. 12.6-7. - Discrimination in provision of brokerage services.  
+
 It is unlawful to deny any person access to or membership or participation in any multiple-listing service, real
 estate brokers' organization or other service, organization, or facility relating to the business of selling or renting
 dwellings, or to discriminate against him in the terms or conditions of such access, membership, or participation,
 on account of race, color, religion, sex, disability, familial status, or national origin.
 (Ord. No. 25063 , § 8, 12-9-15)
-Sec. 12.6-8. - Interference, coercion, or intimidation.
+##### Sec. 12.6-8. - Interference, coercion, or intimidation.  
+
 It is unlawful to coerce, intimidate, threaten, or interfere with any person in the exercise or enjoyment of, or on
 account of his having exercised or enjoyed, or on account of his having aided or encouraged any other person in
 the exercise or enjoyment of, any right granted or protected by this chapter.
 (Ord. No. 25063 , § 9, 12-9-15)
-Sec. 12.6-9. - Administration.
+##### Sec. 12.6-9. - Administration.  
+
 (a)
 The authority and responsibility for administering this chapter are with the Louisiana Department of Justice,
 office of the attorney general.
@@ -463,7 +482,8 @@ beyond the provisions of this chapter.
 Administer the programs and activities relating to housing in a manner affirmatively to further the policies of
 this chapter.
 (Ord. No. 25063 , § 10, 12-9-15)
-Sec. 12.6-10. - Enforcement.
+##### Sec. 12.6-10. - Enforcement.  
+
 (a)
 An aggrieved person claiming to have been injured by a discriminatory housing practice, or who believes that he
 will be injured by a discriminatory housing practice that is about to occur, may file a complaint with the attorney
@@ -583,7 +603,8 @@ served is located outside of this state. The verified return by the individual s
 process, or papers, setting forth the manner of service, is proof of service. The return post office receipt, if
 certified and mailed as provided in this subsection, is proof of service.
 (Ord. No. 25063 , § 12, 12-9-15)
-Sec. 12.6-12. - Enforcement by private persons.
+##### Sec. 12.6-12. - Enforcement by private persons.  
+
 (a)
 If no complaint has been filed with the attorney general pursuant to section 12.6-10, an aggrieved person may
 commence a civil action for enforcement of the rights granted pursuant to this chapter in an appropriate state
@@ -631,7 +652,8 @@ appropriate court of this state.
 The court may grant as relief, as it deems appropriate, court costs and reasonable attorney fees to a prevailing
 defendant, consistent with federal civil rights statutes.
 (Ord. No. 25063 , § 13, 12-9-15)
-Sec. 12.6-13. - Enforcement by attorney general.
+##### Sec. 12.6-13. - Enforcement by attorney general.  
+
 (a)
 If, after investigation of a complaint filed pursuant to section 12.6-10, the attorney general finds reasonable
 cause to believe that any person or group of persons is engaged in resistance to the full enjoyment of any of the

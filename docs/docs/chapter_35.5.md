@@ -26,7 +26,8 @@ obtained the approvals required by subsection (a) and a franchise expressly auth
 All franchises granted under or governed by this article shall also be subject to the provisions of Article II and
 Article III of this chapter.
 (Ord. No. 20914, § 1, 3-15-00)
-Sec. 35.5-2. - Intent.
+##### Sec. 35.5-2. - Intent.  
+
 (a)
 Policy. It is the intent of the grantor, as hereinafter defined, to establish procedures, terms and conditions
 managing the occupancy and use of public rights-of-way by providers of telecommunications services, as such
@@ -79,7 +80,8 @@ franchise fees for the occupation of public ways or public property for the purp
 system, (ii) the provision of public, educational, and governmental access on such open video system; and (iii)
 such other provisions as may be required by the FCC or the parish.
 (Ord. No. 20914, § 1, 3-15-00; Ord. No. 20991, § 5, 6-28-00)
-Sec. 35.5-3. - Definitions.
+##### Sec. 35.5-3. - Definitions.  
+
 For the purposes of this article, and for the purposes of Article II and III of this chapter, where not separately
 defined or inconsistent with the purposes of said articles, the following words, terms, phrases, and their
 derivations shall have the meanings given herein:
@@ -217,7 +219,8 @@ reconstruct, take down, take off, put, place, replace, move, remove, dispose of,
 enlarge, extend, expand, operate, service, repair, install, maintain and/or upgrade.
 Year means a full calendar year.
 (Ord. No. 20914, § 1, 3-15-00; Ord. No. 20991, §§ 2, 5, 6-28-00; Ord. No. 22754, § 1A, 5-17-06)
-Sec. 35.5-4. - Grant of franchise.
+##### Sec. 35.5-4. - Grant of franchise.  
+
 (a)
 Grant. Subject to section 35.5-12 of this article, after the enactment event that grantor shall grant to a grantee a
 franchise to occupy the public rights-of-way to install, maintain and/or repair or operate a telecommunications
@@ -301,7 +304,8 @@ franchise have been prejudiced by such sale, lease, assignment, transfer, convey
 event all rights and interests of that grantee shall cease and no such purported sale, lease, assignment, transfer,
 conveyance or disposition shall be effective as to the grantor.
 (Ord. No. 20914, § 1, 3-15-00; Ord. No. 22754, § 1B, 5-17-06)
-Sec. 35.5-5. - Construction provisions.
+##### Sec. 35.5-5. - Construction provisions.  
+
 (a)
 Initial geographical coverage. Any new telecommunications system or telecommunications system providing
 long distance network services shall be installed initially in accordance with the general route maps included in
@@ -456,7 +460,8 @@ a member of, participates in, and shares the cost of the Louisiana One Call Syst
 40:1749.11 et seq. Written evidence of compliance with this section shall be provided to grantor before a
 franchise is granted. Compliance with this section must be maintained throughout the term of the franchise.
 (Ord. No. 20914, § 1, 3-15-00; Ord. No. 22754, § 1C, 5-17-06)
-Sec. 35.5-6. - Service provisions.
+##### Sec. 35.5-6. - Service provisions.  
+
 (a)
 Service to be provided.
 (1)
@@ -474,7 +479,8 @@ with grantor to the greatest extent reasonably feasible to render such assistanc
 include but shall not be limited to the usage of grantee's equipment, facilities and plant, in accordance with the
 provisions of the Emergency Assistance and Disaster Act, Louisiana Revised Statutes 29:722, et seq.
 (Ord. No. 20914, § 1, 3-15-00)
-Sec. 35.5-7. - Operation and maintenance.
+##### Sec. 35.5-7. - Operation and maintenance.  
+
 (a)
 Audit of books and records—Telecommunications service. After reasonable notice, grantor shall have the right
 to inspect at any time during normal business hours, all books, records, maps, plans, income tax return, financial
@@ -526,7 +532,8 @@ A report which identifies each person or provider using grantee's system or the 
 of such services; provided, however, this subsection (d)(5) does not apply to the grant of dark fibers and/or
 conduit use rights to customers of telecommunications systems providing long distance network services.
 (Ord. No. 20914, § 1, 3-15-00)
-Sec. 35.5-8. - Compensation and other consideration.
+##### Sec. 35.5-8. - Compensation and other consideration.  
+
 (a)
 As fair and reasonable compensation for the occupancy by the grantee of the public rights-of-way and other
 property owned by the parish (referred to jointly as "parish property") for the construction, operation,
@@ -607,7 +614,8 @@ or make any claim for any deduction or other credit of all or any part of the am
 payments made pursuant to the franchise against any other fees or charges, including ad valorem taxes and/or
 any taxes which the grantee or any affiliated person is required to pay to the grantor.
 (Ord. No. 20914, § 1, 3-15-00; Ord. No. 22754, § 1D, 5-17-06; Ord. No. 22805, § 1, 7-19-06)
-Sec. 35.5-9. - Security fund/construction bond and insurance requirements.
+##### Sec. 35.5-9. - Security fund/construction bond and insurance requirements.  
+
 (a)
 Franchise security. No later than the date of the grantee's execution of the acceptance of the franchise, the
 grantee shall (1) deposit into a bank account, established by the Parish of Jefferson and maintain on deposit
@@ -767,7 +775,8 @@ adverse to grantee are uncontested by grantee or are sustained by a final judgme
 jurisdiction.
 (Ord. No. 20914, § 1, 3-15-00; Ord. No. 20991, § 3, 6-28-00; Ord. No. 22754, § 1E, 5-17-06; Ord. No. 22805, §
 1, 7-19-06)
-Sec. 35.5-10. - Rights reserved to the grantor.
+##### Sec. 35.5-10. - Rights reserved to the grantor.  
+
 (a)
 Right to purchase the system. Grantor may, in any lawful manner and upon the payment of fair market value
 lawfully ascertained, purchase, condemn, acquire, take over and hold the equipment, facilities and plant of the
@@ -778,7 +787,8 @@ Right to require removal of property. At the expiration or termination of any fr
 right to require the grantee to remove, at its own expense, all portions of the telecommunications system from
 the rights-of-way.
 (Ord. No. 20914, § 1, 3-15-00)
-Sec. 35.5-11. - Termination and renewal.
+##### Sec. 35.5-11. - Termination and renewal.  
+
 (a)
 In addition to any rights set out elsewhere in this chapter, in particular Article II hereof, the grantor reserves the
 right to seek termination of a franchise pursuant to this section hereof, and all rights and privileges pertaining
@@ -856,7 +866,8 @@ the termination of the franchise. A franchise may be renewed by the grantor, upo
 accordance with then existing and applicable law. Nothing in this provision shall be construed to require such
 renewal by grantor.
 (Ord. No. 20914, § 1, 3-15-00; Ord. No. 22754, § 1F, 5-17-06)
-Sec. 35.5-12. - Miscellaneous provisions.
+##### Sec. 35.5-12. - Miscellaneous provisions.  
+
 (a)
 Compliance with laws. The grantee shall comply with all federal and state laws, as well as all ordinances,
 resolutions, rules, and regulations of the grantor heretofore or hereafter adopted or established during the entire
@@ -927,7 +938,8 @@ time that all application documents are submitted for the grantor's review.
 Publication costs. The grantee shall pay the costs of publication of the telecommunication system franchise, as
 such publication may be required by law.
 (Ord. No. 20914, § 1, 3-15-00; Ord. No. 22754, § 1H, 5-17-06)
-Sec. 35.5-13. - Acceptance.
+##### Sec. 35.5-13. - Acceptance.  
+
 (a)
 Filing. Grantee shall, within sixty (60) days after the approval of a telecommunication systems franchise by the
 grantor, file with the clerk of council, with copies filed with the parish attorney, a written acceptance of the
@@ -959,7 +971,8 @@ parish.
 Failure to file. In event such acceptance is not filed or if the acceptance fee is not paid with said time, the
 telecommunications systems franchise and the rights and privileges granted therein shall be null and void.
 (Ord. No. 20914, § 1, 3-15-00; Ord. No. 22754, § 1I, 5-17-06)
-Sec. 35.5-14. - Equal opportunity policy.
+##### Sec. 35.5-14. - Equal opportunity policy.  
+
 (a)
 Equal employment opportunity and affirmative action programs. Grantee shall be an equal opportunity employer
 adhering to all applicable federal, state, parochial, or other laws and regulations.
@@ -973,7 +986,8 @@ with subsections (a), and (b) of this section 35.5-14 then grantor shall, after 
 inspect at any time during normal business hours, all books, records, financial statements and other like
 materials of the grantee.
 (Ord. No. 20914, § 1, 3-15-00)
-Sec. 35.5-15. - Administrative procedures.
+##### Sec. 35.5-15. - Administrative procedures.  
+
 The
 parish may formulate all applications and other documents required herein and may implement appropriate
 procedures to receive and process franchise applications herein, as may be governed by the Home Rule Charter.
@@ -981,7 +995,8 @@ procedures to receive and process franchise applications herein, as may be gover
 Secs. 35.5-16—35.5-20. - Reserved.
 ### ARTICLE II. - GENERAL PROVISIONS FOR THE TERMINATION OF CERTAIN FRANCHISES AND
 SIMILAR ALLEGED RIGHTS
-Sec. 35.5-21. - Definitions.
+##### Sec. 35.5-21. - Definitions.  
+
 As used in this article, the following terms shall have the meanings assigned in this article, unless the context
 clearly requires a different meaning:
 Council shall mean the parish council or its successor as the governing authority of the Parish of Jefferson.
@@ -1050,12 +1065,14 @@ board, or agency of the State of Louisiana, the United States, or the Parish of 
 Special counsel shall mean an attorney-at-law representing or advising the parish in franchise, transportation,
 utilities, or telecommunication matters pursuant to a written contract approved by the council.
 (Ord. No. 20914, § 1, 3-15-00; Ord. No. 21481, § 1, 1-9-02)
-Sec. 35.5-22. - Initiating reports.
+##### Sec. 35.5-22. - Initiating reports.  
+
 The clerk of the parish council shall maintain a registry of initiating reports. An initiating report may be filed by
 the parish attorney or by a special counsel retained by the parish or by the parish president or the chairman of the
 parish council.
 (Ord. No. 20914, § 1, 3-15-00)
-Sec. 35.5-23. - Ordinances of revocation, termination and prohibition.
+##### Sec. 35.5-23. - Ordinances of revocation, termination and prohibition.  
+
 (a)
 Within ten (10) days of the filing of an initiating report with respect to any respondent claiming an entitlement to
 use the public rights-of-way of the parish, the clerk shall notify the parish council of said filing. Within thirty
@@ -1098,7 +1115,8 @@ revocation, termination, and prohibition;
 A hearing officer renders a determination of revocability pursuant to section 35.5-24, and the date of revocability
 has been reached or passed.
 (Ord. No. 20914, § 1, 3-15-00)
-Sec. 35.5-24. - Investigation and determination by hearing officer.
+##### Sec. 35.5-24. - Investigation and determination by hearing officer.  
+
 (a)
 At any time subsequent to the introduction of a proposed ordinance of revocation, termination, and prohibition
 pursuant to section 35.5-23, the council may adopt a resolution commencing an investigation as to all of the
@@ -1180,7 +1198,8 @@ appropriate; provided that no such ordinance shall become effective prior to the
 officer or the council has determined after compliance with the provisions of this section 35.5-24 to be the date
 of revocability.
 (Ord. No. 20914, § 1, 3-15-00)
-Sec. 35.5-25. - Further investment by respondent.
+##### Sec. 35.5-25. - Further investment by respondent.  
+
 The service of a rule to show cause, or the introduction of a proposed ordinance of revocation, termination, and
 prohibition, or both, shall suffice as notice to the respondent that it should not make any further investment in
 equipment, facilities and plant within the parish in anticipation of any return on same, unless the council or the
@@ -1188,7 +1207,8 @@ LPSC or a federal regulatory agency expressly determine that said investment is 
 emergency or urgently necessary to continue safe and efficient delivery of a necessary service, or unless said
 further investment is expressly approved by the council.
 (Ord. No. 20914, § 1, 3-15-00)
-Sec. 35.5-26. - Freedom of parish to negotiate and contract with others.
+##### Sec. 35.5-26. - Freedom of parish to negotiate and contract with others.  
+
 Neither the pendency of a proposal ordinance of revocation, termination and prohibition that will affect a
 particular respondent, nor the pendency of proceedings regarding a particular respondent before a hearing officer
 shall prevent the parish from negotiating or contracting with any other person or firm who expresses an interest
@@ -1196,7 +1216,8 @@ in using the public ways for other than generally permitted purposes.
 (Ord. No. 20914, § 1, 3-15-00)
 Secs. 35.5-27—35.5-59. - Reserved.
 ### ARTICLE III. - GENERAL AND MISCELLANEOUS PROVISIONS
-Sec. 35.5-60. - Enforcement and grounds for cancellations of franchises.
+##### Sec. 35.5-60. - Enforcement and grounds for cancellations of franchises.  
+
 (a)
 (1)
 The parish may annually create a task force of representatives of parish departments to review the status of and
@@ -1352,7 +1373,8 @@ projects that have been, or will be, commenced without a parish permit.
 (Ord. No. 20914, §§ 1, 2, 3-15-00; Ord. No. 20991, § 4, 6-28-00; Ord. No. 21481, §§ 2, 3, 1-9-02; Ord. No.
 22309, § 1, 8-25-04; Ord. No. 22754, § 2A, 5-17-06; Ord. No. 22805, § 1, 7-19-06)
 Editor's note— It should be noted that the provisions of § 35.5-60(b) derived from former § 2-922.
-Sec. 35.5-61. - Expense of raising, rerouting, etc., facilities of utility company granted servitude or right-of-way
+##### Sec. 35.5-61. - Expense of raising, rerouting, etc.  
+, facilities of utility company granted servitude or right-of-way
 by parish.
 (a)
 Whenever the parish grants a servitude and/or franchise and/or right-of-way to any utility, telecommunications,
@@ -1373,15 +1395,18 @@ has obtained a copy of this section or not. Copies hereof shall at all times be 
 the council.
 (Ord. No. 20914, §§ 1, 2, 3-15-00)
 Editor's note— It should be noted that the provisions of § 35.5-61 derived from former § 2-923.
-Sec. 35.5-62. - Reserved.
-Sec. 35.5-63. - Subscription sales restricted.
+##### Sec. 35.5-62. - Reserved.  
+
+##### Sec. 35.5-63. - Subscription sales restricted.  
+
 Any
 cable, telecommunication or utility service subscriptions except where the subscribed service is immediately
 available for use by the subscriber is hereby prohibited, unless otherwise provided by any applicable state or
 federal law or regulation.
 (Ord. No. 20914, §§ 1, 2, 3-15-00)
 Editor's note— It should be noted that the provisions of § 35.5-63 derived from former § 20-4.
-Sec. 35.5-64. - Telephone alarm systems; prohibition, penalty.
+##### Sec. 35.5-64. - Telephone alarm systems; prohibition, penalty.  
+
 (a)
 It shall be unlawful for any person to use, or cause to be used, install, operate, adjust, program or otherwise
 maintain a telephonic alarm system which automatically or mechanically transmits a signal, message or warning
@@ -1400,7 +1425,8 @@ imprisonment of not less than thirty (30) days, nor more than ninety (90) days a
 apply to any public utility furnishing facilities, lines or equipment under tariffs on file with regulatory agencies.
 (Ord. No. 20914, §§ 1, 2, 3-15-00)
 Editor's note— It should be noted that the provisions of § 35.5-64 derived from former § 20-7.
-Sec. 35.5-65. - Miscellaneous provisions.
+##### Sec. 35.5-65. - Miscellaneous provisions.  
+
 (a)
 The provisions of section 37-18 of this Code shall not be deemed to prohibit any of the acts therein prohibited if
 said act is committed by person acting under the express authorization of a franchise ordinance or similar
@@ -1435,7 +1461,8 @@ grant to any application any right to use the public rights-of-way for other tha
 defined in article II of this chapter it being the sole purpose and intent of this section to prevent disruption of
 services need or useful to the public or any portion thereof.
 (Ord. No. 20914, § 1, 3-15-00)
-Sec. 35.5-66. - Chapter applicable to pipelines; fees and regulations.
+##### Sec. 35.5-66. - Chapter applicable to pipelines; fees and regulations.  
+
 (a)
 The provisions of Articles I, II and III of this chapter shall be applicable to pipelines and related equipment, as
 defined in section 24-1 of this Code, and to the owners and/or operators of pipelines which are located in whole
@@ -1461,7 +1488,8 @@ Should the parish be required to file a civil action to collect any portion of s
 the owner shall also be liable for reasonable attorney's fees and court costs.
 (Ord. No. 20914, § 1, 3-15-00; Ord. No. 22754, § 2B, 5-17-06; Ord. No. 22805, § 1, 7-19-06)
 Secs. 35.5-67—35.5-79. - Reserved.
-Sec. 35.5-80. - Placement of telecommunications devices on public rights-of-way.
+##### Sec. 35.5-80. - Placement of telecommunications devices on public rights-of-way.  
+
 (a)
 No person shall place or caused to be placed in, on, under or over the public rights-of-way defined in Article II
 of this chapter, any fixed location telephone, whether coin-operated, nor any other fixed location

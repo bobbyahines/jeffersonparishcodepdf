@@ -5,7 +5,7 @@ Footnotes:
 State Law reference— Regulation of dogs by local authorities, R.S. 3:2731 et seq.; Abandoned Animals Act,
 R.S. 3:2451 et seq.; general shelter standards, R.S. 3:2463.
 ### ARTICLE I. - IN GENERAL
-##### Sec. 7-1. - Livestock running at large; poundkeeper.
+Sec. 7-1. - Livestock running at large; poundkeeper.
 (a)
 It shall be unlawful to permit any cattle, horse, swine, sheep, goat, poultry or other livestock of any description
 to roam or run at large or be upon any street, alleyway, highway, common or public square, or on the property of
@@ -21,7 +21,7 @@ Annotation—Parish ordinance declaring it unlawful for person to allow any mule
 owned by him to roam on public streets or highways, requires owners of stock or cattle to contain them within
 properly constructed enclosure. Raiziano v. T. J. James & Co., 57 So.2d 251 (La. App. Ord. 1952).
 State Law reference— Municipal regulation of livestock running at large, R.S. 3:2531 et seq.
-##### Sec. 7-2. - Impoundment of livestock.
+Sec. 7-2. - Impoundment of livestock.
 (a)
 The owners of animals impounded shall have the right to the release of such animals only upon the payment of
 fees as provided for in this section.
@@ -50,7 +50,7 @@ Nothing in this section shall be construed to conflict with the requirements and
 seq., (Brands, Grades, and Inspection), in particular La. R.S. 3:743 (Strayed animals).
 (Code 1961, §§ 4-2—4-5; Ord. No. 19341, § 1, 3-8-95; Ord. No. 21998, § 1, 9-17-03; Ord. No. 22944, §§ 1—3,
 12-13-06)
-##### Sec. 7-3. - Accumulation of animal feces prohibited near residences.
+Sec. 7-3. - Accumulation of animal feces prohibited near residences.
 (a)
 Any person permitting the accumulation within three hundred (300) feet of any building occupied as a residence
 in such quantities of putrescible animal, vegetable matter, animal feces or urine, productive of foul odors, flies
@@ -60,17 +60,17 @@ and a violation of this section.
 The term "pets" shall include dogs, cats, rabbits, parrots and the like, but such enumeration shall not be deemed
 to be exclusive.
 (Code 1961, § 4-6)
-##### Sec. 7-4. - Conformity with zoning ordinance.
+Sec. 7-4. - Conformity with zoning ordinance.
 All permits issued under this chapter are to be and shall be in conformity with the comprehensive zoning
 ordinance and no permit issued hereunder shall in any way conflict with the said comprehensive zoning
 ordinance, and any permit issued hereunder shall be subject to conformity with the comprehensive zoning
 ordinance.
 (Code 1961, § 4-15(j); Ord. No. 15740, § 1, 10-5-83)
 Cross reference— Zoning, Ch. 40.
-##### Sec. 7-5. - Reserved.
+Sec. 7-5. - Reserved.
 Editor's note— Ord. No. 25055 , § 1, adopted Dec. 9, 2015, repealed § 7-5, which pertained to feeding
 alligators and derived from Ord. No. 18515, §§ 1—4, adopted May 6, 1992.
-##### Sec. 7-6. - False reports.
+Sec. 7-6. - False reports.
 Reporting or filing of a frivolous or false complaint with the animal shelter or law enforcement relating to an
 animal or situation covered under this chapter is a violation and a misdemeanor and shall be punishable pursuant
 to this code or state law.
@@ -78,7 +78,7 @@ to this code or state law.
 Secs. 7-7—7-15. - Reserved.
 ### ARTICLE II. - ANIMAL CONTROL AND WELFARE
 #### DIVISION 1. - GENERALLY
-##### Sec. 7-16. - Definitions.
+Sec. 7-16. - Definitions.
 For purposes of this chapter, the following terms, phrases, words and derivations shall have the meaning given
 herein, unless it shall be apparent from the context that a different meaning is intended:
 (a)
@@ -327,7 +327,7 @@ Commission, as set forth in Title 56 of the Louisiana Revised Statutes.
 Ord. No. 20257, § 1, 1-14-98; Ord. No. 21420, § 1, 10-24-01; Ord. No. 23784, § 1, 3-24-10; Ord. No. 24119, §
 2, 9-21-11)
 Cross reference— Definitions and rules of construction generally, § 1.2.
-##### Sec. 7-17. - Public offering of animals for adoption.
+Sec. 7-17. - Public offering of animals for adoption.
 (a)
 Generally. No person shall offer dogs or cats for adoption by the public without obtaining from the adopter a
 signed pledge that the animal will be sterilized by spaying or neutering within twenty (20) days or as soon as it
@@ -359,11 +359,11 @@ Shelter, a copy of which shall be obtained from the animal shelter.
 A record of all animals placed for adoption shall be forward to the Jefferson Parish Animal Shelter within three
 (3) days and kept on file for three (3) months; the form(s) shall be furnished by the animal shelter.
 (Code 1961, § 4.16(m); Ord. No. 17369, § III, 11-4-87; Ord. No. 20868, § 1, 1-12-00)
-##### Sec. 7-18. - Entry onto property.
+Sec. 7-18. - Entry onto property.
 The animal shelter director or designee may enter any premises upon exigent circumstances.
 (Ord. No. 24119, § 3, 9-21-11)
-##### Sec. 7-19. - Reserved.
-##### Sec. 7-20. - Trapping of domesticated animals.
+Sec. 7-19. - Reserved.
+Sec. 7-20. - Trapping of domesticated animals.
 (a)
 Standard of care for trapped domesticated animals.
 (1)
@@ -419,7 +419,7 @@ sterilized, provide rabies vaccination, ear tipped and returned to the area in w
 Violations of this section shall be adjudicated before the bureau of administrative adjudication and will be
 subject to any and all penalties under chapter 1 and chapter 2.5 of the parish Code of Ordinances.
 (Ord. No. 25608 , § 1, 7-25-18)
-##### Sec. 7-21. - Dogs running at large.
+Sec. 7-21. - Dogs running at large.
 (a)
 Confinement by owner. It shall be the duty of the owner or keeper of a dog to have such dog confined within his
 or her yard or enclosure, or secured by a humane method therein.
@@ -447,18 +447,18 @@ Sections 7-21 (a) through (d) shall not apply to any dog engaged in a parish-app
 competition held under the rules and regulations of the American Kennel Club or a similar dog organization, or
 to a dog on the grounds of a public recreation area designated as a "dog park."
 (Code 1961, § 4-17(b), (c), (f), (g); Ord. No. 21420, § 2, 10-24-01; Ord. No. 24443, §§ 1, 2, 3-27-13)
-##### Sec. 7-22. - Enticing animals off premises of owner or keeper prohibited.
+Sec. 7-22. - Enticing animals off premises of owner or keeper prohibited.
 It shall be unlawful for any person to release or entice any animal secured by the owner or keeper within his yard
 outside of the premises of such keeper or owner.
 (Code 1961, § 4-16(a))
-##### Sec. 7-23. - Confinement of dogs and cats in heat.
+Sec. 7-23. - Confinement of dogs and cats in heat.
 Every female dog or cat in heat shall be confined so that the animal cannot come into contact with an unneutered
 male, except for planned breeding.
 (Code 1961, § 4-17(i))
-##### Sec. 7-24. - Reserved.
+Sec. 7-24. - Reserved.
 Editor's note— Section 7-24, establishing regulations for the confinement and treatment of vicious animals,
 derived from Code 1961, § 4-16(f), was repealed by § VI of Ord. No. 17369, adopted Nov. 4, 1987.
-##### Sec. 7-25. - Keeping of exotic animals.
+Sec. 7-25. - Keeping of exotic animals.
 (a)
 No person shall keep any wild or exotic species of land animals, reptiles, or birds, warm or cold blooded that
 falls under Class I designated by the Jefferson Parish Animal Shelter's "Rules for Wild or Exotic Animals." A
@@ -476,7 +476,7 @@ released or permit issued for its keeping by the department as provided by subse
 (c)
 Subsection (a) shall not be construed to apply to zoological parks, performing animal exhibitions or circuses.
 (Code 1961, § 4-16(g); Ord. No. 18642, § 1, 12-2-92; Ord. No. 20257, § 1, 1-14-98)
-##### Sec. 7-26. - Feeding of cats in Lafreniere Park prohibited except in designated areas; registration and permit
+Sec. 7-26. - Feeding of cats in Lafreniere Park prohibited except in designated areas; registration and permit
 required.
 (a)
 No person shall feed cats on the premises of Lafreniere Park except in those places specifically designated,
@@ -491,22 +491,22 @@ warning on first observation. Following this warning, upon a second or subsequen
 feeding of cats, a notice to appear at a hearing will be issued where the parish may request that a fine of up to
 five hundred dollars ($500.00) be imposed.
 (Ord. No. 25184 , § 1, 7-27-16)
-##### Sec. 7-27. - Animals in restaurants and other businesses.
+Sec. 7-27. - Animals in restaurants and other businesses.
 Animals shall not be permitted in restaurants or other places serving food, establishments selling food or edible
 products, or in any place of business when prohibited by the owner of same. This provision shall not apply to
 professionally-trained guide dogs for the disabled.
 (Code 1961, § 4-17(h); Ord. No. 20257, § 4, 1-14-98)
-##### Sec. 7-28. - Clean-up and disposal of excreta.
+Sec. 7-28. - Clean-up and disposal of excreta.
 If any part of a public street or square or the private property of a person other than the owner or keeper of an
 animal shall be soiled by the excreta of such animal, whether such nuisance shall take place in the presence of
 the owner or keeper or not, the owner or keeper shall promptly remove such excreta and dispose of it in a
 sanitary manner.
 (Code 1961, § 4-17(j))
-##### Sec. 7-29. - Operating funds.
+Sec. 7-29. - Operating funds.
 The parish council shall provide annually for the operation of the animal shelter department an amount from the
 ad valorem taxes for the health unit for that year.
 (Code 1961, § 4-12(d); Ord. No. 20257, § 6, 1-14-98)
-##### Sec. 7-30. - Fees and charges.
+Sec. 7-30. - Fees and charges.
 In consideration of the Jefferson Parish Animal Shelter's discretion to place impounded animals as the animal
 shelter deems reasonable as stated in chapter 7, the director of the animal shelter or the designee may authorize a
 reduction and/or waiver of the following fees if facts of the particular incident warrant such. The request and the
@@ -672,7 +672,7 @@ For each grooming shop .....100.00
 Ord. No. 18645, § 2, 12-2-92; Ord. No. 19113, § 1, 6-8-94; Ord. No. 20257, § 7, 1-14-98; Ord. No. 21998, § 2,
 9-17-03; Ord. No. 22945, §§ 1—3, 12-13-06; Ord. No. 23438, § 5, 11-19-08; Ord. No. 23710, § 1, 12-9-09; Ord.
 No. 23784, § 2, 3-24-10; Ord. No. 23808, § 1, 5-12-10; Ord. No. 23913, § 1, 11-3-10; Ord. No. 24037, § 1, 615-11; Ord. No. 24247, § 1, 3-28-12; Ord. No. 25634 , § 1, 8-8-18)
-##### Sec. 7-31. - Disposition of fees.
+Sec. 7-31. - Disposition of fees.
 (a)
 All fees received from the rabies vaccination and license fees shall be allocated as follows:
 (1)
@@ -694,7 +694,7 @@ veterinarian/veterinary clinic in a joint collaboration of support towards the s
 All fees received from the adoption of animals, the reclaiming of pets, and permits shall be used by the animal
 shelter department for its operations. The fee schedule shall be approved annually by the council.
 (Code 1961, § 4-12(e); Ord. No. 20257, § 1, 1-14-98; Ord. No. 23784, § 3, 3-24-10; Ord. No. 24029, § 1, 6-1511)
-##### Sec. 7-32. - Laws of other jurisdictions.
+Sec. 7-32. - Laws of other jurisdictions.
 The provisions of the following federal laws shall govern in the parish, except that there shall be no exemption
 of laboratory animals from the state and parish anti-cruelty statutes and ordinances:
 (1)
@@ -704,7 +704,7 @@ Animal Welfare Act, P.L. 91-579, 11/24/70;
 (3)
 Horse Protection Act, P.L. 91-540, 11/2/70.
 (Code 1961, § 4-26)
-##### Sec. 7-33. - Reserved.
+Sec. 7-33. - Reserved.
 Editor's note— Section 7-33, prescribing penalties for violation of this article, derived from Code 1961, §§ 417(e), 4-25, was repealed by § VI of Ord. No. 17369, adopted Nov. 4, 1987.
 Secs. 7-34—7-45. - Reserved.
 #### DIVISION 2. - ANIMAL SHELTER IMPOUNDMENT
@@ -713,7 +713,7 @@ Footnotes:
 of their premises by deputy sheriff occurring when he and parish dogcatcher attempted to locate and seize
 homeowner's dog. The sheriff's office exists and functions independently of the governing body of the parish.
 Brister v. Parish of Jefferson, 373 So.2d 53 (Ls. App. 4th Cir. 1981)
-##### Sec. 7-46. - Reasons for impoundment generally.
+Sec. 7-46. - Reasons for impoundment generally.
 (a)
 Whenever animals are kept within any building or on any premises without food, water or proper care and
 attention, or are kept in violation of the provisions of this article, or are infected with disease, or kept under
@@ -730,7 +730,7 @@ shall be held for such time as the director deems reasonable, considering the an
 of health and suitability for use. Upon expiration of such reasonable time, the director of the animal shelter may
 offer the animal for adoption, or it may be humanely destroyed.
 (Code 1961, § 4-21(a); Ord. No. 20257, § 1, 1-14-98)
-##### Sec. 7-47. - Impoundment of dogs.
+Sec. 7-47. - Impoundment of dogs.
 (a)
 Seizure or notice to owner. Dogs found by the animal shelter department to be at large may be seized and
 impounded, or as an alternative, the humane officer finding the dog at large may issue a notice to the owner that
@@ -748,25 +748,25 @@ escape the agents by entering premises of the owner or keeper, or any other pers
 person refuses to deliver such dog to such agents of the department, such owner, keeper or person shall be
 subject to the penalties provided for in section 7-33.
 (Code 1961, § 4-17(c), (d), (e); Ord. No. 20257, § 1, 1-14-98; Ord. No. 23739, § 1, 1-27-10)
-##### Sec. 7-48. - Notification of dog and cat owners.
+Sec. 7-48. - Notification of dog and cat owners.
 After impoundment of a dog or cat which can be identified by a license tag or other ready means, the animal
 shelter shall make every reasonable effort to notify the owner and the owner may claim his animal within five
 (5) days, exclusive of Sundays and legal holidays, after impoundment. If the owner does not claim his animal, or
 if no claim is made on an animal of unknown ownership after five (5) days, exclusive of Sundays and legal
 holidays, the animal shelter may dispose of the animal by adoption or euthanasia.
 (Code 1961, § 4-21(b))
-##### Sec. 7-49. - Taking in and disposition of unwanted animals.
+Sec. 7-49. - Taking in and disposition of unwanted animals.
 Owners of unwanted animals may bring and release such animals to the animal shelter at no cost to the owner to
 be made available for adoption or other disposition in the discretion of the animal shelter.
 (Code 1961, § 4-22(a))
-##### Sec. 7-50. - Impoundment of cats, rabbits, raccoons, etc.
+Sec. 7-50. - Impoundment of cats, rabbits, raccoons, etc.
 The animal shelter department may impound any cat, rabbit, raccoon, opossum, hamster, guinea pig, gerbil, and
 any other animal of like nature, found to be at large. Any such animal impounded may be reclaimed by the
 owner upon payment of impoundment and daily board fees and compliance with other legal requirements for
 keeping of such animal. If no claim is made on any such animal after four (4) days of impoundment, exclusive
 of Sundays and legal holidays, the animal shelter may humanely dispose of same in its discretion.
 (Code 1961, § 4-22(b); Ord. No. 20257, § 1, 1-14-98; Ord. No. 23739, § 1, 1-27-10)
-##### Sec. 7-51. - Exception to holding time.
+Sec. 7-51. - Exception to holding time.
 (a)
 Notwithstanding any other provision of this chapter, the animal shelter may, in its discretion, dispose of any
 animal impounded under the provisions of section 7-47 or 7-50 at any time after the animal's owner is notified of
@@ -777,10 +777,10 @@ section 7-49 at any time after two (2) days, excluding Sundays and legal holiday
 the owner's release of the animal, except that the shelter may at any time within its discretion dispose of litters of
 kittens or puppies released to the shelter by their owner.
 (Code 1961, § 4-21(c); Ord. No. 18121, § 1, 10-24-90; Ord. No. 18321, 7-10-91)
-##### Sec. 7-51.5. - Reserved.
+Sec. 7-51.5. - Reserved.
 Editor's note— Section 7.51.5, authorizing the impoundment of animals pending hearing, derived from Ord.
 No. 15831, § 1, adopted Jan. 4, 1984, was repealed by § VI of Ord. No. 17369, adopted Nov. 4, 1987.
-##### Sec. 7-52. - Release of impounded animal.
+Sec. 7-52. - Release of impounded animal.
 (a)
 Animals shall be released from the animal shelter to their owners upon payment of appropriate impoundment
 and boarding or other fees, and only if the owner produces evidence that the animal, if a dog or cat, has a current
@@ -794,12 +794,12 @@ pledge assuring that he will have the animal spayed or neutered within twenty (2
 an appropriate age as certified by a veterinarian. With the pledge must be deposited a fee as set forth in section
 7-30(c) of this article.
 (Code 1961, § 4-21(d); Ord. No. 20257, §§ 1, 5, 1-14-98)
-##### Sec. 7-53. - Disposal for medical or scientific experimentation prohibited.
+Sec. 7-53. - Disposal for medical or scientific experimentation prohibited.
 No animals which might otherwise be destroyed or made available for adoption may be sold or given by the
 animal shelter department for medical or scientific experimentation so long as any public funds or tax receipts
 are used for the operation of the animal shelter or the department whether directly or by contract.
 (Code 1961, § 4-21(e); Ord. No. 20257, § 1, 1-14-98)
-##### Sec. 7-54. - Disposal by euthanasia.
+Sec. 7-54. - Disposal by euthanasia.
 It shall be the duty of the director of the animal shelter, and he is hereby so authorized and empowered, to issue
 and sign a death warrant and order euthanasia for any animal lawfully taken into the custody of the animal
 shelter department which in the opinion of the director is by reason of old age unfit for further use, or which is
@@ -807,7 +807,7 @@ adjudged by a written request of a licensed veterinarian to be infected with any
 disease other than rabies, or which is in an incurably crippled condition, or is afflicted with intractable pain or
 incurable disease.
 (Code 1961, § 4-21(n); Ord. No. 20257, § 1, 1-14-98)
-##### Sec. 7-55. - Liability of owner for dogs at-large.
+Sec. 7-55. - Liability of owner for dogs at-large.
 (a)
 In addition to the fees and charges to be paid to the animal shelter for the release of any impounded dog any
 owner who has permitted his licensed or unlicensed dog to roam at-large may be found guilty of a violation of
@@ -835,7 +835,7 @@ be deducted from the impoundment fee.
 Editor's note— Ord. No. 25567 , § 1, adopted April 25, 2018, amended § 7-55 and in so doing changed the title
 of said section from "Liability of owner for dogs and/or cats at-large" to "Liability of owner for dogs at-large,"
 as set out herein.
-##### Sec. 7-56. - Records.
+Sec. 7-56. - Records.
 The animal shelter department shall maintain a proper animal shelter and pound for any animals seized by it, and
 shall keep proper books in which shall be registered all animals brought to its shelter, by whom brought, the date
 of their being released or destroyed, and the amount of fees paid, which books will be opened for public
@@ -843,7 +843,7 @@ inspection.
 (Code 1961, § 4-24; Ord. No. 20257, § 1, 1-14-98)
 Secs. 7-57—7-65. - Reserved.
 #### DIVISION 3. - REGISTRATION AND VACCINATION OF DOGS AND CATS
-##### Sec. 7-66. - Required.
+Sec. 7-66. - Required.
 It shall be the duty of the owner or keeper of every dog or cat over four (4) months old to register same with the
 animal shelter department by purchasing a dog or cat license. Such license shall be dated and indicate the
 number of the license tag issued for the dog or cat at the time it is vaccinated by a licensed veterinarian or
@@ -854,11 +854,11 @@ license must be renewed no later than one (1) year from the latest vaccination d
 vaccinated without the issuance of a license or licensed without a current rabies vaccination. If a license tag is
 lost, a duplicate tag may be issued for a specified charge upon presentation of the original license receipt.
 (Code 1961, § 4-13(a); Ord. No. 20257, § 1, 1-14-98)
-##### Sec. 7-67. - Exemption for nonresidents.
+Sec. 7-67. - Exemption for nonresidents.
 Provisions of this article for licensing and registration shall not apply to animals owned by nonresidents of the
 parish.
 (Code 1961, § 4-16(l))
-##### Sec. 7-68. - Fees; exemptions.
+Sec. 7-68. - Fees; exemptions.
 (a)
 Each registration fee under this division shall be accompanied by the license fee. All such registration fees, by
 whomever collected, are payable to the animal shelter department upon demand.
@@ -869,7 +869,7 @@ Police or sheriff's department dogs;
 (2)
 Dogs trained to lead the blind (professionally-trained guide dogs for the disabled).
 (Code 1961, § 4-13(b), (d); Ord. No. 20257, §§ 1, 4, 1-14-98)
-##### Sec. 7-69. - Dealer license option.
+Sec. 7-69. - Dealer license option.
 All dealers who have permits, may at their option pay the animal shelter department or its designee an annual
 registration fee as specified in section 7-30(d) by January thirty-first of each year, in lieu of registering his dogs
 or cats individually in accordance with this section; provided further, that no dog may be sold unless it has been
@@ -877,7 +877,7 @@ inoculated against distemper, hepatitis and leptospirosis and also for rabies if
 no cat may be sold unless it has been inoculated against distemper, rhinotracheitis and calici, and also for rabies
 if four (4) months or older.
 (Code 1961, § 4-13(h); Ord. No. 18645, § 3, 12-2-92; Ord. No. 20257, § 1, 1-14-98)
-##### Sec. 7-70. - Disposition of tags.
+Sec. 7-70. - Disposition of tags.
 The animal shelter department is directed to cause to be made, prior to January first of each year, license tags of
 aluminum, brass or other suitable material, consecutively numbered, bearing the calendar year and the telephone
 number of the animal shelter, which license tag shall be distributed and placed for sale, commencing January
@@ -893,7 +893,7 @@ shelter for filing as soon as practicable. The department shall, before the lice
 the dog or cat with an approved and recognized antirabies vaccine, administered by a licensed veterinarian, or
 any other person the department may designate.
 (Code 1961, § 4-13(e.2); Ord. No. 20257, § 1, 1-14-98)
-##### Sec. 7-71. - Tag exemption for hunting and show dogs.
+Sec. 7-71. - Tag exemption for hunting and show dogs.
 (a)
 Dogs used for hunting, on exhibition at American Kennel Club or other approved shows, engaged in a specific
 "dog club" sponsored race or trial, and such dogs while being transported to and from such events need not wear
@@ -901,16 +901,16 @@ their collars nor their tags.
 (b)
 Police service dogs need not wear collars or tags while in service.
 (Code 1961, § 4-13(c); Ord. No. 21420, § 3, 10-24-01)
-##### Sec. 7-72. - Counterfeiting of tags prohibited.
+Sec. 7-72. - Counterfeiting of tags prohibited.
 It shall be unlawful for any person to counterfeit or imitate the license tag provided by the animal shelter
 department or for any person to put on a dog or cat any such counterfeit or imitation tag, or to use a license tag
 on a dog or cat for which it was not issued.
 (Code 1961, § 4-13(f); Ord. No. 20257, § 1, 1-14-98)
-##### Sec. 7-73. - Removal of tags.
+Sec. 7-73. - Removal of tags.
 It shall be unlawful for any person to maliciously or wantonly remove, or cause to be removed, directly or
 indirectly, any tag from the dog of another person.
 (Code 1961, § 4-13(g))
-##### Sec. 7-74. - Annual rabies vaccination campaign.
+Sec. 7-74. - Annual rabies vaccination campaign.
 The parish animal shelter is directed to conduct, as a public health service, an annual rabies vaccination
 campaign.
 (Code 1961, § 4-13(e.1); Ord. No. 21110, § 1, 10-18-00)
@@ -920,11 +920,11 @@ Footnotes:
 --- (3) --Editor's note— Ord. No. 24102, §§ 1—7, adopted August 31, 2011, amended Div. 4, in its entirety, to read as
 herein set out in §§ 7-80—7-86. Prior to inclusion of said ordinance, Div. 4 pertained to similar subject matter.
 See also the Code Comparative Table.
-##### Sec. 7-80. - General.
+Sec. 7-80. - General.
 In addition to other penalties, controls or requirements of this chapter, the provisions of this division shall be
 applicable whenever an animal bites or inflicts severe injury on a human being.
 (Ord. No. 24102, § 1, 8-31-11)
-##### Sec. 7-81. - Treatment of animals which have bitten persons.
+Sec. 7-81. - Treatment of animals which have bitten persons.
 (a)
 Should an animal bite a person, or be reported to have bitten a person within the limits of the parish, it shall be
 the duty of the owner, alleged victim or the person having the alleged animal in his possession or under his
@@ -983,7 +983,7 @@ If the animal control officer finds any signs of illness or change in behavior o
 officer must immediately notify the shelter veterinarian or director or other designee, to determine a proper
 course of action.
 (Ord. No. 24102, § 2, 8-31-11)
-##### Sec. 7-82. - Exemption for certain animals.
+Sec. 7-82. - Exemption for certain animals.
 (a)
 This section shall not apply except in the discretion of the parish health unit to small caged pets such as mice,
 rats, gerbils, hamsters or guinea pigs and any other animal that may be specifically excluded by the animal
@@ -1003,14 +1003,14 @@ the victim.
 Livestock animals that bite a human are handled at the discretion of the animal shelter veterinarian. Such
 handling may include testing which results in euthanasia.
 (Ord. No. 24102, § 3, 8-31-11)
-##### Sec. 7-83. - Surrender of animals exposed to rabies.
+Sec. 7-83. - Surrender of animals exposed to rabies.
 If any mammal is suspected of having been exposed to rabies, all persons having knowledge of such condition or
 event shall forthwith notify the animal shelter department or their agents, and shall fully advise same of all the
 facts and circumstances involved. Such animal may be quarantined, confined, or humanely destroyed under the
 direction and supervision of the parish animal shelter or state public veterinarian as deemed advisable in rabies
 control upon successful quarantine the animal may be released.
 (Ord. No. 24102, § 4, 8-31-11)
-##### Sec. 7-84. - Refusal to surrender or report an animal; penalty
+Sec. 7-84. - Refusal to surrender or report an animal; penalty
 (a)
 No person shall fail or refuse to surrender an animal for supervised quarantine, confinement or humane
 destruction as required herein for rabies control when deemed advisable by the animal shelter department or
@@ -1024,13 +1024,13 @@ Failure to surrender or report such animal is considered endangerment to the pub
 and subject to a hearing. Penalties for refusal to surrender shall be punished pursuant to the provisions of this
 Code and subject to a hearing before a court of competent jurisdiction and penalties provided in this Code.
 (Ord. No. 24102, § 5, 8-31-11)
-##### Sec. 7-85. - Release of animal from quarantine at the parish animal shelter.
+Sec. 7-85. - Release of animal from quarantine at the parish animal shelter.
 Any animal impounded or confined for rabies quarantine at the animal shelter shall be released upon completion
 of the ten (10) days observation period only upon authorization of the parish animal shelter veterinarian, director
 or director's designee. Any such animal, if a dog or cat, must have a valid license and vaccination before it may
 be released.
 (Ord. No. 24102, § 6, 8-31-11)
-##### Sec. 7-86. - Testing and destruction of animals indicating rabies.
+Sec. 7-86. - Testing and destruction of animals indicating rabies.
 Should any animal undergoing the ten (10) days observation for having bitten a person show indication of illness
 or change in behavior, it shall be the duty of the animal shelter department to destroy such animal after
 confirming such need by a licensed veterinarian. The parish health unit or the animal shelter shall send the
@@ -1041,7 +1041,7 @@ shall then handle the results pursuant to the Center for Disease Control Guideli
 (Ord. No. 24102, § 7, 8-31-11)
 Secs. 7-87—7-95. - Reserved.
 #### DIVISION 5. - COMMERCIAL ESTABLISHMENTS AND STABLES
-##### Sec. 7-96. - Pet shops.
+Sec. 7-96. - Pet shops.
 (a)
 Permit required. No person shall operate a pet shop unless a permit to operate such establishment shall have
 been granted by the animal shelter department. Application procedures and requirements for such permit shall be
@@ -1127,7 +1127,7 @@ Animal Shelter Permit number. The pet shop shall display the number on the botto
 using the verbiage "JP Permit no. (fill in number)
 (Code 1961, §§ 4-15(a), (a.1), (e.1); Ord. No. 18643, § 1, 12-2-92; Ord. No. 18644, § 1, 12-2-92; Ord. No.
 20257, §§ 1, 3, 1-14-98; Ord. No. 23784, § 6, 3-24-10)
-##### Sec. 7-97. - Public kennels and public auctions.
+Sec. 7-97. - Public kennels and public auctions.
 (a)
 Permit required. No person shall operate a public auction or a public kennel unless a permit to operate such
 establishment shall have been granted by the animal shelter department. Application procedures and
@@ -1195,7 +1195,7 @@ assume the care of the animals on the premises. In addition, the holder shall fu
 the name, address and telephone number of the veterinarian or other responsible party authorized to act on
 behalf of the holder in case of emergency.
 (Code 1961, § 4-15(b), (b.1), (e.1); Ord. No. 18645, § 4, 12-2-92; Ord. No. 20257, §§ 1, 3, 1-14-98)
-##### Sec. 7-98. - K-9 or guard or attack dog services.
+Sec. 7-98. - K-9 or guard or attack dog services.
 (a)
 Permit required. No person shall operate a K-9 or guard or attack dog service unless a permit to operate such
 establishment shall have been granted by the animal shelter department. Application procedures and
@@ -1278,7 +1278,7 @@ care of the animals on the premises. In addition, the holder shall furnish to th
 address and telephone number of the veterinarian or other responsible party authorized to act on behalf of the
 holder in case of emergency.
 (Code 1961, § 4-15(c), (c.1), (e.1); Ord. No. 20257, §§ 1, 3, 1-14-98)
-##### Sec. 7-99. - Dealer breeders and/or dealers.
+Sec. 7-99. - Dealer breeders and/or dealers.
 (a)
 Permit required. No person shall be a dealer breeder or dealer unless a permit to operate as a dealer breeder
 and/or dealer shall have been granted by the animal shelter department. Applications procedures and
@@ -1358,7 +1358,7 @@ address and telephone number of the veterinarian or other responsible party auth
 holder in case of emergency.
 (Code 1961, § 4-15(d), (d.1), (e.1); Ord. No. 18645, § 5, 12-2-92; Ord. No. 20257, §§ 1, 3, 1-14-98; Ord. No.
 23784, § 5, 3-24-10)
-##### Sec. 7-100. - Grooming shops.
+Sec. 7-100. - Grooming shops.
 (a)
 Permit required. No person shall operate a grooming shop unless a permit to operate such an establishment shall
 have been granted by the animal shelter department. Application procedures and requirements for such permit
@@ -1446,7 +1446,7 @@ care of the animals on the premises. In addition, the holder shall furnish to th
 address and telephone number of the veterinarian or other responsible party authorized to act on behalf of the
 holder in case of emergency.
 (Code 1961, § 4-15(e), (e.1), (e.2); Ord. No. 20257, §§ 1, 3, 1-14-98; Ord. No. 24937 , § 1, 4-15-15)
-##### Sec. 7-101. - Stables generally.
+Sec. 7-101. - Stables generally.
 (a)
 Building permit. No person shall build, erect, install or alter or replace any stable until a building permit is
 obtained from the department of inspection and code enforcement. Such a permit shall be issued in accordance
@@ -1488,7 +1488,7 @@ Building and zoning regulations. The department of inspection and code enforceme
 the animal shelter advisory board, may from time to time prescribe reasonable building and zoning regulations
 which are consistent with the provisions of this article for the construction of stables.
 (Code 1961, §§ 4-15(i), 4-19)
-##### Sec. 7-102. - Permit to operate a commercial stable.
+Sec. 7-102. - Permit to operate a commercial stable.
 (a)
 It shall be unlawful for any person to own, operate, maintain or manage a stable or permit the maintenance of a
 stable upon his premises unless he shall first obtain from the animal shelter department a permit issued in
@@ -1512,7 +1512,7 @@ issued by the department shall be posted together with the original permit.
 Permits so obtained shall be posted in an open and accessible area at the location where equine species are kept,
 or near the entrance and same shall be reasonably visible and accessible to any reasonably aware adult.
 (Code 1961, § 4-15(g)—(g.4); Ord. No. 20257, § 1, 1-14-98)
-##### Sec. 7-103. - Rules and regulations for permit to own or operate a stable.
+Sec. 7-103. - Rules and regulations for permit to own or operate a stable.
 All stables shall, in addition to all other requirements of this article, comply with the requirements set forth
 below. Failure to meet these requirements shall be grounds for denial for a permit to operate, or revocation for
 any previously issued permit.
@@ -1567,7 +1567,7 @@ further veterinary advice is warranted, the shelter veterinarian may be consulte
 has been notified. In all cases, the owner/operator has the right to petition the board for a hearing before his
 permit is refused or revoked.
 (Code 1961, § 4-15(h.4); Ord. No. 20257, §§ 1, 3, 1-14-98)
-##### Sec. 7-104. - Requirements to manage a commercial livery stable.
+Sec. 7-104. - Requirements to manage a commercial livery stable.
 (a)
 Before any person may manage a commercial livery stable, such person must file with the animal shelter
 department a written application for registration under oath, upon a form which shall be prescribed and supplied
@@ -1600,7 +1600,7 @@ registration and shall be of such size as the board may require. The board shall
 every ninety (90) days on such dates and at such hours as it shall prescribe. Special examinations may be
 scheduled by the board upon petition by an applicant and good cause shown.
 (Code 1961, § 4-15(h)—(h.3); Ord. No. 20257, § 1, 1-14-98)
-##### Sec. 7-105. - Zoos, carnivals and exhibitions.
+Sec. 7-105. - Zoos, carnivals and exhibitions.
 No person shall operate a commercial zoo or exhibition of animals or carnival, circus or other enterprise where
 animals are used or displayed on public or private property wherein an admission fee is charged, or in the
 absence of such fee, when the exhibition or zoo is used as an incentive to enter a commercial establishment
@@ -1611,9 +1611,9 @@ year for permanently established zoos or exhibitions and the permit fee shall be
 each permit period or part thereof. In the case of temporary or transient zoos or exhibitions ("petting zoos") the
 permit period shall be as requested by the applicant and the permit fee shall be by the day as stated in section 730(d).
 (Code 1961, § 4-15(i); Ord. No. 20257, § 1, 1-14-98)
-##### Sec. 7-106. - Reserved.
+Sec. 7-106. - Reserved.
 Editor's note— Section 7-106 was renumbered as § 7-4.
-##### Sec. 7-107. - Minimum requirements for housing animals for continuous periods of thirty days or longer.
+Sec. 7-107. - Minimum requirements for housing animals for continuous periods of thirty days or longer.
 The following are minimum requirements for housing animals for continuous periods of thirty (30) days or
 longer:
 Minimum
@@ -1807,7 +1807,7 @@ covered portion for protection against sunlight and rain. This covered portion s
 animal at least equal to the minimum cage floor area as provided for in this table for the particular size of
 animal.
 (Code 1961, § 4-15(Table A))
-##### Sec. 7-108. - Minimum requirements for housing animals for periods from twenty-four hours up to thirty days.
+Sec. 7-108. - Minimum requirements for housing animals for periods from twenty-four hours up to thirty days.
 The following are minimum requirements for housing animals for periods from twenty-four (24) hours up to
 thirty (30) days:
 Minimum
@@ -2005,7 +2005,7 @@ covered portion for protection against sunlight and rain. This covered portion s
 animal at least equal to the minimum cage floor area as provided for in this table for the particular size of
 animal.
 (Code 1961, § 4.15(Table B))
-##### Sec. 7-109. - Minimum requirements for housing animals for periods up to twenty-four hours.
+Sec. 7-109. - Minimum requirements for housing animals for periods up to twenty-four hours.
 The following are minimum requirements for housing animals for periods up to twenty-four (24) hours:
 Minimum
 Cage
@@ -2187,7 +2187,7 @@ animal.
 (Code 1961 § 4.15(Table C))
 Secs. 7-110—7-125. - Reserved.
 #### DIVISION 6. - HUMANE CARE AND TREATMENT
-##### Sec. 7-126. - Cruelty in general.
+Sec. 7-126. - Cruelty in general.
 (a)
 No person shall ill-treat, neglect, abandon, or cruelly treat an animal. No person shall unnecessarily or cruelly
 beat, mutilate, kill, torture, inflict injury, or abuse, or cause or procure to be cruelly beaten, mutilated, killed,
@@ -2215,7 +2215,7 @@ Director of the Jefferson Parish Animal Shelter.
 All charges subject to Division 6 are subject to the jurisdiction of the bureau of administrative adjudication and
 also the Jefferson Parish District Attorney's Office for criminal prosecution under relative procedures and law.
 (Code 1961, § 4-16(b); Ord. No. 15740, § 1, 10-5-83; Ord. No. 21090, § 1, 9-20-00; Ord. No. 24925 , § 1, 3-2515)
-##### Sec. 7-127. - Supply of food and water; leaving animal facilities unattended.
+Sec. 7-127. - Supply of food and water; leaving animal facilities unattended.
 All animals shall be supplied with sufficient good and wholesome food and water as often as the feeding habits
 of the respective animals require, but not less than, in the case of puppies and kittens, once every twelve (12)
 hours and once every twenty-four (24) hours for adults. No animal shall be without attention more than twentyfour (24) consecutive hours. Whenever an animal is left unattended at a commercial or private animal facility,
@@ -2224,7 +2224,7 @@ the front of the property, visible from outside the facility. In addition, the f
 animal shelter the name, address and telephone number of a veterinarian or other responsible party authorized to
 act on behalf of the management of the facility in case of emergency.
 (Code 1961, § 4-16(h.1))
-##### Sec. 7-128. - Cruelty to animals, simple and aggravated.
+Sec. 7-128. - Cruelty to animals, simple and aggravated.
 (a)
 Any person or entity, including the owner, harborer, keeper of the animal, and/or property owner where animal is
 housed permanently or temporarily commits any of the following shall be guilty of simple cruelty to animals:
@@ -2332,7 +2332,7 @@ to animals.
 Editor's note— Ord. No. 24925 , § 1, adopted March 25, 2015, amended § 7-128, and in so doing changed the
 title of said section from "Sale of dogs and cats" to "Cruelty to animals, simple and aggravated," as set out
 herein.
-##### Sec. 7-129. - Seizure and disposition of animals cruelly treated.
+Sec. 7-129. - Seizure and disposition of animals cruelly treated.
 (a)
 When a person is charged with cruelty to animal(s), said person's animal or animals may be seized by the
 arresting officer, animal control officer or official issuing the citation or summons and held pursuant to this
@@ -2422,7 +2422,7 @@ with said adoption or other disposition.
 Editor's note— Ord. No. 24925 , § 1, adopted March 25, 2015, amended § 7-129, and in so doing changed the
 title of § 7-129 from "Sale of chicks, ducklings or rabbits" to "Seizure and disposition of animals cruelly
 treated," as set out herein.
-##### Sec. 7-130. - Penalties.
+Sec. 7-130. - Penalties.
 (a)
 If prosecuted before the bureau of administrative adjudication, any person found to have violated the provisions
 in division 6 shall be punished as provided in Chapter 2.5 of the Code of Ordinances in addition to the hearing
@@ -2452,7 +2452,7 @@ injunctive relief and use summary process, including all temporary restraining o
 (Code 1961, § 4-16(e); Ord. No. 24925 , § 1, 3-25-15)
 Editor's note— Ord. No. 24925 , § 1, adopted March 25, 2015, amended § 7-130, and in so doing changed the
 title of said section from "Artificial coloring of animals" to "Penalties," as set out herein.
-##### Sec. 7-131. - Emergencies and disclaimer of liability.
+Sec. 7-131. - Emergencies and disclaimer of liability.
 In cases where it reasonably appears that an animal is creating an imminent danger to the health, life or safety of
 any person or other animal or for the prevention of unnecessary or unjustifiable suffering of the animal and the
 suffering or danger can not be reasonably remedied unless said animal is euthanized, the animal shelter
@@ -2468,7 +2468,7 @@ weekends.
 Editor's note— Ord. No. 24925 , § 1, adopted March 25, 2015, amended § 7-131, and in so doing changed the
 title of said section from "Transport of small animals by commercial establishments" to "Emergencies and
 disclaimer liability," as set out herein.
-##### Sec. 7-132. - Housing facilities.
+Sec. 7-132. - Housing facilities.
 (a)
 Housing facilities for animals shall be structurally sound and shall be maintained in good repair, to protect the
 animals from injury, to contain the animals, and to restrict the entrance of other animals.
@@ -2490,7 +2490,7 @@ private kennels, requirements for individual runs and shelters as specified for 
 not be required, provided the animals have an adequate supply of drinking water, sanitary sleeping quarters, and
 adequate shelter and exercise areas appropriate to their size and breed characteristics.
 (Code 1961, § 4-18(c))
-##### Sec. 7-133. - Avoidance of mistreatment.
+Sec. 7-133. - Avoidance of mistreatment.
 (a)
 Every reasonable precaution shall be used to ensure that animals are not teased, abused, mistreated, annoyed,
 tormented or in any manner made to suffer by any person or means.
@@ -2504,7 +2504,7 @@ separate runs or accommodations or otherwise be arbitrarily segregated.
 The use of any equipment, device, substance or material that is, or could be, injurious or cause unnecessary
 cruelty to any animal shall not be allowed.
 (Code 1961, § 4-18(d))
-##### Sec. 7-134. - Maintenance of health.
+Sec. 7-134. - Maintenance of health.
 (a)
 Every animal establishment shall isolate sick or injured animals sufficiently so as not to endanger the health of
 other animals.
@@ -2512,7 +2512,7 @@ other animals.
 Any animal shall be taken to a veterinarian for examination or treatment if the director finds this is necessary in
 order to maintain the health of the animal and orders the owner or custodian to do so.
 (Code 1961, § 4-18(e), (f))
-##### Sec. 7-135. - Fighting contests.
+Sec. 7-135. - Fighting contests.
 Each and every person convicted of promoting, staging, conducting, participating directly or indirectly as an
 observer in a dog fight, cock fight, pigeon shoot, turkey shoot, bear wrestling event or other staged animal
 fighting contest or found to be in position of paraphernalia conducive to such activities (i.e. drugs, leg spurs,
@@ -2525,7 +2525,7 @@ Editor's note— Ord. No. 24925 , § 1, adopted March 25, 2015, repealed §§ 7-
 exposure of poisons; fighting contests; working animals; display of unhealthy animals for amusement
 prohibited; school laboratories; science fairs; and autoists striking animals. See Code Comparative Table for
 historical derivations.
-##### Sec. 7-143. - Failure to care for.
+Sec. 7-143. - Failure to care for.
 Failure of any person to adequately house, feed and water animals in his possession or custody shall constitute a
 misdemeanor, and, upon conviction, such person shall be fined and/or imprisoned according to the provisions of
 section 7-33, or may be both fined and imprisoned in the discretion of the court. Such animals shall be subject to
@@ -2533,7 +2533,7 @@ seizure and impoundment and, upon conviction of such person, may be sold or euth
 the animal shelter department, and such failure shall constitute grounds for revocation of license, permit,
 certification or registration by the department.
 (Code 1961, § 4-16(h); Ord. No. 20257, § 1, 1-14-98)
-##### Sec. 7-144. - Entry upon private premises.
+Sec. 7-144. - Entry upon private premises.
 The director or other duly designated representatives of the parish may enter any establishment holding a permit,
 where animals are maintained, for investigation or inspection as to whether or not any portion of such premises,
 buildings, structures, enclosures, pens or cages are being used, kept or maintained in violation of this or any
@@ -2551,7 +2551,7 @@ Subsequently, Ord. No. 24117, § 1, amended the title of Div. 7 to read as herei
 amended §§ 7-155—7-160. Prior to inclusion of said ordinance, Div. 7 was titled, "Public Nuisances and Vicious
 Animals." See also the Code Comparative Table.
 Cross reference— Nuisances generally, Ch. 19.
-##### Sec. 7-155. - Prohibited generally.
+Sec. 7-155. - Prohibited generally.
 (a)
 Purpose. To provide for and promote the health, safety and welfare of the general public and to provide for
 responsible and humane ownership of animals by establishing and enforcing regulations for the keeping and
@@ -2609,7 +2609,7 @@ penalties accessed pursuant to this code of ordinances or state provisions or an
 Victims must submit to the animal shelter evidence of a bite to include either a photograph of the bite and an
 affidavit of the incident, a doctor's report or law enforcement officer's report.
 (Ord. No. 24117, § 2, 9-21-11)
-##### Sec. 7-156. - Enforcement authority.
+Sec. 7-156. - Enforcement authority.
 (a)
 Any animal control officer, humane officer, or other law enforcement officer is hereby empowered to make
 whatever inquiry is deemed necessary to ensure compliance with the provisions of this chapter, and any such
@@ -2629,7 +2629,7 @@ In the event that the owner or keeper of the animal refuses to surrender the ani
 humane officer, the officer may request a search and seizure warrant from a court of competent jurisdiction and
 to seize the animal upon execution of the warrant.
 (Ord. No. 24117, § 2, 9-21-11)
-##### Sec. 7-157. - Hearing procedures.
+Sec. 7-157. - Hearing procedures.
 (a)
 Prior to holding an administrative hearing under this division, the department may cause the animal to be
 impounded.
@@ -2673,7 +2673,7 @@ Hearings shall be conducted as set forth herein. Should this section be silent t
 section 2.5-7 and section 2.5-10 may be referenced. In no case shall any other provisions of this code supersede
 the provisions set forth herein.
 (Ord. No. 24117, § 2, 9-21-11)
-##### Sec. 7-158. - Impoundment pending hearing or appeal.
+Sec. 7-158. - Impoundment pending hearing or appeal.
 (a)
 The director of the animal shelter department, at his discretion, may seize, impound and continue to impound at
 the animal shelter any animal pending a hearing or appeal as provided in this article; the director shall have such
@@ -2697,7 +2697,7 @@ of judgment and all other fees and fines accumulated prior to or pursuant to the
 not heard within that period the owner shall be required to post an additional bond for ninety (90) days, unless
 the parish has requested the delay.
 (Ord. No. 24117, § 2, 9-21-11)
-##### Sec. 7-159. - Exceptions and exemptions.
+Sec. 7-159. - Exceptions and exemptions.
 (a)
 This section shall not apply to animals owned, or the service of which is used, by any law enforcement agency
 for the purpose of aiding in the enforcement of laws or the apprehension of offenders.
@@ -2711,7 +2711,7 @@ teasing, tormenting, abusing or assaulting the animal; no animal may be declared
 the animal was protecting or defending a human being within the immediate vicinity of the animal from an
 unjustified attack or assault.
 (Ord. No. 24117, § 2, 9-21-11)
-##### Sec. 7-160. - Requirements; penalties; fines; costs.
+Sec. 7-160. - Requirements; penalties; fines; costs.
 (a)
 It shall be unlawful for any person to own, possess, keep or harbor a dangerous or vicious animal except in
 accordance with the provisions of this chapter. Any owner or keeper of an animal deemed to be dangerous or
@@ -2867,7 +2867,7 @@ prohibited ownership; unlawful purpose; determination of fierce, dangerous or vi
 officer determinations and orders; impoundment pending hearing or appeal; and penalties for violations. See also
 the Code Comparative Table.
 #### DIVISION 8. - PUBLIC NUISANCES
-##### Sec. 7-173. - Nuisance in general.
+Sec. 7-173. - Nuisance in general.
 (a)
 It is unlawful for any person having the ownership, custody, or control of any animal to cause, allow, permit,
 either willfully or by failure to exercise due care, in any of the following, defined as a public nuisance or
@@ -2915,7 +2915,7 @@ shows, service dogs and/or law enforcement dogs.
 Any person having the ownership, custody, or control of any animal found to be in violation of this section shall
 be guilty of a nuisance and issued a citation.
 (Ord. No. 24117, § 4, 9-21-11; Ord. No. 24118, § 2, 9-21-11)
-##### Sec. 7-174. - Dangerous nuisance.
+Sec. 7-174. - Dangerous nuisance.
 (a)
 It is unlawful for any person having the ownership, custody, or control of any animal, either willfully or by
 failure to exercise due care, to allow such animal to:
@@ -2934,7 +2934,7 @@ evidence to the animal shelter and as otherwise defined in this chapter.
 Any person having the ownership, custody, or control of any animal found to be in violation of this section shall
 be guilty of endangerment and a dangerous nuisance and issued a citation.
 (Ord. No. 24117, § 4, 9-21-11; Ord. No. 24118, § 3, 9-21-11)
-##### Sec. 7-175. - Violations; citations; hearings; penalties.
+Sec. 7-175. - Violations; citations; hearings; penalties.
 (a)
 Upon receipt of a nuisance complaint and verification by an animal control officer or law enforcement agent of
 such nuisance, a reasonable attempt shall be made to notify the person with ownership, custody, or control of the
@@ -2982,7 +2982,7 @@ The animal may also be subject to impoundment pending a hearing and the owner, h
 responsible for payment of current animal shelter impoundment fees for animals at large.
 (Ord. No. 24117, § 4, 9-21-11; Ord. No. 24118, § 4, 9-21-11)
 ### ARTICLE III. - HOGS
-##### Sec. 7-176. - Definitions.
+Sec. 7-176. - Definitions.
 The following words and phrases, when used in this article, shall have the meanings respectively ascribed to
 them:
 Breeding shall mean the keeping of hogs on any premise for the purpose of procreation, production or the
@@ -2997,7 +2997,7 @@ To keep or keeping means to have the care of, to maintain, manage or to permit t
 more than twenty-four (24) hours.
 (Code 1961, § 4-27; Ord. No. 25600 , § 1, 6-27-18)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-##### Sec. 7-177. - Enforcement by animal shelter; right of entry upon public and private property.
+Sec. 7-177. - Enforcement by animal shelter; right of entry upon public and private property.
 It shall be the duty of the animal shelter to enforce all of the provisions of this article, and for the purpose of
 securing enforcement thereof the animal shelter director, or any of his duly authorized representatives, shall have
 the right, and are hereby empowered to enter upon any public or private property, including any building or
@@ -3007,10 +3007,10 @@ keeping of such animals thereon or therein that may be covered by the provisions
 Editor's note— Ord. No. 25600 , § 1, adopted June 27, 2018, amended § 7-177 and in so doing changed the title
 of said section from "Enforcement by parish health unit; right of entry upon public and private property" to
 "Enforcement by animal shelter; right of entry upon public and private property," as set out herein.
-##### Sec. 7-178. - Reserved.
+Sec. 7-178. - Reserved.
 Editor's note— Ord. No. 25600 , § 1, adopted June 27, 2018, repealed § 7-178, which pertained to permit to
 keep, etc., required and derived from Code 1961, § 4-30.
-##### Sec. 7-179. - Permit required to operate, maintain, etc.
+Sec. 7-179. - Permit required to operate, maintain, etc.
 More than two (2) hogs, pigs and/or swine which are kept, maintained, reared, or bred etc. for any period
 exceeding twenty-four (24) hours on a premises in the unincorporated area of the parish, shall be deemed as
 livestock. Persons who keep, maintain, rear or breed said livestock shall adhere to zoning regulations of
@@ -3019,10 +3019,10 @@ livestock in chapter 40 of the parish Code of Ordinance.
 Editor's note— Ord. No. 25600 , § 1, adopted June 27, 2018, amended § 7-179 and in so doing changed the title
 of said section from "Hog farms—Permit required to operate, maintain, etc." to "Permit required to operate,
 maintain, etc.," as set out herein.
-##### Sec. 7-180. - Reserved.
+Sec. 7-180. - Reserved.
 Editor's note— Ord. No. 25600 , § 1, adopted June 27, 2018, repealed § 7-180, which pertained to hog farms
 supervision; monthly reports to parish health unit and derived from Code 1961, § 4-32.
-##### Sec. 7-181. - Permit prerequisite to building.
+Sec. 7-181. - Permit prerequisite to building.
 Prior to any shelter for the hog(s), pig(s) or swine is constructed or any barn, pen or any shelter necessary for the
 maintenance of the hog(s), pig(s) or swine is built, a permit must be obtained from the department of inspection
 and code enforcement and also from the animal shelter.
@@ -3030,36 +3030,36 @@ and code enforcement and also from the animal shelter.
 Editor's note— Ord. No. 25600 , § 1, adopted June 27, 2018, amended § 7-181 and in so doing changed the title
 of said section from "Parish health unit permit prerequisite to building hog farm, barn." to "Permit prerequisite to
 building," as set out herein.
-##### Sec. 7-182. - Pens—Floors.
+Sec. 7-182. - Pens—Floors.
 On all premises where hogs are kept in pens, the pen must have a concrete floor or a floor made of some other
 impervious material, and this floor shall be properly drained with a slope one (1) inch to every four (4) feet.
 (Code 1961, § 4-34)
-##### Sec. 7-183. - Same—Drainage.
+Sec. 7-183. - Same—Drainage.
 Gutters lined with an impervious material must drain the floors of these pens; these gutters to enter into a mud
 sump or pit. The liquid drainage from this mud sump or pit must be drained into a ditch sufficient to care for the
 effluent and this ditch must be maintained in a sanitary manner at all times.
 (Code 1961, § 4-35)
-##### Sec. 7-184. - Same—Water supply.
+Sec. 7-184. - Same—Water supply.
 There must be an adequate water supply adjacent to all hog pens for the purpose of furnishing drinking water for
 the hogs and for the cleaning of the pens and troughs and premises.
 (Code 1961, § 4-36)
-##### Sec. 7-185. - Premises, pens, equipment, etc., to be kept in a sanitary manner.
+Sec. 7-185. - Premises, pens, equipment, etc., to be kept in a sanitary manner.
 The premises, pens, troughs, barns and other equipment used in the keeping of hogs and the operation of a hog
 farm must be kept in a sanitary manner at all times.
 (Code 1961, § 4-37)
-##### Sec. 7-186. - Feeding troughs and utensils.
+Sec. 7-186. - Feeding troughs and utensils.
 All troughs and utensils used in the feeding of hogs must be of material impervious to liquids and must be built
 so that they can be easily cleaned. These troughs must be cleaned once every twenty-four (24) hours or oftener if
 necessary to prevent the occurrence of a nuisance.
 (Code 1961, § 4-38)
-##### Sec. 7-187. - Preparation of garbage, etc., fed to hogs.
+Sec. 7-187. - Preparation of garbage, etc., fed to hogs.
 All garbage, refuse, offal or other material other than grain foodstuffs to hogs must be cooked on the premises
 just prior to the feeding of the hogs.
 (Code 1961, § 4-39)
-##### Sec. 7-188. - Distance from army camp or reservation of hog farm.
+Sec. 7-188. - Distance from army camp or reservation of hog farm.
 No hog farm shall be allowed within two (2) miles of an army camp or reservation.
 (Code 1961, § 4-40)
-##### Sec. 7-189. - Zoning restrictions.
+Sec. 7-189. - Zoning restrictions.
 The restrictions of the parish comprehensive zoning ordinance pursuant to chapter 40 of the parish Code of
 Ordinances shall not be deemed to be modified by any provision of this chapter. When in conflict, the
 comprehensive zoning ordinance restrictions shall control, except where this Code imposes greater restrictions
@@ -3067,15 +3067,15 @@ by construction type and/or occupancy use then the provisions of this Code shall
 (Code 1961, § 4-41; Ord. No. 25600 , § 2, 6-27-18)
 Editor's note— Ord. No. 25600 , § 2, adopted June 27, 2018, amended § 7-189 and in so doing changed the title
 of said section from "Distance from "built-up" area, etc., of hog farm" to "Zoning restrictions," as set out herein.
-##### Sec. 7-190. - Reserved.
+Sec. 7-190. - Reserved.
 Editor's note— Ord. No. 25600 , § 2, adopted June 27, 2018, repealed § 7-190, which pertained to slaughtering,
 standards prescribed and derived from Code 1961, § 4-42.
-##### Sec. 7-191. - Maintenance on marshy ground or areas subject to flooding prohibited.
+Sec. 7-191. - Maintenance on marshy ground or areas subject to flooding prohibited.
 No hog, hogs or hog farms shall be maintained on any marshy ground or on any premises subject to flooding
 during rainy weather.
 (Code 1961, § 4-43)
 Cross reference— Flood prevention and protection, Ch. 14.
-##### Sec. 7-192. - Location, arrangement of feeding troughs.
+Sec. 7-192. - Location, arrangement of feeding troughs.
 On farms where hogs range, the feeding troughs must be arranged so that they can be easily moved. These
 troughs shall be moved as often as it is necessary to keep the soil around the troughs from becoming soggy and
 thus tending to increase the possibility of a nuisance being created.
@@ -3084,20 +3084,20 @@ Secs. 7-193—7-205. - Reserved.
 ### ARTICLE IV. - BIRD SANCTUARIES
 Footnotes:
 --- (5) --State Law reference— Game and fish preserves and sanctuaries, R.S. 56:701 et seq.
-##### Sec. 7-206. - Designated.
+Sec. 7-206. - Designated.
 The bird sanctuaries shall be as presently established or as hereafter designated by the parish council from time
 to time.
 (Code 1961, §§ 4-7, 4-10(a), 4-10.1(a), 4-10.2(a), 4-10.3, 4-10.4(a), 4-10.5(a), 4-10.6(a), 4-10.7(a))
-##### Sec. 7-207. - Shooting or molesting birds prohibited.
+Sec. 7-207. - Shooting or molesting birds prohibited.
 It shall be unlawful for any person to trap, hunt, shoot or attempt to shoot or molest in any manner any bird or
 wild fowl or to rob bird nests or wild fowl nests.
 (Code 1961, §§ 4-8, 4-10(b), 4-10.1(b), 4-10.2(b), 4-10.3, 4-10.4(b), 4-10.5(b), 4-10.6(b), 4-10.7(b))
-##### Sec. 7-208. - Abatement of nuisances.
+Sec. 7-208. - Abatement of nuisances.
 If starlings or similar birds are found to be congregating in such numbers in a particular locality that they
 constitute a nuisance or a menace to health or property in the opinion of the proper health authorities, then the
 health authorities shall consult with representatives of local clubs in order to find a solution to the nuisance.
 (Code 1961, §§ 4-8, 4-10(b), 4-10.1(c), 4-10.2(c), 4-10.4(b), 4-10.5(c), 4-10.6(c), 4-10.7(c))
-##### Sec. 7-209. - Lake Pontchartrain Causeway Bird Sanctuary—Created; boundaries.
+Sec. 7-209. - Lake Pontchartrain Causeway Bird Sanctuary—Created; boundaries.
 The Lake Pontchartrain Causeway Bird Sanctuary is hereby established within the area bounded by the
 following lines:
 On the north, by the line intersecting at right angles the Greater New Orleans Expressway bridge over Lake
@@ -3106,7 +3106,7 @@ the south, by the southern shore of Lake Pontchartrain; on the west, by a line w
 New Orleans Expressway bridge; and on the east, by a line east of and parallel to the Greater New Orleans
 Expressway bridge.
 (Ord. No. 18090, § 1, 8-29-90)
-##### Sec. 7-210. - Same—Prohibitions.
+Sec. 7-210. - Same—Prohibitions.
 In addition to the prohibitions found in section 7-207, it shall be unlawful for any person to approach with any
 commercial or recreational boat or vessel within one thousand (1,000) feet of the purple martin roosting areas
 along the Greater New Orleans Expressway bridge over Lake Pontchartrain within the Lake Pontchartrain
@@ -3114,14 +3114,14 @@ Causeway Bird Sanctuary during the period beginning fifteen (15) minutes before 
 minutes after sunrise, except for scientific purposes under authority of a permit duly issued by the Louisiana
 Department of Wildlife and Fisheries.
 (Ord. No. 18090, § 2, 8-29-90)
-##### Sec. 7-211. - Same—Penalties.
+Sec. 7-211. - Same—Penalties.
 Violation of the provisions of this article shall be punished by a fine not exceeding five hundred dollars
 ($500.00) or imprisonment for a term not exceeding six (6) months or by both such fine and imprisonment,
 within the discretion of the court.
 (Ord. No. 18090, § 3, 8-29-90)
 Secs. 7-212—7-214. - Reserved.
 ### ARTICLE V. - BEEKEEPING
-##### Sec. 7-215. - Prohibited in residential areas.
+Sec. 7-215. - Prohibited in residential areas.
 No person shall keep or maintain an apiary in an area zoned for residential development unless the apiary is
 situated at least one hundred (100) feet or more from any public private property line of the tract upon which the
 apiary is situated, as measured from the nearest point on the hive to the property line; except that a person may
@@ -3131,18 +3131,18 @@ which each resident's dwelling is situated. For purposes of this article, an api
 of one (1) or more colonies or hives of bees in a single location, but shall not include any colony of feral or wild
 bees that may exist naturally in the environment.
 (Ord. No. 19240, § 1, 11-16-94)
-##### Sec. 7-216. - Regulation and compliance.
+Sec. 7-216. - Regulation and compliance.
 All apiaries in the unincorporated area of Jefferson Parish shall be registered annually with the Louisiana
 Department of Agriculture and Forestry, and shall be kept in accordance with all applicable state and parish
 laws.
 (Ord. No. 19240, § 1, 11-16-94)
-##### Sec. 7-217. - Certain conduct prohibited.
+Sec. 7-217. - Certain conduct prohibited.
 Notwithstanding compliance with the provisions of this article, it shall be unlawful for any person to keep an
 apiary which causes an unhealthy condition, endangers the health, safety or welfare of another person, or
 interferes with the normal use and enjoyment of any public property or the property of others.
 (Ord. No. 19240, § 1, 11-16-94)
 ### ARTICLE VI. - WATERFOWL
-##### Sec. 7-218. - Definitions.
+Sec. 7-218. - Definitions.
 For the purposes of this chapter, the following terms and phrases when used in this article shall have the
 respective meanings ascribed to them in this section, unless a definite meaning clearly appears from the context:
 Food shall include but not be limited to bread products, corn, fruit, oats, hay, nuts, wheat, alfalfa, salt blocks,
@@ -3151,7 +3151,7 @@ have naturally-fallen on the ground or are within reach for consumption by water
 Waterfowl shall mean unowned and/or undomesticated ducks, geese, & other amphibious birds, specifically
 including but not limited to Muscovy ducks (Cairina moschata).
 ( Ord. No. 25896 , § 1, 11-6-19)
-##### Sec. 7-219. - Feeding prohibited.
+Sec. 7-219. - Feeding prohibited.
 (a)
 Except as provided in section 7-220 below, it shall be prohibited to harm, harass, and/or intentionally feed
 waterfowl by making food available for consumption on private property or on public property within a radius of
@@ -3162,7 +3162,7 @@ any form on the ground or within reach for consumption by waterfowl.
 (c)
 Violation of any provision of this section shall be deemed an offense.
 ( Ord. No. 25896 , § 1, 11-6-19)
-##### Sec. 7-220. - Prohibition exceptions and affirmative defenses.
+Sec. 7-220. - Prohibition exceptions and affirmative defenses.
 The provisions of section 7-219 above shall not apply to:
 (1)
 The placement of food into feeders kept at a minimum of three (3) feet above the ground and designed/intended
@@ -3188,10 +3188,10 @@ to: designated bird sanctuaries; federal, state, and parish wildlife preserves, 
 bordering the Mississippi River or Lake Pontchartrain; and upon navigable waters where waterfowl may be
 present.
 ( Ord. No. 25896 , § 1, 11-6-19)
-##### Sec. 7-221. - Enforcement.
+Sec. 7-221. - Enforcement.
 Parish employees are granted full power and authority of enforcement of the provisions of this article.
 ( Ord. No. 25896 , § 1, 11-6-19)
-##### Sec. 7-222. - Penalties.
+Sec. 7-222. - Penalties.
 (a)
 First-time offenders violating any provisions of this article shall receive a warning along with written
 information regarding the negative impacts of feeding waterfowl; second-time offenders shall be issued citations

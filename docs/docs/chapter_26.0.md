@@ -6,7 +6,7 @@ Prior to inclusion of said ordinance, Ch. 26 was entitled, "Public Assemblies." 
 23670, § 3, adopted October 14, 2009, amended Ch. 26 it its entirety, to read as herein set out. See also the Code
 Comparative Table.
 ### ARTICLE I. - FAIRS, CIRCUSES AND FESTIVALS
-##### Sec. 26-1. - Definitions.
+Sec. 26-1. - Definitions.
 As used in this article, unless otherwise indicated:
 Amusement attraction means any building or structure around, over, or through which people may move or
 walk, without the aid of any moving device integral to the building or structure, that provides amusement,
@@ -31,13 +31,13 @@ person, organization or association which does not own or control an amusement a
 permits or allows the operation of an amusement attraction or ride on the premises of or in the name of the
 person, organization or association.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-2. - Permit required.
+Sec. 26-2. - Permit required.
 It shall be unlawful for any person to conduct fairs, exhibitions, shows, circus performances or other events
 which constitute an amusement attraction or utilize an amusement ride as defined in this article without first
 obtaining a permit from the department of citizens' affairs no more than ninety (90) days nor less than thirty (30)
 days prior to the scheduled event.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-3. - Requirements for permit.
+Sec. 26-3. - Requirements for permit.
 No person shall conduct a fair, exhibition, show, circus performance or event which constitutes an amusement
 attraction or utilizes an amusement ride as defined in this article without first showing proof of insurance against
 liability for injury suffered by persons attending the fair, exhibition, show, circus performance or event which
@@ -48,20 +48,20 @@ suffered by persons riding the amusement attractions or rides. The grounds on wh
 circus performance or event which utilizes an amusement attraction or amusement ride is to be held shall be
 subject to inspection by the department.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-4. - Permit limitations.
+Sec. 26-4. - Permit limitations.
 No permit for a fair shall be granted for more than ten (10) days. If a permit is completely or partially canceled
 due to inclement weather, the fair permit may be amended by the department to allow the fair to be held on any
 alternate date. The number of alternate days granted for the conduct of a fair cannot exceed the number of
 originally permitted days canceled due to inclement weather. Alternate days must be scheduled within thirty (30)
 days of the canceled original days.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-5. - Location restricted.
+Sec. 26-5. - Location restricted.
 No fair shall be held in an area which is less than three hundred (300) feet from a residential area, except for
 church and school fairs which are held on the grounds of the church or school.
 (Ord. No. 23670, § 3, 10-14-09)
 Secs. 26-6—26-10. - Reserved.
 ### ARTICLE II. - MOVING EVENTS
-##### Sec. 26-11. - Definitions
+Sec. 26-11. - Definitions
 As used in this article, the following terms shall have the following meaning unless the context clearly indicates
 a different meaning is intended:
 Application shall mean the form supplied by the office which sets forth information required for the permit.
@@ -73,23 +73,23 @@ school motorcade has a police escort.
 Office shall mean the office of carnival and special events of the Department of Citizens' Affairs for the Parish
 of Jefferson.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-12. - Permit required.
+Sec. 26-12. - Permit required.
 It shall be unlawful for a moving event to be conducted without first obtaining a permit from the office.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-13. - Application for a permit.
+Sec. 26-13. - Application for a permit.
 (a)
 A permit for a moving event shall be applied for with the office.
 (b)
 The permit application shall be filed with the office not less than thirty (30) days or more than ninety (90) days
 before the date of the proposed moving event.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-14. - Review of application.
+Sec. 26-14. - Review of application.
 Upon receipt of the completed application, the office shall forward copies of the application to the Department
 of Public Works for the Parish of Jefferson and the law enforcement authority for review. The persons
 designated in each such office by their respective office heads shall review the application and provide the office
 with any response.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-15. - Criteria for issuance.
+Sec. 26-15. - Criteria for issuance.
 The office shall issue a moving events permit when, from a consideration of the application and from such other
 information as may otherwise be obtained, it appears that:
 (1)
@@ -100,7 +100,7 @@ The conduct of the moving event will not require the diversion of so great a num
 to properly police the movement of the moving event and the areas contiguous thereto as to prevent normal
 protection to the parish.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-16. - Classification and approval.
+Sec. 26-16. - Classification and approval.
 (a)
 After considering the response of the Department of Public Works for the Parish of Jefferson and the law
 enforcement authority, the office shall approve or deny the application for the permit for the moving event. If the
@@ -112,13 +112,13 @@ Streets may be closed at the discretion of the office after consultation with th
 the law enforcement authority, having due regard for the public safety of such closing, provided all reasonable
 steps are taken to minimize the adverse effects such closings may have upon the public.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-17. - Liability.
+Sec. 26-17. - Liability.
 The
 person or persons or the group, association or organization to whom the permit is issued shall be liable for all
 damage to property or person(s) which may arise out of or in connection with the moving event for which a
 permit was issued.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-18. - Insurance.
+Sec. 26-18. - Insurance.
 (a)
 Each moving event shall carry liability insurance in at least a minimum of one million dollars ($1,000,000.00)
 bodily injury and property damage combined for each moving event. The Parish of Jefferson, all districts and
@@ -136,16 +136,16 @@ law enforcement authority for any and all damages to property and/or personal in
 parish, and/or its departments that may occur as a result of the sole or concurrent negligence or sole or
 concurrent fault on the part of the moving event.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-19. - Security.
+Sec. 26-19. - Security.
 The law enforcement authority shall be responsible for providing police protection for the moving event and all
 costs for same shall be the responsibility of the applicant.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-20. - Restrictions—Huey P. Long Bridge.
+Sec. 26-20. - Restrictions—Huey P. Long Bridge.
 Pursuant to LSA-R.S. 48:953, any and at moving events shall be prohibited from crossing the Huey P. Long
 Bridge on weekdays from midnight Sunday evening until midnight Friday evening except on any holiday
 recognized by federal, state, or local government.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-21. - Other permits and licenses.
+Sec. 26-21. - Other permits and licenses.
 Nothing in this article shall be construed as repealing other sections of this Code or other ordinances requiring
 separate applications for permits or licenses for specific portions of the proposed moving event, such as parade
 permits, building or related permits. Those permits must be applied for separately in accordance with the laws or
@@ -167,7 +167,7 @@ purpose, which utilize the traveled portions of streets and/or involve the place
 A moving event, as defined in section 26-11 of the Code of Ordinances, is specifically excluded from this
 article.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-32. - Permit required.
+Sec. 26-32. - Permit required.
 (a)
 A permit is required to use a right-of-way for a special event where twenty-five (25) or more people will gather.
 (b)
@@ -182,11 +182,11 @@ the parish's sidewalks or medians as long as the march or protest does not preve
 parish's sidewalks for passage or other purpose permitted by law and does not enter the traveled portion of the
 streets.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-33. - Health and safety requirements for less than five thousand persons.
+Sec. 26-33. - Health and safety requirements for less than five thousand persons.
 Any group, up to five thousand (5,000) persons, meeting in normal commercial establishments shall have their
 health and safety requirements met by the private commercial operators of common facilities.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-34. - Requirements for assemblies of over five thousand persons.
+Sec. 26-34. - Requirements for assemblies of over five thousand persons.
 (a)
 Permit fee; bond. At least thirty (30) days prior to any assembly for commercial purposes of over five thousand
 (5,000) persons, the promoter of such assembly for commercial purposes shall obtain from the parish through
@@ -223,18 +223,18 @@ proof of lease to the parish council for the assembly grounds and specify with p
 providing a minimum of one (1) acre of ground for every two thousand (2,000) persons, exclusive of any living
 accommodations and health and safety facilities.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-35. - Sewerage disposal, water and fire protection for living accommodations.
+Sec. 26-35. - Sewerage disposal, water and fire protection for living accommodations.
 Any living accommodations, campers, trailers, tents or otherwise connected with any assembly shall be provided
 with health and safety protection, including provisions for sewerage disposal for every unit, water for each unit
 and fire protection for each unit, and shall submit proof to the parish council of contracts for provisions for such
 facilities.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-36. - Entrance of more persons than facilities can accommodate prohibited.
+Sec. 26-36. - Entrance of more persons than facilities can accommodate prohibited.
 In accordance with the provisions hereof with reference to the number of persons to assemble in a specified area,
 the parish council shall prohibit the entrance onto the assembly grounds of any persons in excess of the number
 for which the facilities may accommodate and for which a permit has been issued under this article.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-37. - Permit requirements.
+Sec. 26-37. - Permit requirements.
 A permit shall not be granted under this article unless:
 (1)
 The use of a right-of-way shall not constitute a hazard for pedestrian and/or vehicular traffic on the right-of-way;
@@ -255,7 +255,7 @@ Sanitary facilities shall be provided as set forth in section 26-34(d) unless pu
 The application has been made to the department of citizen's affairs no more than ninety (90) days nor less than
 thirty (30) days prior to the scheduled event.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-38. - Denial of permits.
+Sec. 26-38. - Denial of permits.
 The director of citizens' affairs may deny any application for a permit under this chapter if:
 (1)
 The applicant has on prior occasions made material misrepresentations regarding the nature or scope of an event
@@ -291,7 +291,7 @@ concerning the sale of goods or services;
 (12)
 The scheduled event will interfere with the ingress and egress to polling places on election day.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-39. - Decision on permit application and appeal.
+Sec. 26-39. - Decision on permit application and appeal.
 (a)
 The director of citizen's affairs shall either grant or deny any permit covered by this part no later than fourteen
 (14) days prior to the event.
@@ -303,45 +303,45 @@ Should the director of citizen's affairs deny said permit or fail to act within 
 event, then applicant has the right to appeal to the 24th Judicial District Court. Such appeal shall be instituted by
 filing within five (5) days of the director of citizen's affairs denial or failure to act.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-40. - Applicants must meet insurance requirements, if any.
+Sec. 26-40. - Applicants must meet insurance requirements, if any.
 It shall be the responsibility of the applicant to meet all requirements for insurance, if any, as set out by the
 applicable provisions of the Code of Ordinances.
 (Ord. No. 23670, § 3, 10-14-09)
 Secs. 26-41—26-50. - Reserved.
 #### DIVISION 2. - BLOCK PARTY
-##### Sec. 26-51. - Definition.
+Sec. 26-51. - Definition.
 Block party means a social gathering of a group of neighbors or businesses living or working in proximity to
 each other, utilizing a certain portion of a public street for their activity where seventy-five (75) percent of the
 neighbors or businesses on the affected block or blocks consent in writing to said event.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-52. - Permit requirements.
+Sec. 26-52. - Permit requirements.
 In addition to the requirements set forth in this article, the written approval of seventy-five (75) percent of the
 property owners of said block or blocks shall be submitted along with the permit application.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-53. - Time limitation.
+Sec. 26-53. - Time limitation.
 The block party will not exceed the time set out in the application. No block party from Sunday through
 Thursday will commence prior to 8:00 a.m. or continue past 10:00 p.m., and no block party on Friday, Saturday
 or holidays will commence prior to 7:00 a.m. or continue past 11:00 p.m., with the exception of New Year's Eve.
 On New Year's Eve, the ending time will be no later than 1:00 a.m.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-54. - Block party applicant responsible for trash removal.
+Sec. 26-54. - Block party applicant responsible for trash removal.
 Should a special event permit be granted for a block party, it shall be the responsibility of the applicant to ensure
 the removal of all trash from the street and surrounding area.
 (Ord. No. 23670, § 3, 10-14-09)
 Secs. 26-55—26-60. - Reserved.
 #### DIVISION 3. - OUTDOOR MUSIC EVENT
-##### Sec. 26-61. - Definition.
+Sec. 26-61. - Definition.
 Outdoor music event shall mean and apply to a special event in which entertainment, music or a band is present
 on the right-of-way or outdoors and open to the public.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-62. - Permit requirements.
+Sec. 26-62. - Permit requirements.
 The requirements set forth in this article shall apply to a special event permit for an outdoor music event.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-63. - Noise.
+Sec. 26-63. - Noise.
 During an outdoor music event, the sound, amplified or not, shall not exceed the applicable Table 1 levels set out
 in section 20-102 of the Code of Ordinances.
 (Ord. No. 23670, § 3, 10-14-09)
-##### Sec. 26-64. - Time limitation.
+Sec. 26-64. - Time limitation.
 The outdoor music event will not exceed the time set out in the application. No outdoor music event shall
 continue past 10:00 p.m., with the exception of New Year's Eve. On New Year's Eve, the ending time will be no
 later than 1:00 a.m. The time limitation provided for in this section may be extended by resolution of the

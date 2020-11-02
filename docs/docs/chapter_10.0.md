@@ -4,7 +4,7 @@ Footnotes:
 council, § 2-771 et seq.; offenses against public administration, § 20-23 et seq.; judges' retirement plan, § 23-205
 et seq.; sheriff and law enforcement, Ch. 31.
 State Law reference— Uniform parish court jurisdiction and procedure act, R.S. 13:1441 et seq.
-##### Sec. 10-1. - Service charge for civil court cases.
+Sec. 10-1. - Service charge for civil court cases.
 (a)
 A service charge of seven dollars ($7.00) per case for each civil case filed in the First Parish Court for the Parish
 of Jefferson is hereby imposed, and will be paid to the clerk of the First Parish Court when the suit is filed.
@@ -19,7 +19,7 @@ new First Parish Court facility until such time as the facility is paid for.
 The service charge will go into effect January 1, 1979, and once the bonds are retired, the service charge will be
 cancelled, provided that at that time the courts are self sufficient.
 (Code 1961, § 2-45.14)
-##### Sec. 10-2. - Security fee for civil filing.
+Sec. 10-2. - Security fee for civil filing.
 (a)
 The Jefferson Parish Council hereby authorizes the judges of First and Second Parish Court of Jefferson Parish,
 pursuant to LSA-R.S. 13:2562.24, to impose a security fee not to exceed five dollars ($5.00) per civil filing and

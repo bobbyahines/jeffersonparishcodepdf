@@ -12,7 +12,7 @@ motor vehicles, Ch. 36; vehicles for hire, Ch. 38; zoning, Ch. 40.
 State Law reference— For powers of parish governing authorities as to roads, bridges and ditches, see R.S.
 48:481.
 ### ARTICLE I. - IN GENERAL
-##### Sec. 29-0.1. - Definitions.
+Sec. 29-0.1. - Definitions.
 For the purpose of this chapter, the following terms, phrases, words and derivations shall have the meanings
 given herein, unless it is apparent from the context that a different meaning is intended:
 ASHTO means American Association of State Highway and Transportation Officials.
@@ -157,7 +157,7 @@ disposal vehicles; a private road is a road whose use by the public is controlle
 called private road.
 Way means a road, path, or track affording passage from one place to another.
 (Ord. No. 23233, § 2, 1-23-08; Ord. No. 23292, § 38, 5-7-08)
-##### Sec. 29-0.2. - Street names and characteristics.
+Sec. 29-0.2. - Street names and characteristics.
 (a)
 When the provisions of this Code are intended to address the movement of vehicular traffic, the nomenclature
 utilized classifies public ways into four (4) basic categories of street or road: 1) interstates (freeways), 2) arterial
@@ -175,7 +175,7 @@ otherwise designated, in any plat, survey, dedication, ordinance or map, does no
 descriptive or distinctive type of public way that such terms may otherwise invoke through common or
 customary usage.
 (Ord. No. 23233, § 2, 1-23-08; Ord. No. 23292, § 39, 5-7-08)
-##### Sec. 29-1. - Excavating or obstructing roads.
+Sec. 29-1. - Excavating or obstructing roads.
 (a)
 The department of streets shall issue all permits for any work, excavation, or activity required by this Article I.
 of this chapter and the fees for said permits shall be calculated according to the provisions for calculating
@@ -202,7 +202,7 @@ property owned by, or under the control of, the parish, or, its districts or sub
 projects that have commenced without a parish permit.
 (Code 1961, § 15-4; Ord. No. 21481, § 4, 1-9-02)
 State Law reference— Closing, obstructing or changing roads, R.S. 48:512.
-##### Sec. 29-2. - Removal of materials from roads, streets, etc., prohibited; exceptions.
+Sec. 29-2. - Removal of materials from roads, streets, etc., prohibited; exceptions.
 (a)
 It shall be unlawful for any person to remove mud, soil, shells, gravel or any other type of materials from the
 roads, streets, or parish highways or any other public property within the parish.
@@ -210,16 +210,16 @@ roads, streets, or parish highways or any other public property within the paris
 This section shall not apply to contractors, performing within the scope of their contracts for the paving or
 installation of public utilities or construction of public buildings, etc.
 (Code 1961, § 12-28)
-##### Sec. 29-3. - Emptying or discharging objectionable matter into ditches and gutters prohibited.
+Sec. 29-3. - Emptying or discharging objectionable matter into ditches and gutters prohibited.
 The discharging or the emptying of refuse, water, oil or other objectionable matter into the ditches or gutters of
 the public streets or roads is hereby declared to be a public nuisance and prohibited.
 (Code 1961, § 15-5)
-##### Sec. 29-4. - Concrete slabs across open ditches, culverts.
+Sec. 29-4. - Concrete slabs across open ditches, culverts.
 Written application must be made to and permission obtained from the department of public works for the
 purpose of placing or constructing concrete slabs across any open ditch or culvert whose purpose is to drain
 rainfall from areas subject to the jurisdiction of any drainage district located in the parish.
 (Code 1961, § 15-6)
-##### Sec. 29-5. - Procedure to change names of streets, boulevards, avenues.
+Sec. 29-5. - Procedure to change names of streets, boulevards, avenues.
 (a)
 The parish council establishes the following procedure to have the names of any streets, boulevards and avenues
 changed: Upon its own motion or upon the written request of any person stating good cause, the parish council
@@ -244,7 +244,7 @@ requesting the change of name of the street, boulevard or avenue.
 The appropriate department is hereby authorized and directed to take the necessary steps in order to give legal
 effect to any ordinance enacted pursuant to this section.
 (Code 1961, § 15-8)
-##### Sec. 29-6. - Right-of-way obstruction.
+Sec. 29-6. - Right-of-way obstruction.
 (a)
 
 The right-of-way is held by the parish primarily for the purpose of pedestrian and vehicular passage and for the
@@ -411,7 +411,7 @@ previous property owner.
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Code 1961, § 12-28.1; Ord. No. 18741, § 1, 4-28-93; Ord. No. 19116, § 1, 6-22-94; Ord. No. 19785, § 1, 8-1496; Ord. No. 22801, § 2, 7-19-06; Ord. No. 23233, § 3, 1-23-08; Ord. No. 23292, § 40, 5-7-08; Ord. No. 23671,
 § 4, 10-14-09; Ord. No. 24955 , § 1, 6-10-15)
-##### Sec. 29-7. - Reserved.
+Sec. 29-7. - Reserved.
 Editor's note— Emergency Ord. No. 16633, adopted Oct. 10, 1985, did not specifically amend this Code; hence
 inclusion of §§ 1—3 as § 29-7 was at the discretion of the editor. Subsequently, the ordinance was repealed by §
 1 of Ord. No. 16720, adopted Dec. 18, 1985.
@@ -428,7 +428,7 @@ Footnotes:
 State Law reference— Consolidated road lighting district, R.S. 48:1301.
 Secs. 29-34, 29-35. - Reserved.
 Note— See the editor's note to § 29-37.
-##### Sec. 29-36. - Road lighting district no. 7.
+Sec. 29-36. - Road lighting district no. 7.
 (a)
 Creation. There is hereby created a road lighting district, comprising and embracing all of that property within
 the following described boundaries:
@@ -441,7 +441,7 @@ All as per map by William E. Cloutet, Parish Engineer, adopted hereby and made a
 Official designation. The road lighting district created by subsection (a) shall be known and designated as "Road
 Lighting District No. 7 of the Parish of Jefferson, State of Louisiana."
 (Code 1961, §§ 15-55, 15-56)
-##### Sec. 29-37. - Consolidated road lighting district.
+Sec. 29-37. - Consolidated road lighting district.
 (a)
 Created. A consolidated road lighting district is hereby created, which shall comprise and embrace all of that
 territory within existing consolidated road lighting districts no. 1 and no. 2, described as follows:
@@ -458,10 +458,10 @@ of § 1 as § 29-37, superseding the provisions of existing §§ 29-34, 29-35, d
 Code 1961, §§ 1543(a), 1544(a), was at the discretion of the editor.
 Secs. 29-38—29-47. - Reserved.
 #### DIVISION 3. - ELECTRICAL CODE FOR STREET LIGHTING
-##### Sec. 29-48. - Title.
+Sec. 29-48. - Title.
 This division shall be known as the Electrical Code for street lighting in the unincorporated areas of the parish.
 (Code 1961, § 15-12)
-##### Sec. 29-49. - Object and scope.
+Sec. 29-49. - Object and scope.
 (a)
 The object and scope of this division is to provide uniformity of standards for street lighting systems and to
 reduce personal hazards from electrical causes. To accomplish this the requirements set forth herein are intended
@@ -471,12 +471,12 @@ This division shall not apply to installations made by the local electrical publ
 companies, radio transmission stations, in transmissions or distribution of electricity or for the operation of
 signals or the transmission of intelligence, in the exercise of their functions as such agencies.
 (Code 1961, § 15-13)
-##### Sec. 29-50. - Lighting routes, street lights to conform to resolution of council.
+Sec. 29-50. - Lighting routes, street lights to conform to resolution of council.
 In addition to the procedures already established for the installation of road lighting, the departments, agencies
 and utility companies of the parish shall, upon resolution duly adopted by the parish council, install lighting
 routes and street lights in conformity with the resolution.
 (Code 1961, § 15-13.1)
-##### Sec. 29-51. - Permit—Required.
+Sec. 29-51. - Permit—Required.
 (a)
 No wiring, poles, duct lines, guy anchors, apparatus, devices, appliances, fixtures or equipment for transmission,
 distribution or utilization of electrical energy for any purpose shall be installed within the unincorporated areas
@@ -504,7 +504,7 @@ inspection and code enforcement for the permit necessary to make such installati
 plot, showing all details required by the parish engineer and the department of inspection and code enforcement
 shall be kept in their files.
 (Code 1961, § 15-14)
-##### Sec. 29-52. - Same—Application.
+Sec. 29-52. - Same—Application.
 (a)
 The application for a permit under this division shall describe the work to be done and shall be made in writing.
 The permit when issued shall be issued to such applicant to cover such work as described and detailed.
@@ -515,18 +515,18 @@ The application shall be accompanied by such plans, specifications and schedules
 determine whether the installation as described will be in conformity with the requirements of the ordinances of
 the parish.
 (Code 1961, § 15-15)
-##### Sec. 29-53. - Same—Issuance.
+Sec. 29-53. - Same—Issuance.
 If it shall be found that the installations as described in the application will, in general, conform to the
 requirements of this division and if the applicant has complied with all provisions of other ordinances of the
 unincorporated sections of the parish, a permit for such installation shall be issued; provided, however, that the
 issuance of a permit will not be taken as permission or as a license to violate any of the requirements of this
 division or any ordinance of the unincorporated areas of the parish.
 (Code 1961, § 15-16)
-##### Sec. 29-54. - Same—Guarantee.
+Sec. 29-54. - Same—Guarantee.
 The person in whose name the permit is issued shall guarantee to the parish all work for a period of one (1) year.
 A warranty bond must be furnished in the amount of one thousand dollars ($1,000.00) for each installation.
 (Code 1961, § 15-17)
-##### Sec. 29-55. - Concealed wiring; requirements.
+Sec. 29-55. - Concealed wiring; requirements.
 (a)
 When any part of a wiring installation is to be buried or concealed from view, the person supervising and
 installing the duct or wiring shall notify the department of inspection and code enforcement and such parts of the
@@ -541,11 +541,11 @@ necessary has been made. Any person removing, destroying, altering or defacing t
 of the department of inspection and code enforcement shall be deemed guilty of an offense, and any work
 described in the notice shall be stayed pending the further necessary inspection.
 (Code 1961, § 15-18)
-##### Sec. 29-56. - Use of public streets, alleys, etc.
+Sec. 29-56. - Use of public streets, alleys, etc.
 Any installation of raceway, tube, conduit or wires under the public places, alleys and streets shall be in
 accordance with this division and other parish ordinances covering the use of public places, alleys and streets.
 (Code 1961, § 15-19)
-##### Sec. 29-57. - Raceways.
+Sec. 29-57. - Raceways.
 (a)
 All underground conductors supplying current for street lighting systems shall be installed in a nonmetallic
 flexible polyethylene coilable plastic duct and conductor type assembly prefabricated with conductors at the
@@ -570,7 +570,7 @@ They shall be provided a standard weatherproof junction box at or mounted on the
 which the underground feeders receive their current supply and the underground raceway shall be continuous
 from the junction box to the base of each light standard.
 (Code 1961, § 15-20)
-##### Sec. 29-58. - Service equipment.
+Sec. 29-58. - Service equipment.
 The service equipment shall consist of a service entrance conduit fitting, a thirty (30) ampere weatherproof
 switch, a galvanized weatherproof junction box of suitable size (see section 5768 of N.E.C.) to connect service
 wires with underground feeder wires and one and one-fourth (1¼) inch galvanized rigid conduit. This equipment
@@ -580,24 +580,24 @@ the junction box six (6) inches above grade. The service conductors shall be run
 conduit and the conduit to be continuous from the service head to the weatherproof junction box. The service
 conduit shall be supported as required by the National Electrical Code.
 (Code 1961, § 15-21)
-##### Sec. 29-59. - Grounding.
+Sec. 29-59. - Grounding.
 The service equipment shall be grounded at the utility company's pole to a drive electrode. There shall be run the
 length of the system an equipment grounding conductor of #8 B & S gauge copper for grounding all light
 standards, metallic sections of raceways and other metallic equipment. The equipment bounding conductor shall
 be an insulated conductor.
 (Code 1961, § 15-22)
-##### Sec. 29-60. - Feeder conductors.
+Sec. 29-60. - Feeder conductors.
 The underground feeder conductors shall be copper with Type (R.R.-U.S.E.R.W., or R.H.W., insulation and shall
 be of sufficient size so that the voltage drop to the last light standard will not exceed five (5) percent. The
 conductor size in any case shall not be smaller than #8 B & S gauge.
 (Code 1961, § 15-23)
-##### Sec. 29-61. - Connections.
+Sec. 29-61. - Connections.
 All electrical connections shall be made with the use of U.L. approved mechanical connectors and shall be made
 in the junction box at the base of the service pole or in the hand pole at the base of the light standard. "Y" type
 connection will be installed for feeders going up pole. No splices or connections shall be made in conduit or
 raceways. Each connection shall be covered with insulation equal to the insulation of the conductor.
 (Code 1961, § 15-24)
-##### Sec. 29-62. - Street light standards.
+Sec. 29-62. - Street light standards.
 (a)
 Aluminum. Street light standards shall be fabricated of a spun aluminum pole approximately twenty (20) feet in
 length with seven (7) inches diameter at bottom and four (4) inches diameter at top. The pole shall be furnished
@@ -616,17 +616,17 @@ be furnished with single six-foot continuous rise galvanized tubular bracket for
 fitter mounting. For locations where there exists similar light standards, standards shall match those existing in
 the street, upon approval by the department of inspection and code enforcement.
 (Code 1961, § 15-25)
-##### Sec. 29-63. - Spacing of standards.
+Sec. 29-63. - Spacing of standards.
 There shall be one (1) standard installed at each intersection and spacing of standards shall not exceed two
 hundred (200) feet and shall not be less than one hundred fifty (150) feet, except by special permission of the
 department of inspection and code enforcement.
 (Code 1961, § 15-26)
-##### Sec. 29-64. - Luminaries.
+Sec. 29-64. - Luminaries.
 Luminaries shall be standard size street lighting luminaries equipped with aluminum head and separate
 aluminum reflector, with Mogul screw multiple socket for incandescent lamp, with IES type V glassware, with
 automatic latch glassware fastener and with one and one-fourth (1¼) inch slip fitter type head.
 (Code 1961, § 15-27)
-##### Sec. 29-65. - Foundations of standards.
+Sec. 29-65. - Foundations of standards.
 Foundations shall be of concrete case in place. Two (2) ninety (90) degree, two (2) inch galvanized conduit
 bends shall be provided for wiring and shall be placed with the conduit extending four (4) inches above the top
 of the foundation and shall extend six (6) inches from the sides of the foundation two (2) feet below grade in a
@@ -635,19 +635,19 @@ supplier of the street light standards. The top of the concrete foundation shall
 two and one-half (2½) inches above grade. The size of the foundation and the necessity for piling under the
 foundation will be determined by the parish engineer at the time that plans for street lighting are approved.
 (Code 1961, § 15-28)
-##### Sec. 29-66. - Special installations.
+Sec. 29-66. - Special installations.
 When in the opinion of the parish engineer light standards, luminaries, and lamps other than those specified
 herein are required for special lighting projects, the parish engineer will furnish detailed specifications for each
 project.
 (Code 1961, § 15-29)
-##### Sec. 29-67. - Fees.
+Sec. 29-67. - Fees.
 There shall be charged the following fees:
 (1)
 Service and first standard, six dollars ($6.00);
 (2)
 Each additional standard, two dollars ($2.00).
 (Code 1961, § 15-30)
-##### Sec. 29-68. - Liability for damages.
+Sec. 29-68. - Liability for damages.
 This division shall not be construed to relieve from or lessen the responsibility or liability of any party owning,
 operating, controlling or installing any electric wiring, electric devices, light standards and/or electrical material,
 from damages to persons or property caused by any defect therein or by failure to provide adequate barricades,
@@ -655,7 +655,7 @@ signs, lanterns, etc., along open trenches, and at obstructions, nor shall the p
 the parish be held as assuming such liability by reason of the inspection or reinspection authorized herein or by
 reason of the approval or disapproval of any equipment authorized herein.
 (Code 1961, § 15-31)
-##### Sec. 29-69. - Violations.
+Sec. 29-69. - Violations.
 In addition to the penalty provided in section 1-10 the license of any class provided for in this division, held by
 the violator, shall be revoked.
 (Code 1961, § 15-32)
@@ -664,7 +664,7 @@ Secs. 29-70—29-85. - Reserved.
 Footnotes:
 --- (4) --Cross reference— Governing body and domicile of special districts, § 2-19; taxation, Ch. 35.
 State Law reference— Formation and consolidation of road districts, R.S. 48:571 et seq.
-##### Sec. 29-86. - Road district no. 1.
+Sec. 29-86. - Road district no. 1.
 (a)
 Creation. There is hereby created a road district consisting of all of that portion of the parish situated on the left
 bank of the Mississippi River and bounded by the line dividing the Parish of Jefferson and the City of New
@@ -674,7 +674,7 @@ the shore of Lake Pontchartrain.
 Official designation. The road district created by subsection (a) shall be known and designated as "Road District
 No. 1 of the Parish of Jefferson, State of Louisiana."
 (Code 1961, §§ 15-80, 15-81)
-##### Sec. 29-86.5. - Sub-road district no. 1 of road district no. 1.
+Sec. 29-86.5. - Sub-road district no. 1 of road district no. 1.
 (a)
 Creation. There is hereby created within road district no. 1 of the Parish of Jefferson, a sub-road district which
 shall comprise and embrace all of that territory contained within the corporate boundaries of the City of Kenner,
@@ -710,7 +710,7 @@ of § 1 as § 29-86.5 was at the discretion of the editor. Provisions dealing wi
 and journal were omitted from codification.
 Cross reference— Parish council to be governing body of certain special districts, courthouse to be domicile, §
 2-19.
-##### Sec. 29-87. - Consolidated road district A.
+Sec. 29-87. - Consolidated road district A.
 (a)
 Creation. There is hereby created a road district embracing all of that territory lying within the Parish of
 Jefferson on the west bank of the Mississippi River, and embracing that territory presently comprised within
@@ -721,7 +721,7 @@ and 3.
 Official designation. The road district created by subsection (a) shall be known and designated as "Consolidated
 Road District A of the Parish of Jefferson, State of Louisiana."
 (Code 1961, §§ 15-83, 15-84)
-##### Sec. 29-88. - Sub-road district no. 1 of road district A.
+Sec. 29-88. - Sub-road district no. 1 of road district A.
 (a)
 Creation. There is hereby created within Consolidated Road District A sub-road district consisting of the
 following territory:
@@ -738,15 +738,15 @@ Official designation. The sub-road district created by subsection (a) shall be k
 (Ord. No. 16161, § 1, 8-22-84)
 Editor's note— Ord. No. 16161, adopted Aug. 22, 1984, did not specifically amend this Code; hence inclusion
 of §§ 1—5 as § 29-88 was at the discretion of the editor.
-##### Sec. 29-89. - Pedestrian and bicycle traffic on the Lapalco Boulevard bridges prohibited.
+Sec. 29-89. - Pedestrian and bicycle traffic on the Lapalco Boulevard bridges prohibited.
 It shall be unlawful for pedestrian(s) or bicycle rider(s) including an individual walking his bicycle to cross or
 attempt to cross the Lapalco Bridge on Lapalco Boulevard crossing the Harvey Canal and Bayou Segnette.
 (Ord. No. 19400, § 3, 6-7-95)
-##### Sec. 29-90. - [Causeway Boulevard Overpass crossing over Veterans Boulevard; pedestrian crossing unlawful.]
+Sec. 29-90. - [Causeway Boulevard Overpass crossing over Veterans Boulevard; pedestrian crossing unlawful.]
 It shall be unlawful for pedestrian(s) to cross, attempt to cross, or stand on the Causeway Boulevard Overpass
 crossing over Veterans Boulevard.
 (Ord. No. 23612, § 3, 8-12-09)
-##### Sec. 29-91. - [Causeway Boulevard overpass crossing over I-10; pedestrian crossing unlawful.]
+Sec. 29-91. - [Causeway Boulevard overpass crossing over I-10; pedestrian crossing unlawful.]
 It shall be unlawful for pedestrian(s) to cross, attempt to cross, or stand on the Causeway Boulevard overpass
 crossing over I-10.
 (Ord. No. 23729, § 3, 1-13-10)
@@ -760,7 +760,7 @@ State Law reference— Jefferson Parish authority to blacktop streets and levy s
 33:3690.1
 
 #### DIVISION 1. - GENERALLY
-##### Sec. 29-104. - Procedure established.
+Sec. 29-104. - Procedure established.
 The procedure to pave or otherwise improve streets and alleys, including sidewalks and curbing, and the
 procedure to defray the costs of the improvements, in whole or in part, by the levying and collecting of special
 taxes or local assessments on all real estate abutting the streets, alleys, sidewalks, or curbing to be improved or
@@ -773,7 +773,7 @@ resolution giving notice of intention, hearing; resolution giving order; costs a
 ordinance levying local or special assessment; collection of assessment; revolving fund authorized. See the Code
 Comparative Table.
 #### DIVISION 2. - ENTRANCE TO AND EXITS FROM PROPERTY ADJACENT TO RIGHTS-OF-WAY
-##### Sec. 29-121. - Authority of parish.
+Sec. 29-121. - Authority of parish.
 Entrances to and exits from private properties adjacent to the rights-of-way of roads within the parish may be
 regulated, prohibited or abolished in the interest of the safety of the traveling public. The department of public
 works from time to time shall prepare and promulgate descriptions and illustrations of various types and styles
@@ -781,24 +781,24 @@ of entrances and exits consistent with this purpose, which descriptions and illu
 parish council, and shall issue permits of necessity and convenience for the installation of entrances and exits in
 accordance with its promulgated regulations and standards.
 (Code 1961, § 15-6.1)
-##### Sec. 29-122. - Compliance with regulations and standards required.
+Sec. 29-122. - Compliance with regulations and standards required.
 The department of public works is further authorized, empowered and directed to require property owners
 owning property adjacent to parish roadways to conform to the promulgated rules and regulations of the
 department and to require property owners to remove any and all existing improvements necessary in order to
 meet the regulations and standards of the department.
 (Code 1961, § 15-6.2)
-##### Sec. 29-123. - Time for compliance with standards and regulations.
+Sec. 29-123. - Time for compliance with standards and regulations.
 The property owners along existing rights-of-way shall be given a reasonable length of time to comply with the
 standards and regulations of the department of public works except that in no instance shall property owners fail
 to comply with the requirements of the department within a period of one (1) year from the date of written notice
 to property owner by the department.
 (Code 1961, § 15-6.3)
-##### Sec. 29-124. - Application to construction work.
+Sec. 29-124. - Application to construction work.
 In any and all construction work within the parish wherein such work requires entrances and exits to and from
 private property to the rights-of-way of the parish, the owner or responsible party therefor shall comply with the
 standards and regulations of the department of public works.
 (Code 1961, § 15-6.4)
-##### Sec. 29-125. - Notice to comply; effect of noncompliance.
+Sec. 29-125. - Notice to comply; effect of noncompliance.
 The department of public works is hereby authorized to notify property owners within the unincorporated areas
 of the parish to remove from any and all parish rights-of-way obstructions and surfacing of any type on parish
 property and to further require the property owners who are adjacent to the parish roadways to comply with the
@@ -813,7 +813,7 @@ owner of the property.
 (Code 1961, § 15-6.5)
 Secs. 29-126—29-129. - Reserved.
 ARTICLE IV-A. - PRIVATE STREETS OR ROADS
-##### Sec. 29-130. - Specifications and standards.
+Sec. 29-130. - Specifications and standards.
 (a)
 All private roads or streets shall be constructed in accordance with specifications and standards applicable to the
 construction of public streets of comparable size and/or any Parish Code requirements and standards.
@@ -831,11 +831,11 @@ Footnotes:
 --- (6) --Editor's note— Section III of Ord. No. 16613, adopted Sept. 25, 1985, amended this article to read as set forth
 in §§ 29-142—29-152. The article formerly consisted of §§ 29-142—29-149 and was derived from Code 1961,
 §§ 15-9—15-9.3, and Ord. No. 16535, §§ I, II, adopted Aug. 7, 1985.
-##### Sec. 29-142. - Reserved.
+Sec. 29-142. - Reserved.
 
 Editor's note— Ord. No. 23233, § 5, adopted January 23, 2008, repealed § 29-142, which pertained to
 definitions. See also the Code Comparative Table.
-##### Sec. 29-143. - Duty of property owners.
+Sec. 29-143. - Duty of property owners.
 It shall be the duty of all owners of property abutting streets to maintain the roadside adjacent to or upon their
 property. Such duty shall include but not be limited to the following:
 (1)
@@ -856,19 +856,19 @@ or standing of water on or near the sidewalks adjacent to or upon their property
 Prevent the growth or accumulation of weeds, grass, dirt or other nuisances on the sidewalk and roadside
 adjacent to or upon their property, in accordance with the provisions of sections 19-1 through 19-18.
 (Ord. No. 16613, § III, 9-25-85; Ord. No. 23233, § 6, 1-23-08; Ord. No. 24461, § 1, 4-17-13)
-##### Sec. 29-144. - Penalties and liabilities.
+Sec. 29-144. - Penalties and liabilities.
 Any person or property owner violating, or who refuses to comply with, any provision of this article shall be
 deemed guilty of a misdemeanor.
 (Ord. No. 16613, § III, 9-25-85)
 Cross reference— General penalty for Code violations, § 1-10.
-##### Sec. 29-145. - Order for construction of sidewalks.
+Sec. 29-145. - Order for construction of sidewalks.
 Where the sidewalk adjacent to or upon any lot or parcel of land or portion thereof is or becomes so worn,
 deteriorated or in need of repair, as determined by the director of the department of public works, or where no
 sidewalk exists and a sidewalk is needed, the director of the department of public works shall have the power to
 direct the owner(s) to construct or repair the sidewalk in a good and substantial manner in accordance with this
 section, and any regulations and plans therefor required by the department of public works.
 (Ord. No. 16613, § III, 9-25-85)
-##### Sec. 29-146. - Mandatory construction of sidewalks.
+Sec. 29-146. - Mandatory construction of sidewalks.
 (a)
 Sidewalks shall be installed on all streets that are more than fifty (50) percent developed with sidewalks on both
 sides of the street between two (2) intersecting streets or a cul-de-sac.
@@ -889,7 +889,7 @@ When repair, renovation, addition, or other improvement of a building (including
 costs equal or exceed fifty (50) percent of the assessed value of the building or structure, before the start of
 repair, renovation, addition, or other improvement.
 (Ord. No. 16613, § III, 9-25-85; Ord. No. 23292, § 41, 5-7-08; Ord. No. 25464 , § 1, 12-6-17)
-##### Sec. 29-147. - Building permits.
+Sec. 29-147. - Building permits.
 (a)
 Sidewalks must appear on plans submitted to the parish as part of the application for permits to the department
 of inspection and code enforcement. Final building inspection will not be released unless sidewalks are in place.
@@ -899,7 +899,7 @@ configuration after receiving approval from the director of inspection and code 
 other penalties provided in this section, be made to return the sidewalks to that construction and configuration as
 was approved on site plans, at his expense.
 (Ord. No. 16613, § III, 9-25-85)
-##### Sec. 29-148. - Objections and requests for relief.
+Sec. 29-148. - Objections and requests for relief.
 (a)
 If any property owner has been notified by the director of the department of public works as provided in section
 29-151 and has an objection to the construction or repair of a sidewalk or desires an extension of time within
@@ -932,7 +932,7 @@ exclusively upon a desire to serve the convenience or profit of the property own
 Upon denial or at the expiration of a temporary waiver, or waivers, as provided hereinabove, any property owner
 seeking further relief may do so by application to the council.
 (Ord. No. 16613, § III, 9-25-85)
-##### Sec. 29-149. - Authority of the council.
+Sec. 29-149. - Authority of the council.
 The council may, in its discretion, grant exemptions of installation of sidewalks to entire single-family
 residential subdivisions when it determines such sidewalks are not warranted. If any exemption, pursuant to this
 section, is granted to such subdivisions situated in whole or in part in zoning districts other than R-1 singlefamily, such exemption shall only apply to lots used for single-family residences and only when title restrictions
@@ -940,7 +940,7 @@ are imposed by the owner restricting such lots to single-family residences.
 Nothing contained in this section shall authorize the exemption of sidewalks which are mandated by the
 provisions of section 29-146(c).
 (Ord. No. 16613, § III, 9-25-85)
-##### Sec. 29-150. - Specifications and standards.
+Sec. 29-150. - Specifications and standards.
 (a)
 Sidewalks shall be constructed of poured-in-place Portland cement concrete having a minimum compressive
 strength of two thousand five hundred (2,500) pounds per square inch in twenty-eight (28) days. All poured-inplace concrete sidewalks constructed for residential dwellings shall had a minimum thickness of four (4) inches.
@@ -1008,7 +1008,7 @@ All sidewalks constructed in the sidewalk space or adjoining servitude must comp
 provided herein and any plans and specifications that the department of public works may, by rule, require. The
 department of engineering will provide standard plans to supplement these specifications, upon request.
 (Ord. No. 16613, § III, 9-25-85; Ord. No. 17993, § 1, 6-6-90)
-##### Sec. 29-151. - Authority of parish to do work; notices required.
+Sec. 29-151. - Authority of parish to do work; notices required.
 (a)
 If the adjoining property owner fails or refuses to comply with the provisions of this article and in cases where
 sidewalks need to be constructed or repaired under the provisions of this article, the director of the department of
@@ -1038,7 +1038,7 @@ independent contractor and may charge against the property involved the actual c
 administrative costs and accrued legal interest, in accordance with article 2924 of the Louisiana Civil Code,
 from the date of completion of the work.
 (Ord. No. 16613, § III, 9-25-85; Ord. No. 20561, § 1, 1-13-99)
-##### Sec. 29-152. - Local or special assessment for cost; imposition; payment.
+Sec. 29-152. - Local or special assessment for cost; imposition; payment.
 (a)
 The parish may adopt an ordinance levying a local or special assessment against the property and its owner in
 such cases where the property owner shall refuse to pay the cost of construction or repair.
@@ -1059,12 +1059,12 @@ The property owner may, upon written request, have the construction cost divided
 of one-fifth ( 1/5 ) each, payable over a five-year period with legal interest, in accordance with article 2924 of
 the Louisiana Civil Code, from the actual date of completion.
 (Ord. No. 16613, § III, 9-25-85)
-##### Sec. 29-153. - Reserved.
+Sec. 29-153. - Reserved.
 Editor's note— Ord. No. 21095, § 1, adopted Oct. 4, 2000, repealed § 29-153, which pertained to director's
 designee. See the Code Comparative Table.
 Secs. 29-154—29-165. - Reserved.
 ### ARTICLE VI. - DRIVEWAYS
-##### Sec. 29-166. - Installation, removal, curbing; permit required; application for permit.
+Sec. 29-166. - Installation, removal, curbing; permit required; application for permit.
 (a)
 Permit required. No person shall remove, curb or install a driveway abutting his property in the parish without
 first having obtained a permit from the director of the department of public works, hereinafter in this article
@@ -1076,17 +1076,17 @@ and such other information as the director may require. Such forms shall also sh
 applicant for the permit and the dimensions and location of the driveway. A copy of this application form shall
 be furnished to the director of inspection and code enforcement.
 (Code 1961, § 15-101)
-##### Sec. 29-167. - Deposit required prior to issuance of permit.
+Sec. 29-167. - Deposit required prior to issuance of permit.
 The director shall have the power and authority, and it shall be his duty to exact from applicants before issuing
 permits for the installation of a driveway, a deposit to guarantee compliance with the provisions of this article.
 (Code 1961, § 15-102)
-##### Sec. 29-168. - Width, length, location of driveways prescribed; waiver of requirements.
+Sec. 29-168. - Width, length, location of driveways prescribed; waiver of requirements.
 The driveway shall be constructed of such length and width, and at such points, as may be designated by the
 director. The maximum width of said driveway shall be twenty-five (25) feet at the property line, and thirty-five
 (35) feet at the curbline. When a person installing driveways presents proof of hardship in connection with the
 above prescribed driveway widths set forth in this section, the council may waive or alter these requirements.
 (Code 1961, § 15-103)
-##### Sec. 29-169. - Distance between driveways, driveways at street intersections, regulated; exceptions to
+Sec. 29-169. - Distance between driveways, driveways at street intersections, regulated; exceptions to
 requirements.
 When two (2) or more driveways are to be constructed, such driveways shall be separated a minimum distance
 of ten (10) feet, measured along the property line. At a street intersection, no driveway shall encroach upon that
@@ -1095,7 +1095,7 @@ intersecting streets. When an applicant for a driveway permit presents proof of 
 above mentioned provisions of this section, the director is hereby empowered to grant exceptions to these
 provisions, in his discretion.
 (Code 1961, § 15-104)
-##### Sec. 29-170. - Details of construction to conform to plan; duty of director; exception to radius dimension.
+Sec. 29-170. - Details of construction to conform to plan; duty of director; exception to radius dimension.
 The details of driveway construction shall conform with plan No. 1, dated June 28, 1962, and titled "Details of
 Standard (Residential or Commercial) and Heavy Duty Driveways for Both Vertical and Lip Curbs." The
 director shall designate whether the proposed driveway is to be standard or heavy duty, and also, when lip curbs
@@ -1103,28 +1103,28 @@ exist, whether the proposed driveway is to be residential or commercial. Where p
 exception to the four-foot radius as shown on plan No. 1, the director is hereby empowered to grant that
 exception to such radius dimension.
 (Code 1961, § 15-105)
-##### Sec. 29-171. - Existence of lip curbs; sidewalk area to be free of surface materials; sidewalk installation.
+Sec. 29-171. - Existence of lip curbs; sidewalk area to be free of surface materials; sidewalk installation.
 Where lip curbs exist in front of property that is used or may be used for residential, commercial or industrial
 purposes, that part of the sidewalk area beyond the limits of a driveway, between the street edge of a paved
 sidewalk and the back of the lip curb, shall be clearly delineated by being free of concrete and other surfaced
 materials. When the owner of such residential, commercial or industrial property wishes to install a sidewalk, the
 width and grade elevation shall be approved by the director.
 (Code 1961, § 15-106)
-##### Sec. 29-172. - Amount of deposit requirement; refund.
+Sec. 29-172. - Amount of deposit requirement; refund.
 The deposit referred to in section 29-167 shall be twenty-five cents ($0.25) per square foot. The director shall
 have the right and authority in unusual cases to exact larger deposits than the above prescribed. Upon the
 completion of the driveway and inspection thereof by the department of public works, if the driveway meets the
 parish's specifications, a refund of ninety (90) percent will be returned to the depositor and ten (10) percent will
 be retained by the department of public works to defray the expenses of the necessary inspection.
 (Code 1961, § 15-107)
-##### Sec. 29-173. - Thickness of driveways; cement specifications; omission of steel reinforcement.
+Sec. 29-173. - Thickness of driveways; cement specifications; omission of steel reinforcement.
 All standard driveways shall be six (6) inches in thickness and all heavy duty driveways shall be eight (8) inches
 in thickness. Driveways shall be formed of Portland cement concrete, which shall have a compressive strength
 of three thousand pounds (3,000) per square inch in twenty-eight (28) days, and contain a minimum of five and
 one-half (5½) bags of cement to a cubic yard. Where reinforced concrete roadway pavement is adjacent to the
 driveway, the steel reinforcement may be omitted in the driveway.
 (Code 1961, § 15-108)
-##### Sec. 29-174. - Conditions of permit; restoration of sidewalk; denial of permit.
+Sec. 29-174. - Conditions of permit; restoration of sidewalk; denial of permit.
 (a)
 Issuance, duration; refund of deposit. Permits herein provided for shall become null and void forty-five (45)
 days from date of issuance if not used; and any deposit made therefor shall in no case be refunded, unless such
@@ -1140,7 +1140,7 @@ changed in consequence of the construction of such driveway.
 Denial of permit. The director may refuse to issue such driveway permit in any case when, in the interest of
 public safety, the same ought not to be granted.
 (Code 1961, § 15-109)
-##### Sec. 29-175. - Approval, disapproval of application; noncompliance with regulations; notice.
+Sec. 29-175. - Approval, disapproval of application; noncompliance with regulations; notice.
 If the director approves the application for the removal, curbing or installation of a driveway hereunder, such
 approval shall be signed by the director or a duly authorized officer of the department of public works. If such
 application is not approved, or if the driveway was not installed in accordance with the specifications of this
@@ -1148,7 +1148,7 @@ article, the director shall notify the applicant of the reasons why he has not c
 director of inspection and code enforcement shall be notified to withhold or revoke the building permit or use
 and occupancy certificate. In such cases, no part of the deposit shall be returned to the depositor.
 (Code 1961, § 15-110)
-##### Sec. 29-176. - Duty of property owners.
+Sec. 29-176. - Duty of property owners.
 It shall be the duty of all owners of property abutting streets to maintain the driveway apron in the roadside
 adjacent to or upon their property. Such duty shall include but not be limited to the following:
 (1)
@@ -1174,7 +1174,7 @@ in accordance with the provisions of sections 19-1 through 19-18.
 (Ord. No. 23233, § 7, 1-23-08; Ord. No. 24461, § 2, 4-17-13)
 Secs. 29-177—29-191. - Reserved.
 ### ARTICLE VII. - BEAUTIFICATION AREAS
-##### Sec. 29-192. - Certain areas designated for beautification.
+Sec. 29-192. - Certain areas designated for beautification.
 The following areas, including any neutral and/or any public right-of-way, are hereby designated as areas for
 beautification:
 (1)
@@ -1182,7 +1182,7 @@ Veterans Memorial Highway from the Orleans Parish line to the corporate limits o
 (2)
 Causeway Boulevard from Lake Pontchartrain to the River Road.
 (Code 1961, § 15-120)
-##### Sec. 29-193. - Offenses.
+Sec. 29-193. - Offenses.
 It shall be unlawful for any person to damage, cut, transplant or remove any tree, plant or injure the bark or pick
 flowers or seeds of any tree, plant or grass, or to commit any act of vandalism to or on any area designated in
 this article; or to deposit rubbish, waste, refuse, including, but not limited to, glass, ashes, cans, bottles on said
@@ -1190,7 +1190,7 @@ designated areas; or to permit any animal, including horses, cows or dogs, to cr
 designated areas; or to drive any motor vehicle on or across such designated areas; or to use any chemical
 detrimental to plants, shrubberies, trees or other plant life on such designated areas.
 (Code 1961, § 15-121)
-##### Sec. 29-194. - Petition to beautify.
+Sec. 29-194. - Petition to beautify.
 Any person desiring to beautify an area, subject to the provision of section 29-122, shall follow the following
 procedure:
 (1)
@@ -1209,10 +1209,10 @@ A hold-harmless clause in favor of the parish in connection therewith.
 Obtain the written consent of the parish to beautify the area on such other terms and conditions as may be
 imposed by the parish council.
 (Code 1961, § 15-122)
-##### Sec. 29-195. - Signs; warning or other.
+Sec. 29-195. - Signs; warning or other.
 The parish council may direct the department of inspection and code enforcement to erect appropriate signs,
 including warning signs, on areas designated in section 29-192.
 (Code 1961, § 15-123)
-##### Sec. 29-196. - Property owned or leased by parish; requirements.
+Sec. 29-196. - Property owned or leased by parish; requirements.
 No person shall beautify any property, owned or leased by the parish, without complying with section 29-194.
 (Code 1961, § 15-124)

@@ -9,7 +9,7 @@ Footnotes:
 --- (2) --Editor's note— Ord. No. 22477, § 6, adopted April 13, 2005, amended Arts. I and II, in their entirety, to read as
 herein set out. Prior to inclusion of said ordinance, Arts. I and II pertained to similar subject matter. See also the
 Code Comparative Table.
-##### Sec. 5-1. - Definitions.
+Sec. 5-1. - Definitions.
 The following definitions shall govern in the use and interpretation of this chapter unless the context clearly
 indicates otherwise:
 Agency means any department, division, board, council, committee, authority or agency of the state or any of its
@@ -46,7 +46,7 @@ as set forth in this chapter.
 Transfer vehicle attendant means any person who possesses a certificate, pursuant to the provisions of this
 chapter, to act as a transfer vehicle attendant.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, §§ 1, 2, 3-24-10; Ord. No. 25721 , § 1, 1-16-19)
-##### Sec. 5-2. - Requirements, generally.
+Sec. 5-2. - Requirements, generally.
 (a)
 No individual or company shall conduct, maintain, or operate an ambulance service or patient transport service
 unless he/she complies with the provisions of this chapter and other applicable laws.
@@ -60,7 +60,7 @@ It shall be unlawful for any individual or company to conduct, maintain, or oper
 response vehicle or patient transfer vehicle which does not comply with the provisions of this chapter and other
 applicable laws.
 (Ord. No. 22477, § 6, 4-13-05)
-##### Sec. 5-3. - Restrictions and prohibitions.
+Sec. 5-3. - Restrictions and prohibitions.
 (a)
 Except as otherwise provided in this chapter, no person shall transport or cause to be transported any patient in
 need of emergency medical services in any vehicle other than an ambulance.
@@ -76,7 +76,7 @@ the services required.
 No license, permit or certificate issued under the provisions of this chapter shall be assignable or transferable by
 the person or company to whom issued.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 3, 3-24-10)
-##### Sec. 5-4. - Applicability.
+Sec. 5-4. - Applicability.
 (a)
 All medical transportation vehicles, personnel and services in the parish shall be governed by the provisions of
 this chapter; and, except as otherwise provided, Article II, Division 1, sections 5-16 through 5-20 shall govern
@@ -85,7 +85,7 @@ ambulance services and Division 2, sections 5-24 through 5-28 shall govern patie
 Nothing contained herein shall prevent or prohibit any ambulance, or ambulance service from performing
 nonemergency or noncritical transfers or any other similar function of patient transfer or transportation services.
 (Ord. No. 22477, § 6, 4-13-05)
-##### Sec. 5-5. - Ambulance services answering 911 calls.
+Sec. 5-5. - Ambulance services answering 911 calls.
 (a)
 Eastbank areas. The East Jefferson General Hospital Emergency Medical Service is hereby designated as the
 official ambulance service to be notified on all 911 communication center emergency medical calls from the
@@ -104,7 +104,7 @@ Secs. 5-6—5-15. - Reserved.
 Footnotes:
 --- (3) --Note— See the editor's note at Art. I.
 #### DIVISION 1. - AMBULANCES AND EMERGENCY RESPONSE VEHICLES
-##### Sec. 5-16. - Definitions.
+Sec. 5-16. - Definitions.
 The following definitions shall govern in the use and interpretation of this division unless the context clearly
 indicates otherwise:
 Automated external defibrillator means a cardiac defibrillator (automatic or semi-automatic) that is capable of
@@ -117,7 +117,7 @@ service in the parish.
 Permit means any authorization issued by the department pursuant to this chapter for a vehicle operated as an
 ambulance or emergency medical response vehicle that meets standards approved by the department.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 4, 3-24-10; Ord. No. 25721 , § 2, 1-16-19)
-##### Sec. 5-17. - Licenses and permits, generally.
+Sec. 5-17. - Licenses and permits, generally.
 (a)
 No individual, either owner, agent or otherwise, or company, shall furnish, operate, conduct, maintain, advertise
 or otherwise engage in or profess to engage in providing ambulance services in this parish unless that individual
@@ -135,7 +135,7 @@ occupied by at least two (2) individuals, each of whom is currently a licensed p
 nurse, licensed practical nurse or emergency medical technician; one (1) of whom must be present in the patient
 compartment of the vehicle during transportation of the patient.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 5, 3-24-10; Ord. No. 25721 , § 3, 1-16-19)
-##### Sec. 5-18. - License and application procedures.
+Sec. 5-18. - License and application procedures.
 (a)
 The application to the office for a license under this division shall include:
 (1)
@@ -192,7 +192,7 @@ In order for licenses to remain valid, all requirements must be maintained durin
 e.
 Licenses shall be renewed only if the holder meets the prescribed standards at the time of renewal.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 6, 3-24-10; Ord. No. 25357 , § 1, 5-3-17)
-##### Sec. 5-19. - Permits; design specifications of ambulances, emergency response vehicles, and required equipment.
+Sec. 5-19. - Permits; design specifications of ambulances, emergency response vehicles, and required equipment.
 (a)
 A permit shall be issued for an ambulance only if the vehicle complies with the vehicle design specifications
 approved by the U.S. Department of Transportation (current KKK-1822) standards and appropriate amendments,
@@ -250,7 +250,7 @@ specified herein.
 (l)
 Modifications to any of the above specifications must be approved by the department.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 7, 3-24-10)
-##### Sec. 5-20. - Standards for personnel.
+Sec. 5-20. - Standards for personnel.
 (a)
 It shall be unlawful for any individual to act or attempt to act as an emergency medical technician if said
 individual does not meet the prescribed qualifications as set forth in this division.
@@ -318,7 +318,7 @@ In order for state-issued licenses to remain valid, all requirements must be mai
 4, 1-16-19)
 Secs. 5-21—5-23. - Reserved.
 #### DIVISION 2. - TRANSFER VEHICLES
-##### Sec. 5-24. - Definitions and exemptions.
+Sec. 5-24. - Definitions and exemptions.
 The following definitions shall govern in the use and interpretation of this division unless the context clearly
 indicates otherwise:
 Certificate means any authorization issued by the department, pursuant to this chapter, to an individual to act as
@@ -328,7 +328,7 @@ transportation or transfer services in the parish.
 Permit means any authorization issued by the department pursuant to this chapter for a vehicle operation as a
 transfer vehicle that meets standards approved by the department.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 9, 3-24-10)
-##### Sec. 5-25. - Licenses, permits and certificates, generally.
+Sec. 5-25. - Licenses, permits and certificates, generally.
 (a)
 No individual or company, either as owner, agent or otherwise, shall furnish, operate, conduct, maintain,
 advertise or otherwise engage in or profess to engage in providing patient transportation or transfer services in
@@ -340,7 +340,7 @@ department.
 No individual shall act or attempt to act as a transfer vehicle attendant on any transfer vehicle, when that vehicle
 is transporting a patient, unless that individual has the appropriate certificate issued by the department.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 10, 3-24-10)
-##### Sec. 5-26. - License and application procedures.
+Sec. 5-26. - License and application procedures.
 (a)
 The application to the office for a license under this division shall include:
 (1)
@@ -389,7 +389,7 @@ On order for licenses to remain valid, all requirements must be maintained durin
 (e)
 Licenses shall be renewed only if the holder meets the prescribed standards at the time of renewal.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 11, 3-24-10; Ord. No. 25357 , § 3, 5-3-17)
-##### Sec. 5-27. - Permits, design specifications and required equipment.
+Sec. 5-27. - Permits, design specifications and required equipment.
 (a)
 A permit for a transfer vehicle shall only be issued if it complies with the standards that the department may, by
 rule, require.
@@ -419,7 +419,7 @@ Permits shall be reviewed only if the holder meets the prescribed standards at t
 (k)
 The original permit must be carried in the designated vehicle at all times.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 12, 3-24-10)
-##### Sec. 5-28. - Certificates; application procedures and standards for personnel.
+Sec. 5-28. - Certificates; application procedures and standards for personnel.
 (a)
 No individual shall act or attempt to act as a transfer vehicle attendant unless that individual holds a currently
 valid certificate issued by the department.
@@ -466,9 +466,9 @@ In order for certificates to remain valid, all requirements must be maintained d
 (g)
 Certificates shall be renewed only if the holder meets the prescribed standards at the time of renewal.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 13, 3-24-10; Ord. No. 25357 , § 4, 5-3-17)
-##### Sec. 5-29. - Reserved.
+Sec. 5-29. - Reserved.
 #### DIVISION 3. - INSURANCE
-##### Sec. 5-30. - Required insurance coverage for applicants for ambulance service.
+Sec. 5-30. - Required insurance coverage for applicants for ambulance service.
 (a)
 No vehicle regulated by this chapter shall operate in this parish unless the following insurance coverages are in
 effect:
@@ -493,7 +493,7 @@ amount of five hundred thousand dollars ($500,000.00) per occurrence and five hu
 No insurance coverage shall be satisfactory unless issued by an insurance company authorized to write such
 coverage in the state.
 (Ord. No. 22477, § 6, 4-13-05)
-##### Sec. 5-31. - Required insurance coverage for applicants for non-emergency transfer vehicle service license.
+Sec. 5-31. - Required insurance coverage for applicants for non-emergency transfer vehicle service license.
 A non-emergency transfer vehicle shall not operate in this parish unless the following insurance coverage's are
 in effect:
 (1)
@@ -511,9 +511,9 @@ The applicant for a license to operate a non-emergency transfer vehicle service 
 insurance in the amount of three hundred thousand dollars ($300,000.00) per occurrence and three hundred
 thousand dollars ($300,000.00) in the aggregate.
 (Ord. No. 22477, § 6, 4-13-05)
-##### Sec. 5-32. - Reserved.
+Sec. 5-32. - Reserved.
 #### DIVISION 4. - ENFORCEMENT
-##### Sec. 5-33. - Inspections and investigations.
+Sec. 5-33. - Inspections and investigations.
 (a)
 The department shall make all investigations and inspections necessary for the enforcement of this chapter.
 (b)
@@ -525,9 +525,9 @@ special basis and at such times and places as the department deems necessary.
 The necessary inspections and investigations shall be performed by the Jefferson Parish E.M.S. - Program
 Compliance Specialist, who is hereby authorized to act for the department in all matters relative to this chapter.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 14, 3-24-10)
-##### Sec. 5-34. - Reserved.
+Sec. 5-34. - Reserved.
 #### DIVISION 5. - REVOCATIONS AND APPEALS
-##### Sec. 5-35. - Suspension or revocation of license, permit or certificate; procedures; appeals.
+Sec. 5-35. - Suspension or revocation of license, permit or certificate; procedures; appeals.
 (a)
 The administrative adjudication hearing officer is authorized to suspend or revoke any license, permit or
 certificate issued under this chapter in any case where, after a hearing on the matter, it is determined that there
@@ -548,9 +548,9 @@ the preliminary order;
 Following a hearing with the bureau of administrative adjudication all violation charges are dismissed or a
 posthearing suspension or revocation order is issued which modifies the preliminary order.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 15, 3-24-10)
-##### Sec. 5-36. - Reserved.
+Sec. 5-36. - Reserved.
 #### DIVISION 6. - EXCEPTIONS
-##### Sec. 5-37. - Generally.
+Sec. 5-37. - Generally.
 The following are excepted from the provisions of this chapter:
 (1)
 The occasional use of a privately owned or publicly owned vehicle, aircraft or marine craft not ordinarily used as
@@ -577,7 +577,7 @@ compliance with state law.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 16, 3-24-10)
 Secs. 5-38, 5-39. - Reserved.
 #### DIVISION 7. - FEES, STANDARDS AND REGULATIONS, AND VIOLATIONS
-##### Sec. 5-40. - Fee schedule.
+Sec. 5-40. - Fee schedule.
 (a)
 The following fee schedule is established for licenses, permits and certificates required by this chapter:
 (1)
@@ -717,7 +717,7 @@ EMT's and non-emergent drivers violations fines. Any emergency medical technicia
 first offense fine and a second offense fine will be charged accordingly.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 24658, § 1, 1-15-14; Ord. No. 24701, § 1, 3-19-14; Ord. No. 25721 , §
 5, 1-16-19)
-##### Sec. 5-41. - Director to issue standards, regulations, method of reporting.
+Sec. 5-41. - Director to issue standards, regulations, method of reporting.
 (a)
 The director and/or his/her designee shall cause to be issued such standards and regulations that may be deemed
 appropriate in promulgating this chapter and the purposes thereof.
@@ -725,7 +725,7 @@ appropriate in promulgating this chapter and the purposes thereof.
 The director and/or his/her designee shall develop a methodology of reporting which shall be applicable to all
 licensees under this chapter.
 (Ord. No. 22477, § 6, 4-13-05; Ord. No. 23782, § 17, 3-24-10)
-##### Sec. 5-42. - Violations.
+Sec. 5-42. - Violations.
 Any individual or company found guilty of violating the provisions of this article shall be punished as provided
 in section 2.5-7(j).
 (Ord. No. 22477, § 6, 4-13-05)
@@ -735,7 +735,7 @@ Footnotes:
 --- (4) --Charter reference— Authority concerning special districts, § 2.01(A)(7).
 Cross reference— Governing body and domicile of special districts, § 2-19; taxation, Ch. 35.
 State Law reference— Authority for this article, R.S. 33:1247.1 et seq.
-##### Sec. 5-46. - Ambulance service district no. 1.
+Sec. 5-46. - Ambulance service district no. 1.
 (a)
 Creation. An ambulance service district is hereby created within the parish comprising and embracing all of that
 territory within the corporate limits of the Village of Lafitte, Louisiana, along with other areas, the boundaries of
@@ -757,7 +757,7 @@ boundary between the Parish of Jefferson and the Parish of Plaquemines, the poin
 Official designation. The ambulance service district created by subsection (a) shall be known and designated as
 "Ambulance Service District No. 1 of the Parish of Jefferson, State of Louisiana."
 (Code 1961, § 3A-1)
-##### Sec. 5-47. - Ambulance service district no. 2.
+Sec. 5-47. - Ambulance service district no. 2.
 (a)
 Created; boundaries. Under and by virtue of the authority conferred by Section 19 of Article 6 of the
 Constitution of the State of Louisiana for the year 1974, and L.R.S. 33:1247.1 et seq., an ambulance service

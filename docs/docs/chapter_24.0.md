@@ -3,7 +3,7 @@ Footnotes:
 --- (1) --Cross reference— Water, sewerage and drainage, Ch. 27; roads and bridges, Ch. 29; waterways and beaches,
 Ch. 39.
 ### ARTICLE I. - IN GENERAL
-##### Sec. 24-1. - Definitions.
+Sec. 24-1. - Definitions.
 Unless the context otherwise requires, the words defined in this section have the following meanings when used
 in this chapter:
 Canal shall mean any artificial body of water constructed for navigational or drainage purposes.
@@ -18,7 +18,7 @@ ascertained to be feasible and has been approved by the parish council.
 Slip shall mean an artificial body of water constructed solely to set, sink or construct floating structures.
 (Code 1961, § 5A-1)
 Cross reference— Definitions and rules of construction generally, § 1-2.
-##### Sec. 24-2. - Specific requirements of plans, specifications, materials and installation; exceptions.
+Sec. 24-2. - Specific requirements of plans, specifications, materials and installation; exceptions.
 (a)
 In addition to the specific requirements set forth in this section, all plans, specifications, materials and the
 installation of any pipeline for which a permit is required by section 24-24 shall comply with the Uniform
@@ -50,7 +50,7 @@ showing that the fulfillment of such requirement would impose undue hardship upo
 or that such requirement is inappropriate due to the existence of special conditions. Any exception granted by
 the council or its delegate may be conditioned in any manner it deems necessary or appropriate.
 (Code 1961, § 5A-5)
-##### Sec. 24-3. - Declaration of completion; map or plat.
+Sec. 24-3. - Declaration of completion; map or plat.
 Within thirty (30) days after the completion of any facility for which a permit is required by section 24-24, the
 permittee shall file with the parish council or its delegate, a sworn declaration of completion properly identified
 with the application and permit, certifying that the facility and its construction and installation are in accordance
@@ -59,7 +59,7 @@ issued. The declaration of completion shall be accompanied by a map or plat, in 
 or its delegate, showing the location of that portion or portions of the facility which are located on public
 projects.
 (Code 1961, § 5A-6)
-##### Sec. 24-4. - Inspection; inspection fee; remedial work; reinspection.
+Sec. 24-4. - Inspection; inspection fee; remedial work; reinspection.
 Any project or facility for which a permit is required by section 24-24 hereof shall be inspected by the parish
 council or its delegate, both during and after its completion. The permittee shall pay an inspection fee of one
 hundred dollars ($100.00) per day, provided however that in no event shall such fee exceed five hundred dollars
@@ -71,14 +71,14 @@ provided however that in no event shall such fee exceed one thousand dollars ($1
 fail to commence remedial work within thirty (30) days following written notification, the parish council or its
 delegate may have the work performed at the expense of the permittee.
 (Code 1961, § 5A-7)
-##### Sec. 24-5. - Relocation, etc., of pipelines.
+Sec. 24-5. - Relocation, etc., of pipelines.
 When any public project for the parish is initiated which requires the relocation, raising or lowering of a segment
 of a pipeline which has been constructed within the confines of the parish, the relocation or change shall be at
 the expense of the owner of the pipeline. Further, in any of the aforesaid events, the parish shall furnish the
 owner of the pipeline such additional rights-of-way, easements or permits as may be necessary for the owner of
 the pipeline to accomplish such relocation, raising or lowering of the pipeline.
 (Code 1961, § 5A-8)
-##### Sec. 24-6. - Exceptions to chapter provisions.
+Sec. 24-6. - Exceptions to chapter provisions.
 Notwithstanding anything to the contrary herein provided, no provision of this chapter shall apply to the
 following:
 (1)
@@ -97,7 +97,7 @@ Constitute field lines, flow lines, or gathering lines.
 (2)
 Provided these lines are laid in conformance with section 24-2.
 (Code 1961, § 5A-9)
-##### Sec. 24-7. - Spoil banks.
+Sec. 24-7. - Spoil banks.
 In connection with any of the construction or work referred to in this chapter and with particular reference to any
 and all spoil banks or other works being constructed, the work shall be performed in such a manner as not to
 interfere (except on a temporary basis) with the normal tidal flow in any marsh area and if a spoil bank is to be
@@ -110,14 +110,14 @@ Secs. 24-8—24-23. - Reserved.
 Footnotes:
 --- (2) --State Law reference— Canals for navigation, R.S. 34:341 et seq.; canals for irrigation, R.S. 45:61 et seq.;
 petroleum pipelines, R.S. 45:251 et seq.; natural gas pipelines, R.S. 45:301 et seq.
-##### Sec. 24-24. - Required.
+Sec. 24-24. - Required.
 No person shall construct or cause to be constructed a facility consisting of a pipeline or canal or any group or
 segment thereof, or of dredging canals, slips, shells or the construction of bulkheads, platforms, levees and
 battures, and no person shall erect or place structures over ninety (90) feet in elevation above sea level within the
 limits of the parish without having previously obtained a permit from the parish council or from the department
 or agency to which this authority is delegated thereby, in the manner provided in this article.
 (Code 1961, § 5A-2)
-##### Sec. 24-25. - Application.
+Sec. 24-25. - Application.
 Application for permits required by section 24-24 shall be made in writing to the parish council or to the
 department or agency to which this authority is delegated thereby. Such applications may be in the form of a
 letter and shall contain a clear description of the facility and its purpose, plans, specifications, location, map of
@@ -139,7 +139,7 @@ satisfactory evidence of financial responsibility in a like amount;
 (3)
 A letter of compliance with this chapter.
 (Code 1961, § 5A-3)
-##### Sec. 24-26. - Issuance or written refusal.
+Sec. 24-26. - Issuance or written refusal.
 Within fifteen (15) days after receipt of an application which meets the requirements of section 24-25, the
 applicant shall receive a construction permit or be advised in writing as to why a permit cannot be issued.
 (Code 1961, § 5A-4)

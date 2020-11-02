@@ -8,7 +8,7 @@ franchises, or operate public transportation systems, § 1.01(7).
 State Law reference— Railroads generally, R.S. 45:321—45:621.
 Cross reference— Nuisances and railroad rights-of-way, § 19-21 et seq.; roads and bridges, Ch. 29; traffic and
 motor vehicles, Ch. 36; billboards, signs, etc., prohibited at railroad crossings, § 36-11; vehicles for hire, Ch. 38.
-##### Sec. 28-1. - Blocking public way, time limit.
+Sec. 28-1. - Blocking public way, time limit.
 (a)
 Main lines. On any main line, extension of main line or other similar type railroad track, it shall be unlawful for
 any railroad corporation, or receiver or assignee thereof, or it or his servant, agent or employee, to willfully or
@@ -28,14 +28,14 @@ thereof, shall not again use or occupy it with the cars or engines of a freight 
 than three (3) minutes, has been allowed for the passage across the railroad of such travelers as were ready and
 waiting to cross when the former occupation ceased.
 (Code 1961, § 14-2)
-##### Sec. 28-2. - Trains of more than fifty cars prohibited.
+Sec. 28-2. - Trains of more than fifty cars prohibited.
 It shall be unlawful for any person to operate any train or cause or permit the same to be operated on any
 railroad tracks within the limits of the parish that shall contain more than fifty (50) cars.
 (Code 1961, § 14-3)
-##### Sec. 28-3. - Reserved.
+Sec. 28-3. - Reserved.
 Editor's note— Section 28-3, which set a speed limit of 15 mph was repealed by § 1 of Ord. No. 15830,
 adopted Jan. 4, 1984. Said section derived from Ord. No. 15742, § 1, adopted Oct. 5, 1983.
-##### Sec. 28-4. - Crossings to be paved; failure to maintain crossings.
+Sec. 28-4. - Crossings to be paved; failure to maintain crossings.
 (a)
 Railways, railroads, railroad corporations, receivers or assignees thereof operating in the parish shall be required
 to pave and keep in good repair all railway and railroad crossings intersecting any part of any public road,
@@ -74,7 +74,7 @@ If any railroad corporation, officer or employee thereof or receiver or assignee
 maintain its crossings, at the written demand for maintenance thereof, then such person shall be guilty of a
 misdemeanor.
 (Code 1961, § 14-5; Ord. No. 15742, § 3, 10-5-83)
-##### Sec. 28-5. - Parking of railroad cars currently or immediately previously containing explosives, gasoline, gases
+Sec. 28-5. - Parking of railroad cars currently or immediately previously containing explosives, gasoline, gases
 or other dangerous materials prohibited in certain areas.
 It shall be unlawful for any railroad company or agent, officer or employee thereof, to park railroad cars
 containing explosives, gasoline or other flammable liquids, flammable or nonflammable gases, or other
@@ -86,33 +86,33 @@ previously contained the substances mentioned in this section is also hereby pro
 (Code 1961, § 14-6)
 Cross reference— Fire prevention and protection; emergency services and communication and hazardous
 material, Ch. 13.
-##### Sec. 28-6. - Running of motors in parked railroad cars prohibited in certain areas from 8:00 p.m. to 7:00 a.m.
+Sec. 28-6. - Running of motors in parked railroad cars prohibited in certain areas from 8:00 p.m. to 7:00 a.m.
 It shall be unlawful for any railroad company to allow motors to run during the hours of 8:00 p.m. to 7:00 a.m.
 in any railroad car parked on a main line track, spur track or side track within three hundred (300) feet of any
 building in any residential area zoned as R-1, R-2 or R-3 within the limits of the parish in such a manner as to
 create a nuisance or annoyance to the surrounding area; provided that this section shall not apply to locomotives.
 (Code 1961, § 14-7)
 Cross reference— Zoning, Ch. 40.
-##### Sec. 28-7. - Sections 28-5 and 28-6 not to affect railroad cars in incorporated areas or parked near plants.
+Sec. 28-7. - Sections 28-5 and 28-6 not to affect railroad cars in incorporated areas or parked near plants.
 Nothing in the foregoing provisions of sections 28-5 and 28-6 shall apply to railroad cars situated within the
 incorporated areas of the parish, nor to railroad cars parked in the immediate vicinity of an industrial or
 commercial plant.
 (Code 1961, § 14-8)
-##### Sec. 28-8. - Reserved.
+Sec. 28-8. - Reserved.
 State Law reference— Section 3 of Ord. No. 15742, adopted Oct. 5, 1983, repealed § 28-8, concerning
 injunctive relief for violation of §§ 28-5 and 28-6. Former § 28-8 derived from § 14-10 of Code 1961.
-##### Sec. 28-9. - Blowing of whistles, horns, etc., regulated in vicinity of Carrollton Avenue to Airline Highway.
+Sec. 28-9. - Blowing of whistles, horns, etc., regulated in vicinity of Carrollton Avenue to Airline Highway.
 The railroads operating in the vicinity of Carrollton Avenue to Airline Highway, in the parish, shall cease and
 desist from blowing whistles, horns, etc., during the hours of 11:00 p.m. until 6:00 a.m. Such railroads shall
 employ someone to precede the trains at the above locations to forewarn traffic proceeding across the
 intersections.
 (Code 1961, § 14-12)
-##### Sec. 28-10. - Notification of derailments or release of hazardous materials required.
+Sec. 28-10. - Notification of derailments or release of hazardous materials required.
 All railroads operating within the parish are required to notify the office of communication services of any
 derailment of any rail vehicle transporting hazardous materials or the unintentional release of a hazardous
 material from any rail vehicle immediately upon their knowledge of said derailment or unintentional release.
 (Code 1961, § 14-21; Ord. No. 15368, § 1, 12-1-82; Ord. No. 15742, § 3, 10-5-83)
-##### Sec. 28-11. - Violations.
+Sec. 28-11. - Violations.
 (a)
 Generally. Whoever violates the provisions of this chapter shall, upon conviction, be punished as provided in
 section 1-10.

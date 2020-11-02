@@ -8,32 +8,32 @@ management, § 2-226 et seq.
 State Law reference— Powers of parish president concerning homeland security and emergency preparedness,
 R.S. 29:727 parish homeland security and emergency preparedness agency, R.S. 29:728; parish agency authority
 and responsibilities, R.S. 29:929.
-##### Sec. 9-1. - Office of homeland security and emergency preparedness—Established.
+Sec. 9-1. - Office of homeland security and emergency preparedness—Established.
 Pursuant to the provisions of section 727 of Title 29 of the Louisiana Revised Statutes, as amended, requiring
 each parish president to establish an office of homeland security and emergency preparedness or other like
 parish agency, the establishment of the department of homeland security, section 2-515.11 et seq., and the
 department of emergency management, section 2-226 et seq., as parish departments under the authority of the
 office of the parish president, is hereby provided for and confirmed.
 (Ord. No. 22803, § 1, 7-19-06)
-##### Sec. 9-2. - Duties of departments.
+Sec. 9-2. - Duties of departments.
 The departments of homeland security and emergency management shall prepare for, coordinate, and carry out,
 all emergency measures other than military, necessary to minimize and repair injury and damage resulting from
 disasters caused by enemy attacks or other hostile action, or by fire, flood, hurricane, earthquake, or other
 natural causes in accordance with the provisions of section 2-515.13 and section 2-228 and La. R.S. 29:727 et
 seq.
 (Ord. No. 22803, § 1, 7-19-06)
-##### Sec. 9-3. - Director; appointment; responsibilities.
+Sec. 9-3. - Director; appointment; responsibilities.
 Except as otherwise provided, the departments of homeland security and emergency management shall have
 directors who shall be appointed in accordance with section 2-515.12 and 2-227, respectively.
 (Ord. No. 22803, § 1, 7-19-06)
-##### Sec. 9-4. - Authorization to use parish equipment, supplies and facilities.
+Sec. 9-4. - Authorization to use parish equipment, supplies and facilities.
 In carrying out the provisions of this chapter the parish president is directed to utilize the services, equipment,
 supplies and facilities of existing departments, officers and agencies of the parish to the maximum extent
 practicable, and the officers and personnel of all such departments, officers and agencies are directed to
 cooperate with and extend such services and facilities to the president or to the directors of homeland security
 and emergency preparedness upon request.
 (Ord. No. 22803, § 1, 7-19-06)
-##### Sec. 9-5. - Liability of parish personnel and property owners limited.
+Sec. 9-5. - Liability of parish personnel and property owners limited.
 This chapter is an exercise by the parish of its governmental functions for the protection of public peace, health
 and safety, and, pursuant to La. R.S. 29:735, neither the parish, the officers and employees thereof, and the
 agents and representatives of the parish, or any individual, receiver, firm, partnership, corporation, association or
@@ -47,13 +47,13 @@ enemy attack, shall together with his successors in interest, if any, not be civ
 to, any person on or about such real estate or premises under such license, privilege or other permission or for
 loss of, or damage to, the property of such person.
 (Ord. No. 22803, § 1, 7-19-06)
-##### Sec. 9-6. - Authority of parish president.
+Sec. 9-6. - Authority of parish president.
 Nothing in this section shall be construed to diminish or otherwise affect the authority of the parish president set
 forth in the Louisiana Homeland Security and Emergency Assistance and Disaster Act. La. R.S. 29:721 et seq.,
 nor shall it be construed to prevent the parish president from serving as the director of the department of
 homeland security in accordance with La. R.S. 29:728(B).
 (Ord. No. 22803, § 1, 7-19-06)
-##### Sec. 9-7. - Obstruction, hindrance or delay of department of homeland security and emergency management or
+Sec. 9-7. - Obstruction, hindrance or delay of department of homeland security and emergency management or
 illegal display of homeland security or emergency management insignia.
 It shall be unlawful for any person willfully to obstruct, hinder or delay any member of the departments
 homeland security, emergency management or other public employee or agent in the enforcement of any rule or
@@ -63,11 +63,11 @@ himself as a member of the department of homeland security or emergency manageme
 wear, carry or display any emblem, insignia or any other means of identification as a member of said parish
 departments, unless authority so to do has been granted to such person by the proper officials.
 (Ord. No. 22803, § 1, 7-19-06)
-##### Sec. 9-8. - Regulation of prices during disaster.
+Sec. 9-8. - Regulation of prices during disaster.
 The provisions of La R.S. 29:732 shall govern the price of any commodity, service or merchandise in Jefferson
 Parish during a declared emergency.
 (Ord. No. 22803, § 1, 7-19-06)
-##### Sec. 9-9. - Evacuations.
+Sec. 9-9. - Evacuations.
 (a)
 During a state of emergency as declared by the parish president, or during a named tropical storm or hurricane in
 or threatening the Gulf of Mexico, the parish president, in furtherance of the provisions of this chapter, and all
@@ -134,7 +134,7 @@ or disaster.
 Once out of the area, no unauthorized person (including residents) will be permitted to return until conditions
 permit.
 (Ord. No. 22803, § 1, 7-19-06)
-##### Sec. 9-10. - Maintenance of information regarding gated communities in unincorporated Jefferson Parish.
+Sec. 9-10. - Maintenance of information regarding gated communities in unincorporated Jefferson Parish.
 The office of telecommunications shall, with the cooperation and assistance of the department of planning,
 compile and maintain a list of all gated communities in the unincorporated area of Jefferson Parish, which list
 shall be updated as new gated communities are approved and developed. The office of telecommunications shall

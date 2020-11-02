@@ -8,7 +8,7 @@ administration, § 20-23 et seq.; RUDE program, § 27-230 et seq.; following aut
 prohibited, § 36-8.
 State Law reference— Sheriffs, R.S. 33:1421 et seq.
 ### ARTICLE I. - IN GENERAL
-##### Sec. 31-1. - Permit required for services of deputy sheriff for dances, fish fries, etc.
+Sec. 31-1. - Permit required for services of deputy sheriff for dances, fish fries, etc.
 (a)
 Any person who conducts a public dance, fish fry or other public gathering, in the unincorporated areas of the
 parish who desires that a deputy sheriff or a special deputy sheriff be stationed on the premises during said
@@ -19,7 +19,7 @@ the deputy or special deputy sheriff on the premises.
 Any deputy sheriff or special deputy sheriff assigned to any detail pursuant to the provisions of this section shall
 remain on the premises where the dance, fish fry or other public gathering, is being conducted.
 (Code 1961, §§ 12-12, 12-14)
-##### Sec. 31-2. - Rules and regulations for operation of prison, treatment of prisoners.
+Sec. 31-2. - Rules and regulations for operation of prison, treatment of prisoners.
 (a)
 The sheriff is authorized and directed to establish, promulgate and enforce rules and regulations relative to the
 operation of the parish prison, and the conduct and treatment of prisoners therein.
@@ -32,7 +32,7 @@ laws, and with all mandates and guidelines of state and federal courts.
 (d)
 All rules and regulations, and amendments thereto, shall be filed with the clerk of the council by the sheriff.
 (Code 1961, § 12-43)
-##### Sec. 31-3. - Rules and regulations of prison physicians.
+Sec. 31-3. - Rules and regulations of prison physicians.
 The following rules and regulations governing the physicians of the parish prison be and the same are hereby
 adopted:
 (1)
@@ -53,7 +53,7 @@ On days when the doctors are unable to be present, they must provide a substitut
 The warden of the parish prison is to immediately notify the parish council when such doctors fail to comply
 with this section.
 (Code 1961, § 12-44)
-##### Sec. 31-4. - Collection and reimbursement of inmate medical expenses.
+Sec. 31-4. - Collection and reimbursement of inmate medical expenses.
 (a)
 In compliance with and under the authority of LSA R.S. 15:705(C), the sheriff of any correctional facility of the
 Parish of Jefferson shall obtain reimbursement for an inmate's medical, psychiatric or dental expenses and, in
@@ -113,7 +113,7 @@ reimbursement and that inmate is subsequently returned to any Jefferson Parish c
 balance shall immediately be collected from the new commissary account established upon entry to the
 correctional facility in accordance with the provisions outlined herein.
 (Ord. No. 20200, § 1, 11-19-97)
-##### Sec. 31-5. - Collection and reimbursement of other inmate expenses.
+Sec. 31-5. - Collection and reimbursement of other inmate expenses.
 In compliance with and under the authority of LSA R.S. 15:705(A)(2)(b) and rules established by the
 department of public safety and corrections, the sheriff of any correctional facility of the Parish of Jefferson shall
 collect from an inmate reimbursement for the cost of room and board while said inmate is incarcerated in any
@@ -122,19 +122,19 @@ section 31-4, withdraw from an inmate's commissary account the said cost of room
 thereafter as the inmate's commissary account has sufficient assets for such reimbursement. The sheriff shall
 forward such reimbursement funds to the Parish of Jefferson.
 (Ord. No. 20200, § 2, 11-19-97)
-##### Sec. 31-6. - Definition.
+Sec. 31-6. - Definition.
 For purposes of this article, the following definitions apply:
 Commissary account shall mean any account under the control of the correctional facility from which an inmate
 may withdraw funds.
 Inmate shall mean any person confined to a parish correctional facility.
 Sheriff shall mean the administrator of the correctional facility.
 (Ord. No. 20200, § 3, 11-19-97)
-##### Sec. 31-7. - Method of collection.
+Sec. 31-7. - Method of collection.
 The method of collection provided for in sections 31-4 and 31-5 shall be in addition to any other collection
 procedures allowed by law for the reimbursement of expenditures incurred by reason of an inmate's
 incarceration.
 (Ord. No. 20200, § 4, 11-19-97)
-##### Sec. 31-8. - Disposition of abandoned, lost or unclaimed property.
+Sec. 31-8. - Disposition of abandoned, lost or unclaimed property.
 All property unclaimed, abandoned, or lost and subsequently recovered by the Jefferson Parish Sheriff's Office
 which remain unclaimed by the owners of said property shall be disposed of by the sheriff's office in the
 following manner:
@@ -162,7 +162,7 @@ methods indicated in subsections (2)a., (2)b. or (2)c.
 (Ord. No. 23988, § 1, 4-6-11; Ord. No. 24500, § 1, 6-12-13)
 Secs. 31-9—31-20. - Reserved.
 ### ARTICLE II. - POLICE PROTECTION DISTRICTS
-##### Sec. 31-21. - Police protection district no. 1.
+Sec. 31-21. - Police protection district no. 1.
 (a)
 Creation. There is hereby created a police protection district, which shall comprise and embrace all of that
 territory within the corporate limits of the Town of Lafitte, Louisiana, along with other areas, described as

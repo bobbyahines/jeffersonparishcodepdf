@@ -1,6 +1,7 @@
 ## Chapter 2.5 - ADMINISTRATIVE ADJUDICATION OF PUBLIC HEALTH, HOUSING, FIRE CODE,
 ENVIRONMENTAL AND HISTORIC DISTRICT VIOLATIONS
-Sec. 2.5-1. - Administrative adjudication authorization.
+##### Sec. 2.5-1. - Administrative adjudication authorization.  
+
 Any agency or department of the Parish of Jefferson having a responsibility for the enforcement of any public
 health, housing, fire code, environmental, or historic district ordinance, or any matters involving licensing and
 permits and any other ordinance violations that may be determined by the Jefferson Parish Council, may impose
@@ -8,7 +9,8 @@ civil fines, civil penalties and hearing costs for violations of such ordinances
 property or their agents, tenants or representatives pursuant to the procedures for administrative adjudication
 established in this chapter.
 (Ord. No. 18860, § 1, 9-15-93; Ord. No. 21505, § 1, 2-6-02)
-Sec. 2.5-2. - Definitions.
+##### Sec. 2.5-2. - Definitions.  
+
 The following definitions shall apply in the interpretation of this article:
 Director shall mean the head of a parish agency or department which enforces any public health, housing, fire
 code, environment or historic district ordinance in the parish, or his designated representative.
@@ -21,7 +23,8 @@ Violator shall mean a person who has been found liable for a violation or ordere
 order issued under this chapter.
 (Ord. No. 18860, § 1, 9-15-93; Ord. No. 21505, § 2, 2-6-02; Ord. No. 23269, § 1, 3-12-08; Ord. No. 23315, § 1,
 5-21-08)
-Sec. 2.5-3. - Hearing officer(s).
+##### Sec. 2.5-3. - Hearing officer(s).  
+
 (a)
 Hearing officer(s) shall be appointed by the Jefferson Parish Council.
 (b)
@@ -29,7 +32,8 @@ All hearing officers shall be sworn before the parish attorney to uphold the Con
 Louisiana and the Charter and ordinances of the parish, and to abide by the provisions of the Louisiana Code of
 Governmental Ethics before assuming office.
 (Ord. No. 18860, § 1, 9-15-93)
-Sec. 2.5-4. - Authority of hearing officer.
+##### Sec. 2.5-4. - Authority of hearing officer.  
+
 Hearing officers who have been appointed and sworn in accordance with section 2.5-3 of this chapter shall have
 the authority to hear and decide public health, housing, fire code, environmental, or historic district ordinance
 violations, or any matters involving licensing and permits and any other ordinance violations that may be
@@ -61,13 +65,15 @@ Chapter 38, Vehicles for Hire;
 Chapter 40, Comprehensive Zoning Ordinance.
 (Ord. No. 18860, § 1, 9-15-93; Ord. No. 21210, 2-14-01; Ord. No. 21505, § 3, 2-6-02; Ord. No. 21991, § 4, 917-03; Ord. No. 22516, § 1, 6-8-05; Ord. No. 22937, § 3, 12-13-06; Ord. No. 23269, § 2, 3-12-08; Ord. No.
 23298, § 8, 5-7-08; Ord. No. 23846, § 1, 6-30-10; Ord. No. 24502, § 1, 6-12-13; Ord. No. 25405 , § 1, 8-9-17)
-Sec. 2.5-5. - Parish attorney to assist.
+##### Sec. 2.5-5. - Parish attorney to assist.  
+
 No administrative adjudication proceeding shall be instituted under this chapter with respect to any ordinance
 unless the ordinance is cited in section 2.5-4. Upon the request of any director, the department of law may
 provide legal assistance in the administration of this chapter and institute legal actions for the enforcement of
 this chapter and any orders issued under this chapter.
 (Ord. No. 18860, § 1, 9-15-93; Ord. No. 23619, § 1, 8-12-09)
-Sec. 2.5-6. - Powers.
+##### Sec. 2.5-6. - Powers.  
+
 The hearing officer shall have the power to:
 (1)
 Administer oaths and affirmations;
@@ -85,7 +91,8 @@ time allocated by the hearing officer;
 Place liens, pursuant to section 2.5-9 of this chapter, against the immovable property located within the parish, if
 the violator fails to remit payment for any costs and/or fines, within thirty (30) days of the levy of the same.
 (Ord. No. 18860, § 1, 9-15-93)
-Sec. 2.5-7. - Hearing procedures.
+##### Sec. 2.5-7. - Hearing procedures.  
+
 (a)
 Prior to holding an administrative hearing for public health, housing, fire code, environmental, or historic district
 ordinance violations, or any matters involving licensing and permits and any other ordinance violations that may
@@ -182,14 +189,16 @@ enforcement proceedings by making an order executory in the Environmental Sectio
 Judicial District Court or the Parish Courts of Jefferson Parish.
 (Ord. No. 18860, § 1, 9-15-93; Ord. No. 21505, §§ 4, 5, 2-6-02; Ord. No. 23138, § 2, 9-19-07; Ord. No. 23257,
 § 1, 2-27-08; Ord. No. 23529, § 1, 4-15-09; Ord. No. 24427, § 1, 2-27-13)
-Sec. 2.5-8. - Non-exclusivity of procedures.
+##### Sec. 2.5-8. - Non-exclusivity of procedures.  
+
 The procedures and remedies established by this chapter shall not be deemed exclusive and may be employed in
 the civil enforcement of an ordinance before, during or after the employment of any other civil enforcement
 mechanism provided by law, or before, during or after the commencement or conclusion of enforcement action
 in a civil or criminal court, unless the civil courts have definitely exonerated the alleged violator of the violation
 charged.
 (Ord. No. 18860, § 1, 9-15-93)
-Sec. 2.5-9. - Liens.
+##### Sec. 2.5-9. - Liens.  
+
 The director or the hearing officer may record a certified copy of an order imposing a fine or other charge in the
 public records of the parish. Once recorded, the certified copy of this order shall constitute a lien against the land
 on which the violation exists, and any lien placed against such immovable property under this chapter shall be
@@ -200,7 +209,8 @@ immovable property. Any lien placed against immovable property that has a legal 
 taxes will become payable ninety (90) days after the death of the owner thereof or immediately upon transfer of
 title to a new owner, whichever comes first.
 (Ord. No. 18860, § 1, 9-15-93)
-Sec. 2.5-10. - Appeal.
+##### Sec. 2.5-10. - Appeal.  
+
 Any party aggrieved by a decision of the hearing officer pursuant to this chapter may appeal this determination
 to the Twenty-Fourth Judicial District Court of the Parish of Jefferson.
 (a)
@@ -298,10 +308,12 @@ shall submit an actual costs letter or notice for per day fines or other monies 
 payment.
 (Ord. No. 18860, § 1, 9-15-93; Ord. No. 21505, § 6, 2-6-02; Ord. No. 24427, § 2, 2-27-13; Ord. No. 24579, § 1,
 9-18-13)
-Sec. 2.5-11. - Reserved.
+##### Sec. 2.5-11. - Reserved.  
+
 Editor's note— Ord. No. 23619, § 2, adopted August 12, 2009, repealed § 2.5-11, which pertained to the civil
 adjudication bureau. See also the Code Comparative Table.
-Sec. 2.5-12. - Record requirements.
+##### Sec. 2.5-12. - Record requirements.  
+
 (a)
 At its commencement by notice to the alleged violator, every civil adjudication proceeding shall be assigned a
 docket number and a style in the form of "in the manner of" or in the form of "Parish of Jefferson versus"
