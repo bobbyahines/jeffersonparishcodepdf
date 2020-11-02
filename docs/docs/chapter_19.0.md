@@ -476,12 +476,14 @@ of inspection and code enforcement.
 #####   
 
 ARTICLE III-A. - MAINTENANCE OF ABANDONED RESIDENTIAL PROPERTY
-Sec. 19-29.1. - Maintenance of abandoned residential properties.
+##### Sec. 19-29.1. - Maintenance of abandoned residential properties.  
+
 It shall be unlawful for an owner of abandoned residential property to permit or allow the property to become
 derelict. Abandoned residential property must be maintained in accordance with the neighborhood standard in
 order to prevent the deterioration of the premises and the spread of blight.
 (Ord. No. 24369, § 1, 11-7-12)
-Sec. 19-29.2. - Definitions.
+##### Sec. 19-29.2. - Definitions.  
+
 The following words and phrases when used in this section shall have the following meanings, unless the
 context clearly indicates otherwise:
 Abandoned residential property shall mean one-to-four-family residential property that is vacant as the result of
@@ -501,7 +503,8 @@ Owner is defined as any person with care, custody, or control of the property at
 to record owners, seizing creditors, mortgage holders, lien holders, loan servicers of foreclosed property pending
 title transfer, or an agent or assignee of the seizing creditor, mortgage holders, lien holders, or loan servicer.
 (Ord. No. 24369, § 1, 11-7-12)
-Sec. 19-29.3. - Notification.
+##### Sec. 19-29.3. - Notification.  
+
 (a)
 Following an inspection and verification of a violation, the parish, through its legal and/or administrative
 departments, shall notify the owner and any known interested party of the premises in violation.
@@ -528,13 +531,15 @@ If applicable, the opportunity for a hearing to contest the violation, as provid
 The name and phone number of a contact person with the parish who has knowledge of the matter who can
 provide more information.
 (Ord. No. 24369, § 1, 11-7-12)
-Sec. 19-29.4. - Review hearing.
+##### Sec. 19-29.4. - Review hearing.  
+
 In all applicable instances where a proprietary party has received notice of a violation of the provisions of this
 article, he shall be afforded an opportunity for a hearing to refute such determination and to rise whatever
 objection he may have to the issuance of the violation notice. The procedures for hearings are as provided in
 Chapter 2.5, section 2.5-7.
 (Ord. No. 24369, § 1, 11-7-12)
-Sec. 19-29.5. - Time delays, procedure for maintenance.
+##### Sec. 19-29.5. - Time delays, procedure for maintenance.  
+
 (a)
 After forty-five (45) days have elapsed from the date notice to the owner and, if applicable, the seizing creditor,
 mortgage holder, lien holder, or loan servicer of the property, the parish may undertake maintenance pursuant to
@@ -563,22 +568,26 @@ and
 A statement that the provisions of La. R.S. 33:5065 et seq. and the provisions of this local ordinance have been
 complied with.
 (Ord. No. 24369, § 1, 11-7-12)
-Sec. 19-29.6. - Right of mortgagee or loan servicer to enter property.
+##### Sec. 19-29.6. - Right of mortgagee or loan servicer to enter property.  
+
 In accordance with La. R.S. 9:5396, if a mortgagee or loan servicer receives notice in accordance with this
 section identifying certain maintenance is required on the mortgaged property, the mortgagee or loan servicer
 shall have the legal right, directly, or through third parties, to enter on the property and to perform maintenance
 to protect and preserve the property until it can be sold at private sale or sheriff's sale.
 (Ord. No. 24369, § 1, 11-7-12)
-Sec. 19-29.7. - Maintenance costs.
+##### Sec. 19-29.7. - Maintenance costs.  
+
 The cost of maintenance, including charges, costs, and expenses incurred by the parish shall be the actual cost
 thereof to the parish, not to exceed a total amount of five thousand dollars ($5,000.00) in a twelve-month period.
 (Ord. No. 24369, § 1, 11-7-12)
-Sec. 19-29.8. - Privilege.
+##### Sec. 19-29.8. - Privilege.  
+
 The parish shall have a privilege against the subject property for the cost of maintenance it incurs, as
 documented in the recorded affidavit, and the privilege shall have the ranking priority as to other mortgages and
 privileges as provided in R.S. 9:4821(1).
 (Ord. No. 24369, § 1, 11-7-12)
-Sec. 19-29.9. - Procedure for disputing privileges.
+##### Sec. 19-29.9. - Procedure for disputing privileges.  
+
 A property owner and a mortgage holder shall have the right to dispute a privilege created against a mortgaged
 property under this section, if the work creating a privilege was not performed on the property. A privilege may
 be disputed by submitting an affidavit to the parish. The affidavit shall be made by someone with knowledge of

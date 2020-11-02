@@ -45,7 +45,8 @@ Signs shall be posted indicating this prohibition.
 
 Any boat using any and all drainage canals shall not exceed the speed limit of five (5) miles per hour.
 (Code 1961, § 17-05)
-Sec. 39-5.5. - Nighttime boating on certain canals prohibited.
+##### Sec. 39-5.5. - Nighttime boating on certain canals prohibited.  
+
 (a)
 The operation of any motor boat by any person on Verrett and Whitney Canals between Costanza Drive and the
 Jefferson-Plaquemines parish line is hereby prohibited between sundown and sun-up.
@@ -337,7 +338,8 @@ any reason, such invalidity shall not affect the remaining provisions thereof. I
 criteria, standards, or regulations is in conflict with each other or with federal, state, or local regulations, the
 more restrictive shall govern.
 (Ord. No. 17501, §§ 1—4, 5-11-88; Ord. No. 20921, § 15, 3-15-00; Ord. No. 23102, § 1, 7-18-07)
-Sec. 39-10.1. - Violations of the article.
+##### Sec. 39-10.1. - Violations of the article.  
+
 (a)
 Any person violating any provisions of this article, including conditions placed upon an issued PIER certificate,
 shall be notified by personal service or by certified return receipt mail of the specific violation and if the

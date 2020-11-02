@@ -117,7 +117,8 @@ celebrations; however the sheriff, upon the approval of the parish council, may 
 exclusively charitable or nonprofitable organization, without requiring the payment of the permit fees provided
 for in this chapter.
 (Code 1961, § 3-2)
-Sec. 4-2.5. - Special permits for booster clubs.
+##### Sec. 4-2.5. - Special permits for booster clubs.  
+
 The parish council may grant special retail beer permits to duly organized booster clubs domiciled within the
 parish when the proceeds of such sales shall be used exclusively for the benefit of parish recreational activities
 and facilities. Such sales shall be allowed at all events or activities held in conjunction with intramural programs
@@ -129,7 +130,8 @@ activities at a designated facility;
 (2)
 All other necessary state and/or local permits have been obtained by the booster club.
 (Code 1961, 3-2.1; Ord. No. 17015, § I, 9-10-86; Ord. No. 25164 , § 3, 6-8-16)
-Sec. 4-2.7. - Waiver of fees and taxes for charitable or nonprofit organizations.
+##### Sec. 4-2.7. - Waiver of fees and taxes for charitable or nonprofit organizations.  
+
 (a)
 The parish attorney shall have the authority to issue alcoholic beverage permits upon written request by any
 charitable or nonprofit organization with tax-exempt status, under the United States Internal Revenue Code,

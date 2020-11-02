@@ -380,7 +380,8 @@ preamble to Ordinance No. 14646.
 Supplementary to other taxes. The tax herein levied is declared to be supplemental and in addition to all other
 taxes levied by and under the authority of the parish council of any kind or nature.
 (Ord. No. 14646, §§ 1—6, 2-11-81)
-Sec. 35-24.1. - Imposition of supplemental tax (1984).
+##### Sec. 35-24.1. - Imposition of supplemental tax (1984).  
+
 (a)
 Levy. There is hereby levied from and after August 1, 1984, for the purposes stated in the proposition set forth in
 the preamble to Ordinance No. 16116, a tax upon the sale at retail, the use, the lease or rental, the consumption
@@ -1580,7 +1581,8 @@ whether conducted as principal, agent or commission, or otherwise, the license t
 of gross sales and receipts, at the rate set above.
 (Ord. No. 17268, § 1, 6-10-87)
 State Law reference— State license, R.S. § 47:354.
-Sec. 35-174.1. - Gasoline service stations.
+##### Sec. 35-174.1. - Gasoline service stations.  
+
 For every fixed location gasoline service station whose sales of gasoline and motor fuels are eighty (80) percent
 or more of total business activity, the license shall be based on the total business activity and shall be based on
 the table below:
@@ -2775,7 +2777,8 @@ tourism-related activities.
 Separate capital project funds shall be established to account for the funds escrowed in accordance with section
 35-203 above.
 (Ord. No. 17794, § 1, 8-9-89)
-Sec. 35-204.1. - Reserved.
+##### Sec. 35-204.1. - Reserved.  
+
 Editor's note— Ord. No. 22443, § 2, adopted March 2, 2005, repealed § 35-204.1, which pertained to allocation
 of West Bank Convention Center and Tourism Fund. See also the Code Comparative Table.
 #### DIVISION 2. - TAX AUTHORIZED BY ACT NO. 751 AND ACT NO. 10

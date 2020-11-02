@@ -15,20 +15,24 @@ repealing and replacing said article as set out herein. Former Art. 1 pertained 
 derived from Ord. No. 23243, § 1, adopted Feb. 13, 2008; Ord. No. 23881, § 1, adopted Sept. 22, 2010; and Ord.
 No. 24085, §§ I—III, adopted Aug. 3, 2011.
 #### DIVISION 1. - GENERAL PROVISIONS
-Sec. 33-1.1. - Title.
+##### Sec. 33-1.1. - Title.  
+
 This chapter of the Jefferson Parish Code of Ordinances shall be known as the Jefferson Parish Unified
 Development Code, hereinafter referred to as the "UDC" or this Chapter.
 (Ord. No. 24989 , § I, 8-12-15)
-Sec. 33-1.2. - Authority.
+##### Sec. 33-1.2. - Authority.  
+
 The authority to establish this UDC is done, at the option of the Jefferson Parish Council, in accordance with
 state law.
 (Ord. No. 24989 , § I, 8-12-15)
-Sec. 33-1.3. - Effective date.
+##### Sec. 33-1.3. - Effective date.  
+
 As provided by state and local laws and the Parish Charter, this UDC shall be in full force and effect pursuant to
 its adoption on February 13, 2008 by Ordinance No. 23243, which established the effective date as ninety (90)
 days after adoption.
 (Ord. No. 24989 , § I, 8-12-15)
-Sec. 33-1.4. - Purpose.
+##### Sec. 33-1.4. - Purpose.  
+
 In accordance with state law, and the parish's comprehensive plan, the purpose of this UDC is to:
 (1)
 Promote public health, safety, comfort, order, and general welfare;
@@ -44,11 +48,13 @@ Promote safe, orderly development and use of land and natural resources; and
 Facilitate safe and economical provision of adequate streets, water, wastewater, stormwater, schools, parks and
 other public facilities.
 (Ord. No. 24989 , § I, 8-12-15; Ord. No. 25891 , § 6, 11-6-19)
-Sec. 33-1.5. - Jurisdiction.
+##### Sec. 33-1.5. - Jurisdiction.  
+
 The parish shall enforce these regulations governing planning, zoning, subdivision, and building throughout the
 unincorporated areas of the parish, as authorized by state law.
 (Ord. No. 24989 , § I, 8-12-15)
-Sec. 33-1.6. - Applicability.
+##### Sec. 33-1.6. - Applicability.  
+
 This UDC shall be applicable in the following circumstances:
 (1)
 All buildings, structures, lands, and uses shall be subject to the procedures and requirements of this UDC.
@@ -65,7 +71,8 @@ nor shall a building permit be issued for any structure thereon until a plat of 
 the parish council or planning director, as applicable, and recorded with the Jefferson Parish Clerk of Court in
 accordance with this UDC.
 (Ord. No. 24989 , § I, 8-12-15)
-Sec. 33-1.7. - Rules of interpretation.
+##### Sec. 33-1.7. - Rules of interpretation.  
+
 (a)
 Generally. In interpreting and applying the provisions of this UDC, they shall be held to be the minimum
 requirements for the promotion of the public safety, health, convenience, comfort, prosperity, or general welfare.
@@ -110,12 +117,14 @@ The parish will endeavor to process all applications as expeditiously as is reas
 that does not receive approval of the parish council within one hundred twenty-six (126) days of opening of the
 PAB public hearing shall be deemed denied. See Article 2 of this UDC for additional procedural guidance.
 (Ord. No. 24989 , § I, 8-12-15)
-Sec. 33-1.8. - Consistency with comprehensive plan.
+##### Sec. 33-1.8. - Consistency with comprehensive plan.  
+
 This UDC is intended to implement the comprehensive plan and is hereby deemed to be consistent with and in
 accordance with the comprehensive plan. Legislative land use actions shall be consistent with the comprehensive
 plan in accordance with section 25-108, consistency of key development actions with the plan, of this Code.
 (Ord. No. 24989 , § I, 8-12-15; Ord. No. 25891 , § 7, 11-6-19)
-Sec. 33-1.9. - Relationship to other regulations.
+##### Sec. 33-1.9. - Relationship to other regulations.  
+
 The use of buildings and land within the parish shall be subject to all other applicable provisions of the Jefferson
 Parish Code of Ordinances as well as this UDC, whether or not such other provisions of the Code are
 specifically cross-referenced herein. Cross-references to other provisions of this Code and other applicable rules
@@ -142,7 +151,8 @@ and construction standards. This UDC includes headings for regulations that are 
 Jefferson Parish Code of Ordinances. The intent of the parish council is to move these provisions to this UDC as
 they are reviewed and updated.
 (Ord. No. 24989 , § I, 8-12-15)
-Sec. 33-1.10. - Appendix.
+##### Sec. 33-1.10. - Appendix.  
+
 The appendix of this UDC shall include, but not be limited to, the application forms with submittal
 requirements; the application fee schedules; the information required on the drawings—plans, elevations, details
 —for site plan review; the landscape and buffer planting and maintenance specifications, the Subdivision Public
@@ -152,7 +162,8 @@ offices: the planning department for application forms, fee schedules, site plan
 landscaping specifications, and street improvements plans; or the department of engineering for the Subdivision
 Public Improvements Standards Manual.
 (Ord. No. 24989 , § I, 8-12-15)
-Sec. 33-1.11. - Fees.
+##### Sec. 33-1.11. - Fees.  
+
 (a)
 Fee required. Any application for action pursuant to this UDC shall be subject to the required fee.
 (b)
@@ -167,7 +178,8 @@ publicly owned facility.
 (e)
 Fee refunds. All fees are non-refundable.
 (Ord. No. 24989 , § I, 8-12-15)
-Sec. 33-1.12. - Severability.
+##### Sec. 33-1.12. - Severability.  
+
 It hereby is declared to be the intent of Jefferson Parish that the provisions of this UDC shall be severable. If any
 provision is declared invalid by a court of competent jurisdiction, it is hereby declared to be the legislative intent
 that:
@@ -178,7 +190,8 @@ stated in the decision to be invalid; and
 Remainder stays in effect. Such decision shall not affect, impair or nullify this UDC as a whole or any other part
 thereof, but the rest of the UDC shall continue in full force and effect.
 (Ord. No. 24989 , § I, 8-12-15; Ord. No. 25621 , § 1, 8-8-18)
-Sec. 33-1.13. - Enforcement.
+##### Sec. 33-1.13. - Enforcement.  
+
 (a)
 Violations. The remedies provided in this section for violations of any provision of this UDC, whether civil or
 criminal, shall be cumulative and shall be in addition to any other remedy provided by law. Except as otherwise
@@ -286,12 +299,14 @@ Footnotes:
 In so doing, § 33-1.12 was repealed and §§ 33-1.13 and 33-1.14 were renumbered as §§ 33-1.12 and 33-1.13.
 Section 33-1.20 was added and all subsequent section numbers, §§ 33-1-12.1—33-1.12.10, were renumbered as
 §§ 33-1.21—33-1.30, as set out herein.
-Sec. 33-1.20. - Generally.
+##### Sec. 33-1.20. - Generally.  
+
 The entities and officials referenced or established in this division have powers and responsibilities in
 development regulations and review. They decide or recommend whether to approve, approve with conditions
 (if applicable), or deny land-use actions.
 (Ord. No. 25621 , § 1, 8-8-18)
-Sec. 33-1.21. - Parish council.
+##### Sec. 33-1.21. - Parish council.  
+
 Any action of the parish council shall require the affirmative vote of the majority of the entire parish council.
 Specific responsibilities assigned by this UDC include the following:
 (1)
@@ -313,7 +328,8 @@ Consider and adopt fees and authorize waivers to fees; and
 (9)
 Other responsibilities assigned by state law and the Jefferson Parish Code of Ordinances.
 (Ord. No. 24989 , § I, 8-12-15; Ord. No. 25405 , § 6, 8-9-17; Ord. No. 25621 , § 1, 8-8-18)
-Sec. 33-1.22. - Planning advisory board (PAB).
+##### Sec. 33-1.22. - Planning advisory board (PAB).  
+
 (a)
 Creation. The planning advisory board ("PAB") is hereby established in accordance with Section 4.06 Advisory
 and Quasi-Judicial Boards of the Jefferson Parish Charter.
@@ -373,21 +389,25 @@ Quorum and voting. Meetings of the PAB shall take place when a quorum of four (4
 No action of the PAB shall be valid or binding unless adopted by the affirmative vote of four (4) members of the
 PAB.
 (Ord. No. 24989 , § I, 8-12-15; Ord. No. 25621 , § 1, 8-8-18; Ord. No. 25891 , § 8, 11-6-19)
-Sec. 33-1.23. - Board of zoning adjustments (BZA).
+##### Sec. 33-1.23. - Board of zoning adjustments (BZA).  
+
 The BZA is established in conformance with the Jefferson Parish Charter, this Code, and state law. The
 inspection and code enforcement director shall provide written findings to the board. The responsibilities and
 procedures of the BZA are pursuant to Article XLII Board of Zoning Adjustments in Chapter 40 Zoning of this
 Code.
 (Ord. No. 24989 , § I, 8-12-15; Ord. No. 25621 , § 1, 8-8-18)
-Sec. 33-1.24. - Board of standards and appeals (BSA).
+##### Sec. 33-1.24. - Board of standards and appeals (BSA).  
+
 The BSA is established in conformance with the Jefferson Parish Charter, this Code, and state law. The
 inspection and code enforcement director shall provide written findings to the board. The responsibilities and
 procedures of the BSA are pursuant to section 8-2.105 Board of standards and appeals in Chapter 8 buildings
 and building regulations of this code.
 (Ord. No. 25621 , § 1, 8-8-18)
-Sec. 33-1.25. - Old Metairie Commission (OMC) (reserved).
+##### Sec. 33-1.25. - Old Metairie Commission (OMC) (reserved).  
+
 (Ord. No. 24989 , § I, 8-12-15; Ord. No. 25621 , § 1, 8-8-18)
-Sec. 33-1.26. - Land use review technical committee (LURTC).
+##### Sec. 33-1.26. - Land use review technical committee (LURTC).  
+
 (a)
 Creation. The land use review technical committee (LURTC) is established.
 (b)
@@ -427,7 +447,8 @@ Record keeping. Unless otherwise provided in this Code, the planning director sh
 LURTC, shall maintain records of all written findings and recommendations, and shall forward these findings to
 applicable recommending and decision-making entities.
 (Ord. No. 24989 , § I, 8-12-15; Ord. No. 25621 , § 1, 8-8-18)
-Sec. 33-1.27. - Planning director.
+##### Sec. 33-1.27. - Planning director.  
+
 In addition to the responsibilities established in the Jefferson Parish Code of Ordinances, the planning director
 shall have the responsibility and authority to administer and enforce certain provisions of this UDC, as stated
 herein, including, but not limited to, the following powers and duties:
@@ -491,7 +512,8 @@ health, housing, fire code, environmental and historic district violations of th
 Other responsibilities as may be assigned by the parish council or administration.
 (Ord. No. 24989 , § I, 8-12-15; Ord. No. 25405 , § 7, 8-9-17; Ord. No. 25621 , § 1, 8-8-18; Ord. No. 25891 , § 9,
 11-6-19)
-Sec. 33-1.28. - Public works director.
+##### Sec. 33-1.28. - Public works director.  
+
 In addition to the responsibilities established in the Jefferson Parish Code of Ordinances, the public works
 director or directors under his authority shall have the responsibility and authority to administer and enforce
 certain provisions of this UDC and this Code, as stated herein, and including, but not limited to, the following
@@ -519,7 +541,8 @@ credit, cash escrow or surety bond required for the construction of public impro
 Review and approve, approve with conditions, or deny applications for construction plans in conformance with
 this UDC.
 (Ord. No. 24989 , § I, 8-12-15; Ord. No. 25621 , § 1, 8-8-18)
-Sec. 33-1.29. - Inspection and code enforcement director.
+##### Sec. 33-1.29. - Inspection and code enforcement director.  
+
 In addition to the responsibilities established in the Jefferson Parish Code of Ordinances, the inspection and code
 enforcement director shall have the responsibility and authority to administer and enforce certain provisions of
 this UDC and this Code, as stated herein, and including, but not limited to, the following powers and duties:
@@ -571,7 +594,8 @@ Take any other action authorized by this UDC, this Code, or the parish council t
 prevent violation of its provisions, including action pursuant to Chapter 2.5 Administrative Adjudication of
 public health, housing, fire code, environmental and historic district violations of this code.
 (Ord. No. 24989 , § I, 8-12-15; Ord. No. 25405 , § 8, 8-9-17; Ord. No. 25621 , § 1, 8-8-18)
-Sec. 33-1.30. - Property maintenance zoning/quality of life director.
+##### Sec. 33-1.30. - Property maintenance zoning/quality of life director.  
+
 In addition to the responsibilities established in the Jefferson Parish Code of Ordinances, the property
 maintenance zoning/quality of life director shall have the responsibility to administer and enforce certain
 provisions of this UDC and this Code, as stated herein, but not limited to, the following powers and duties:
@@ -601,14 +625,16 @@ derived from Ord. No. 23243, § 1, adopted Feb. 13, 2008; Ord. No. 23881, §§ 1
 Ord. No. 24003, § II, adopted May 11, 2011; Ord. No. 24085, §§ IV—VI, adopted Aug. 3, 2011; and Ord. No.
 24576, §§ II—IV, adopted Sept. 18, 2013.
 #### DIVISION 1. - COMMON PROCEDURES
-Sec. 33-2.1. - Purpose.
+##### Sec. 33-2.1. - Purpose.  
+
 The purposes of this article are to consolidate the procedures for filing and processing applications for
 development approval and to allow users to ascertain the steps involved in obtaining development approval—
 from filing of an application, reviewing for completeness and compliance with standards and requirements, and
 through holding of a public hearing if required. The provisions of this article are designed to implement the
 parish's comprehensive plan.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.2. - Generally.
+##### Sec. 33-2.2. - Generally.  
+
 Any proposed land use or development shall comply with the procedures of this UDC. Development approvals
 are required for all development, unless otherwise excepted, to ensure compliance with adopted codes,
 standards, and regulations, and to ensure consistency with the comprehensive plan and policies of the parish.
@@ -627,7 +653,8 @@ If necessary, amending or appealing the decision; and
 (5)
 Recording the decision.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.3. - Categories of development approvals.
+##### Sec. 33-2.3. - Categories of development approvals.  
+
 Pursuant to this article and as described in Table 33-2.3-1, development approvals comprise three (3) basic
 categories: legislative (L), quasi-judicial (Q), and ministerial (M).
 (1)
@@ -728,7 +755,8 @@ Completeness
 ✓
 
 (Ord. No. 24989 , § II, 8-12-15; Ord. No. 25041 , § 2, 11-4-15)
-Sec. 33-2.4. - Pre-application conferences.
+##### Sec. 33-2.4. - Pre-application conferences.  
+
 Unless required in this UDC for a specific application type, applicants are encouraged to meet with staff prior to
 filing an application to discuss the nature of the proposed application, application submittal requirements, the
 procedure for action, and the standards for evaluation of the application. At the pre-application conference, the
@@ -737,7 +765,8 @@ director may determine that additional information is necessary to provide for a
 project. At any time during the processing of any application, additional information may be required by the
 decision-maker to ensure compliance with this UDC.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.5. - Application and completeness review.
+##### Sec. 33-2.5. - Application and completeness review.  
+
 (1)
 Applications. Current application materials shall be made available in the office of the director responsible for
 the development approval. Such applications shall be filed in advance of any public hearing required pursuant to
@@ -757,7 +786,8 @@ Code of Ordinances. This review shall include a determination of the category of
 applicable to the application. Regardless of the development approval process required, the applicant must
 comply with all applicable submission, procedural, and substantive provisions of this Code.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.6. - Notice.
+##### Sec. 33-2.6. - Notice.  
+
 (a)
 Notice of public hearings for the Old Metairie Commission and the board of zoning adjustments shall be
 provided pursuant to the applicable sections of Chapter 40 zoning of this Code. Except as otherwise provided,
@@ -832,7 +862,8 @@ Section 40-32(b), no substitute, alternative or modified proposal shall apply.
 Text amendment. If the substitute, alternative or modified proposal is within reasonable limits of the purpose or
 subject matter of the original proposal.
 (Ord. No. 24989 , § II, 8-12-15; Ord. No. 25891 , § 10, 11-6-19)
-Sec. 33-2.7. - Public hearing.
+##### Sec. 33-2.7. - Public hearing.  
+
 (a)
 Purpose of hearing. The purpose of a public hearing is to allow the applicant and all other interested parties the
 opportunity to be heard, to present evidence relevant to the application, and to rebut evidence presented by
@@ -868,7 +899,8 @@ and including all conditions imposed and times established for satisfaction of s
 Sec. 33-2.8 - Reserved.
 Editor's note— Ord. No. 25744 , § 1, adopted Feb. 27, 2019, repealed § 33-2.8, which pertained to a resolution
 of code violations and derived from Ord. No. 24989 , § II, adopted Aug. 12, 2015.
-Sec. 33-2.9. - Waiting period for subsequent applications.
+##### Sec. 33-2.9. - Waiting period for subsequent applications.  
+
 (a)
 There shall be a waiting period of two (2) years following the date of decision wherein an applicant shall not
 submit any petition, appeal, or application requesting or proposing the same. For the purpose of this section, the
@@ -904,7 +936,8 @@ application which does not substantially change the request, shall not override 
 The provisions of this section shall not apply in cases where the council, planning director, or planning advisory
 board wish to consider a map amendment of an area of more than twenty (20) acres.
 ( Ord. No. 25891 , § 11, 11-6-19)
-Sec. 33-2.10. - Post-decision proceedings.
+##### Sec. 33-2.10. - Post-decision proceedings.  
+
 Any person or persons or any officer, department, commission, board, district, or any other agency jointly or
 severally aggrieved by the decision of the Jefferson Parish Council may file Writs of Certiorari or other
 appropriate legal proceedings to review said decision to the Twenty-Fourth Judicial District Court in and for the
@@ -919,10 +952,12 @@ Editor's note— Ord. No. 25891 , § 11, adopted Nov. 6, 2019, added § 33-2.9 a
 former § 33-2.9 as § 33-2.10, as set out herein.
 Secs. 33-2.11—33-2.19. - Reserved.
 #### DIVISION 2. - ZONING
-Sec. 33-2.20. - Reserved.
+##### Sec. 33-2.20. - Reserved.  
+
 Editor's note— Ord. No. 25891 , § 12, adopted Nov. 6, 2019, repealed § 33-2.20, which pertained to
 comprehensive plan amendments and derived from Ord. No. 24989 , § II, adopted Aug. 12, 2015.
-Sec. 33-2.21. - Text or map amendments.
+##### Sec. 33-2.21. - Text or map amendments.  
+
 Editor's note— Ord. No. 25891 , § 13, adopted Nov. 6, 2019, changed the title of § 33-2.21 from "UDC text,
 zoning map, or concurrent zoning/future land use map amendments" to "Text or map amendments," as set out
 herein. See subsequent sections, §§ 33-2.21.1—33-2.21.6, for provisions pertaining to UDC text, zoning map, or
@@ -1686,11 +1721,13 @@ the final expiration date of the expired moratorium.
 Sec. 33-2.21.6. - Reserved.
 Editor's note— Ord. No. 25891 , § 13, adopted Nov. 6, 2019, repealed § 33-2.21.6, which pertained to
 subsequent applications and derived from Ord. No. 24989 , § II, adopted Aug. 12, 2015.
-Sec. 33-2.22. - Planned developments (reserved).
+##### Sec. 33-2.22. - Planned developments (reserved).  
+
 Sec. 33-2.22.1. - Preliminary development plan and rezoning (reserved).
 Sec. 33-2.22.2. - Final development plan (reserved).
 Sec. 33-2.23. - Special use permit (reserved)
-Sec. 33-2.24. - Conditional use permit.
+##### Sec. 33-2.24. - Conditional use permit.  
+
 This section applies to certain uses that because of unique characteristics or potential impacts on adjacent and
 nearby land uses, are not permitted as a matter of right but which may, under appropriate standards and factors,
 be approved. Compliance with the generally applicable requirements may not be sufficient, and additional
@@ -1847,7 +1884,8 @@ Renewal. Unless excepted in a zoning district or specific use standard, or other
 shall be renewed every two (2) years subject to the provisions of section 40-764 Renewal of special permitted
 use in Article XL. special permitted uses of Chapter 40 zoning of this Code.
 (Ord. No. 24989 , § II, 8-12-15; Ord. No. 25020 , § III, 10-7-15; Ord. No. 25891 , § 14, 11-6-19)
-Sec. 33-2.25. - Site plan.
+##### Sec. 33-2.25. - Site plan.  
+
 Editor's note— See subsequent sections, §§ 33-2.25.1—33.2.25.4, for provisions pertaining to site plans.
 Sec. 33-2.25.1. - Purpose.
 Site plans are intended to provide detailed information about the location, design, and configuration of proposed
@@ -2006,11 +2044,13 @@ department and two (2) copies of the recorded site plan to the department of ins
 and shall file one (1) copy of the recorded site plan with the clerk of court and one (1) copy with the clerk of
 council.
 (Ord. No. 24989 , § II, 8-12-15; Ord. No. 25744 , § 3, 2-27-19)
-Sec. 33-2.26. - Zoning variances.
+##### Sec. 33-2.26. - Zoning variances.  
+
 For procedures of the board of zoning adjustments for zoning variances under its purview, see Article XLII
 board of zoning adjustments in Chapter 40 zoning of this code.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.27. - Ministerial exceptions.
+##### Sec. 33-2.27. - Ministerial exceptions.  
+
 (a)
 To facilitate flexibility in design while maintaining the health, safety, and welfare of the public, the planning
 director, upon consideration of LURTC comments, may grant ministerial exceptions, where specifically
@@ -2024,10 +2064,13 @@ by the planning director to the parish council. Upon consideration of the writte
 the council shall decide the appeal by adoption of a resolution and may reverse or affirm, wholly or partly, or
 may modify the decision appealed as provided in the resolution.
 (Ord. No. 25405 , § 10, 8-9-17)
-Sec. 33-2.28. - Reserved.
-Sec. 33-2.29. - Reserved.
+##### Sec. 33-2.28. - Reserved.  
+
+##### Sec. 33-2.29. - Reserved.  
+
 #### DIVISION 3. - SUBDIVISION
-Sec. 33-2.30. - Exemptions.
+##### Sec. 33-2.30. - Exemptions.  
+
 The following divisions of land shall be exempt from compliance with the subdivision procedures established in
 this UDC:
 (1)
@@ -2054,7 +2097,8 @@ recorded in the Office of the Jefferson Parish Clerk of Court or ordered by a co
 that the use, development, or transfer by sale of any land involved in a court approved subdivision or transferred
 by charitable gift or will shall be regulated by this Code.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.31. - Minor subdivision.
+##### Sec. 33-2.31. - Minor subdivision.  
+
 Editor's note— See subsequent sections, §§ 33-2.31.1—33-2.31.6, for provisions pertaining to minor
 subdivisions.
 Sec. 33-2.31.1. - Purpose.
@@ -2166,7 +2210,8 @@ If the applicant fails to submit a copy of the act of sale within sixty (60) day
 an act of release, on a form approved by the parish attorney's office, with the clerk of court to provide inscription
 that releases the property from the recorded plat.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.32. - Major subdivisions.
+##### Sec. 33-2.32. - Major subdivisions.  
+
 Editor's note— See subsequent sections, §§ 33-2.32.1—33-2.32.6, for provisions pertaining to major
 subdivisions.
 Sec. 33-2.32.1. - Concept plan.
@@ -2558,7 +2603,8 @@ applicant in writing of the impending deadline if receipt is not timely. If the 
 the act of sale within sixty (60) days then the planning director shall submit an ordinance to the council that
 rescinds the ordinance that approved the plat.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.33. - Plat corrections.
+##### Sec. 33-2.33. - Plat corrections.  
+
 (a)
 Purpose and applicability. The following short form approval process may be used to correct a plat error,
 including the correction of any other type of formal, non-substantive, clerical error, or omission by the parish
@@ -2584,7 +2630,8 @@ planning director shall be the final decision-maker except that the applicant ma
 planning director to the parish council through the major subdivision process. If the plat correction is not
 recorded within six (6) months of application submittal, the application shall be deemed null and void.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.34. - Abandonments.
+##### Sec. 33-2.34. - Abandonments.  
+
 (a)
 Purpose. When deemed to be in the public interest, and where no private rights will be injured or endangered
 and neither the public nor abutting property owners will suffer significant loss or inconvenience thereby, all or a
@@ -2635,7 +2682,8 @@ of the parties having an interest in same.
 Decision-maker. The parish council shall review the application in the same manner as a plat at a public hearing
 and approve, approve with conditions, or deny the application.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.35. - Subdivision waivers.
+##### Sec. 33-2.35. - Subdivision waivers.  
+
 (a)
 Purpose. Subdivision waivers provide a mechanism for relief for property owners when strict application of this
 UDC would result in practical difficulties or a particular hardship to a property owner due to unique conditions
@@ -2681,25 +2729,32 @@ Decision maker. Decisions on subdivision waivers to this UDC shall be made by th
 waiver to this UDC constitutes a waiver to multiple sections of this UDC, separate actions shall not be required
 to modify the provisions of each section. However, each waiver shall be cited in the ordinance approving the
 preliminary plat and shall be noted on the final plat.
-Sec. 33-2.36. - Appeals from staff interpretations (reserved).
-Sec. 33-2.37. - Reserved.
-Sec. 33-2.38. - Reserved.
-Sec. 33-2.39. - Reserved.
+##### Sec. 33-2.36. - Appeals from staff interpretations (reserved).  
+
+##### Sec. 33-2.37. - Reserved.  
+
+##### Sec. 33-2.38. - Reserved.  
+
+##### Sec. 33-2.39. - Reserved.  
+
 #### DIVISION 4. - DEVELOPMENT AGREEMENTS
-Sec. 33-2.40. - Purpose.
+##### Sec. 33-2.40. - Purpose.  
+
 The purpose of a development agreement is to ensure completion of public improvements and facilities, to
 assign responsibility for construction and funding of on and off-site improvements, to provide assurances to the
 applicant that the development may proceed under the terms of the development agreement, and to document all
 agreements between the parish and the applicant relating to a development.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.41. - Applicability.
+##### Sec. 33-2.41. - Applicability.  
+
 Except as provided below, before a subdivision plat is recorded or the department of inspection and code
 enforcement issues the final certificate of compliance or completion on the building permit for a site plan
 approved by the planning director or council, all applicants shall be required to complete, to the satisfaction of
 the public works director, all street, sanitary, and other public improvements required by this UDC. The required
 improvements shall be those specified in the approved construction plans or site plans.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.42. - Conditions.
+##### Sec. 33-2.42. - Conditions.  
+
 If the applicant chooses not to complete all required on and off-site public improvements prior to final plat
 approval or issuance of the final certificate of compliance or completion, the applicant shall provide financial
 guarantees in favor of the parish to assure the construction of on- and off-site public improvements identified in
@@ -2709,7 +2764,8 @@ applicant is unable to complete the required improvements, and such improvements
 the preservation of the public health and safety, the parish may use the guarantee to complete the improvements
 as required or pursue other remedies authorized by state law.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.43. - Guarantee of completion of public improvements.
+##### Sec. 33-2.43. - Guarantee of completion of public improvements.  
+
 The parish council may defer the requirement for the completion of required improvements if the applicant
 enters into a development agreement by which the applicant guarantees completion of all required public
 improvements no later than two (2) years following the date upon which the council approves the final plat or
@@ -2726,14 +2782,16 @@ agreement is required prior to its execution. The public works director shall ve
 provided by the applicant reasonably reflect the costs of required improvements prior to execution of the
 development agreement.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.44. - Covenants to run with the land.
+##### Sec. 33-2.44. - Covenants to run with the land.  
+
 The development agreement shall provide that the covenants contained therein shall run with the land and bind
 all successors, heirs, and assignees of the applicant. The development agreement shall be recorded with the
 Jefferson Parish Clerk of Court in conjunction with the applicable final plat or site plan. Applicants shall be
 required to have all existing lien holders subordinate their liens to the covenants contained in the development
 agreement.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.45. - Performance security.
+##### Sec. 33-2.45. - Performance security.  
+
 (a)
 Security required. Whenever the parish council permits an applicant to enter into a development agreement
 under this section, the applicant shall be required to provide sufficient security to ensure completion of the
@@ -2766,39 +2824,48 @@ insolvent, bankrupt, or otherwise fail, the applicant shall furnish a new bond b
 Jefferson Parish at no cost to Jefferson Parish. The new bond shall be executed under the same terms and
 conditions as the original bond.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.46. - Escrow agent.
+##### Sec. 33-2.46. - Escrow agent.  
+
 
 If security is provided in the form of a cash escrow, the applicant shall deposit with the parish clerk of council a
 cash amount or certified check endorsed to the escrow agent for a face value in an amount not less than the
 amount specified by the public works director.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.47. - Accrual.
+##### Sec. 33-2.47. - Accrual.  
+
 The performance bond, trust agreement, letter of credit, surety bond or cash escrow account shall accrue to the
 parish for administering the construction, operation, and maintenance of the improvements.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.48. - Reimbursement.
+##### Sec. 33-2.48. - Reimbursement.  
+
 Where oversized facilities are required, the development agreement shall establish the amounts and terms of any
 reimbursements to be granted to the applicant.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.49. - Temporary improvements.
+##### Sec. 33-2.49. - Temporary improvements.  
+
 The applicant shall construct and pay for all costs of temporary improvements required by the parish and shall
 maintain said temporary improvements for the period specified.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.50. - Governmental units.
+##### Sec. 33-2.50. - Governmental units.  
+
 Governmental units to which these improvement and security provisions apply may file, in lieu of the agreement
 and security, a contract by the officers or officials authorized to act on their behalf, agreeing to comply fully with
 all applicable provisions of these regulations.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.51. - Decision-maker.
+##### Sec. 33-2.51. - Decision-maker.  
+
 The parish council shall approve, approve with conditions or deny the development agreement through the
 resolution approving a final plat or the ordinance approving a preliminary plat or granting a rezoning. For a
 development agreement associated with a site plan approved by the planning director or council, the council
 shall approve, approve with conditions, or deny the development agreement through an ordinance.
-Sec. 33-2.52. - Reserved.
-Sec. 33-2.53. - Reserved.
+##### Sec. 33-2.52. - Reserved.  
+
+##### Sec. 33-2.53. - Reserved.  
+
 Sec. 33-2-54. - Reserved.
 #### DIVISION 5. - BUILDING, USE, AND OCCUPANCY
-Sec. 33-2.55. - Generally.
+##### Sec. 33-2.55. - Generally.  
+
 The ministerial development approvals described in this division typically occur late in the development
 approval process and authorize construction of a structure, improvement of land, or establishment of land use.
 No land shall be disturbed and no building or structure shall be erected, added to, or structurally altered until a
@@ -2806,22 +2873,36 @@ development approval has been issued by the director of inspection and code enfo
 approvals shall comply with the requirements of this Code. No development approval, building permit,
 certificate of completeness or occupancy shall be issued for any building, structure, or activity where said
 construction, addition, alteration, or use violates any provision of this Code.
-Sec. 33-2.56. - Building permit.
+##### Sec. 33-2.56. - Building permit.  
+
 See Chapter 8 of this Code.
 (Ord. No. 24989 , § II, 8-12-15)
-Sec. 33-2.57. - Certificate of occupancy (reserved).
-Sec. 33-2.58. - Sign permit (reserved).
-Sec. 33-2.59. - Temporary use permit (reserved).
-Sec. 33-2.60. - Home occupancy permit (reserved).
-Sec. 33-2.61. - Floodplain development permit (reserved).
-Sec. 33-2.62. - Right-of-way construction permit (reserved).
-Sec. 33-2.63. - Access permit (reserved).
-Sec. 33-2.64. - Major development applications (reserved).
-Sec. 33-2.65. - Reserved.
-Sec. 33-2.66. - Reserved.
-Sec. 33-2.67. - Reserved.
-Sec. 33-2.68. - Reserved.
-Sec. 33-2.69. - Reserved.
+##### Sec. 33-2.57. - Certificate of occupancy (reserved).  
+
+##### Sec. 33-2.58. - Sign permit (reserved).  
+
+##### Sec. 33-2.59. - Temporary use permit (reserved).  
+
+##### Sec. 33-2.60. - Home occupancy permit (reserved).  
+
+##### Sec. 33-2.61. - Floodplain development permit (reserved).  
+
+##### Sec. 33-2.62. - Right-of-way construction permit (reserved).  
+
+##### Sec. 33-2.63. - Access permit (reserved).  
+
+##### Sec. 33-2.64. - Major development applications (reserved).  
+
+##### Sec. 33-2.65. - Reserved.  
+
+##### Sec. 33-2.66. - Reserved.  
+
+##### Sec. 33-2.67. - Reserved.  
+
+##### Sec. 33-2.68. - Reserved.  
+
+##### Sec. 33-2.69. - Reserved.  
+
 ### ARTICLE 3. - ZONING
 Footnotes:
 --- (5) --Editor's note— Ord. No. 24989 , § III, adopted Aug. 12, 2015, amended Art. 3, §§ 33-3.1—33-3.7, in effect
@@ -2830,7 +2911,8 @@ derived from Ord. No. 23881, § 8, adopted Sept. 22, 2010; Ord. No. 24189, § VI
 No. 24364, § II, adopted Nov. 7, 2012; Ord. No. 24607, §§ 1—5, 7, 10, adopted Nov. 6, 2013; Ord. No. 24735 ,
 § 3, adopted April 30, 2014; and Ord. No. 24898, §§ III—V, adopted Feb. 22, 2015.
 #### DIVISION 1. - INTRODUCTION
-Sec. 33-3.1. - Purpose.
+##### Sec. 33-3.1. - Purpose.  
+
 (a)
 The intent of the parish council is to move all of its zoning regulations to Chapter 33. During the transition, the
 zoning provisions of this chapter and in Chapter 40 of this Code supplement each other. To the extent that this
@@ -2883,7 +2965,8 @@ The size of yards and other open spaces; and
 (5)
 Population density.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.2. - General requirements.
+##### Sec. 33-3.2. - General requirements.  
+
 Pursuant to this article and section 40-46 Restriction on land, buildings, and structures of Article III general
 provisions in Chapter 40 Zoning of this Code, no land shall be used or occupied and no building or structure
 shall be designed, erected, moved, altered, enlarged, occupied, or used or intended to be used except in
@@ -2891,7 +2974,8 @@ conformity with all regulations, compliance with all standards, and upon perform
 associated with any special or conditional use permit, variance, appeal, rezoning, planned development, or site
 plan approval.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.3. - Establishment of zoning districts.
+##### Sec. 33-3.3. - Establishment of zoning districts.  
+
 In order to regulate, classify, and provide a framework for the location and use of land, buildings, and structures;
 the height and size of buildings; the area of yards and other open spaces; and the density and intensity of land
 development, this article establishes base zoning districts, overlay zoning districts, and floating zones.
@@ -3037,7 +3121,8 @@ then be subject to all regulations of the extended districts; and
 Where physical or cultural features existing on the ground vary from those shown on the official zoning map, or
 in case any further uncertainty exists, the planning director shall determine the location of boundaries.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.4. - Use regulations.
+##### Sec. 33-3.4. - Use regulations.  
+
 Editor's note— Ord. No. 25411 , § 2, adopted Aug. 23, 2017, amended § 33-3.4 title to read as herein set out.
 Former § 33-3.4 title pertained to master use matrix. See subsequent sections, §§ 33-3.4.1—33-3.4.4, for
 provisions pertaining to use regulations.
@@ -6790,107 +6875,153 @@ assigned
 (Ord. No. 24989 , § III, 8-12-15; Ord. No. 25020 , § V, 10-7-15; Ord. No. 25411 , § 2, 8-23-17; Ord. No. 25349 ,
 § 1, 5-3-17; Ord. No. 25513 , § 3, 2-21-18; Ord. No. 25562 , § 1, 4-25-18)
 Editor's note— See the editor's note to § 33-3.4.2.
-Sec. 33-3.5. - Dimensional regulations (reserved).
-Sec. 33-3.6. - Reserved.
-Sec. 33-3.7. - Reserved.
-Sec. 33-3.8. - Reserved.
-Sec. 33-3.9. - Reserved.
+##### Sec. 33-3.5. - Dimensional regulations (reserved).  
+
+##### Sec. 33-3.6. - Reserved.  
+
+##### Sec. 33-3.7. - Reserved.  
+
+##### Sec. 33-3.8. - Reserved.  
+
+##### Sec. 33-3.9. - Reserved.  
+
 #### DIVISION 2. - BASE ZONING DISTRICTS
 Subdivision 1. - Residential Zoning Districts
-Sec. 33-3.10. - Residential Zoning Districts Use Matrix (reserved).
-Sec. 33-3.11. - Suburban (S-1).
+##### Sec. 33-3.10. - Residential Zoning Districts Use Matrix (reserved).  
+
+##### Sec. 33-3.11. - Suburban (S-1).  
+
 See Chapter 40, Article V of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.12. - Rural Residential (R-1D).
+##### Sec. 33-3.12. - Rural Residential (R-1D).  
+
 See Chapter 40, Article IX of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.13. - Rural Residential (R-1C).
+##### Sec. 33-3.13. - Rural Residential (R-1C).  
+
 See Chapter 40, Article VIII of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.14. - Suburban Residential (R-1B).
+##### Sec. 33-3.14. - Suburban Residential (R-1B).  
+
 See Chapter 40, Article VII of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.15. - Single-Family Residential (R-1A).
+##### Sec. 33-3.15. - Single-Family Residential (R-1A).  
+
 See Chapter 40, Article VI of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.16. - Manufactured Home (R-1MH).
+##### Sec. 33-3.16. - Manufactured Home (R-1MH).  
+
 See Chapter 40, Article XI of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.17. - Two-Family Residential (R-2).
+##### Sec. 33-3.17. - Two-Family Residential (R-2).  
+
 See Chapter 40, Article XII of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.18. - Three- and Four-Family Residential (RR-3).
+##### Sec. 33-3.18. - Three- and Four-Family Residential (RR-3).  
+
 See Chapter 40, Article XIII of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.19. - Multiple Family Residential (R-3).
+##### Sec. 33-3.19. - Multiple Family Residential (R-3).  
+
 See Chapter 40, Article XIV of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.20. - Townhouses (R-1TH).
+##### Sec. 33-3.20. - Townhouses (R-1TH).  
+
 See Chapter 40, Article XV of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.21. - Reserved.
-Sec. 33-3.22. - Reserved.
-Sec. 33-3.23. - Reserved.
-Sec. 33-3.24. - Reserved.
+##### Sec. 33-3.21. - Reserved.  
+
+##### Sec. 33-3.22. - Reserved.  
+
+##### Sec. 33-3.23. - Reserved.  
+
+##### Sec. 33-3.24. - Reserved.  
+
 Subdivision 2. - Commercial Zoning Districts
-Sec. 33-3.25. - Commercial Zoning districts use matrix (reserved).
-Sec. 33-3.26. - Medical Services (H-1).
+##### Sec. 33-3.25. - Commercial Zoning districts use matrix (reserved).  
+
+##### Sec. 33-3.26. - Medical Services (H-1).  
+
 See Chapter 40, Article XVII of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.27. - Medical Services (H-2).
+##### Sec. 33-3.27. - Medical Services (H-2).  
+
 See Chapter 40, Article XVIII of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.28. - Neighborhood Commercial (C-1).
+##### Sec. 33-3.28. - Neighborhood Commercial (C-1).  
+
 See Chapter 40, Article XIX of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.29. - General Offices (GO-2).
+##### Sec. 33-3.29. - General Offices (GO-2).  
+
 See Chapter 40, Article XXI of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.30. - General Offices (GO-1).
+##### Sec. 33-3.30. - General Offices (GO-1).  
+
 See Chapter 40, Article XX of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.31. - Core District Residential (CD-R).
+##### Sec. 33-3.31. - Core District Residential (CD-R).  
+
 See Chapter 40, Article XXII of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.32. - Business Core (BC-1).
+##### Sec. 33-3.32. - Business Core (BC-1).  
+
 See Chapter 40, Article XXIII of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.33. - Business Core (BC-2).
+##### Sec. 33-3.33. - Business Core (BC-2).  
+
 See Chapter 40, Article XXIV of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.34. - Mixed Use Corridor (MUC).
+##### Sec. 33-3.34. - Mixed Use Corridor (MUC).  
+
 See Chapter 40, Article XXV of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.35. - General Commercial (C-2).
+##### Sec. 33-3.35. - General Commercial (C-2).  
+
 See Chapter 40, Article XXVIII of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.36. - Reserved.
-Sec. 33-3.37. - Reserved.
-Sec. 33-3.38. - Reserved.
-Sec. 33-3.39. - Reserved.
+##### Sec. 33-3.36. - Reserved.  
+
+##### Sec. 33-3.37. - Reserved.  
+
+##### Sec. 33-3.38. - Reserved.  
+
+##### Sec. 33-3.39. - Reserved.  
+
 Subdivision 3. - Industrial Zoning Districts
-Sec. 33-3.40. - Industrial Zoning Districts Use Matrix (reserved).
-Sec. 33-3.41. - Office Warehouse (OW-1).
+##### Sec. 33-3.40. - Industrial Zoning Districts Use Matrix (reserved).  
+
+##### Sec. 33-3.41. - Office Warehouse (OW-1).  
+
 See Chapter 40, Article XXIX of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.42. - Industrial (M-1).
+##### Sec. 33-3.42. - Industrial (M-1).  
+
 See Chapter 40, Article XXX of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.43. - Industrial (M-2).
+##### Sec. 33-3.43. - Industrial (M-2).  
+
 See Chapter 40, Article XXXI of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.44. - Industrial (M-3).
+##### Sec. 33-3.44. - Industrial (M-3).  
+
 See Chapter 40, Article XXXII of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.45. - Industrial (M-4).
+##### Sec. 33-3.45. - Industrial (M-4).  
+
 See Chapter 40, Article XXXII.5 of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.46. - Reserved.
-Sec. 33-3.47. - Reserved.
-Sec. 33-3.48. - Reserved.
-Sec. 33-3.49. - Reserved.
+##### Sec. 33-3.46. - Reserved.  
+
+##### Sec. 33-3.47. - Reserved.  
+
+##### Sec. 33-3.48. - Reserved.  
+
+##### Sec. 33-3.49. - Reserved.  
+
 #### DIVISION 3. - MIXED-USE BASE ZONING DISTRICTS
-Sec. 33-3.50. - Mixed-Use Base Zoning Districts Use Matrix.
+##### Sec. 33-3.50. - Mixed-Use Base Zoning Districts Use Matrix.  
+
 Table 33-3.50-1, Authorized Land Uses for Mixed-Use Base Zoning Districts, lists the principal uses, as
 described in section 33-3.4.4, Master Use Matrix, permitted by-right (P), permitted with supplemental use
 regulations (S), permitted with approval of a conditional use permit (C), or prohibited (X) within the mixed-use
@@ -12880,7 +13011,8 @@ Function
 
 (Ord. No. 24989 , § III, 8-12-15; Ord. No. 25020 , §§ IV, VI, 10-7-15; Ord. No. 25040 , § I, 11-4-15; Ord. No.
 25411 , § 3, 8-23-17; Ord. No. 25349 , § 2, 5-3-17; Ord. No. 25513 , § 4, 2-21-18; Ord. No. 25562 , § 2, 4-2518)
-Sec. 33-3.51. - Old Bucktown Mixed-Use Residential (OBM-1).
+##### Sec. 33-3.51. - Old Bucktown Mixed-Use Residential (OBM-1).  
+
 Editor's note— See subsequent sections, §§ 33-3.51.1—33-3.51.6, for provisions pertaining to the Old
 Bucktown Mixed-Use Residential (OBM-1).
 Sec. 33-3.51.1. - Purpose.
@@ -13115,7 +13247,8 @@ Section 40-737, Exceptions to height requirements, in Article XXXIX, Exceptions 
 40, Zoning, of this Code shall not apply to any building or structure in this district, and no exceptions to height
 shall be permitted by the parish council, or any parish agency, board, or commission.
 (Ord. No. 24989 , § III, 8-12-15; Ord. No. 25040 , § II, 11-4-15)
-Sec. 33-3.52. - Old Bucktown Mixed-Use Commercial (OBM-2).
+##### Sec. 33-3.52. - Old Bucktown Mixed-Use Commercial (OBM-2).  
+
 Editor's note— See subsequent sections, §§ 33-3.52.1—33-3.52.6, for provisions pertaining to the Old
 Bucktown Mixed-Use Commercial (OBM-2).
 Sec. 33-3.52.1. - Purpose.
@@ -13417,7 +13550,8 @@ Residential District (R2), Three and Four-Family Residential District (RR3), and
 The BZA shall not grant variances to the lot area per family requirements, the height restrictions, or the front
 yard requirements of this district.
 (Ord. No. 24989 , § III, 8-12-15; Ord. No. 25040 , § III, 11-4-15)
-Sec. 33-3.53. - Fat City Districts.
+##### Sec. 33-3.53. - Fat City Districts.  
+
 Editor's note— Ord. No. 25411 , § 4, adopted Aug. 23, 2017, repealed former §§ 33-3.53—33-3.53.19 and
 enacted new §§ 33-3.53—33.53.9 as set out herein. The former §§ 33-3.53—33.3.53.19 pertained to PedestrianCore District (FC-1) and derived from Ord. No. 24989, § III, adopted Aug. 12, 2015 and Ord. No. 25405 , §§ 13,
 14, adopted Aug. 9, 2017.
@@ -14652,8 +14786,10 @@ Editor's note— Ord. No. 25411 , § 4, adopted Aug. 23, 2017, repealed §§ 33-
 Residential Mixed Use District (FC-2); Commercial Mixed Use District (FC-3); and Fat City Special Zoning
 District Standards and derived from Ord. No. 24989, § III, adopted Aug. 12, 2015; Ord. No. 25231, §§ 2—4,
 adopted Oct. 5, 2016; and Ord. No. 25405 , §§ 15—20, adopted Aug. 9, 2017.
-Sec. 33-3.57. - Accessory uses (reserved).
-Sec. 33-3.58. - Unrestricted Suburban (U-1S).
+##### Sec. 33-3.57. - Accessory uses (reserved).  
+
+##### Sec. 33-3.58. - Unrestricted Suburban (U-1S).  
+
 Editor's note— See subsequent sections, §§ 33-3.58.1—33-3.58.5, for provisions pertaining to Unrestricted
 Suburban (U-1S).
 Sec. 33-3.58.1. - Purpose.
@@ -15336,22 +15472,31 @@ development may proceed to the building permit process.
 Variances or exceptions. The council may authorize variances from the standards of the U-1S district and the
 Fairfield Overlay District (FOD).
 (Ord. No. 25020 , § VII, 10-7-15)
-Sec. 33-3.59. - Unrestricted Rural (U-1R).
+##### Sec. 33-3.59. - Unrestricted Rural (U-1R).  
+
 See Chapter 40, Article XXXIV of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.60. - Reserved.
-Sec. 33-3.61. - Reserved.
-Sec. 33-3.62. - Reserved.
-Sec. 33-3.63. - Reserved.
-Sec. 33-3.64. - Reserved.
+##### Sec. 33-3.60. - Reserved.  
+
+##### Sec. 33-3.61. - Reserved.  
+
+##### Sec. 33-3.62. - Reserved.  
+
+##### Sec. 33-3.63. - Reserved.  
+
+##### Sec. 33-3.64. - Reserved.  
+
 #### DIVISION 4. - OVERLAY ZONING DISTRICTS
-Sec. 33-3.65. - Old Metairie Neighborhood Conservation District (OMNCD).
+##### Sec. 33-3.65. - Old Metairie Neighborhood Conservation District (OMNCD).  
+
 See Chapter 40, Article X of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.66. - Metairie Ridge Tree Preservation District (MRTPD).
+##### Sec. 33-3.66. - Metairie Ridge Tree Preservation District (MRTPD).  
+
 See Chapter 40, Article X.5 of this Code
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.67. - Commercial Parkway Pedestrian Overlay Zone (CPZ-PED).
+##### Sec. 33-3.67. - Commercial Parkway Pedestrian Overlay Zone (CPZ-PED).  
+
 Editor's note— See subsequent sections, §§ 33-3.67.1—33-3.67.8, for provisions pertaining to the Commercial
 Parkway Pedestrian Overlay Zone (CPZ-PED).
 Sec. 33-3.67.1. - Purpose.
@@ -15787,10 +15932,12 @@ The front or corner side yard requirements, including parking location; or
 (2)
 Any yard requirement that would interfere with landscaping requirements.
 (Ord. No. 25480 , § 9, 1-10-18)
-Sec. 33-3.68. - Commercial Parkway Overlay Zone (CPZ).
+##### Sec. 33-3.68. - Commercial Parkway Overlay Zone (CPZ).  
+
 See Chapter 40, Article XXVI of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.69. - Fairfield Overlay District (FOD).
+##### Sec. 33-3.69. - Fairfield Overlay District (FOD).  
+
 Editor's note— See subsequent sections, §§ 33-3.69.1—33-3.69.9, for provisions pertaining to the Fairfield
 Overlay District (FOD).
 Sec. 33-3.69.1. - Purpose.
@@ -15930,7 +16077,8 @@ shall apply in the FOD. The council may authorize variances from the standards o
 FOD. Where there is a conflict between the underlying zoning district and the FOD regarding development
 approval, the FOD shall govern.
 (Ord. No. 25020 , § VIII, 10-7-15)
-Sec. 33-3.70. - Avondale Industrial Marine (AIM) District.
+##### Sec. 33-3.70. - Avondale Industrial Marine (AIM) District.  
+
 Editor's note— See subsequent sections, §§ 33-3.70.1—33-3.70.3, for provisions pertaining to the Avondale
 Industrial Marine (AIM) District.
 Sec. 33-3.70.1. - Purpose and findings.
@@ -16010,48 +16158,76 @@ Agriculture, forestry, fishing, and hunting (LBCS Code 9000).
 (3)
 Gaming establishment is a prohibited use.
 (Ord. No. 25794 , § 2, 6-19-19)
-Sec. 33-3.71. - Reserved.
+##### Sec. 33-3.71. - Reserved.  
+
 Sec 33-3.72. - Reserved.
-Sec. 33-3.73. - Reserved.
-Sec. 33-3.74. - Reserved.
+##### Sec. 33-3.73. - Reserved.  
+
+##### Sec. 33-3.74. - Reserved.  
+
 #### DIVISION 5. - FLOATING ZONES
-Sec. 33-3.75. - Gaming and entertainment (GED).
+##### Sec. 33-3.75. - Gaming and entertainment (GED).  
+
 See Chapter 40, Article XXVII of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.76. - Penal and Criminal Correctional Institution (P-1).
+##### Sec. 33-3.76. - Penal and Criminal Correctional Institution (P-1).  
+
 See Chapter 40, Article XXXIII of this Code.
 (Ord. No. 24989 , § III, 8-12-15)
-Sec. 33-3.77. - Planned development (reserved).
-Sec. 33-3.78. - Reserved.
-Sec. 33-3.79. - Reserved.
+##### Sec. 33-3.77. - Planned development (reserved).  
+
+##### Sec. 33-3.78. - Reserved.  
+
+##### Sec. 33-3.79. - Reserved.  
+
 ### ARTICLE 4. - NON-CONFORMING SITUATIONS/VESTED RIGHTS
 Footnotes:
 --- (6) --Editor's note— Ord. No. 24989 , § IV, adopted Aug. 12, 2015, amended Art. 4, §§ 33-4.1—33-4.10, in effect
 repealing and reenacting said section as set out herein. Former Art. 4 pertained to Non-conforming situations.
-Sec. 33-4.1. - Purpose (reserved).
+##### Sec. 33-4.1. - Purpose (reserved).  
+
 #### DIVISION 1. - NONCONFORMITIES
 Footnotes:
 --- (7) --Editor's note— See Chapter 40, Article XXXVII of this Code.
-Sec. 33-4.2. - Continuation/completion of non-conforming projects (reserved).
-Sec. 33-4.3. - Non-conforming lots of record and uses (reserved).
-Sec. 33-4.4. - Expansion, improvement, restoration and maintenance of non-conformity (reserved).
-Sec. 33-4.5. - Certificate of non-conformity (reserved).
-Sec. 33-4.6. - Change in use (reserved).
-Sec. 33-4.7. - Non-conforming parking (reserved).
-Sec. 33-4.8. - Non-conforming signs (reserved).
-Sec. 33-4.9. - Abandonment and discontinuance of non-conforming rights (reserved).
-Sec. 33-4.10. - Exceptions (reserved).
-Sec. 33-4.11. - Reserved.
-Sec. 33-4.12. - Reserved.
-Sec. 33-4.13. - Reserved.
-Sec. 33-4.14. - Reserved.
-Sec. 33-4.15. - Reserved.
-Sec. 33-4.16. - Reserved.
-Sec. 33-4.17. - Reserved.
-Sec. 33-4.18. - Reserved.
-Sec. 33-4.19. - Reserved.
+##### Sec. 33-4.2. - Continuation/completion of non-conforming projects (reserved).  
+
+##### Sec. 33-4.3. - Non-conforming lots of record and uses (reserved).  
+
+##### Sec. 33-4.4. - Expansion, improvement, restoration and maintenance of non-conformity (reserved).  
+
+##### Sec. 33-4.5. - Certificate of non-conformity (reserved).  
+
+##### Sec. 33-4.6. - Change in use (reserved).  
+
+##### Sec. 33-4.7. - Non-conforming parking (reserved).  
+
+##### Sec. 33-4.8. - Non-conforming signs (reserved).  
+
+##### Sec. 33-4.9. - Abandonment and discontinuance of non-conforming rights (reserved).  
+
+##### Sec. 33-4.10. - Exceptions (reserved).  
+
+##### Sec. 33-4.11. - Reserved.  
+
+##### Sec. 33-4.12. - Reserved.  
+
+##### Sec. 33-4.13. - Reserved.  
+
+##### Sec. 33-4.14. - Reserved.  
+
+##### Sec. 33-4.15. - Reserved.  
+
+##### Sec. 33-4.16. - Reserved.  
+
+##### Sec. 33-4.17. - Reserved.  
+
+##### Sec. 33-4.18. - Reserved.  
+
+##### Sec. 33-4.19. - Reserved.  
+
 #### DIVISION 2. - VESTED RIGHTS
-Sec. 33-4.20. - Vested rights for new applications.
+##### Sec. 33-4.20. - Vested rights for new applications.  
+
 Editor's note— See subsequent sections, §§ 33-4.20.1—33-4.20.7, for provisions pertaining to vested rights for
 new applications.
 Sec. 33-4.20.1. - Purpose.
@@ -16133,7 +16309,8 @@ decision, provided that the appeal is made within thirty (30) days of the final 
 [8]
 
 Footnotes:
-Sec. 33-5.1. - Purpose.
+##### Sec. 33-5.1. - Purpose.  
+
 This article provides supplemental conditions, standards, or criteria for certain uses, structures, facilities, or
 alternative forms of development to achieve the following purposes:
 (1)
@@ -16145,7 +16322,8 @@ Protect the public health, safety, and general welfare; and
 (4)
 Implement the comprehensive plan.
 (Ord. No. 24989 , § V), 8-12-15)
-Sec. 33-5.2. - General conditions.
+##### Sec. 33-5.2. - General conditions.  
+
 The regulations of this article shall supplement the requirements of the zoning district, overlay, if applicable, and
 other standards of this Code. They are in addition to, and do not replace, other development standards unless
 otherwise provided. To the extent that a conflict exists between a standard in another article of the UDC or Code
@@ -16158,7 +16336,8 @@ distinct pattern of certain development whether permitted as a conditional use, 
 applicable use table, or allowed by right in the supplemental use regulations of the zoning district or overlay.
 (Ord. No. 24989 , § V), 8-12-15)
 #### DIVISION 1. - SPECIFIC USE STANDARDS
-Sec. 33-5.3. - Specific use standards.
+##### Sec. 33-5.3. - Specific use standards.  
+
 Editor's note— See subsequent sections, §§ 33-5.3.1—33-5.3.2, for provisions pertaining to specific use
 standards.
 Sec. 33-5.3.1. - Accessory uses in a dwelling.
@@ -17386,7 +17565,8 @@ Editor's note— See the editor's note to § 33-5.3.11.
 Sec. 33-5.3.21. - Wireless communications facilities (reserved).
 Secs. 33-5.4—33-5.18. - Reserved.
 #### DIVISION 2. - DEVELOPMENT PATTERNS
-Sec. 33-5.19. - Purpose.
+##### Sec. 33-5.19. - Purpose.  
+
 This division establishes templates for certain types of development. These development patterns involve landuse and design regulations intended to promote a distinct pattern of development, and typically include multiple
 uses on the same property unless otherwise prohibited. The patterns are not base zoning districts or overlay
 zoning districts. Instead, they are forms of development that may be allowed in certain districts. The provisions
@@ -17394,7 +17574,8 @@ of this division may describe the procedure for permitting a development pattern
 application where the applicant chooses to develop pursuant to the standards and procedures of a development
 pattern.
 (Ord. No. 25480 , § 10, 1-10-18)
-Sec. 33-5.20. - Mixed-use buildings.
+##### Sec. 33-5.20. - Mixed-use buildings.  
+
 This section establishes standards for mixed-use development where the building is allowed in a zoning district,
 and provides flexible parking standards to recognize internal vehicular trip capture from mixed uses.
 (Ord. No. 24989 , § V, 8-12-15)
@@ -17502,7 +17683,8 @@ Off-site parking. Required parking may be provided on an off-site parking facili
 Shared parking. Required parking may be provided cooperatively for two (2) or more uses in accordance with
 section 33-6.35.5, Shared parking.
 (Ord. No. 24989 , § V, 8-12-15; Ord. No. 25411 , § 17, 8-23-17; Ord. No. 25480 , § 11, 1-10-18)
-Sec. 33-5.21. - Mid-rise to high-rise building.
+##### Sec. 33-5.21. - Mid-rise to high-rise building.  
+
 Editor's note— See subsequent sections, §§ 33-5.21.1—33-5.21.5, for provisions pertaining to mid-rise to highrise buildings.
 Sec. 33-5.21.1. - Purpose.
 These standards are designed to:
@@ -18086,7 +18268,8 @@ bulk plane below. Neither the parish council or the board of zoning adjustments,
 commission, department or administrative agency shall grant a variance to any other development regulation in
 this section, including but not limited to the maximum height requirement.
 (Ord. No. 24989 , § V, 8-12-15; Ord. No. 25411 , § 20, 8-23-17)
-Sec. 33-5.22. - Group development.
+##### Sec. 33-5.22. - Group development.  
+
 Editor's note— See subsequent sections, §§ 33-5.22.1 and 33-5.22.2, for provisions pertaining to group
 development.
 Sec. 33-5.22.1. - Purpose.
@@ -18124,10 +18307,14 @@ District Court of the Parish of Jefferson.
 (b)
 Outparcels. All requirements of the base or overlay zoning district shall apply to each, individual outparcel.
 (Ord. No. 25480 , § 12, 1-10-18)
-Sec. 33-5.23. - Conservation subdivisions (reserved).
-Sec. 33-5.24. - Small single-family lot patterns (reserved).
-Sec. 33-5.25. - Traditional neighborhood development (reserved).
-Sec. 33-5.26. - Employment center patterns (reserved).
+##### Sec. 33-5.23. - Conservation subdivisions (reserved).  
+
+##### Sec. 33-5.24. - Small single-family lot patterns (reserved).  
+
+##### Sec. 33-5.25. - Traditional neighborhood development (reserved).  
+
+##### Sec. 33-5.26. - Employment center patterns (reserved).  
+
 ### ARTICLE 6. - GENERAL DEVELOPMENT STANDARDS
 Footnotes:
 --- (9) --Editor's note— Ord. No. 24989 , § VI, adopted Aug. 12, 2015, amended Art. 6, §§ 33-6.1—33-6.9, in effect
@@ -18135,16 +18322,19 @@ repealing and reeancting said article as set out herein. Former Art. 6 pertained
 derived from Ord. No. 23243, § 1, adopted Feb. 13, 2008; Ord. No. 23881, §§ 1, 9, adopted Sept. 22, 2010; and
 Ord. No. 24085, § VII, adopted Aug. 3, 2011.
 #### DIVISION 1. - GENERALLY
-Sec. 33-6.1. - Applicability.
+##### Sec. 33-6.1. - Applicability.  
+
 This Article applies to any application for development approval, except as otherwise provided.
 (Ord. No. 24989 , § VI, 8-12-15)
-Sec. 33-6.2. - Variances.
+##### Sec. 33-6.2. - Variances.  
+
 Where authorized in the zoning district regulations or elsewhere in this Code, an applicant may seek a variance
 from these development standards pursuant to Article XLII Board of Zoning Adjustments in Chapter 40 Zoning
 in the case of zoning development approvals, or section 33-2.31 Subdivision waivers of this UDC in the case of
 subdivision plats.
 (Ord. No. 24989 , § VI, 8-12-15)
-Sec. 33-6.3. - Maintenance of common areas.
+##### Sec. 33-6.3. - Maintenance of common areas.  
+
 The owner of parking lots, parking garages, landscape areas, frontage zones and other areas or improvements
 held in common ownership shall be responsible for raising all monies required for operations, maintenance or
 physical improvements through annual dues, special assessments or other arrangements approved by the parish
@@ -18166,9 +18356,11 @@ Should any bill or bills for maintenance of common areas or improvements by the 
 November 1 of each year, a late fee of fifteen (15) percent shall be added to such bills and a lien shall be filed
 against the property in the same manner as other parish claims.
 (Ord. No. 24989 , § VI, 8-12-15)
-Sec. 33-6.4. - Reserved.
+##### Sec. 33-6.4. - Reserved.  
+
 #### DIVISION 2. - DESIGN STANDARDS
-Sec. 33-6.5. - Block standards.
+##### Sec. 33-6.5. - Block standards.  
+
 (a)
 Adequate building sites required. Provisions of adequate building sites suitable to the special needs of the type
 of land use (residential, commercial or other) proposed for development shall comply with the minimum
@@ -18184,7 +18376,8 @@ Block lengths. No residential block shall be longer than one thousand (1,000) fe
 River, an interstate or major arterial, the hurricane protection levee or some other feature that prohibits street
 connectivity.
 (Ord. No. 24989 , § VI, 8-12-15)
-Sec. 33-6.6. - Lot standards.
+##### Sec. 33-6.6. - Lot standards.  
+
 Editor's note— See subsequent sections, §§ 33-6.6.1—33-6.6.4, for provisions pertaining to lot standards.
 Sec. 33-6.6.1. - Lots generally.
 (a)
@@ -18329,7 +18522,8 @@ The orientation of lots within the immediate area of the property.
 Neighborhood stability relative to the frequency of re-subdivision of lots within the immediate area of subject
 property.
 (Ord. No. 24989 , § VI, 8-12-15)
-Sec. 33-6.7. - Building height.
+##### Sec. 33-6.7. - Building height.  
+
 Editor's note— See subsequent sections, §§ 33-6.7.1—33-6.7.3, for provisions pertaining to building height.
 Sec. 33-6.7.1. - Generally.
 Building height shall conform to the requirements of the applicable zoning district regulations, unless otherwise
@@ -18343,7 +18537,8 @@ Sec. 33-6.7.3. - Height exceptions.
 The height limits for the various zoning districts shall not apply to the uses specified in section 40-737
 Exceptions to height requirements in Chapter 40 Zoning of this Code.
 (Ord. No. 24989 , § VI, 8-12-15)
-Sec. 33-6.8. - Building design.
+##### Sec. 33-6.8. - Building design.  
+
 Editor's note— See subsequent sections, §§ 33-6.8.1—33-6.8.4, for provisions pertaining to building design.
 (Ord. No. 24989 , § VI, 8-12-15)
 Sec. 33-6.8.1. - Purpose.
@@ -18599,7 +18794,8 @@ border.
 
 This picture shows an example of the use of borders and offset to denote a change in materials.
 (Ord. No. 25411 , § 21, 8-23-17)
-Sec. 33-6.9. - Site design.
+##### Sec. 33-6.9. - Site design.  
+
 Editor's note— See subsequent sections, §§ 33-6.9.1—33-6.9.3.5, for provisions pertaining to site design.
 Sec. 33-6.9.1. - Purpose (reserved).
 Sec. 33-6.9.2. - Residential sites (reserved).
@@ -18665,13 +18861,15 @@ Any public address system located on site shall be oriented to minimize sound in
 All regulations of this Code regarding noise shall be met.
 (Ord. No. 25411 , § 21, 8-23-17)
 Secs. 33-6.10—33-6.11.5. - Reserved.
-Sec. 33-6.12. - Reserved.
+##### Sec. 33-6.12. - Reserved.  
+
 Editor's note— Ord. No. 25411 , § 21, adopted Aug. 23, 2017, repealed § 33-6.12, which pertained to fences
 and walls and derived from Ord. No. 24989, § VI, adopted Aug. 12, 2015.
 Secs. 33-6.13—33-6.24. - Reserved.
 #### DIVISION 3. - GREENSPACE (LANDSCAPING, BUFFERING AND SCREENING, TREE
 PRESERVATION)
-Sec. 33-6.25. - Landscaping, buffering, and screening.
+##### Sec. 33-6.25. - Landscaping, buffering, and screening.  
+
 Editor's note— See subsequent sections, §§ 33-6.25.1—33-6.25.12, for provisions pertaining to landscaping,
 buffering, and screening.
 Sec. 33-6.25.1. - Purpose.
@@ -19532,7 +19730,8 @@ maintain the property or use in conformance with the landscaping plan, is cause 
 procedure for administrative adjudication established in Chapter 2.5, Administrative adjudication of public
 health, housing, fire code, environmental and historic district violations, of this Code.
 (Ord. No. 25405 , § 35, 8-9-17)
-Sec. 33-6.26. - Low impact development.
+##### Sec. 33-6.26. - Low impact development.  
+
 (a)
 Purpose. Jefferson Parish promotes the general welfare through sustainable, low impact development which
 reduces the long-term capital and operational costs of public facilities and minimizes adverse effects on the
@@ -19705,7 +19904,8 @@ Maintenance. A maintenance plan is required in order to ensure the long-term eff
 maintenance plan shall be prepared in accordance with a template approved by the planning director and shall be
 recorded with the parish clerk of court.
 (Ord. No. 25405 , § 36, 8-9-17)
-Sec. 33-6.27. - Tree preservation.
+##### Sec. 33-6.27. - Tree preservation.  
+
 Editor's note— See subsequent sections, §§ 33-6.27.1—33-6.27.12, for provisions pertaining to tree
 preservation.
 Sec. 33-6.27.1. - Purpose.
@@ -20062,7 +20262,8 @@ work at the request of a property owner who has not received the proper permits 
 (Ord. No. 25405 , § 37, 8-9-17)
 Secs. 33-6.28—33-6.34 - Reserved.
 #### DIVISION 4. - PARKING AND STORAGE STANDARDS
-Sec. 33-6.35. - Parking.
+##### Sec. 33-6.35. - Parking.  
+
 See Article XXXV, Off-street Parking, Loading, and Clear Vision Area Regulations, in Chapter 40 of this Code.
 (Ord. No. 24989 , § VI, 8-12-15; Ord. No. 25411 , § 22, 8-23-17)
 Editor's note— Ord. No. 25411 , § 22, adopted Aug. 23, 2017, amended § 33-6.35 title to read as set out herein.
@@ -20431,20 +20632,24 @@ c.
 Continuation or expansion of the use shall be prohibited unless the use is brought into compliance with the
 parking regulations of this section.
 (Ord. No. 25411 , § 23, 8-23-17)
-Sec. 33-6.36. - Loading.
+##### Sec. 33-6.36. - Loading.  
+
 See Article XXXV, Off-street parking, loading, and clear vision area regulations, in Chapter 40 of this Code.
 (Ord. No. 25411 , § 24, 8-23-17)
-Sec. 33-6.37. - Clear vision area.
+##### Sec. 33-6.37. - Clear vision area.  
+
 See Article XXXV, Off-street parking, loading, and clear vision area regulations, in Chapter 40 of this Code.
 (Ord. No. 25411 , § 24, 8-23-17)
-Sec. 33-6.38. - Outdoor storage (reserved).
+##### Sec. 33-6.38. - Outdoor storage (reserved).  
+
 ### ARTICLE 7. - ADEQUATE PUBLIC FACILITIES REQUIRED
 Footnotes:
 --- (10) --Editor's note— Ord. No. 24989 , § VII, adopted Aug. 12, 2015, amended Art. 7, §§ 33-7.1—33-7.6, in effect
 repealing and reenacting said article as set out herein. Former Art. 7 pertained to similar subject matter and
 derived from Ord. No. 23243, § 1, adopted Feb. 13, 2008; Ord. No. 23881, § 1, adopted Sept. 22, 2010; and Ord.
 No. 24085, §§ VIII, IX, adopted Aug. 3, 2011.
-Sec. 33-7.1. - Generally.
+##### Sec. 33-7.1. - Generally.  
+
 This article establishes standards for water, wastewater, stormwater management, streets, and other utilities and
 facilities, whether provided by Jefferson Parish or some other entity. These standards are supplemented by the
 Jefferson Parish Subdivision Public Improvements Standards Manual and the Fire Prevention Code for the
@@ -20609,7 +20814,8 @@ When adequate facilities are not available, the parish may allow the phasing of 
 demands, advancement of needed facilities or other measures to ensure that facilities are available when needed
 to meet the demands from new development.
 (Ord. No. 24989 , § VII, 8-12-15)
-Sec. 33-7.2. - Water.
+##### Sec. 33-7.2. - Water.  
+
 Centralized water service required to provide for normal and emergency flows.
 (Ord. No. 24989 , § VII, 8-12-15)
 Sec. 33-7.2.1. - Generally.
@@ -20658,7 +20864,8 @@ The applicant shall dedicate servitudes required to accommodate all water system
 development, except individual service lines. The public works director shall approve the location and
 dimensions of required servitudes. Servitudes shall follow property lines to the greatest extent possible.
 (Ord. No. 24989 , § VII, 8-12-15)
-Sec. 33-7.3. - Wastewater.
+##### Sec. 33-7.3. - Wastewater.  
+
 
 Centralized sewer service required within the Hurricane Protection Levee (HPL) except as provided in this
 section of the UDC.
@@ -20734,7 +20941,8 @@ Private wastewater treatment, standards (reserved).
 (h)
 Sewage treatment, alternative method (reserved).
 (Ord. No. 24989 , § VII, 8-12-15)
-Sec. 33-7.4. - Stormwater.
+##### Sec. 33-7.4. - Stormwater.  
+
 Editor's note— See subsequent sections, §§ 33-7.4.1—33-7.4.4, for provisions pertaining to stormwater.
 Sec. 33-7.4.1. - Purpose.
 Development shall be laid out to provide proper drainage of the area, including facilities such as curb and gutter,
@@ -20820,7 +21028,8 @@ waiver shall be submitted for final approval by the parish council.
 Any denial of a waiver request by the Citizens' Drainage Advisory Board may be appealed to the parish council
 for final resolution.
 (Ord. No. 24989 , § VII, 8-12-15)
-Sec. 33-7.5. - Transportation.
+##### Sec. 33-7.5. - Transportation.  
+
 Editor's note— See subsequent sections, §§ 33-7.5.1—33-7.5.12, for provisions pertaining to transportation.
 Sec. 33-7.5.1. - Streets, generally.
 (a)
@@ -21509,7 +21718,8 @@ e.
 The zoning and land use provisions of the district within the street is located shall apply; and all zoning, land
 use, and building code provisions of such district shall apply without prejudice.
 (Ord. No. 24989 , § VII, 8-12-15)
-Sec. 33-7.6. - Adequate public facilities waivers.
+##### Sec. 33-7.6. - Adequate public facilities waivers.  
+
 Editor's note— See subsequent sections, §§ 33-7.6.1—33-7.6.5, for provisions pertaining to adequate public
 facilities waivers.
 Sec. 33-7.6.1. - Purpose.
@@ -21582,18 +21792,26 @@ Footnotes:
 --- (11) --Editor's note— Ord. No. 24989 , § VIII, adopted Aug. 12, 2015, amended Art. 8, §§ 33-8.1—33-8.8, in effect
 repealing and reenacting said article as set out herein. Former Art. 8 pertained to similar subject matter and
 derived from Ord. No. 23243, § 1, adopted Feb. 13, 2008.
-Sec. 33-8.1. - Purpose (reserved).
-Sec. 33-8.2. - Applicability, effect (reserved).
+##### Sec. 33-8.1. - Purpose (reserved).  
+
+##### Sec. 33-8.2. - Applicability, effect (reserved).  
+
 Sec 33-8.2.1. - Sign permits required (reserved).
 Sec 33-8.2.2. - Prohibited signs (reserved).
 Sec 33-8.2.3. - Exempt signs (reserved).
 Sec 33-8.2.4. - Flags (reserved).
-Sec. 33-8.3. - Measurements (reserved).
-Sec. 33-8.4. - Permitted sign standards (reserved).
-Sec. 33-8.5. - Master or common signage plan (reserved).
-Sec. 33-8.6. - Temporary signs (reserved).
-Sec. 33-8.7. - Nonconforming signs (reserved).
-Sec. 33-8.8. - Sign maintenance (reserved).
+##### Sec. 33-8.3. - Measurements (reserved).  
+
+##### Sec. 33-8.4. - Permitted sign standards (reserved).  
+
+##### Sec. 33-8.5. - Master or common signage plan (reserved).  
+
+##### Sec. 33-8.6. - Temporary signs (reserved).  
+
+##### Sec. 33-8.7. - Nonconforming signs (reserved).  
+
+##### Sec. 33-8.8. - Sign maintenance (reserved).  
+
 ### ARTICLE 9. - RESERVED
 Footnotes:
 --- (12) --Editor's note— Ord. No. 25621 , § 2, adopted Aug. 8, 2018, repealed Art. 9, which pertained to administration
@@ -21601,7 +21819,8 @@ and enforcement, and repealed the reserved sections within the article, §§ 33-
 been established by Ord. No. 24989 , § IX, adopted Aug. 12, 2015.
 Secs. 33-9.1—33-9.5. - Reserved.
 ### ARTICLE 10. - DEFINITIONS
-Sec. 33-10.1. - Generally.
+##### Sec. 33-10.1. - Generally.  
+
 (a)
 Words used in the present tense shall include the future; the singular number shall include the plural and the
 plural the singular; and the word "shall" is mandatory and not directory.
@@ -21615,7 +21834,8 @@ most reasonable application.
 Editor's note— Ord. No. 25405 , § 40, adopted Aug. 9, 2017, renumbered the former § 33-10.1 as § 33-10.2
 and enacted a new § 33-10.1 as set out herein. The historical notation has been retained with the amended
 provisions for reference purposes.
-Sec. 33-10.2. - Definitions applicable to this entire UDC.
+##### Sec. 33-10.2. - Definitions applicable to this entire UDC.  
+
 For the purpose of this UDC, certain words and terms are hereby defined.
 Abandonment shall mean the relinquishment of property, or a cessation of the use of the property, by the owner
 or lessee without any intention of resuming the use of the property.
@@ -22044,7 +22264,8 @@ Wall sign shall mean a sign painted upon or affixed to the wall of a building an
 (Ord. No. 23243, § 1, 2-13-08); Ord. No. 23881, §§ 1, 10, 9-22-10; Ord. No. 24085, § X, 8-3-11; Ord. No.
 24364, § III, 11-7-12; Ord. No. 24607, § 8, 11-6-13; Ord. No. 24687, § 1, 3-19-14; Ord. No. 24989 , § X, 8-1215; Ord. No. 25020 , § X, 10-7-15; Ord. No. 25041 , § 7, 11-4-15; Ord. No. 25231 , § 5, 10-5-16; Ord. No.
 25405 , § 41, 8-9-17; Ord. No. 25411 , § 25, 8-23-17; Ord. No. 25349 , § 3, 5-3-17; Ord. No. 25480 , § 16, 1-1018; Ord. No. 25513 , § 7, 2-21-18; Ord. No. 25891 , § 16, 11-6-19)
-Sec. 33-10.3. - Definitions applicable to specific sections of this UDC.
+##### Sec. 33-10.3. - Definitions applicable to specific sections of this UDC.  
+
 For the purpose of specific sections of this UDC, certain words and terms are hereby defined.
 (Ord. No. 25405 , § 42, 8-9-17)
 Sec. 33-10.3.1. - Fat City.

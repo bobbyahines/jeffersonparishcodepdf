@@ -5765,14 +5765,16 @@ Lots occupied by condominiums of multiple-family dwellings that exceed the heigh
 contain an area equal to that required by the R3 District lot area requirements.
 (Ord. No. 20783, § 3(X-B(4)), 9-22-99; Ord. No. 22794, § 4, 7-19-06; Ord. No. 23292, § 10, 5-7-08; Ord. No.
 24807 , § XXXVIII, 8-27-14)
-Sec. 40-269.5. - Sign regulations.
+##### Sec. 40-269.5. - Sign regulations.  
+
 Signs shall be permitted in accordance with section 40-80 of this chapter.
 (Ord. No. 24364, § XXI, 11-7-12; Ord. No. 24807 , § XXXIX, 8-27-14)
 #####   
 
 Shall be provided as set forth in Article XXXV, Off-Street Parking, Loading, and Clear Vision Area Regulations.
 (Ord. No. 20783, § 3(X-B(5)), 9-22-99; Ord. No. 22794, § 4, 7-19-06; Ord. No. 23330, § IV, 6-11-08)
-Sec. 40-270.1. - Landscape standards.
+##### Sec. 40-270.1. - Landscape standards.  
+
 The development site or campus of a nonresidential use shall be landscaped in accordance with section 40-84 of
 this chapter.
 (Ord. No. 24807 , § XL, 8-27-14)
@@ -16084,7 +16086,8 @@ d.
 On corner lots, only the front street-facing garage door shall comply with subsections (b) and (c).
 (Ord. No. 20783, § 3(XX(8)), 9-22-99; Ord. No. 22039, §§ 1, 5, 11-5-03; Ord. No. 23816, § 2, 5-26-10; Ord.
 No. 24860 , § 7, 11-5-14)
-Sec. 40-743.5. - Regulations for fences.
+##### Sec. 40-743.5. - Regulations for fences.  
+
 (a)
 In general.
 (1)

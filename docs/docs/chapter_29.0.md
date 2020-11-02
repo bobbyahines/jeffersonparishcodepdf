@@ -12,7 +12,8 @@ motor vehicles, Ch. 36; vehicles for hire, Ch. 38; zoning, Ch. 40.
 State Law reference— For powers of parish governing authorities as to roads, bridges and ditches, see R.S.
 48:481.
 ### ARTICLE I. - IN GENERAL
-Sec. 29-0.1. - Definitions.
+##### Sec. 29-0.1. - Definitions.  
+
 For the purpose of this chapter, the following terms, phrases, words and derivations shall have the meanings
 given herein, unless it is apparent from the context that a different meaning is intended:
 ASHTO means American Association of State Highway and Transportation Officials.
@@ -157,7 +158,8 @@ disposal vehicles; a private road is a road whose use by the public is controlle
 called private road.
 Way means a road, path, or track affording passage from one place to another.
 (Ord. No. 23233, § 2, 1-23-08; Ord. No. 23292, § 38, 5-7-08)
-Sec. 29-0.2. - Street names and characteristics.
+##### Sec. 29-0.2. - Street names and characteristics.  
+
 (a)
 When the provisions of this Code are intended to address the movement of vehicular traffic, the nomenclature
 utilized classifies public ways into four (4) basic categories of street or road: 1) interstates (freeways), 2) arterial
@@ -706,7 +708,8 @@ the shore of Lake Pontchartrain.
 Official designation. The road district created by subsection (a) shall be known and designated as "Road District
 No. 1 of the Parish of Jefferson, State of Louisiana."
 (Code 1961, §§ 15-80, 15-81)
-Sec. 29-86.5. - Sub-road district no. 1 of road district no. 1.
+##### Sec. 29-86.5. - Sub-road district no.  
+ 1 of road district no. 1.
 (a)
 Creation. There is hereby created within road district no. 1 of the Parish of Jefferson, a sub-road district which
 shall comprise and embrace all of that territory contained within the corporate boundaries of the City of Kenner,

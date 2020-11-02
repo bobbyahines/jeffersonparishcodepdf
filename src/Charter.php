@@ -61,8 +61,11 @@ class Charter
     {
         $levelFiveHeader = '##### ';
         $regExPattern = '/((Sec\.\s\d+\.\d*-\d*\.)(\s-\s)(.+?\.))|((Sec\.\s\d+-\d*\.)(\s-\s)(.+?\.))/';
+        $replacementOne = preg_replace($regExPattern, $levelFiveHeader . '${1}' . '  ' . PHP_EOL, $text);;
 
-        return preg_replace($regExPattern, $levelFiveHeader . '${1}' . '  ' . PHP_EOL, $text);
+        $regExPatternTwo = '/((Sec\.\s\d+-\d+\.\d+\.)(\s-\s)(.+?\.))/';
+
+        return preg_replace($regExPatternTwo, $levelFiveHeader . '${1}' . '  ' . PHP_EOL, $replacementOne);
     }
 
     private function charterTextOnly(string $documentText): string

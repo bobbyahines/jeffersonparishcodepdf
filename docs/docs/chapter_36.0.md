@@ -481,7 +481,8 @@ newly designated route.
 (Code 1961, § 11-53; Ord. No. 19014, § 1, 3-23-94; Ord. No. 19276, § 1, 12-7-94; Ord. No. 19712, § 1, 5-22-96;
 Ord. No. 20116, § 1, 8-27-97; Ord. No. 20819, § 1, 11-3-99; Ord. No. 20838, § 1, 12-1-99; Ord. No. 20878, § 1,
 2-9-00; Ord. No. 21226, § 1, 3-7-01; Ord. No. 23570, § 1, 6-24-09; Ord. No. 24755 , § 2, 6-11-14)
-Sec. 36-70.1. - Penalty for violation of section 36-70.
+##### Sec. 36-70.1. - Penalty for violation of section 36-70.  
+
 (a)
 Any person operating a commercial vehicles on any of the streets designated and named in paragraph (b) herein
 in violation of the provision of section 36-70 of this Code shall be punished as set forth in section 1-10 of this
@@ -757,7 +758,8 @@ unloading of passengers, where there have been provided on the shoulder of the p
 and bridges of this parish bus bays for such loading and unloading of passengers.
 (Code 1961, § 11-75)
 Cross reference— Vehicles for hire, Ch. 38.
-Sec. 36-98.1. - Loading and unloading of party buses.
+##### Sec. 36-98.1. - Loading and unloading of party buses.  
+
 It shall be unlawful for any person who operates a party bus to load or unload passengers in a residential
 neighborhood or on residentially zoned property, which includes, but is not limited to, a school, church, park, or
 recreational facility, in unincorporated areas of Jefferson Parish without the express written consent of the
@@ -823,7 +825,8 @@ provisions of sections 36-134 and/or 36-147.
 (f)
 Any person who violates any provision of this section shall be punished as set forth in section 1-10 of this Code.
 (Code 1961, § 12-38; Ord. No. 16602, § III, 9-11-85; Ord. No. 16827, § I, 3-19-86; Ord. No. 21077, § 3, 9-2000; Ord. No. 23728, 1-13-10; Ord. No. 23671, § 24, 10-14-09)
-Sec. 36-100.5. - Towing or booting by owner.
+##### Sec. 36-100.5. - Towing or booting by owner.  
+
 (a)
 In addition to the removal procedure provided in section 36-100, the owner, lessee or person in control of any
 private property shall have the right to have any unauthorized vehicle, which is parked or abandoned on private
@@ -895,7 +898,8 @@ paragraph (a) above, the owner, lessee, managing agent or other person in contro
 by the parking (private property) may block the entrance(s) to such private property by gates or other appropriate
 devices to indicate that entry is not authorized.
 (Ord. No. 21077, § 5, 9-20-00)
-Sec. 36-100.7. - Required procedure for the installation and removal of the booting device.
+##### Sec. 36-100.7. - Required procedure for the installation and removal of the booting device.  
+
 (a)
 At all times, whether the business served by the parking lot is open or closed for business, only the owner,
 lessee, managing agent or other person in control of the premises under contract with the immobilization service
@@ -962,14 +966,16 @@ without charge or further detention to a motor vehicle owner or operator who pre
 acknowledgment from the owner or manager of a multi-family dwelling that the motorist was authorized to park
 at the location in question.
 (Ord. No. 21077, § 5, 9-20-00)
-Sec. 36-100.8. - Boot removal fee refund.
+##### Sec. 36-100.8. - Boot removal fee refund.  
+
 If a motorist challenges the imposition of the fee by filing an action against the immobilization service operator,
 pursuant to section 100.5(b), the booting company shall have the burden of proof that probable cause existed for
 the installation of the booting device. Upon a judgment in favor of the motorist, the booting service operator
 shall refund to the said motorist the sum paid for the removal of the booting device plus all court costs and
 interest.
 (Ord. No. 21077, § 5, 9-20-00)
-Sec. 36-100.9. - Vehicles and areas exempt from booting.
+##### Sec. 36-100.9. - Vehicles and areas exempt from booting.  
+
 No person authorized to install booting devices pursuant to this Article shall boot any vehicle:
 (1)
 Parked or abandoned in a fire lane or otherwise obstructing a fire lane in violation of section 13-23;
@@ -1555,7 +1561,8 @@ actual costs of towing and removing exceed the maximum fine that can be imposed 
 vehicle is not ascertained, the owner of the property from which the vehicle was removed shall be responsible
 for all towing and removal costs not paid by the vehicle owner or realized from the sale of the vehicle.
 (Code 1961, § 11-71.4; Ord. No. 16602, § V, 9-11-85)
-Sec. 36-147.5. - Prima facie evidence.
+##### Sec. 36-147.5. - Prima facie evidence.  
+
 In any prosecution charging a violation of R.S. 32:143A, section 13-23(I) of this Code, or article V of chapter 6,
 as amended, of this Code, or any unoccupied vehicle found abandoned or parked for a period of time in excess
 of forty-eight (48) consecutive hours, proof that the particular vehicle described in the complaint, summons or

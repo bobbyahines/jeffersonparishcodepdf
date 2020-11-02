@@ -717,7 +717,8 @@ compensation or anything of economic value in any circumstance which would resul
 for private gain or the granting of preferential treatment to any person doing business with the parish or involved
 in a transaction with the parish.
 (Code 1961, § 13-52)
-Sec. 23-131.1. - Administration of sections pertaining to elected officials.
+##### Sec. 23-131.1. - Administration of sections pertaining to elected officials.  
+
 The ethics board shall have jurisdiction and shall administer and enforce the provisions of this division and the
 regulations, rules and orders issued hereunder regarding ethical standards.
 (Ord. No. 24011, § 7, 5-11-11)
@@ -809,7 +810,8 @@ procurement of the acceptance of such low bid;
 Campaign contributions for use in meeting campaign expenses by an elected official who is or becomes a
 candidate for election to the same or another public office.
 (Code 1961, § 13-53; Ord. No. 17840, § 2, 10-25-89; Ord. No. 18702, § 1, 3-10-93)
-Sec. 23-132.1. - Abstention or statement by certain elected officials relative to campaign contributors.
+##### Sec. 23-132.1. - Abstention or statement by certain elected officials relative to campaign contributors.  
+
 Whenever any member of the Jefferson Parish Council, in the discharge of an official legislative duty, is called
 upon to vote on a matter which would economically benefit any person who has made campaign contribution(s)
 to said councilmember, which contribution(s), in the aggregate, exceeds the sum of one thousand dollars
@@ -821,7 +823,8 @@ in the official journal of the parish or in the minutes of the parish council. F
 "person" shall mean an individual, partnership, association, labor union, political committee, corporation or
 other legal entity, including their successors and assigns.
 (Ord. No. 18702, § 2, 3-10-93; Ord. No. 23911, § 1, 11-3-10)
-Sec. 23-123.2. - Reserved.
+##### Sec. 23-123.2. - Reserved.  
+
 Editor's note— Ord. No. 18916, § 1, adopted Nov. 17, 1993, repealed § 23-132.2 which pertained to campaign
 contributions involving persons doing business with the parish. See the Code Comparative Table.
 #####   

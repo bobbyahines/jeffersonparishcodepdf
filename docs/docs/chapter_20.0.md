@@ -77,7 +77,8 @@ jurisdiction.
 Any offender may be cited for the violation of this section by means of a citation, and thereby ordered to appear
 before the administrative hearing officer of the parish bureau of administrative adjudication.
 (Ord. No. 22478, § 9, 4-13-05)
-Sec. 20-4.1. - Reserved.
+##### Sec. 20-4.1. - Reserved.  
+
 Editor's note— Ord. No. 22629, § 1, adopted Nov. 16, 2005, repealed § 20-4.1, which pertained to Rent limits
 for commercial or non-commercial halls for the conduct of charitable games of chance, supervision, and
 penalties. See also the Code Comparative Table.
@@ -973,7 +974,8 @@ It is unlawful for a person knowingly to, voluntarily, and intentionally engage 
 in a public place or a place open to the public or open to public view, or to employ, encourage, or procure
 another to so appear.
 (Code 1961, § 12-69)
-Sec. 20-83.5. - Lewd conduct.
+##### Sec. 20-83.5. - Lewd conduct.  
+
 It shall be unlawful for any person to perform or engage in any lewd conduct as hereinafter defined:
 (1)
 Lewd conduct is the intentional performing of any lewd act in a public place or place open to public view.
@@ -988,7 +990,8 @@ Masturbation; or
 d.
 Urination or defecation.
 (Ord. No. 16791, § 1, 2-19-86; Ord. No. 16828, § 1, 3-19-86)
-Sec. 20-83.6. - Prohibited library computer use.
+##### Sec. 20-83.6. - Prohibited library computer use.  
+
 (a)
 It shall be unlawful for any person knowingly to use a library computer, via the internet or otherwise to:
 (1)
@@ -1548,7 +1551,8 @@ building. Citations shall be returnable to either the First Parish Court or the 
 Jefferson.
 (Ord. No. 17277, § I, 6-24-87; Ord. No. 17820, § 1, 9-13-89; Ord. No. 17981, § 1, 5-9-90; Ord. No. 18836, § 3,
 8-25-93; Ord. No. 25175 , § 2, 6-22-16; Ord. No. 25602 , § 5, 6-27-18)
-Sec. 20-122.1. - Smoking prohibited.
+##### Sec. 20-122.1. - Smoking prohibited.  
+
 (1)
 Definitions. For the purposes of this section, the following terms, phrases, words and derivations shall have the
 meaning given herein, unless it shall be apparent from the context that a different meaning is intended:
@@ -1910,7 +1914,8 @@ It shall be unlawful for any person to have in his possession or under his contr
 sometimes referred to as BB guns, while on the premises of any park or playground located in the
 unincorporated area of Jefferson Parish.
 (Ord. No. 18772, § 1, 5-26-93)
-Sec. 20-151.1. - Weapons in public building prohibited.
+##### Sec. 20-151.1. - Weapons in public building prohibited.  
+
 (a)
 The carrying, custody, possession or use of any firearm or other weapon as defined in this division in a public
 building or on premises owned or leased by the Parish of Jefferson is hereby prohibited.

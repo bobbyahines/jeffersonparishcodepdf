@@ -152,7 +152,8 @@ If a new section not heretofore existing in this Code is to be added, the follow
 the Code of Ordinances of Jefferson Parish, Louisiana, is hereby amended by adding a section, to be numbered
 _____ which said section reads as follows:. . ." The new section shall then be set out in full as desired.
 (Code 1961, § 1-6)
-Sec. 1-6.5. - Veto and veto override.
+##### Sec. 1-6.5. - Veto and veto override.  
+
 (a)
 Ordinances vetoed by the president shall be submitted to the council by the parish clerk no later than the next
 regular meeting held after publication of the veto statement. The parish clerk shall notify the council, as a body,

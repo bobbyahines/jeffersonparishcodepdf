@@ -777,12 +777,14 @@ the provisions of Chapter 16 of the Code of Ordinances.
 The provisions of this section may be enforced by the Jefferson Parish Department of Environmental Affairs,
 Jefferson Parish Sheriff's Deputies, and state or federal enforcement officials.
 (Ord. No. 22100, § 1, 1-21-04)
-Sec. 16-9.1. - Abandonment of boats, trailers, etc. in waterways.
+##### Sec. 16-9.1. - Abandonment of boats, trailers, etc.  
+ in waterways.
 It shall be illegal to allow the abandonment of any sunken boat, barge, vehicle, boat trailer, skiff, any watercraft
 or shopping cart in any waterway, canal or body of water. This section may be enforced by Jefferson Parish
 Sheriff's Deputies and state or federal enforcement officials.
 (Ord. No. 22100, § 1, 1-21-04)
-Sec. 16-9.2. - Dumping in catch basins, etc.; special fine.
+##### Sec. 16-9.2. - Dumping in catch basins, etc.  
+; special fine.
 (a)
 The dumping of trash, debris, greases and oils, such as but not limited to cooking oil and fats, motor oil,
 antifreeze, solvents, truck and automotive fluids, paint, paint thinners, and gasoline into catch basins, drainage
@@ -795,14 +797,16 @@ thousand dollars ($5,000.00).
 This section may be enforced by the parish department of environmental affairs, Jefferson Parish Sheriff's
 Deputies, and state or federal enforcement officials.
 (Ord. No. 22100, § 1, 1-21-04)
-Sec. 16-9.3. - Grass or weed cutting on parish property.
+##### Sec. 16-9.3. - Grass or weed cutting on parish property.  
+
 This section shall apply to the parish and particularly to its contractors. All litter shall be collected prior to
 cutting grass or weeds on parish property. All parish contracts for grass or weed cutting shall provide that prior
 to cutting the grass or weeds, the contractor shall collect all litter on the premises to be cut and shall properly
 dispose of the collected litter. The parish department administering the contract for cutting grass or weeds on
 parish property is responsible for monitoring the requirements of this section.
 (Ord. No. 22100, § 1, 1-21-04)
-Sec. 16-9.4. - Unauthorized use of bulk waste containers.
+##### Sec. 16-9.4. - Unauthorized use of bulk waste containers.  
+
 (a)
 It shall be unlawful for any person to dump, throw or place trees, trash, garbage, junk or debris in any bulk waste
 container or other trash receptacle belonging to another and lawfully installed pursuant to section 16-4, "solid

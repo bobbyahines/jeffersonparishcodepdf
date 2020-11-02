@@ -894,7 +894,8 @@ meandering centerline of the Mississippi River to the point of beginning.
 Official designation. The fire protection district created in subsection (a) shall be known and designated as "Fire
 Protection District No. 7 of the Parish of Jefferson, State of Louisiana."
 (Code 1961, § 7-13.1)
-Sec. 13-41.1. - Fire protection district no. 7; special service charge.
+##### Sec. 13-41.1. - Fire protection district no.  
+ 7; special service charge.
 (a)
 The Jefferson Parish Council hereby assesses a monthly special service charge on all persons owning
 commercial and residential structures, whether occupied or unoccupied, located wholly or partly within Fire
@@ -1384,7 +1385,8 @@ per retail motor fuel dispensing unit, not to exceed one thousand five hundred d
 Retail motor fuel outlets that also sell propane for home or recreational use from a storage tank shall pay a fee
 based on the capacity of the tank(s), using the fee schedule in section 13-85 of this article.
 (Ord. No. 20261, § 1, 1-28-98; Ord. No. 24351, § 4, 10-10-12)
-Sec. 13-87.1. - Self fueling facilities.
+##### Sec. 13-87.1. - Self fueling facilities.  
+
 Those industries, corporations and/or facilities which meet the following criteria are to pay a fee of sixty dollars
 (60.00) per fuel dispensing unit.
 • Limited to storage of liquid fuel materials used in the operations of vehicles and/or equipment in an amount

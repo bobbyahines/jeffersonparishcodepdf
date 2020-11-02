@@ -935,17 +935,20 @@ collector for this parish at the time of submission of their applications, and a
 incomplete until such time as this requirement is fulfilled. This requirement shall not apply to applicants seeking
 a renewal permit.
 (Ord. No. 24993 , § 1, 8-12-15)
-Sec. 17-100.1. - Causes for withholding or denying permit.
+##### Sec. 17-100.1. - Causes for withholding or denying permit.  
+
 All causes enumerated as sufficient cause for suspension or revocation of a permit shall also be sufficient cause
 for the parish council to withhold or deny a permit.
 (Ord. No. 24993 , § 1, 8-12-15)
-Sec. 17-100.2. - Approval of application by council; temporary permits.
+##### Sec. 17-100.2. - Approval of application by council; temporary permits.  
+
 No permit shall be issued under this article without first having been approved by the parish council.
 Notwithstanding this provision or any other provision in this chapter to the contrary, however, the parish
 attorney may issue temporary tobacco products permits to otherwise qualified applicants without council
 approval. Such temporary permits shall only be valid until the date of the next regular meeting of the council.
 (Ord. No. 24993 , § 1, 8-12-15)
-Sec. 17-100.3. - Fees.
+##### Sec. 17-100.3. - Fees.  
+
 (a)
 Retail dealer permit: for the sale of any/all tobacco products shall pay the sum of seventy-five ($75.00) per year.
 (b)
@@ -958,30 +961,36 @@ vending machines.
 Vending machine permit: Five dollars ($5.00) per machine per year issued to the vending machine operator or
 wholesale dealer for each vending machine with the permit to be affixed to the vending machine.
 (Ord. No. 24993 , § 1, 8-12-15; Ord. No. 25159 , § 6, 5-25-16)
-Sec. 17-100.4. - Reduced fee.
+##### Sec. 17-100.4. - Reduced fee.  
+
 The fee for any tobacco products permit issued after July 1 st in any one (1) year, for any new business, shall be
 one-half (½) the annual fee.
 (Ord. No. 24993 , § 1, 8-12-15)
-Sec. 17-100.5. - Sheriff designated collector of fees.
+##### Sec. 17-100.5. - Sheriff designated collector of fees.  
+
 The sheriff and ex officio tax collector for the parish is hereby designated as the collecting agent for the parish
 for all fees assessed by this article.
 (Ord. No. 24993 , § 1, 8-12-15)
-Sec. 17-100.6. - Term.
+##### Sec. 17-100.6. - Term.  
+
 A permit issued in accordance with the provisions of this article shall be purely a personal privilege and good
 from the time of issuance until December 31 st next following, unless sooner suspended or revoked under the
 provisions of this article.
 (Ord. No. 24993 , § 1, 8-12-15)
-Sec. 17-100.7. - Transferability.
+##### Sec. 17-100.7. - Transferability.  
+
 Permits issued under this article shall not be transferable and shall become void on the death of the licensee. If
 the business changes hands during the period the permit runs, a new permit must be applied for and paid for.
 Should the location of the place of business be changed during the period the permit runs, the local permit must
 be sent to the sheriff so that the proper change of business location may be noted thereon.
 (Ord. No. 24993 , § 1, 8-12-15)
-Sec. 17-100.8. - Display.
+##### Sec. 17-100.8. - Display.  
+
 All permits issued under this article shall at all times be prominently displayed by the dealer in his place of
 business so as to be easily seen and easily read by the public.
 (Ord. No. 24993 , § 1, 8-12-15)
-Sec. 17-100.9. - Renewal permits.
+##### Sec. 17-100.9. - Renewal permits.  
+
 (a)
 All persons holding parish permits shall file applications for renewal thereof for the ensuing year, and pay the
 permit fees set forth herein, on or before November 1 st of each year. Upon the failure of the person to file his
@@ -1019,12 +1028,14 @@ correct to the best of the applicant's knowledge; that the applicant has not bee
 conviction or judgment against the applicant involving tobacco products s within one (1) year prior to the date of
 the application and that the applicant meets all other requirements and qualifications as set forth in this Code.
 (Ord. No. 24993 , § 1, 8-12-15; Ord. No. 25159 , § 7, 5-25-16)
-Sec. 17-100.10. - Withholding of renewal permits for violation.
+##### Sec. 17-100.10. - Withholding of renewal permits for violation.  
+
 In cases involving the issuance of state and local permits, applicants holding a current permit and desirous of
 obtaining new permits, the issuance of the applied for permits may be withheld in the manner herein provided, if
 the applicant has violated any of the provisions of this chapter during the life of his current permits.
 (Ord. No. 24993 , § 1, 8-12-15)
-Sec. 17-100.11. - Acts prohibited on retail dealer's premises; cause for suspension or revocation.
+##### Sec. 17-100.11. - Acts prohibited on retail dealer's premises; cause for suspension or revocation.  
+
 (a)
 A vending machine lessee shall be subject to any violation within this section for the illegal distribution or sale
 from a machine within their place of business, and/or vending machine premises.
@@ -1050,7 +1061,8 @@ hundred twenty (120) days from the date of the occurrence before the tobacco pro
 to determine whether there is sufficient cause to recommend suspension or revocation of the relevant retail
 dealer's tobacco products permit.
 (Ord. No. 24993 , § 1, 8-12-15; Ord. No. 25159 , § 8, 5-25-16)
-Sec. 17-100.12. - Revocation, refusal or suspension.
+##### Sec. 17-100.12. - Revocation, refusal or suspension.  
+
 (a)
 Any misstatement or concealment of fact in an application for a permit under this article, or accompanying
 affidavit, shall be grounds for refusal of the permit or suspension or revocation thereof if already issued.
@@ -1074,7 +1086,8 @@ If any dealer fails to pay any excise taxes due by any regulated business to the
 Violation of any provisions of this chapter is sufficient cause for suspension or revocation of any permit required
 by this article.
 (Ord. No. 24993 , § 1, 8-12-15)
-Sec. 17-100.13. - Procedure for and effect of suspension, revocation.
+##### Sec. 17-100.13. - Procedure for and effect of suspension, revocation.  
+
 Upon violation of any offense enumerated in this division, a hearing may be had as follows:
 (1)
 Committee. There is hereby created a committee to be known as the tobacco products permit review committee;

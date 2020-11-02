@@ -574,7 +574,8 @@ approval of the Jefferson Parish Fire Department.
 (f)
 Generators shall not be located on the hood, roof or trunk of an auxiliary vehicle.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 24479, § 4, 5-15-13)
-Sec. 6-79.1. - Bead recycling vehicles.
+##### Sec. 6-79.1. - Bead recycling vehicles.  
+
 (a)
 Each float parade organization shall in their parade be allowed no more than one (1) truck, trailer, or other
 vehicle to follow behind all floats and marching clubs in order to encourage parade spectators to toss unwanted
@@ -1234,7 +1235,8 @@ Vendors are prohibited from using generators;
 (13)
 Vendors are allowed to operate only up to one (1) hour after the parade passes.
 (Ord. No. 23544, § 1, 5-6-09; Ord. No. 23925, § 8, 12-8-10)
-Sec. 6-101.1. - Cooking foods from outdoor concessions during the Carnival Parade Season.
+##### Sec. 6-101.1. - Cooking foods from outdoor concessions during the Carnival Parade Season.  
+
 All warming, heating, reheating, and cooking of food from outdoor concessions during the Carnival Parade
 season shall be permitted only in accordance with the following provisions:
 (a)

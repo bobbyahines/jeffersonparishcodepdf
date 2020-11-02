@@ -806,7 +806,8 @@ section 7-49 at any time after two (2) days, excluding Sundays and legal holiday
 the owner's release of the animal, except that the shelter may at any time within its discretion dispose of litters of
 kittens or puppies released to the shelter by their owner.
 (Code 1961, § 4-21(c); Ord. No. 18121, § 1, 10-24-90; Ord. No. 18321, 7-10-91)
-Sec. 7-51.5. - Reserved.
+##### Sec. 7-51.5. - Reserved.  
+
 Editor's note— Section 7.51.5, authorizing the impoundment of animals pending hearing, derived from Ord.
 No. 15831, § 1, adopted Jan. 4, 1984, was repealed by § VI of Ord. No. 17369, adopted Nov. 4, 1987.
 #####   
